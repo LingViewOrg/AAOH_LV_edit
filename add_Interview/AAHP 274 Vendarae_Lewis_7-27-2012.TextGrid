@@ -1,0 +1,1820 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1294.557
+tiers? <exists>
+size = 2
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "W: "
+        xmin = 0.0
+        xmax = 1294.557
+        intervals: size = 135
+        intervals [1]
+            xmin = 0.0
+            xmax = 11.06
+            text = "This is Marna Weston for the Samuel Proctor Oral History Program at the Bartow Civic Center at the Union Academy Reunion on July 27 2012"
+        intervals [2]
+            xmin = 11.06
+            xmax = 12.52
+            text = "I’m here with Miss Lewis"
+        intervals [3]
+            xmin = 12.52
+            xmax = 14.48
+            text = "Thank you very much Miss Lewis for talking to me today"
+        intervals [4]
+            xmin = 14.48
+            xmax = 15.58
+            text = ""
+        intervals [5]
+            xmin = 15.58
+            xmax = 18.72
+            text = "Would you please state and spell your full name"
+        intervals [6]
+            xmin = 18.72
+            xmax = 25.58
+            text = ""
+        intervals [7]
+            xmin = 25.58
+            xmax = 29.88
+            text = "And what class are you a member of for Union Academy (UA)"
+        intervals [8]
+            xmin = 29.88
+            xmax = 39.59
+            text = ""
+        intervals [9]
+            xmin = 39.59
+            xmax = 41.71
+            text = "What is your day and date of birth please"
+        intervals [10]
+            xmin = 41.71
+            xmax = 45.9
+            text = ""
+        intervals [11]
+            xmin = 45.9
+            xmax = 47.78
+            text = "And who are your mother and father"
+        intervals [12]
+            xmin = 47.78
+            xmax = 53.69
+            text = ""
+        intervals [13]
+            xmin = 53.69
+            xmax = 57.29
+            text = "And do you know where they came from and how they originally came to this area"
+        intervals [14]
+            xmin = 57.29
+            xmax = 76.04
+            text = ""
+        intervals [15]
+            xmin = 76.04
+            xmax = 79.0
+            text = "Could you tell me a little bit about his parents"
+        intervals [16]
+            xmin = 79.0
+            xmax = 89.88
+            text = ""
+        intervals [17]
+            xmin = 89.88
+            xmax = 91.6
+            text = "And do you know anything about their parents"
+        intervals [18]
+            xmin = 91.6
+            xmax = 136.19
+            text = ""
+        intervals [19]
+            xmin = 136.19
+            xmax = 138.76
+            text = "Do you recall your mom and dad’s birthdays"
+        intervals [20]
+            xmin = 138.76
+            xmax = 149.89
+            text = ""
+        intervals [21]
+            xmin = 149.89
+            xmax = 151.42
+            text = "Do have brothers and sisters"
+        intervals [22]
+            xmin = 151.42
+            xmax = 152.04
+            text = ""
+        intervals [23]
+            xmin = 152.04
+            xmax = 154.09
+            text = "Could you list them from oldest to youngest please"
+        intervals [24]
+            xmin = 154.09
+            xmax = 181.8
+            text = ""
+        intervals [25]
+            xmin = 181.8
+            xmax = 183.48
+            text = "I’m very sorry for your loss"
+        intervals [26]
+            xmin = 183.48
+            xmax = 202.34
+            text = ""
+        intervals [27]
+            xmin = 202.34
+            xmax = 204.12
+            text = "Can you tell me about your immediate family"
+        intervals [28]
+            xmin = 204.12
+            xmax = 204.8
+            text = "Your husband"
+        intervals [29]
+            xmin = 204.8
+            xmax = 205.64
+            text = "If you have children"
+        intervals [30]
+            xmin = 205.64
+            xmax = 219.57
+            text = ""
+        intervals [31]
+            xmin = 219.57
+            xmax = 220.8
+            text = "And what are their names"
+        intervals [32]
+            xmin = 220.8
+            xmax = 224.61
+            text = ""
+        intervals [33]
+            xmin = 224.61
+            xmax = 229.03
+            text = "And what are their birthdays and your husband’s too if you can recall it"
+        intervals [34]
+            xmin = 229.03
+            xmax = 244.32
+            text = ""
+        intervals [35]
+            xmin = 244.32
+            xmax = 246.04
+            text = "What was it like growing up at home"
+        intervals [36]
+            xmin = 246.04
+            xmax = 247.0
+            text = "Describe your home life"
+        intervals [37]
+            xmin = 247.0
+            xmax = 248.6
+            text = "Did you have chores"
+        intervals [38]
+            xmin = 248.6
+            xmax = 250.36
+            text = "Were there things that your parents had you do"
+        intervals [39]
+            xmin = 250.36
+            xmax = 254.32
+            text = "What was a typical day with your brother and your sister and your folks like at home"
+        intervals [40]
+            xmin = 254.32
+            xmax = 291.67
+            text = ""
+        intervals [41]
+            xmin = 291.67
+            xmax = 293.64
+            text = "You’re doing them by yourself"
+        intervals [42]
+            xmin = 293.64
+            xmax = 314.91
+            text = ""
+        intervals [43]
+            xmin = 314.91
+            xmax = 316.77
+            text = "What would some of those things be"
+        intervals [44]
+            xmin = 316.77
+            xmax = 352.09
+            text = ""
+        intervals [45]
+            xmin = 352.09
+            xmax = 353.34
+            text = "What’s the name of that salon"
+        intervals [46]
+            xmin = 353.34
+            xmax = 384.48
+            text = ""
+        intervals [47]
+            xmin = 384.48
+            xmax = 387.38
+            text = "What is your earliest memory of education"
+        intervals [48]
+            xmin = 387.38
+            xmax = 443.34
+            text = ""
+        intervals [49]
+            xmin = 443.34
+            xmax = 446.77
+            text = "Do you remember the principal of Union Academy"
+        intervals [50]
+            xmin = 446.77
+            xmax = 462.35
+            text = ""
+        intervals [51]
+            xmin = 462.35
+            xmax = 464.73
+            text = "And is he still with us"
+        intervals [52]
+            xmin = 464.73
+            xmax = 466.62
+            text = ""
+        intervals [53]
+            xmin = 466.62
+            xmax = 476.07
+            text = "Are there any teachers that you recall that had a really profound impact upon you as a person that came from Union Academy or anywhere in your educational history"
+        intervals [54]
+            xmin = 476.07
+            xmax = 478.17
+            text = "But Union Academy in particular if you recall"
+        intervals [55]
+            xmin = 478.17
+            xmax = 527.6
+            text = ""
+        intervals [56]
+            xmin = 527.6
+            xmax = 538.7
+            text = "In finishing up your educational career do you think that Union Academy gave you the foundation to go further and what is your educational history after the seventh grade at Union Academy"
+        intervals [57]
+            xmin = 538.7
+            xmax = 560.15
+            text = ""
+        intervals [58]
+            xmin = 560.15
+            xmax = 571.35
+            text = "Did you think that there was more of a what I’m finding from speaking to people about their experience with pre integration black high schools is that the custodians were involved"
+        intervals [59]
+            xmin = 571.35
+            xmax = 572.84
+            text = "The nurses were involved"
+        intervals [60]
+            xmin = 572.84
+            xmax = 575.7
+            text = "The family people living in the neighborhood would come in"
+        intervals [61]
+            xmin = 575.7
+            xmax = 575.84
+            text = ""
+        intervals [62]
+            xmin = 575.84
+            xmax = 580.64
+            text = "Could you tell a story about somebody who wasn’t a teacher that had an impact on you from Union Academy"
+        intervals [63]
+            xmin = 580.64
+            xmax = 625.49
+            text = ""
+        intervals [64]
+            xmin = 625.49
+            xmax = 628.45
+            text = "What was it like going to Bartow High School for you"
+        intervals [65]
+            xmin = 628.45
+            xmax = 702.94
+            text = ""
+        intervals [66]
+            xmin = 702.94
+            xmax = 709.39
+            text = "Were there um would you describe and say that there were racial tensions or how would you discuss it"
+        intervals [67]
+            xmin = 709.39
+            xmax = 734.84
+            text = ""
+        intervals [68]
+            xmin = 734.84
+            xmax = 738.97
+            text = "What was the motto both at Union Academy and at Bartow"
+        intervals [69]
+            xmin = 738.97
+            xmax = 748.15
+            text = ""
+        intervals [70]
+            xmin = 748.15
+            xmax = 751.42
+            text = "Do you think that that was intended as a way to unify the communities or is it"
+        intervals [71]
+            xmin = 751.42
+            xmax = 752.31
+            text = "You said they took it"
+        intervals [72]
+            xmin = 752.31
+            xmax = 753.81
+            text = "Describe the difference"
+        intervals [73]
+            xmin = 753.81
+            xmax = 761.38
+            text = ""
+        intervals [74]
+            xmin = 761.38
+            xmax = 764.53
+            text = "Did you have a relationship with the principal at Bartow"
+        intervals [75]
+            xmin = 764.53
+            xmax = 776.71
+            text = ""
+        intervals [76]
+            xmin = 776.71
+            xmax = 778.32
+            text = "What was that principal’s name"
+        intervals [77]
+            xmin = 778.32
+            xmax = 782.57
+            text = ""
+        intervals [78]
+            xmin = 782.57
+            xmax = 791.03
+            text = "Instead of going to FAMU or Bethune you leave Bartow High School and go to Tennessee State all the way to Nashville"
+        intervals [79]
+            xmin = 791.03
+            xmax = 792.17
+            text = "Why Tennessee State"
+        intervals [80]
+            xmin = 792.17
+            xmax = 795.02
+            text = "And was it important for you to go there and why"
+        intervals [81]
+            xmin = 795.02
+            xmax = 826.07
+            text = ""
+        intervals [82]
+            xmin = 826.07
+            xmax = 830.06
+            text = "What was uh what were your early times at Tennessee State University like"
+        intervals [83]
+            xmin = 830.06
+            xmax = 833.54
+            text = "Something that you remember from going there that maybe was different than Bartow"
+        intervals [84]
+            xmin = 833.54
+            xmax = 837.1
+            text = "The first time that you realized wow I’m really not in Florida anymore"
+        intervals [85]
+            xmin = 837.1
+            xmax = 863.91
+            text = ""
+        intervals [86]
+            xmin = 863.91
+            xmax = 866.92
+            text = "And you still had the Classic with FAMU anyway"
+        intervals [87]
+            xmin = 866.92
+            xmax = 886.21
+            text = ""
+        intervals [88]
+            xmin = 886.21
+            xmax = 893.13
+            text = "Were you involved in any extracurriculars at Bartow High School or was it more just business get the books and get out of there"
+        intervals [89]
+            xmin = 893.13
+            xmax = 908.3
+            text = ""
+        intervals [90]
+            xmin = 908.3
+            xmax = 911.35
+            text = "Girls State is an outstanding opportunity for young people"
+        intervals [91]
+            xmin = 911.35
+            xmax = 914.99
+            text = "Could you talk about your Girls State experience and describe it"
+        intervals [92]
+            xmin = 914.99
+            xmax = 926.37
+            text = ""
+        intervals [93]
+            xmin = 926.37
+            xmax = 929.92
+            text = "Do you still have any connections with the people that you met at Girls State"
+        intervals [94]
+            xmin = 929.92
+            xmax = 939.11
+            text = ""
+        intervals [95]
+            xmin = 939.11
+            xmax = 940.3
+            text = "What was her name"
+        intervals [96]
+            xmin = 940.3
+            xmax = 966.6
+            text = ""
+        intervals [97]
+            xmin = 966.6
+            xmax = 969.68
+            text = "What were your experiences and activities at Tennessee State"
+        intervals [98]
+            xmin = 969.68
+            xmax = 982.01
+            text = ""
+        intervals [99]
+            xmin = 982.01
+            xmax = 984.29
+            text = "Now I know what you’re talking about when you say Delta"
+        intervals [100]
+            xmin = 984.29
+            xmax = 985.72
+            text = "Could you explain about Red and White"
+        intervals [101]
+            xmin = 985.72
+            xmax = 989.61
+            text = "What organization you are talking about for people that might not understand the context"
+        intervals [102]
+            xmin = 989.61
+            xmax = 1005.19
+            text = ""
+        intervals [103]
+            xmin = 1005.19
+            xmax = 1009.41
+            text = "Why that organization and are you still involved and to what extent"
+        intervals [104]
+            xmin = 1009.41
+            xmax = 1047.9
+            text = ""
+        intervals [105]
+            xmin = 1047.9
+            xmax = 1050.25
+            text = "What is your definition of leadership"
+        intervals [106]
+            xmin = 1050.25
+            xmax = 1063.3
+            text = ""
+        intervals [107]
+            xmin = 1063.3
+            xmax = 1072.94
+            text = "What part of Union Academy or Bartow High or Tennessee State and Girls State what what parts of all those experiences have in helping you build your definition of leadership programs"
+        intervals [108]
+            xmin = 1072.94
+            xmax = 1074.03
+            text = "Did that have nothing to do with it"
+        intervals [109]
+            xmin = 1074.03
+            xmax = 1075.18
+            text = "Was it something else"
+        intervals [110]
+            xmin = 1075.18
+            xmax = 1092.727
+            text = ""
+        intervals [111]
+            xmin = 1092.727
+            xmax = 1094.204
+            text = "Uh what are your activities now"
+        intervals [112]
+            xmin = 1094.204
+            xmax = 1101.193
+            text = "Are you involved in the church or a civic organization or what do you do to fill your time and improve your community"
+        intervals [113]
+            xmin = 1101.193
+            xmax = 1132.333
+            text = ""
+        intervals [114]
+            xmin = 1132.333
+            xmax = 1134.05
+            text = "What is your church"
+        intervals [115]
+            xmin = 1134.05
+            xmax = 1136.233
+            text = ""
+        intervals [116]
+            xmin = 1136.233
+            xmax = 1139.5
+            text = "And how long have you been associated with that church"
+        intervals [117]
+            xmin = 1139.5
+            xmax = 1148.55
+            text = ""
+        intervals [118]
+            xmin = 1148.55
+            xmax = 1150.75
+            text = "Why is the church important to you"
+        intervals [119]
+            xmin = 1150.75
+            xmax = 1172.85
+            text = ""
+        intervals [120]
+            xmin = 1172.85
+            xmax = 1181.483
+            text = "What is uh what do you think Bartow needs the most if you were in charge of making all the changes as to your community"
+        intervals [121]
+            xmin = 1181.483
+            xmax = 1183.35
+            text = "What would they be"
+        intervals [122]
+            xmin = 1183.35
+            xmax = 1191.583
+            text = ""
+        intervals [123]
+            xmin = 1191.583
+            xmax = 1193.716
+            text = "Well just one thing then"
+        intervals [124]
+            xmin = 1193.716
+            xmax = 1220.133
+            text = ""
+        intervals [125]
+            xmin = 1220.133
+            xmax = 1226.583
+            text = "Well I couldn’t let you go without asking about Barack Obama his election in 2008 and his reelection attempt in 2012"
+        intervals [126]
+            xmin = 1226.583
+            xmax = 1229.166
+            text = "So without being too specific I’ll just throw it to you"
+        intervals [127]
+            xmin = 1229.166
+            xmax = 1231.483
+            text = "Obama what are your thoughts"
+        intervals [128]
+            xmin = 1231.483
+            xmax = 1236.65
+            text = ""
+        intervals [129]
+            xmin = 1236.65
+            xmax = 1240.533
+            text = "Do you Were you surprised that he won the first time"
+        intervals [130]
+            xmin = 1240.533
+            xmax = 1251.083
+            text = ""
+        intervals [131]
+            xmin = 1251.083
+            xmax = 1258.2
+            text = "Well Miss Lewis Vendarae Lewis it’s been a pleasure to speak with you"
+        intervals [132]
+            xmin = 1258.2
+            xmax = 1267.72
+            text = "So on behalf to the Samuel Proctor Oral History Program to keep you from missing this show I wanna give you thanks for this opportunity to speak with you at this Union Academy Reunion and give you final privilege"
+        intervals [133]
+            xmin = 1267.72
+            xmax = 1269.8
+            text = "I’m not gonna say anything else"
+        intervals [134]
+            xmin = 1269.8
+            xmax = 1275.883
+            text = "If you any thoughts about anything whatever they might be share those at this time and we can finish and complete the interview"
+        intervals [135]
+            xmin = 1275.883
+            xmax = 1294.557
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "L: "
+        xmin = 0.0
+        xmax = 1294.557
+        intervals: size = 315
+        intervals [1]
+            xmin = 0.0
+            xmax = 14.42
+            text = ""
+        intervals [2]
+            xmin = 14.42
+            xmax = 15.92
+            text = "You’re welcome"
+        intervals [3]
+            xmin = 15.92
+            xmax = 18.72
+            text = ""
+        intervals [4]
+            xmin = 18.72
+            xmax = 23.42
+            text = "Vendarae Lewis spelled V e n d a r a e"
+        intervals [5]
+            xmin = 23.42
+            xmax = 25.87
+            text = "Last name is Lewis L e w i s"
+        intervals [6]
+            xmin = 25.87
+            xmax = 29.58
+            text = ""
+        intervals [7]
+            xmin = 29.58
+            xmax = 36.43
+            text = "Actually I only attended Union Academy from seventh grade the last year that Union Academy was in existence"
+        intervals [8]
+            xmin = 36.43
+            xmax = 39.88
+            text = "So that would have been 1969"
+        intervals [9]
+            xmin = 39.88
+            xmax = 41.55
+            text = ""
+        intervals [10]
+            xmin = 41.55
+            xmax = 45.91
+            text = "I was born May 1 1956"
+        intervals [11]
+            xmin = 45.91
+            xmax = 47.68
+            text = ""
+        intervals [12]
+            xmin = 47.68
+            xmax = 51.38
+            text = "Uh Sonia Walden Washington my mother"
+        intervals [13]
+            xmin = 51.38
+            xmax = 53.72
+            text = "And Samuel Washington is my father"
+        intervals [14]
+            xmin = 53.72
+            xmax = 57.42
+            text = ""
+        intervals [15]
+            xmin = 57.42
+            xmax = 65.28
+            text = "My mother was probably fifth generation Bartow Polk County uh"
+        intervals [16]
+            xmin = 65.28
+            xmax = 74.24
+            text = "My father the second actually he’s the first generation to be born here in this part of the world"
+        intervals [17]
+            xmin = 74.24
+            xmax = 76.2
+            text = "Both his parents were born in South Carolina"
+        intervals [18]
+            xmin = 76.2
+            xmax = 79.0
+            text = ""
+        intervals [19]
+            xmin = 79.0
+            xmax = 83.14
+            text = "His mother’s name was Maggie Harren Harren Washington"
+        intervals [20]
+            xmin = 83.14
+            xmax = 85.86
+            text = "She was from Fairfax South Carolina"
+        intervals [21]
+            xmin = 85.86
+            xmax = 90.0
+            text = "And his father was Paul Washington from Rufford South Carolina"
+        intervals [22]
+            xmin = 90.0
+            xmax = 92.02
+            text = ""
+        intervals [23]
+            xmin = 92.02
+            xmax = 98.98
+            text = "I I don’t know the names uh no no I really I"
+        intervals [24]
+            xmin = 98.98
+            xmax = 99.09
+            text = ""
+        intervals [25]
+            xmin = 99.09
+            xmax = 108.22
+            text = "My my my grandfather's name actually was Carter apparently. Uh his stepfather uh his mother marry uh remarried"
+        intervals [26]
+            xmin = 108.22
+            xmax = 108.34
+            text = ""
+        intervals [27]
+            xmin = 108.34
+            xmax = 113.33
+            text = "And some of the children just took the the father the stepfather's name Carter but they"
+        intervals [28]
+            xmin = 113.33
+            xmax = 113.5
+            text = ""
+        intervals [29]
+            xmin = 113.5
+            xmax = 116.12
+            text = "I mean they took Washington but they were actually Carters"
+        intervals [30]
+            xmin = 116.12
+            xmax = 118.64
+            text = "I didn’t know that till I was grown but anyway"
+        intervals [31]
+            xmin = 118.64
+            xmax = 119.77
+            text = ""
+        intervals [32]
+            xmin = 119.77
+            xmax = 124.84
+            text = "But I can’t think of the first names of his parents"
+        intervals [33]
+            xmin = 124.84
+            xmax = 124.86
+            text = ""
+        intervals [34]
+            xmin = 124.86
+            xmax = 136.3
+            text = "Um and uh my mother’s parents were James and Alberta Walden and both of them were born in Polk County in Bartow"
+        intervals [35]
+            xmin = 136.3
+            xmax = 139.0
+            text = ""
+        intervals [36]
+            xmin = 139.0
+            xmax = 144.11
+            text = "Yeah my mother’s birthday is March 7 1921"
+        intervals [37]
+            xmin = 144.11
+            xmax = 149.64
+            text = "My dad’s birthday was April the 8th 1907"
+        intervals [38]
+            xmin = 149.64
+            xmax = 151.62
+            text = ""
+        intervals [39]
+            xmin = 151.62
+            xmax = 152.14
+            text = "Yeah"
+        intervals [40]
+            xmin = 152.14
+            xmax = 154.23
+            text = ""
+        intervals [41]
+            xmin = 154.23
+            xmax = 160.19
+            text = "I only have a brother and a sister from my father’s first marriage"
+        intervals [42]
+            xmin = 160.19
+            xmax = 163.56
+            text = "Uh my sister is still living um"
+        intervals [43]
+            xmin = 163.56
+            xmax = 166.55
+            text = "Her name is Celeste Washington Crosby"
+        intervals [44]
+            xmin = 166.55
+            xmax = 171.67
+            text = "And uh she’s actually eight years younger than my mother uh"
+        intervals [45]
+            xmin = 171.67
+            xmax = 174.49
+            text = "And she’s living here and she’s a retired educator"
+        intervals [46]
+            xmin = 174.49
+            xmax = 176.04
+            text = "She lives here in Bartow"
+        intervals [47]
+            xmin = 176.04
+            xmax = 181.8
+            text = "My brother Booker T Washington died two years about almost two years ago"
+        intervals [48]
+            xmin = 181.8
+            xmax = 183.32
+            text = ""
+        intervals [49]
+            xmin = 183.32
+            xmax = 187.34
+            text = "Mm hm they were just about just about a year apart in age"
+        intervals [50]
+            xmin = 187.34
+            xmax = 195.92
+            text = "So both of them were old enough to be like my more or less relationshipwise like uncle and aunt than brother and sister"
+        intervals [51]
+            xmin = 195.92
+            xmax = 201.72
+            text = "My nieces and nephews Mitt and Beverly is uh were more like my age so we were close"
+        intervals [52]
+            xmin = 201.72
+            xmax = 205.59
+            text = ""
+        intervals [53]
+            xmin = 205.59
+            xmax = 208.6
+            text = "I do my husband’s name is Clifton Lewis uh"
+        intervals [54]
+            xmin = 208.6
+            xmax = 212.96
+            text = "And he uh he has This is his second marriage"
+        intervals [55]
+            xmin = 212.96
+            xmax = 219.58
+            text = "He has four children two older girls from his first marriage and my son and my daughter he and I have together"
+        intervals [56]
+            xmin = 219.58
+            xmax = 220.8
+            text = ""
+        intervals [57]
+            xmin = 220.8
+            xmax = 224.61
+            text = "Maya Maya Lewis Johnson and my son is Campell Lewis"
+        intervals [58]
+            xmin = 224.61
+            xmax = 228.67
+            text = ""
+        intervals [59]
+            xmin = 228.67
+            xmax = 233.45
+            text = "Well my husband was born December 24 1942"
+        intervals [60]
+            xmin = 233.45
+            xmax = 244.16
+            text = "Um my son my daughter was born February 23 1983 and my son was born November 19 1986"
+        intervals [61]
+            xmin = 244.16
+            xmax = 254.04
+            text = ""
+        intervals [62]
+            xmin = 254.04
+            xmax = 257.279
+            text = "Well my brother and sister were both grown when I was born"
+        intervals [63]
+            xmin = 257.279
+            xmax = 263.43
+            text = "And they both Well my sister had a son who was already five years older when I was born"
+        intervals [64]
+            xmin = 263.43
+            xmax = 268.21
+            text = "and and her her baby was about seven months older than I am"
+        intervals [65]
+            xmin = 268.21
+            xmax = 271.77
+            text = "And they were both like I said they didn't grow I didn’t grow up with them um"
+        intervals [66]
+            xmin = 271.77
+            xmax = 273.41
+            text = "My brother either"
+        intervals [67]
+            xmin = 273.41
+            xmax = 278.92
+            text = "His daughter two girls one was a year behind me and the other was two years younger"
+        intervals [68]
+            xmin = 278.92
+            xmax = 282.08
+            text = "I grew up as an only child pretty much"
+        intervals [69]
+            xmin = 282.08
+            xmax = 284.24
+            text = "I did have chores uh"
+        intervals [70]
+            xmin = 284.24
+            xmax = 288.1
+            text = "I tell people you know they’re arguing about who’s week it is to wash dishes"
+        intervals [71]
+            xmin = 288.1
+            xmax = 291.65
+            text = "I tell them my week is every week"
+        intervals [72]
+            xmin = 291.65
+            xmax = 293.3
+            text = "Every day is my day"
+        intervals [73]
+            xmin = 293.3
+            xmax = 293.89
+            text = "That’s right"
+        intervals [74]
+            xmin = 293.89
+            xmax = 294.75
+            text = "That’s right"
+        intervals [75]
+            xmin = 294.75
+            xmax = 305.04
+            text = "So I did have things that I had to do and my mother would just roll out a litany of things that I needed to this is what you need to do and expected it to be done"
+        intervals [76]
+            xmin = 305.04
+            xmax = 309.7
+            text = "So even though people think that I was spoiled I was blessed"
+        intervals [77]
+            xmin = 309.7
+            xmax = 313.1
+            text = "But I I don’t think I was really spoiled"
+        intervals [78]
+            xmin = 313.1
+            xmax = 316.8
+            text = ""
+        intervals [79]
+            xmin = 316.8
+            xmax = 318.79
+            text = "Well you know you had to make your bed"
+        intervals [80]
+            xmin = 318.79
+            xmax = 328.07
+            text = "You had to you know clean up behind yourself make sure the dishes were washed make sure that you you know squeezed the lemons for the lemonade that my grandaddy had to have lemonade every day"
+        intervals [81]
+            xmin = 328.07
+            xmax = 332.7
+            text = "It was fresh squeezed until I went to college when we discovered Country Time"
+        intervals [82]
+            xmin = 332.7
+            xmax = 337.25
+            text = "Then um uh you know take the garbage out"
+        intervals [83]
+            xmin = 337.25
+            xmax = 340.72
+            text = "Things that you just you know things that you had to do you know"
+        intervals [84]
+            xmin = 340.72
+            xmax = 344.96
+            text = "Taught me how to cook my mom taught me how to cook how to bake"
+        intervals [85]
+            xmin = 344.96
+            xmax = 345.82
+            text = "Stuff like that"
+        intervals [86]
+            xmin = 345.82
+            xmax = 349.76
+            text = "You know she was a beautician operated a beauty salon for fifty two years"
+        intervals [87]
+            xmin = 349.76
+            xmax = 352.24
+            text = "My daughter operates that beauty salon today"
+        intervals [88]
+            xmin = 352.24
+            xmax = 353.41
+            text = ""
+        intervals [89]
+            xmin = 353.41
+            xmax = 361.54
+            text = "Her today it’s it's called uh uh I just had a brain freeze uh"
+        intervals [90]
+            xmin = 361.54
+            xmax = 362.72
+            text = "Lord have mercy"
+        intervals [91]
+            xmin = 362.72
+            xmax = 364.29
+            text = "I I truly have had a brain fr"
+        intervals [92]
+            xmin = 364.29
+            xmax = 367.52
+            text = "Well anyway my daughter operates the beauty salon"
+        intervals [93]
+            xmin = 367.52
+            xmax = 374.26
+            text = "I can’t even think Artistry by Maya is what she calls it but it was the Sonia’s Beauty Chest for many many many many years"
+        intervals [94]
+            xmin = 374.26
+            xmax = 380.49
+            text = "My grandfather built it for my mother and when she went up to Famsee and got home sick and came back"
+        intervals [95]
+            xmin = 380.49
+            xmax = 384.48
+            text = "He built that beauty salon and she operated it for fifty two years"
+        intervals [96]
+            xmin = 384.48
+            xmax = 387.59
+            text = ""
+        intervals [97]
+            xmin = 387.59
+            xmax = 393.64
+            text = "Oh I remember going to what we what we call pre preschool now"
+        intervals [98]
+            xmin = 393.64
+            xmax = 399.6
+            text = "Miss Williams had a place up on Polk Street in West Bartow"
+        intervals [99]
+            xmin = 399.6
+            xmax = 404.04
+            text = "And after that going to Union Academy in first grade"
+        intervals [100]
+            xmin = 404.04
+            xmax = 412.82
+            text = "And then they built a new school Gibbons Street Elementary and I went there for two years"
+        intervals [101]
+            xmin = 412.82
+            xmax = 422.3
+            text = "In the middle of my fourth grade year they build a brand new elementary school in West Bartow and I left and came over there from fourth through sixth grade"
+        intervals [102]
+            xmin = 422.3
+            xmax = 426.38
+            text = "Then it was back to Union Academy for seventh grade the last year of Union Academy"
+        intervals [103]
+            xmin = 426.38
+            xmax = 432.07
+            text = "And uh Un at that time it was junior senior high um"
+        intervals [104]
+            xmin = 432.07
+            xmax = 441.04
+            text = "And then uh then we went to Bartow Ele Bartow Middle School now it’s called it's called Bartow Junior High School then"
+        intervals [105]
+            xmin = 441.04
+            xmax = 442.53
+            text = "And then Bartow High School"
+        intervals [106]
+            xmin = 442.53
+            xmax = 446.8
+            text = ""
+        intervals [107]
+            xmin = 446.8
+            xmax = 447.71
+            text = "Absolutely"
+        intervals [108]
+            xmin = 447.71
+            xmax = 449.5
+            text = "James Kevis is"
+        intervals [109]
+            xmin = 449.5
+            xmax = 453.52
+            text = "He was a phenomenal human being um um"
+        intervals [110]
+            xmin = 453.52
+            xmax = 459.26
+            text = "I, I, probably um one of the greatest educators I think probably in the state of Florida"
+        intervals [111]
+            xmin = 459.26
+            xmax = 460.77
+            text = "And my Aunt Lorna"
+        intervals [112]
+            xmin = 460.77
+            xmax = 464.43
+            text = ""
+        intervals [113]
+            xmin = 464.43
+            xmax = 466.8
+            text = "No he’s passed away passed away"
+        intervals [114]
+            xmin = 466.8
+            xmax = 478.33
+            text = ""
+        intervals [115]
+            xmin = 478.33
+            xmax = 480.44
+            text = "Yeah quite a few um"
+        intervals [116]
+            xmin = 480.44
+            xmax = 488.82
+            text = "In particular my seventh grade math teacher was Elcita Thomas and Levitia Thomas"
+        intervals [117]
+            xmin = 488.82
+            xmax = 488.83
+            text = ""
+        intervals [118]
+            xmin = 488.83
+            xmax = 494.46
+            text = "And she was um she was quite an educator um"
+        intervals [119]
+            xmin = 494.46
+            xmax = 494.48
+            text = ""
+        intervals [120]
+            xmin = 494.48
+            xmax = 499.54
+            text = "My first grade teacher Miss Jones you know um um my history teachers my ha"
+        intervals [121]
+            xmin = 499.54
+            xmax = 502.35
+            text = "You know just so many of them you know they had"
+        intervals [122]
+            xmin = 502.35
+            xmax = 511.18
+            text = "They had One thing was James you have to be an excellent teacher or you were not going weren’t weren't allowed to teach at Union Academy he"
+        intervals [123]
+            xmin = 511.18
+            xmax = 514.5
+            text = "He did not put up with anything other than the best"
+        intervals [124]
+            xmin = 514.5
+            xmax = 520.6
+            text = "So there were a lot of people that just could not teach at UA because he wouldn’t allow it"
+        intervals [125]
+            xmin = 520.6
+            xmax = 523.83
+            text = "And if he wasn’t satisfied you gotta go"
+        intervals [126]
+            xmin = 523.83
+            xmax = 525.27
+            text = "So that was the way it was so"
+        intervals [127]
+            xmin = 525.27
+            xmax = 527.35
+            text = "He had some mixed reviews"
+        intervals [128]
+            xmin = 527.35
+            xmax = 537.95
+            text = ""
+        intervals [129]
+            xmin = 537.95
+            xmax = 545.31
+            text = "You know I went to Bartow Junior and Senior High Schools as well on to Tennessee State where a got my Bachelor’s Degree"
+        intervals [130]
+            xmin = 545.31
+            xmax = 548.76
+            text = "Yeah definitely they had an impact upon me um"
+        intervals [131]
+            xmin = 548.76
+            xmax = 551.61
+            text = "The teachers were very encouraging um"
+        intervals [132]
+            xmin = 551.61
+            xmax = 556.4
+            text = "You never questioned that you would not finish high school or not go to college"
+        intervals [133]
+            xmin = 556.4
+            xmax = 558.19
+            text = "It was it’s expected"
+        intervals [134]
+            xmin = 558.19
+            xmax = 573.68
+            text = ""
+        intervals [135]
+            xmin = 573.68
+            xmax = 575.84
+            text = "Cafeteria, cafeteria workers"
+        intervals [136]
+            xmin = 575.84
+            xmax = 583.26
+            text = ""
+        intervals [137]
+            xmin = 583.26
+            xmax = 587.06
+            text = "We had we had uh you know Yogi"
+        intervals [138]
+            xmin = 587.06
+            xmax = 589.96
+            text = "A guy was one of the custodians we called Yogi"
+        intervals [139]
+            xmin = 589.96
+            xmax = 593.48
+            text = "He was just he was a really nice guy"
+        intervals [140]
+            xmin = 593.48
+            xmax = 597.14
+            text = "Really you know just everybody felt like you had a place"
+        intervals [141]
+            xmin = 597.14
+            xmax = 599.0
+            text = "You were a part of the school you know"
+        intervals [142]
+            xmin = 599.0
+            xmax = 603.64
+            text = "Um the cafeteria workers would you know they would make everything from scratch"
+        intervals [143]
+            xmin = 603.64
+            xmax = 608.51
+            text = "If you had hotdogs the hotdogs the buns were made from scratch"
+        intervals [144]
+            xmin = 608.51
+            xmax = 611.4
+            text = "No fast food nothing like that"
+        intervals [145]
+            xmin = 611.4
+            xmax = 618.06
+            text = "You know and um they took they took great pride in giving a balanced meal"
+        intervals [146]
+            xmin = 618.06
+            xmax = 623.78
+            text = "You know and um yeah everybody everybody uh was a team"
+        intervals [147]
+            xmin = 623.78
+            xmax = 628.34
+            text = ""
+        intervals [148]
+            xmin = 628.34
+            xmax = 629.81
+            text = "Very very different"
+        intervals [149]
+            xmin = 629.81
+            xmax = 631.53
+            text = ""
+        intervals [150]
+            xmin = 631.53
+            xmax = 637.8
+            text = "First I never knew that you didn't chew gum at U A you didn't smoke in the bathrooms at UA you know"
+        intervals [151]
+            xmin = 637.8
+            xmax = 637.82
+            text = ""
+        intervals [152]
+            xmin = 637.82
+            xmax = 640.52
+            text = "Some things they didn't play that you know um"
+        intervals [153]
+            xmin = 640.52
+            xmax = 640.545
+            text = ""
+        intervals [154]
+            xmin = 640.545
+            xmax = 648.58
+            text = "We got over there and man we thought we in a way we thought we'd died and gone to heaven cause it was just so much more lax than what we were used to"
+        intervals [155]
+            xmin = 648.58
+            xmax = 649.45
+            text = ""
+        intervals [156]
+            xmin = 649.45
+            xmax = 653.63
+            text = "But at the same time you realized that the caring was not there"
+        intervals [157]
+            xmin = 653.63
+            xmax = 655.51
+            text = ""
+        intervals [158]
+            xmin = 655.51
+            xmax = 657.8
+            text = "the understanding of who you were"
+        intervals [159]
+            xmin = 657.8
+            xmax = 658.2
+            text = ""
+        intervals [160]
+            xmin = 658.2
+            xmax = 661.32
+            text = "And the expectations were different a lot more"
+        intervals [161]
+            xmin = 661.32
+            xmax = 661.45
+            text = ""
+        intervals [162]
+            xmin = 661.45
+            xmax = 669.07
+            text = "So but they they they still would see you and encourage you even after you know that time that"
+        intervals [163]
+            xmin = 669.07
+            xmax = 669.925
+            text = ""
+        intervals [164]
+            xmin = 669.925
+            xmax = 672.855
+            text = "those teachers were still pushing you"
+        intervals [165]
+            xmin = 672.855
+            xmax = 673.16
+            text = ""
+        intervals [166]
+            xmin = 673.16
+            xmax = 676.3
+            text = "They’d take you to the side and say you know you know better"
+        intervals [167]
+            xmin = 676.3
+            xmax = 676.855
+            text = ""
+        intervals [168]
+            xmin = 676.855
+            xmax = 677.725
+            text = "No"
+        intervals [169]
+            xmin = 677.725
+            xmax = 679.47
+            text = ""
+        intervals [170]
+            xmin = 679.47
+            xmax = 689.22
+            text = "If you were you know I can remember some people were Honor Society members there once they intergrated uh all of a sudden they done want to know whether you really belong in the Honors Society"
+        intervals [171]
+            xmin = 689.22
+            xmax = 689.74
+            text = ""
+        intervals [172]
+            xmin = 689.74
+            xmax = 693.73
+            text = "Because it's though those years at the black school they didn't really count"
+        intervals [173]
+            xmin = 693.73
+            xmax = 693.77
+            text = ""
+        intervals [174]
+            xmin = 693.77
+            xmax = 696.81
+            text = "You know you gotta prove yourself all over again"
+        intervals [175]
+            xmin = 696.81
+            xmax = 697.22
+            text = ""
+        intervals [176]
+            xmin = 697.22
+            xmax = 701.83
+            text = "They did we did and we took pride in it you know"
+        intervals [177]
+            xmin = 701.83
+            xmax = 709.0
+            text = ""
+        intervals [178]
+            xmin = 709.0
+            xmax = 710.75
+            text = "Absolutely absolutely"
+        intervals [179]
+            xmin = 710.75
+            xmax = 710.76
+            text = ""
+        intervals [180]
+            xmin = 710.76
+            xmax = 712.2
+            text = "Very very uh"
+        intervals [181]
+            xmin = 712.2
+            xmax = 715.79
+            text = ""
+        intervals [182]
+            xmin = 715.79
+            xmax = 716.66
+            text = "And all types of mess"
+        intervals [183]
+            xmin = 716.66
+            xmax = 717.98
+            text = "Some things were a mess but we you know made it through"
+        intervals [184]
+            xmin = 717.98
+            xmax = 719.09
+            text = ""
+        intervals [185]
+            xmin = 719.09
+            xmax = 721.69
+            text = "Confrontations you know fights"
+        intervals [186]
+            xmin = 721.69
+            xmax = 721.87
+            text = ""
+        intervals [187]
+            xmin = 721.87
+            xmax = 730.42
+            text = "I can remember you know rednecks riding around with you know gun racks and you know threatening to shoot people oh it was it was a mess"
+        intervals [188]
+            xmin = 730.42
+            xmax = 730.44
+            text = ""
+        intervals [189]
+            xmin = 730.44
+            xmax = 734.19
+            text = "Some things were a mess but you know we made it through it"
+        intervals [190]
+            xmin = 734.19
+            xmax = 740.04
+            text = ""
+        intervals [191]
+            xmin = 740.04
+            xmax = 742.63
+            text = "Hour of the champions they took that from us uh yeah"
+        intervals [192]
+            xmin = 742.63
+            xmax = 746.0
+            text = "That was Union Academy’s motto and they used it"
+        intervals [193]
+            xmin = 746.0
+            xmax = 747.57
+            text = "Bartow High School used it"
+        intervals [194]
+            xmin = 747.57
+            xmax = 754.19
+            text = ""
+        intervals [195]
+            xmin = 754.19
+            xmax = 759.48
+            text = "They they would never say that they did because they would count what happened"
+        intervals [196]
+            xmin = 759.48
+            xmax = 761.27
+            text = "But they did they did"
+        intervals [197]
+            xmin = 761.27
+            xmax = 764.69
+            text = ""
+        intervals [198]
+            xmin = 764.69
+            xmax = 766.29
+            text = "Yeah somewhat"
+        intervals [199]
+            xmin = 766.29
+            xmax = 772.37
+            text = "Um you know I respected him to a certain degree"
+        intervals [200]
+            xmin = 772.37
+            xmax = 775.01
+            text = "Not to say I liked him"
+        intervals [201]
+            xmin = 775.01
+            xmax = 776.66
+            text = "He was alright"
+        intervals [202]
+            xmin = 776.66
+            xmax = 777.99
+            text = ""
+        intervals [203]
+            xmin = 777.99
+            xmax = 779.07
+            text = "Mister Bryant"
+        intervals [204]
+            xmin = 779.07
+            xmax = 794.95
+            text = ""
+        intervals [205]
+            xmin = 794.95
+            xmax = 799.0
+            text = "um I wanted to go to an HBCU um"
+        intervals [206]
+            xmin = 799.0
+            xmax = 809.35
+            text = "And um it was about the size of a school that I thought I’d enjoy and I wanted there to be something going on in the community in the city as well as on the campus"
+        intervals [207]
+            xmin = 809.35
+            xmax = 811.49
+            text = "There were so many different schools in Nashville"
+        intervals [208]
+            xmin = 811.49
+            xmax = 814.3
+            text = "It afforded a lot of different a lot of diversity"
+        intervals [209]
+            xmin = 814.3
+            xmax = 817.15
+            text = "And um I thought I was going into the mountains"
+        intervals [210]
+            xmin = 817.15
+            xmax = 820.79
+            text = "I didn’t realize that it was in the eastern part of the county of the state"
+        intervals [211]
+            xmin = 820.79
+            xmax = 823.96
+            text = "It’s hilly in Nashville but not mountainous"
+        intervals [212]
+            xmin = 823.96
+            xmax = 825.57
+            text = "It still was pretty"
+        intervals [213]
+            xmin = 825.57
+            xmax = 836.99
+            text = ""
+        intervals [214]
+            xmin = 836.99
+            xmax = 844.18
+            text = "Snow in October I’d never seen snow so you know but uh"
+        intervals [215]
+            xmin = 844.18
+            xmax = 850.17
+            text = "It was good to not have to think about whether we gonna have a black homecoming queen or we not gonna have a black this or that"
+        intervals [216]
+            xmin = 850.17
+            xmax = 851.77
+            text = "The question isn’t this that or the other"
+        intervals [217]
+            xmin = 851.77
+            xmax = 854.86
+            text = "It’s who’s it gonna be"
+        intervals [218]
+            xmin = 854.86
+            xmax = 857.29
+            text = "It was well a relief in a way"
+        intervals [219]
+            xmin = 857.29
+            xmax = 860.16
+            text = "I was just tired of the struggle at that point"
+        intervals [220]
+            xmin = 860.16
+            xmax = 862.52
+            text = "I needed a reprieve from all of that"
+        intervals [221]
+            xmin = 862.52
+            xmax = 863.88
+            text = "It afforded me that"
+        intervals [222]
+            xmin = 863.88
+            xmax = 866.64
+            text = ""
+        intervals [223]
+            xmin = 866.64
+            xmax = 871.54
+            text = "Yeah well at the time it wasn't the classic we didn't we played FAMU that was about one of our biggest rivals"
+        intervals [224]
+            xmin = 871.54
+            xmax = 871.565
+            text = ""
+        intervals [225]
+            xmin = 871.565
+            xmax = 874.24
+            text = "But um they didn't start the classic until later"
+        intervals [226]
+            xmin = 874.24
+            xmax = 876.27
+            text = ""
+        intervals [227]
+            xmin = 876.27
+            xmax = 880.02
+            text = "We played them home to home before that"
+        intervals [228]
+            xmin = 880.02
+            xmax = 880.03
+            text = ""
+        intervals [229]
+            xmin = 880.03
+            xmax = 883.52
+            text = "Now they’ve gone back to their"
+        intervals [230]
+            xmin = 883.52
+            xmax = 886.29
+            text = "They’ve always been big rivals"
+        intervals [231]
+            xmin = 886.29
+            xmax = 892.61
+            text = ""
+        intervals [232]
+            xmin = 892.61
+            xmax = 900.46
+            text = "No no we were involved in all that special I sang in chorus student government you know"
+        intervals [233]
+            xmin = 900.46
+            xmax = 906.18
+            text = "I was a Girls State Representative pep club you know whatever"
+        intervals [234]
+            xmin = 906.18
+            xmax = 908.71
+            text = "Had fun had fun"
+        intervals [235]
+            xmin = 908.71
+            xmax = 915.16
+            text = ""
+        intervals [236]
+            xmin = 915.16
+            xmax = 923.82
+            text = "Well I ran for city commissioner and then county commissioner and then became a Supreme Court justice"
+        intervals [237]
+            xmin = 923.82
+            xmax = 925.07
+            text = "It was fun"
+        intervals [238]
+            xmin = 925.07
+            xmax = 930.13
+            text = ""
+        intervals [239]
+            xmin = 930.13
+            xmax = 931.33
+            text = "No I don’t um"
+        intervals [240]
+            xmin = 931.33
+            xmax = 935.25
+            text = "The lady that recommended um me has passed away"
+        intervals [241]
+            xmin = 935.25
+            xmax = 936.07
+            text = "She was from Lake Wells"
+        intervals [242]
+            xmin = 936.07
+            xmax = 939.2
+            text = "She was very active in the American Legion Auxiliary"
+        intervals [243]
+            xmin = 939.2
+            xmax = 941.02
+            text = ""
+        intervals [244]
+            xmin = 941.02
+            xmax = 942.11
+            text = "Alicia Austin"
+        intervals [245]
+            xmin = 942.11
+            xmax = 944.16
+            text = "She passed away"
+        intervals [246]
+            xmin = 944.16
+            xmax = 949.16
+            text = "Whenever I would see her in fact she and my mother would in fact see each other back in the day"
+        intervals [247]
+            xmin = 949.16
+            xmax = 955.89
+            text = "So you know she uh she married her husband and was very active in in the county the county"
+        intervals [248]
+            xmin = 955.89
+            xmax = 957.96
+            text = "Her and her brother were just over here"
+        intervals [249]
+            xmin = 957.96
+            xmax = 960.32
+            text = "I knew them and nieces and nephews"
+        intervals [250]
+            xmin = 960.32
+            xmax = 963.22
+            text = "I knew her quite well"
+        intervals [251]
+            xmin = 963.22
+            xmax = 964.8
+            text = "It was she was she was nice"
+        intervals [252]
+            xmin = 964.8
+            xmax = 966.19
+            text = "Good good experience though"
+        intervals [253]
+            xmin = 966.19
+            xmax = 969.68
+            text = ""
+        intervals [254]
+            xmin = 969.68
+            xmax = 972.24
+            text = "Um student government"
+        intervals [255]
+            xmin = 972.24
+            xmax = 975.34
+            text = "I pledged Delta um"
+        intervals [256]
+            xmin = 975.34
+            xmax = 978.4
+            text = "I sang in the chorus"
+        intervals [257]
+            xmin = 978.4
+            xmax = 982.7
+            text = "It’s kind of similar to the kinds of things that I did in school"
+        intervals [258]
+            xmin = 982.7
+            xmax = 989.13
+            text = ""
+        intervals [259]
+            xmin = 989.13
+            xmax = 993.28
+            text = "Oh yeah Delta Sigma Theta a public service organization"
+        intervals [260]
+            xmin = 993.28
+            xmax = 999.28
+            text = "One of the probably the largest African American sorority in the world"
+        intervals [261]
+            xmin = 999.28
+            xmax = 1004.26
+            text = "Um and uh I pledged um that organization when I was at Tennessee State"
+        intervals [262]
+            xmin = 1004.26
+            xmax = 1011.74
+            text = ""
+        intervals [263]
+            xmin = 1011.74
+            xmax = 1013.8
+            text = "It it suited me uh you know"
+        intervals [264]
+            xmin = 1013.8
+            xmax = 1018.08
+            text = "In fact they were politically active"
+        intervals [265]
+            xmin = 1018.08
+            xmax = 1021.52
+            text = "And I just liked the philosophy they espoused"
+        intervals [266]
+            xmin = 1021.52
+            xmax = 1025.079
+            text = "um I’m not currently active um"
+        intervals [267]
+            xmin = 1025.079
+            xmax = 1028.68
+            text = "I support whatever you know I can support"
+        intervals [268]
+            xmin = 1028.68
+            xmax = 1031.17
+            text = "Just talked to one of my sorority sisters here today"
+        intervals [269]
+            xmin = 1031.17
+            xmax = 1033.98
+            text = "Got some things we’re gonna be doing next month that she wants me to be involved with"
+        intervals [270]
+            xmin = 1033.98
+            xmax = 1040.55
+            text = "So I still believe in public service and I tell them I was a Delta because of my belief in public service"
+        intervals [271]
+            xmin = 1040.55
+            xmax = 1045.28
+            text = "Not not I didn’t become involved in public service because I became a Delta"
+        intervals [272]
+            xmin = 1045.28
+            xmax = 1045.32
+            text = ""
+        intervals [273]
+            xmin = 1045.32
+            xmax = 1047.42
+            text = "So that’s kind of the attraction in a way"
+        intervals [274]
+            xmin = 1047.42
+            xmax = 1052.24
+            text = ""
+        intervals [275]
+            xmin = 1052.24
+            xmax = 1060.98
+            text = "The ability to influence people to get things done"
+        intervals [276]
+            xmin = 1060.98
+            xmax = 1063.47
+            text = "That’s pretty much it"
+        intervals [277]
+            xmin = 1063.47
+            xmax = 1075.13
+            text = ""
+        intervals [278]
+            xmin = 1075.13
+            xmax = 1078.76
+            text = "Oh no I totally believe in leaders of the world"
+        intervals [279]
+            xmin = 1078.76
+            xmax = 1090.738
+            text = "You know I mean I don’t know if had to do with certain people cultivating me in all of those different areas and traditions"
+        intervals [280]
+            xmin = 1090.738
+            xmax = 1101.136
+            text = ""
+        intervals [281]
+            xmin = 1101.136
+            xmax = 1105.579
+            text = "Well I am involved in the church and I cut back on a lot of my activities"
+        intervals [282]
+            xmin = 1105.579
+            xmax = 1107.386
+            text = "My mother is ninety one years old"
+        intervals [283]
+            xmin = 1107.386
+            xmax = 1109.045
+            text = "She has Alzheimer’s and um"
+        intervals [284]
+            xmin = 1109.045
+            xmax = 1116.897
+            text = "You know I’m the caregiver and that takes up most of my spare time away from work"
+        intervals [285]
+            xmin = 1116.897
+            xmax = 1124.125
+            text = "And I have a nine eight month old grandbaby and that’s the love of my life"
+        intervals [286]
+            xmin = 1124.125
+            xmax = 1129.329
+            text = "So they live with us sometimes they and that takes up a lot of my time"
+        intervals [287]
+            xmin = 1129.329
+            xmax = 1132.227
+            text = "So a lot of all that tends to"
+        intervals [288]
+            xmin = 1132.227
+            xmax = 1133.933
+            text = ""
+        intervals [289]
+            xmin = 1133.933
+            xmax = 1136.366
+            text = "First Providence Missionary Baptist Church"
+        intervals [290]
+            xmin = 1136.366
+            xmax = 1139.15
+            text = ""
+        intervals [291]
+            xmin = 1139.15
+            xmax = 1148.583
+            text = "I was baptized there when I was six years old and after I came back to Florida I reconnected with it"
+        intervals [292]
+            xmin = 1148.583
+            xmax = 1150.55
+            text = ""
+        intervals [293]
+            xmin = 1150.55
+            xmax = 1152.766
+            text = "Because I was I was raised that way"
+        intervals [294]
+            xmin = 1152.766
+            xmax = 1156.166
+            text = "Uh that's just the way I was brought up"
+        intervals [295]
+            xmin = 1156.166
+            xmax = 1162.683
+            text = "And later on when it It became a personal you know thing for me"
+        intervals [296]
+            xmin = 1162.683
+            xmax = 1167.333
+            text = "I just believe in you know you gotta get together with like minded believers"
+        intervals [297]
+            xmin = 1167.333
+            xmax = 1170.7
+            text = "You making me miss my show"
+        intervals [298]
+            xmin = 1170.7
+            xmax = 1187.65
+            text = ""
+        intervals [299]
+            xmin = 1187.65
+            xmax = 1191.333
+            text = "That would take about a year to say"
+        intervals [300]
+            xmin = 1191.333
+            xmax = 1199.316
+            text = ""
+        intervals [301]
+            xmin = 1199.316
+            xmax = 1201.35
+            text = "Unity"
+        intervals [302]
+            xmin = 1201.35
+            xmax = 1220.066
+            text = "Unity across racial lines across class across economic but that’s just the world in general"
+        intervals [303]
+            xmin = 1220.066
+            xmax = 1231.25
+            text = ""
+        intervals [304]
+            xmin = 1231.25
+            xmax = 1233.533
+            text = "Four more years"
+        intervals [305]
+            xmin = 1233.533
+            xmax = 1235.666
+            text = "Couldn’t be prouder"
+        intervals [306]
+            xmin = 1235.666
+            xmax = 1240.3
+            text = ""
+        intervals [307]
+            xmin = 1240.3
+            xmax = 1241.533
+            text = "Absolutely"
+        intervals [308]
+            xmin = 1241.533
+            xmax = 1246.533
+            text = "I I I didn’t think that he would even get the nomination let alone win"
+        intervals [309]
+            xmin = 1246.533
+            xmax = 1250.083
+            text = "So the guards are lifted"
+        intervals [310]
+            xmin = 1250.083
+            xmax = 1276.216
+            text = ""
+        intervals [311]
+            xmin = 1276.216
+            xmax = 1280.64
+            text = "I just want to invite you that’s its nice meeting you and I appreciate the opportunity to talk with you"
+        intervals [312]
+            xmin = 1280.64
+            xmax = 1285.666
+            text = "And I invite you to come back and I want you to get together with my husband"
+        intervals [313]
+            xmin = 1285.666
+            xmax = 1287.516
+            text = "You might get a word in edgewise"
+        intervals [314]
+            xmin = 1287.516
+            xmax = 1294.52
+            text = "I can't I can’t say I can’t can't promise that but you’ll get to meet a lot of good people here in Bartow"
+        intervals [315]
+            xmin = 1294.52
+            xmax = 1294.557
+            text = ""

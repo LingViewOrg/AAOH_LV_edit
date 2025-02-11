@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <prefGroup key="TierColors">
+        <pref key="L: ">
+            <Object class="java.awt.Color">90,160,160</Object>
+        </pref>
+        <pref key="Features">
+            <Object class="java.awt.Color">160,0,90</Object>
+        </pref>
+        <pref key="W: ">
+            <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+    </prefGroup>
+</preferences>

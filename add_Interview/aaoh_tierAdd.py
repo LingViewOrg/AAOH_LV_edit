@@ -61,7 +61,7 @@ def compare_strings(str1, str2, match_threshold=0.7):
 
 
 
-input_eaf = input("Enter the path to the input .eaf file: ")
+input_eaf = sys.argv[1]
 
 headers = ["Text","Null copula","Person/num. agreement","Multiple negators","Existential it/dey","Perfect done","Remote past BIN","Habitual be"]
 eaf_file = pympi.Elan.Eaf(input_eaf)

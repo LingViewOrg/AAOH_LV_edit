@@ -212,5 +212,45 @@
         "tier": "Features"
       }
     }
+  },
+  "5087ea15-7068-4b58-a656-2df91966bc82": {
+    "timed": true,
+    "story ID": "5087ea15-7068-4b58-a656-2df91966bc82",
+    "title": {
+      "_default": "AAHP 274 Vendarae_Lewis_7-27-2012"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=C9GAPxT4Z38"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "2/8/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP 274 Vendarae_Lewis_7-27-2012.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "W: ": {
+        "subdivided": false
+      },
+      "L: ": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "W: "
+      },
+      "S2": {
+        "tier": "L: "
+      }
+    }
   }
 }
