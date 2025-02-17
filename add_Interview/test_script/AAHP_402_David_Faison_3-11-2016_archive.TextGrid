@@ -1,0 +1,3750 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1758.308
+tiers? <exists>
+size = 3
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "G: "
+        xmin = 0.0
+        xmax = 1758.308
+        intervals: size = 340
+        intervals [1]
+            xmin = 0.0
+            xmax = 5.0
+            text = "So I’m Katie Gresham here with David Faison on March 11th at Silver Springs"
+        intervals [2]
+            xmin = 5.0
+            xmax = 11.08
+            text = "So I’m just going to ask you first how did you become a boat driver here at Silver Springs"
+        intervals [3]
+            xmin = 11.08
+            xmax = 37.45
+            text = ""
+        intervals [4]
+            xmin = 37.45
+            xmax = 40.83
+            text = "So were you hired by Rayan Davidson originally"
+        intervals [5]
+            xmin = 40.83
+            xmax = 42.27
+            text = ""
+        intervals [6]
+            xmin = 42.27
+            xmax = 45.04
+            text = "Rayan Davidson the people who owned it you were"
+        intervals [7]
+            xmin = 45.04
+            xmax = 53.155
+            text = ""
+        intervals [8]
+            xmin = 53.155
+            xmax = 53.695
+            text = "Mm hm"
+        intervals [9]
+            xmin = 53.695
+            xmax = 61.67
+            text = ""
+        intervals [10]
+            xmin = 61.67
+            xmax = 64.46
+            text = "So how your brother worked here for a year before you did"
+        intervals [11]
+            xmin = 64.46
+            xmax = 71.23
+            text = ""
+        intervals [12]
+            xmin = 71.23
+            xmax = 73.87
+            text = "So how were you treated as a boat driver"
+        intervals [13]
+            xmin = 73.87
+            xmax = 78.225
+            text = ""
+        intervals [14]
+            xmin = 78.225
+            xmax = 78.725
+            text = "Mm hm"
+        intervals [15]
+            xmin = 78.725
+            xmax = 83.63
+            text = ""
+        intervals [16]
+            xmin = 83.63
+            xmax = 85.12
+            text = "Um hm what was different"
+        intervals [17]
+            xmin = 85.12
+            xmax = 96.26
+            text = ""
+        intervals [18]
+            xmin = 96.26
+            xmax = 97.94
+            text = "So what happened to the fish"
+        intervals [19]
+            xmin = 97.94
+            xmax = 120.18
+            text = ""
+        intervals [20]
+            xmin = 120.18
+            xmax = 122.76
+            text = "So would people come to Florida and come to both things"
+        intervals [21]
+            xmin = 122.76
+            xmax = 123.71
+            text = ""
+        intervals [22]
+            xmin = 123.71
+            xmax = 124.39
+            text = "Why not"
+        intervals [23]
+            xmin = 124.39
+            xmax = 125.365
+            text = ""
+        intervals [24]
+            xmin = 125.365
+            xmax = 126.76
+            text = "All of yours right here"
+        intervals [25]
+            xmin = 126.76
+            xmax = 133.67
+            text = ""
+        intervals [26]
+            xmin = 133.67
+            xmax = 135.93
+            text = "How were you trained as a boat driver"
+        intervals [27]
+            xmin = 135.93
+            xmax = 137.56
+            text = "What was the training"
+        intervals [28]
+            xmin = 137.56
+            xmax = 139.44
+            text = ""
+        intervals [29]
+            xmin = 139.44
+            xmax = 142.14
+            text = "The training on how you became a boat driver"
+        intervals [30]
+            xmin = 142.14
+            xmax = 159.59
+            text = ""
+        intervals [31]
+            xmin = 159.59
+            xmax = 166.6
+            text = "Um so when Silver Springs was segregated you drove white and black people in the boats"
+        intervals [32]
+            xmin = 166.6
+            xmax = 167.54
+            text = ""
+        intervals [33]
+            xmin = 167.54
+            xmax = 168.39
+            text = "Interesting"
+        intervals [34]
+            xmin = 168.39
+            xmax = 169.31
+            text = ""
+        intervals [35]
+            xmin = 169.31
+            xmax = 172.84
+            text = "So was there ever any backlash because you were a black boat driver"
+        intervals [36]
+            xmin = 172.84
+            xmax = 179.47
+            text = ""
+        intervals [37]
+            xmin = 179.47
+            xmax = 181.23
+            text = "I didn’t know there was white captains"
+        intervals [38]
+            xmin = 181.23
+            xmax = 182.74
+            text = "I thought they were always black captains"
+        intervals [39]
+            xmin = 182.74
+            xmax = 183.88
+            text = "Interesting"
+        intervals [40]
+            xmin = 183.88
+            xmax = 192.266
+            text = ""
+        intervals [41]
+            xmin = 192.266
+            xmax = 193.383
+            text = "Yeah I will"
+        intervals [42]
+            xmin = 193.383
+            xmax = 203.849
+            text = ""
+        intervals [43]
+            xmin = 203.849
+            xmax = 204.428
+            text = "Wow"
+        intervals [44]
+            xmin = 204.428
+            xmax = 205.612
+            text = "How many boats were there"
+        intervals [45]
+            xmin = 205.612
+            xmax = 212.387
+            text = ""
+        intervals [46]
+            xmin = 212.387
+            xmax = 214.448
+            text = "And they were all full everyday"
+        intervals [47]
+            xmin = 214.448
+            xmax = 241.918
+            text = ""
+        intervals [48]
+            xmin = 241.918
+            xmax = 246.448
+            text = "So what did Paradise Park opening affect your job at all"
+        intervals [49]
+            xmin = 246.448
+            xmax = 248.918
+            text = ""
+        intervals [50]
+            xmin = 248.918
+            xmax = 250.224
+            text = "Oh Paradise was here oh right"
+        intervals [51]
+            xmin = 250.224
+            xmax = 250.673
+            text = "You’re right"
+        intervals [52]
+            xmin = 250.673
+            xmax = 255.489
+            text = "So was it different then when you had to go over there or"
+        intervals [53]
+            xmin = 255.489
+            xmax = 261.149
+            text = ""
+        intervals [54]
+            xmin = 261.149
+            xmax = 261.7
+            text = "Mm hm"
+        intervals [55]
+            xmin = 261.7
+            xmax = 280.285
+            text = ""
+        intervals [56]
+            xmin = 280.285
+            xmax = 282.673
+            text = "So were you born here in Ocala"
+        intervals [57]
+            xmin = 282.673
+            xmax = 284.469
+            text = ""
+        intervals [58]
+            xmin = 284.469
+            xmax = 285.061
+            text = "Fort McCoy"
+        intervals [59]
+            xmin = 285.061
+            xmax = 285.979
+            text = "When were you born"
+        intervals [60]
+            xmin = 285.979
+            xmax = 297.612
+            text = ""
+        intervals [61]
+            xmin = 297.612
+            xmax = 299.775
+            text = "Nineteen thirty two"
+        intervals [62]
+            xmin = 299.775
+            xmax = 302.734
+            text = "um what did your parents do"
+        intervals [63]
+            xmin = 302.734
+            xmax = 337.714
+            text = ""
+        intervals [64]
+            xmin = 337.714
+            xmax = 341.551
+            text = "How did having Paradise Park here change Silver Springs as a whole"
+        intervals [65]
+            xmin = 341.551
+            xmax = 342.714
+            text = ""
+        intervals [66]
+            xmin = 342.714
+            xmax = 346.897
+            text = "Having Paradise Park Did it change Silver Springs do you think"
+        intervals [67]
+            xmin = 346.897
+            xmax = 390.244
+            text = ""
+        intervals [68]
+            xmin = 390.244
+            xmax = 391.959
+            text = "Make people happy"
+        intervals [69]
+            xmin = 391.959
+            xmax = 416.836
+            text = ""
+        intervals [70]
+            xmin = 416.836
+            xmax = 420.12
+            text = "How How have you seen Silver Springs change over the years"
+        intervals [71]
+            xmin = 420.12
+            xmax = 445.877
+            text = ""
+        intervals [72]
+            xmin = 445.877
+            xmax = 449.469
+            text = "Mm hm and that’s why you think people don’t come as much"
+        intervals [73]
+            xmin = 449.469
+            xmax = 452.163
+            text = ""
+        intervals [74]
+            xmin = 452.163
+            xmax = 453.32
+            text = "Interesting"
+        intervals [75]
+            xmin = 453.32
+            xmax = 459.591
+            text = "Um so with Paradise Park what kind of events would go on there"
+        intervals [76]
+            xmin = 459.591
+            xmax = 461.836
+            text = "Did you get to participate in any of them"
+        intervals [77]
+            xmin = 461.836
+            xmax = 471.795
+            text = ""
+        intervals [78]
+            xmin = 471.795
+            xmax = 472.693
+            text = "Oh okay"
+        intervals [79]
+            xmin = 472.693
+            xmax = 502.51
+            text = ""
+        intervals [80]
+            xmin = 502.51
+            xmax = 503.673
+            text = "Yeah"
+        intervals [81]
+            xmin = 503.673
+            xmax = 509.02
+            text = "What about all of the models and the Miss Paradise Park competitions"
+        intervals [82]
+            xmin = 509.02
+            xmax = 510.326
+            text = "Were those fun too"
+        intervals [83]
+            xmin = 510.326
+            xmax = 576.281
+            text = ""
+        intervals [84]
+            xmin = 576.281
+            xmax = 577.061
+            text = "Yeah"
+        intervals [85]
+            xmin = 577.061
+            xmax = 586.5
+            text = ""
+        intervals [86]
+            xmin = 586.5
+            xmax = 588.975
+            text = "He was enjoying what he was doing"
+        intervals [87]
+            xmin = 588.975
+            xmax = 589.365
+            text = ""
+        intervals [88]
+            xmin = 589.365
+            xmax = 591.24
+            text = "Yeah he was"
+        intervals [89]
+            xmin = 591.24
+            xmax = 592.548
+            text = "I’ve seen lots of his pictures"
+        intervals [90]
+            xmin = 592.548
+            xmax = 593.48
+            text = "They’re great"
+        intervals [91]
+            xmin = 593.48
+            xmax = 598.304
+            text = ""
+        intervals [92]
+            xmin = 598.304
+            xmax = 599.44
+            text = "I know"
+        intervals [93]
+            xmin = 599.44
+            xmax = 601.621
+            text = "Before um the book was released"
+        intervals [94]
+            xmin = 601.621
+            xmax = 603.32
+            text = ""
+        intervals [95]
+            xmin = 603.32
+            xmax = 605.44
+            text = "Let’s see What else was I gonna ask you"
+        intervals [96]
+            xmin = 605.44
+            xmax = 607.408
+            text = ""
+        intervals [97]
+            xmin = 607.408
+            xmax = 608.567
+            text = "Yeah"
+        intervals [98]
+            xmin = 608.567
+            xmax = 608.695
+            text = ""
+        intervals [99]
+            xmin = 608.695
+            xmax = 615.134
+            text = "Um were you affected at all by the Civil Rights Movement going on in the South as a whole or"
+        intervals [100]
+            xmin = 615.134
+            xmax = 618.853
+            text = ""
+        intervals [101]
+            xmin = 618.853
+            xmax = 620.097
+            text = "Mm hm oh you were"
+        intervals [102]
+            xmin = 620.097
+            xmax = 622.04
+            text = "We’ll now you gotta tell me about that"
+        intervals [103]
+            xmin = 622.04
+            xmax = 622.44
+            text = ""
+        intervals [104]
+            xmin = 622.44
+            xmax = 623.8
+            text = "What were you in the middle of"
+        intervals [105]
+            xmin = 623.8
+            xmax = 638.451
+            text = ""
+        intervals [106]
+            xmin = 638.451
+            xmax = 642.182
+            text = "Was working as a boat driver one of the better jobs for an"
+        intervals [107]
+            xmin = 642.182
+            xmax = 649.085
+            text = ""
+        intervals [108]
+            xmin = 649.085
+            xmax = 649.927
+            text = "Mm hm"
+        intervals [109]
+            xmin = 649.927
+            xmax = 652.682
+            text = ""
+        intervals [110]
+            xmin = 652.682
+            xmax = 653.28
+            text = "Right"
+        intervals [111]
+            xmin = 653.28
+            xmax = 656.722
+            text = "Right, had you worked other jobs before you were a boat driver"
+        intervals [112]
+            xmin = 656.722
+            xmax = 673.018
+            text = ""
+        intervals [113]
+            xmin = 673.018
+            xmax = 673.777
+            text = "It was good"
+        intervals [114]
+            xmin = 673.777
+            xmax = 675.481
+            text = "That’s great um"
+        intervals [115]
+            xmin = 675.481
+            xmax = 676.851
+            text = ""
+        intervals [116]
+            xmin = 676.851
+            xmax = 682.297
+            text = "So is there anything that you can tell me that you haven’t told other people"
+        intervals [117]
+            xmin = 682.297
+            xmax = 688.81
+            text = "Cause I know you’ve been interviewed lots of times for the Ocala Star Banner and for the other books Is there anything"
+        intervals [118]
+            xmin = 688.81
+            xmax = 700.2
+            text = ""
+        intervals [119]
+            xmin = 700.2
+            xmax = 701.0
+            text = "Yeah"
+        intervals [120]
+            xmin = 701.0
+            xmax = 708.273
+            text = ""
+        intervals [121]
+            xmin = 708.273
+            xmax = 709.003
+            text = "Mm hm"
+        intervals [122]
+            xmin = 709.003
+            xmax = 715.696
+            text = ""
+        intervals [123]
+            xmin = 715.696
+            xmax = 716.426
+            text = "Mm hmm"
+        intervals [124]
+            xmin = 716.426
+            xmax = 718.824
+            text = ""
+        intervals [125]
+            xmin = 718.824
+            xmax = 722.391
+            text = "Did you ever get to drive any of the celebrities that came to visit"
+        intervals [126]
+            xmin = 722.391
+            xmax = 723.418
+            text = ""
+        intervals [127]
+            xmin = 723.418
+            xmax = 725.418
+            text = "Who did you drive do you remember"
+        intervals [128]
+            xmin = 725.418
+            xmax = 732.32
+            text = ""
+        intervals [129]
+            xmin = 732.32
+            xmax = 734.31
+            text = "That’s cool and the um"
+        intervals [130]
+            xmin = 734.31
+            xmax = 737.36
+            text = ""
+        intervals [131]
+            xmin = 737.36
+            xmax = 738.0
+            text = "Okay"
+        intervals [132]
+            xmin = 738.0
+            xmax = 740.84
+            text = "Um what about all the movies do"
+        intervals [133]
+            xmin = 740.84
+            xmax = 743.797
+            text = "What were what was that like when they were filming movies here"
+        intervals [134]
+            xmin = 743.797
+            xmax = 749.837
+            text = ""
+        intervals [135]
+            xmin = 749.837
+            xmax = 750.675
+            text = "Um hm"
+        intervals [136]
+            xmin = 750.675
+            xmax = 760.96
+            text = ""
+        intervals [137]
+            xmin = 760.96
+            xmax = 761.905
+            text = "Wow"
+        intervals [138]
+            xmin = 761.905
+            xmax = 766.337
+            text = ""
+        intervals [139]
+            xmin = 766.337
+            xmax = 767.364
+            text = "Um hm"
+        intervals [140]
+            xmin = 767.364
+            xmax = 774.459
+            text = ""
+        intervals [141]
+            xmin = 774.459
+            xmax = 775.175
+            text = "Wow"
+        intervals [142]
+            xmin = 775.175
+            xmax = 785.702
+            text = ""
+        intervals [143]
+            xmin = 785.702
+            xmax = 787.27
+            text = "Yeah wow"
+        intervals [144]
+            xmin = 787.27
+            xmax = 791.743
+            text = ""
+        intervals [145]
+            xmin = 791.743
+            xmax = 792.729
+            text = "Lloyd Bridges"
+        intervals [146]
+            xmin = 792.729
+            xmax = 798.475
+            text = ""
+        intervals [147]
+            xmin = 798.475
+            xmax = 799.178
+            text = "Yeah"
+        intervals [148]
+            xmin = 799.178
+            xmax = 800.689
+            text = ""
+        intervals [149]
+            xmin = 800.689
+            xmax = 803.162
+            text = "It’s still going isn’t it"
+        intervals [150]
+            xmin = 803.162
+            xmax = 803.513
+            text = ""
+        intervals [151]
+            xmin = 803.513
+            xmax = 804.513
+            text = "Yeah"
+        intervals [152]
+            xmin = 804.513
+            xmax = 808.54
+            text = ""
+        intervals [153]
+            xmin = 808.54
+            xmax = 809.337
+            text = "Right"
+        intervals [154]
+            xmin = 809.337
+            xmax = 816.2
+            text = ""
+        intervals [155]
+            xmin = 816.2
+            xmax = 818.27
+            text = "Wow I did not know that"
+        intervals [156]
+            xmin = 818.27
+            xmax = 831.378
+            text = ""
+        intervals [157]
+            xmin = 831.378
+            xmax = 836.743
+            text = "Well and then there was the separate beach over at Paradise Park that every that all the African Americans"
+        intervals [158]
+            xmin = 836.743
+            xmax = 838.189
+            text = ""
+        intervals [159]
+            xmin = 838.189
+            xmax = 838.851
+            text = "Yeah we can't"
+        intervals [160]
+            xmin = 838.851
+            xmax = 840.108
+            text = "Can you get to it today"
+        intervals [161]
+            xmin = 840.108
+            xmax = 842.959
+            text = ""
+        intervals [162]
+            xmin = 842.959
+            xmax = 843.594
+            text = "Oh okay"
+        intervals [163]
+            xmin = 843.594
+            xmax = 849.926
+            text = ""
+        intervals [164]
+            xmin = 849.926
+            xmax = 850.547
+            text = "Okay"
+        intervals [165]
+            xmin = 850.547
+            xmax = 858.221
+            text = ""
+        intervals [166]
+            xmin = 858.221
+            xmax = 858.977
+            text = "Okay"
+        intervals [167]
+            xmin = 858.977
+            xmax = 874.72
+            text = ""
+        intervals [168]
+            xmin = 874.72
+            xmax = 875.44
+            text = "Wow"
+        intervals [169]
+            xmin = 875.44
+            xmax = 878.121
+            text = "Do any of the boats go by there now"
+        intervals [170]
+            xmin = 878.121
+            xmax = 880.364
+            text = ""
+        intervals [171]
+            xmin = 880.364
+            xmax = 881.851
+            text = "You wouldn’t even know"
+        intervals [172]
+            xmin = 881.851
+            xmax = 886.513
+            text = ""
+        intervals [173]
+            xmin = 886.513
+            xmax = 889.297
+            text = "Okay for the for the canal"
+        intervals [174]
+            xmin = 889.297
+            xmax = 889.905
+            text = "Okay"
+        intervals [175]
+            xmin = 889.905
+            xmax = 918.875
+            text = ""
+        intervals [176]
+            xmin = 918.875
+            xmax = 919.416
+            text = "Um"
+        intervals [177]
+            xmin = 919.416
+            xmax = 922.364
+            text = ""
+        intervals [178]
+            xmin = 922.364
+            xmax = 922.689
+            text = "Yeah"
+        intervals [179]
+            xmin = 922.689
+            xmax = 924.391
+            text = "I’m trying to think of more things to ask"
+        intervals [180]
+            xmin = 924.391
+            xmax = 927.0
+            text = "I think I’ve ask a lot of my questions already"
+        intervals [181]
+            xmin = 927.0
+            xmax = 935.851
+            text = ""
+        intervals [182]
+            xmin = 935.851
+            xmax = 938.54
+            text = "Well what happened when Paradise Park closed"
+        intervals [183]
+            xmin = 938.54
+            xmax = 939.783
+            text = ""
+        intervals [184]
+            xmin = 939.783
+            xmax = 941.135
+            text = "They just shut it down"
+        intervals [185]
+            xmin = 941.135
+            xmax = 943.48
+            text = ""
+        intervals [186]
+            xmin = 943.48
+            xmax = 944.918
+            text = "Yeah they’re gorgeous"
+        intervals [187]
+            xmin = 944.918
+            xmax = 946.68
+            text = "That's what it"
+        intervals [188]
+            xmin = 946.68
+            xmax = 949.8
+            text = "So what happened to the structures that were there Did they"
+        intervals [189]
+            xmin = 949.8
+            xmax = 950.689
+            text = ""
+        intervals [190]
+            xmin = 950.689
+            xmax = 952.959
+            text = "They just teared it all down"
+        intervals [191]
+            xmin = 952.959
+            xmax = 959.0
+            text = ""
+        intervals [192]
+            xmin = 959.0
+            xmax = 960.067
+            text = "Um hm"
+        intervals [193]
+            xmin = 960.067
+            xmax = 961.364
+            text = "Did he"
+        intervals [194]
+            xmin = 961.364
+            xmax = 965.229
+            text = ""
+        intervals [195]
+            xmin = 965.229
+            xmax = 966.135
+            text = "Um hm"
+        intervals [196]
+            xmin = 966.135
+            xmax = 968.175
+            text = "Would he do the shows there as well"
+        intervals [197]
+            xmin = 968.175
+            xmax = 969.68
+            text = ""
+        intervals [198]
+            xmin = 969.68
+            xmax = 972.81
+            text = "Okay so he traveled to there and would do it over there"
+        intervals [199]
+            xmin = 972.81
+            xmax = 979.459
+            text = ""
+        intervals [200]
+            xmin = 979.459
+            xmax = 980.689
+            text = "Oh okay"
+        intervals [201]
+            xmin = 980.689
+            xmax = 981.84
+            text = ""
+        intervals [202]
+            xmin = 981.84
+            xmax = 986.27
+            text = "Do you think it was a big loss to the black community when Paradise Park closed"
+        intervals [203]
+            xmin = 986.27
+            xmax = 1007.28
+            text = ""
+        intervals [204]
+            xmin = 1007.28
+            xmax = 1016.054
+            text = "Did black people come to Silver Springs as much they went to Paradise Park once it was integrated"
+        intervals [205]
+            xmin = 1016.054
+            xmax = 1016.067
+            text = ""
+        intervals [206]
+            xmin = 1016.067
+            xmax = 1018.689
+            text = "So they just started coming here"
+        intervals [207]
+            xmin = 1018.689
+            xmax = 1039.432
+            text = ""
+        intervals [208]
+            xmin = 1039.432
+            xmax = 1041.72
+            text = "Was it something really special for everyone"
+        intervals [209]
+            xmin = 1041.72
+            xmax = 1043.148
+            text = ""
+        intervals [210]
+            xmin = 1043.148
+            xmax = 1047.16
+            text = "Cause there wasn’t very many places for that had a separate area"
+        intervals [211]
+            xmin = 1047.16
+            xmax = 1055.128
+            text = ""
+        intervals [212]
+            xmin = 1055.128
+            xmax = 1055.669
+            text = "Mm hm"
+        intervals [213]
+            xmin = 1055.669
+            xmax = 1062.554
+            text = ""
+        intervals [214]
+            xmin = 1062.554
+            xmax = 1066.8
+            text = "Really were you’ve been in the middle of all of it for a long time"
+        intervals [215]
+            xmin = 1066.8
+            xmax = 1068.108
+            text = ""
+        intervals [216]
+            xmin = 1068.108
+            xmax = 1074.2
+            text = "Gah so the biggest change is the attendance drop and the switch to it being a state park"
+        intervals [217]
+            xmin = 1074.2
+            xmax = 1097.838
+            text = ""
+        intervals [218]
+            xmin = 1097.838
+            xmax = 1098.514
+            text = "Mm hm"
+        intervals [219]
+            xmin = 1098.514
+            xmax = 1130.175
+            text = ""
+        intervals [220]
+            xmin = 1130.175
+            xmax = 1130.945
+            text = "Yeah"
+        intervals [221]
+            xmin = 1130.945
+            xmax = 1150.162
+            text = ""
+        intervals [222]
+            xmin = 1150.162
+            xmax = 1153.16
+            text = "Was it ever permanently closed not permanent but like"
+        intervals [223]
+            xmin = 1153.16
+            xmax = 1154.8
+            text = "Closed temporarily while they"
+        intervals [224]
+            xmin = 1154.8
+            xmax = 1158.118
+            text = ""
+        intervals [225]
+            xmin = 1158.118
+            xmax = 1158.834
+            text = "Okay"
+        intervals [226]
+            xmin = 1158.834
+            xmax = 1160.189
+            text = ""
+        intervals [227]
+            xmin = 1160.189
+            xmax = 1167.351
+            text = "So then the state comes in and would re open it with less operating costs"
+        intervals [228]
+            xmin = 1167.351
+            xmax = 1183.196
+            text = ""
+        intervals [229]
+            xmin = 1183.196
+            xmax = 1183.926
+            text = "Mm hm"
+        intervals [230]
+            xmin = 1183.926
+            xmax = 1189.236
+            text = ""
+        intervals [231]
+            xmin = 1189.236
+            xmax = 1190.006
+            text = "Right"
+        intervals [232]
+            xmin = 1190.006
+            xmax = 1194.06
+            text = ""
+        intervals [233]
+            xmin = 1194.06
+            xmax = 1194.641
+            text = "Yeah"
+        intervals [234]
+            xmin = 1194.641
+            xmax = 1264.68
+            text = ""
+        intervals [235]
+            xmin = 1264.68
+            xmax = 1265.28
+            text = "It’s fine"
+        intervals [236]
+            xmin = 1265.28
+            xmax = 1267.72
+            text = ""
+        intervals [237]
+            xmin = 1267.72
+            xmax = 1268.545
+            text = "Yeah"
+        intervals [238]
+            xmin = 1268.545
+            xmax = 1269.527
+            text = ""
+        intervals [239]
+            xmin = 1269.527
+            xmax = 1271.608
+            text = "I’ve got nothing but time too"
+        intervals [240]
+            xmin = 1271.608
+            xmax = 1273.716
+            text = "So any other questions"
+        intervals [241]
+            xmin = 1273.716
+            xmax = 1273.756
+            text = ""
+        intervals [242]
+            xmin = 1273.756
+            xmax = 1274.84
+            text = "I am"
+        intervals [243]
+            xmin = 1274.84
+            xmax = 1287.567
+            text = "Yes I’m writing my senior thesis on I go to UF On Silver Springs and Paradise Park and then I’m also incorporating a little bit of Cypress Gardens into it"
+        intervals [244]
+            xmin = 1287.567
+            xmax = 1294.477
+            text = ""
+        intervals [245]
+            xmin = 1294.477
+            xmax = 1294.92
+            text = "Um hm"
+        intervals [246]
+            xmin = 1294.92
+            xmax = 1296.977
+            text = ""
+        intervals [247]
+            xmin = 1296.977
+            xmax = 1297.977
+            text = "I’m sure"
+        intervals [248]
+            xmin = 1297.977
+            xmax = 1301.24
+            text = ""
+        intervals [249]
+            xmin = 1301.24
+            xmax = 1304.669
+            text = "I came here for an elemetary uh for a field trip in the eighth grade"
+        intervals [250]
+            xmin = 1304.669
+            xmax = 1305.631
+            text = ""
+        intervals [251]
+            xmin = 1305.631
+            xmax = 1306.245
+            text = "And that"
+        intervals [252]
+            xmin = 1306.245
+            xmax = 1326.964
+            text = ""
+        intervals [253]
+            xmin = 1326.964
+            xmax = 1329.193
+            text = "Oh you’re not in the way at all"
+        intervals [254]
+            xmin = 1329.193
+            xmax = 1331.912
+            text = "I appreciate other people asking questions"
+        intervals [255]
+            xmin = 1331.912
+            xmax = 1333.315
+            text = ""
+        intervals [256]
+            xmin = 1333.315
+            xmax = 1333.508
+            text = "Yeah"
+        intervals [257]
+            xmin = 1333.508
+            xmax = 1336.754
+            text = "If you have any questions that you think I’m missing ask them"
+        intervals [258]
+            xmin = 1336.754
+            xmax = 1346.912
+            text = ""
+        intervals [259]
+            xmin = 1346.912
+            xmax = 1349.087
+            text = "Yeah he’s got a lot of answers"
+        intervals [260]
+            xmin = 1349.087
+            xmax = 1361.586
+            text = ""
+        intervals [261]
+            xmin = 1361.586
+            xmax = 1362.604
+            text = "Um I don't re"
+        intervals [262]
+            xmin = 1362.604
+            xmax = 1363.894
+            text = ""
+        intervals [263]
+            xmin = 1363.894
+            xmax = 1365.771
+            text = "Yeah That was in I had"
+        intervals [264]
+            xmin = 1365.771
+            xmax = 1367.438
+            text = "I hadn’t thought about the manatees before"
+        intervals [265]
+            xmin = 1367.438
+            xmax = 1383.147
+            text = ""
+        intervals [266]
+            xmin = 1383.147
+            xmax = 1383.761
+            text = "Mm hm"
+        intervals [267]
+            xmin = 1383.761
+            xmax = 1392.695
+            text = ""
+        intervals [268]
+            xmin = 1392.695
+            xmax = 1393.274
+            text = "Yeah"
+        intervals [269]
+            xmin = 1393.274
+            xmax = 1408.2
+            text = ""
+        intervals [270]
+            xmin = 1408.2
+            xmax = 1409.937
+            text = "Spin the boat around and"
+        intervals [271]
+            xmin = 1409.937
+            xmax = 1418.64
+            text = ""
+        intervals [272]
+            xmin = 1418.64
+            xmax = 1419.289
+            text = "Mm hm"
+        intervals [273]
+            xmin = 1419.289
+            xmax = 1452.826
+            text = ""
+        intervals [274]
+            xmin = 1452.826
+            xmax = 1454.065
+            text = "I'm yeah I’m sure"
+        intervals [275]
+            xmin = 1454.065
+            xmax = 1458.0
+            text = "It sounds like a fun job and that you’ve enjoyed it all these years"
+        intervals [276]
+            xmin = 1458.0
+            xmax = 1464.125
+            text = ""
+        intervals [277]
+            xmin = 1464.125
+            xmax = 1466.187
+            text = "And it changes every day"
+        intervals [278]
+            xmin = 1466.187
+            xmax = 1470.812
+            text = ""
+        intervals [279]
+            xmin = 1470.812
+            xmax = 1472.562
+            text = "Manatees"
+        intervals [280]
+            xmin = 1472.562
+            xmax = 1473.843
+            text = "Wow"
+        intervals [281]
+            xmin = 1473.843
+            xmax = 1475.125
+            text = "That’s a lot of manatees"
+        intervals [282]
+            xmin = 1475.125
+            xmax = 1519.5
+            text = ""
+        intervals [283]
+            xmin = 1519.5
+            xmax = 1521.937
+            text = "I’m trying to think um"
+        intervals [284]
+            xmin = 1521.937
+            xmax = 1525.187
+            text = "So you do you still live in Fort McCoy now"
+        intervals [285]
+            xmin = 1525.187
+            xmax = 1531.52
+            text = ""
+        intervals [286]
+            xmin = 1531.52
+            xmax = 1535.56
+            text = "So did you spend time in Ocala as a whole or no"
+        intervals [287]
+            xmin = 1535.56
+            xmax = 1542.593
+            text = ""
+        intervals [288]
+            xmin = 1542.593
+            xmax = 1546.68
+            text = "Was there a strong black community present in Ocala"
+        intervals [289]
+            xmin = 1546.68
+            xmax = 1546.84
+            text = ""
+        intervals [290]
+            xmin = 1546.84
+            xmax = 1547.4
+            text = "Yeah"
+        intervals [291]
+            xmin = 1547.4
+            xmax = 1551.66
+            text = "Um was it due to Howard High School or just"
+        intervals [292]
+            xmin = 1551.66
+            xmax = 1554.52
+            text = ""
+        intervals [293]
+            xmin = 1554.52
+            xmax = 1556.98
+            text = "At Howard High School"
+        intervals [294]
+            xmin = 1556.98
+            xmax = 1558.48
+            text = "Wow um"
+        intervals [295]
+            xmin = 1558.48
+            xmax = 1560.32
+            text = "What was it like then"
+        intervals [296]
+            xmin = 1560.32
+            xmax = 1576.44
+            text = ""
+        intervals [297]
+            xmin = 1576.44
+            xmax = 1578.02
+            text = "No problems"
+        intervals [298]
+            xmin = 1578.02
+            xmax = 1579.64
+            text = "That’s good"
+        intervals [299]
+            xmin = 1579.64
+            xmax = 1580.24
+            text = ""
+        intervals [300]
+            xmin = 1580.24
+            xmax = 1582.92
+            text = "Do you have anything else you want to add"
+        intervals [301]
+            xmin = 1582.92
+            xmax = 1584.64
+            text = "I’m out of questions"
+        intervals [302]
+            xmin = 1584.64
+            xmax = 1585.77
+            text = ""
+        intervals [303]
+            xmin = 1585.77
+            xmax = 1586.31
+            text = "Yeah"
+        intervals [304]
+            xmin = 1586.31
+            xmax = 1588.07
+            text = ""
+        intervals [305]
+            xmin = 1588.07
+            xmax = 1588.53
+            text = "I know"
+        intervals [306]
+            xmin = 1588.53
+            xmax = 1590.36
+            text = ""
+        intervals [307]
+            xmin = 1590.36
+            xmax = 1592.26
+            text = "Yeah I think you did"
+        intervals [308]
+            xmin = 1592.26
+            xmax = 1594.58
+            text = ""
+        intervals [309]
+            xmin = 1594.58
+            xmax = 1598.48
+            text = "Okay I’ll keep thinking um"
+        intervals [310]
+            xmin = 1598.48
+            xmax = 1604.44
+            text = "Um do you have a really great story that you want to tell me"
+        intervals [311]
+            xmin = 1604.44
+            xmax = 1607.72
+            text = "Or you like your fondest memory of working here at Silver Springs"
+        intervals [312]
+            xmin = 1607.72
+            xmax = 1627.89
+            text = ""
+        intervals [313]
+            xmin = 1627.89
+            xmax = 1628.37
+            text = "Yeah you"
+        intervals [314]
+            xmin = 1628.37
+            xmax = 1648.02
+            text = ""
+        intervals [315]
+            xmin = 1648.02
+            xmax = 1652.3
+            text = "What could you do as a theme park but not as a state park"
+        intervals [316]
+            xmin = 1652.3
+            xmax = 1655.6
+            text = ""
+        intervals [317]
+            xmin = 1655.6
+            xmax = 1656.94
+            text = "So what were you doing"
+        intervals [318]
+            xmin = 1656.94
+            xmax = 1661.28
+            text = ""
+        intervals [319]
+            xmin = 1661.28
+            xmax = 1663.24
+            text = "What’s a fish football game"
+        intervals [320]
+            xmin = 1663.24
+            xmax = 1666.31
+            text = ""
+        intervals [321]
+            xmin = 1666.31
+            xmax = 1666.85
+            text = "Mm hm"
+        intervals [322]
+            xmin = 1666.85
+            xmax = 1674.15
+            text = ""
+        intervals [323]
+            xmin = 1674.15
+            xmax = 1674.81
+            text = "Okay"
+        intervals [324]
+            xmin = 1674.81
+            xmax = 1707.93
+            text = ""
+        intervals [325]
+            xmin = 1707.93
+            xmax = 1709.03
+            text = "That's great"
+        intervals [326]
+            xmin = 1709.03
+            xmax = 1714.5
+            text = ""
+        intervals [327]
+            xmin = 1714.5
+            xmax = 1716.14
+            text = "Did you do one every boat ride"
+        intervals [328]
+            xmin = 1716.14
+            xmax = 1716.76
+            text = ""
+        intervals [329]
+            xmin = 1716.76
+            xmax = 1718.96
+            text = "Those were hungry fish"
+        intervals [330]
+            xmin = 1718.96
+            xmax = 1729.68
+            text = ""
+        intervals [331]
+            xmin = 1729.68
+            xmax = 1730.6
+            text = "Wow"
+        intervals [332]
+            xmin = 1730.6
+            xmax = 1740.38
+            text = ""
+        intervals [333]
+            xmin = 1740.38
+            xmax = 1742.06
+            text = "Definitely"
+        intervals [334]
+            xmin = 1742.06
+            xmax = 1746.2
+            text = "Well I really can’t think of anything else"
+        intervals [335]
+            xmin = 1746.2
+            xmax = 1748.56
+            text = "But I know where you are if I think of more things"
+        intervals [336]
+            xmin = 1748.56
+            xmax = 1752.8
+            text = "Thank you so much for answering my questions"
+        intervals [337]
+            xmin = 1752.8
+            xmax = 1754.6
+            text = "It was great to interview you"
+        intervals [338]
+            xmin = 1754.6
+            xmax = 1755.72
+            text = ""
+        intervals [339]
+            xmin = 1755.72
+            xmax = 1758.28
+            text = "If I think of anything else I’m gonna come find you"
+        intervals [340]
+            xmin = 1758.28
+            xmax = 1758.308
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "U: "
+        xmin = 0.0
+        xmax = 1758.308
+        intervals: size = 63
+        intervals [1]
+            xmin = 0.0
+            xmax = 1191.851
+            text = ""
+        intervals [2]
+            xmin = 1191.851
+            xmax = 1194.486
+            text = "Can I interrupt for just one second"
+        intervals [3]
+            xmin = 1194.486
+            xmax = 1194.76
+            text = ""
+        intervals [4]
+            xmin = 1194.76
+            xmax = 1198.48
+            text = "Eight whatever it was when they started constructed of the Barge Canal"
+        intervals [5]
+            xmin = 1198.48
+            xmax = 1199.08
+            text = ""
+        intervals [6]
+            xmin = 1199.08
+            xmax = 1202.31
+            text = "Before that would you see manatees up in here then"
+        intervals [7]
+            xmin = 1202.31
+            xmax = 1207.479
+            text = ""
+        intervals [8]
+            xmin = 1207.479
+            xmax = 1207.898
+            text = "Okay"
+        intervals [9]
+            xmin = 1207.898
+            xmax = 1212.72
+            text = ""
+        intervals [10]
+            xmin = 1212.72
+            xmax = 1219.162
+            text = "They really can’t get here now unless somebody opens the locks and one happens to slip through the locks that are at Rodman"
+        intervals [11]
+            xmin = 1219.162
+            xmax = 1223.872
+            text = ""
+        intervals [12]
+            xmin = 1223.872
+            xmax = 1224.48
+            text = "Right"
+        intervals [13]
+            xmin = 1224.48
+            xmax = 1226.04
+            text = ""
+        intervals [14]
+            xmin = 1226.04
+            xmax = 1227.0
+            text = "Right me too"
+        intervals [15]
+            xmin = 1227.0
+            xmax = 1233.207
+            text = ""
+        intervals [16]
+            xmin = 1233.207
+            xmax = 1233.748
+            text = "That's right"
+        intervals [17]
+            xmin = 1233.748
+            xmax = 1235.28
+            text = ""
+        intervals [18]
+            xmin = 1235.28
+            xmax = 1238.6
+            text = "Cause they got the dam there now in front of Rodman Reservoir"
+        intervals [19]
+            xmin = 1238.6
+            xmax = 1241.48
+            text = "But I was just wondering if manatees come up in this far"
+        intervals [20]
+            xmin = 1241.48
+            xmax = 1249.44
+            text = ""
+        intervals [21]
+            xmin = 1249.44
+            xmax = 1249.76
+            text = "Yeah"
+        intervals [22]
+            xmin = 1249.76
+            xmax = 1253.027
+            text = "Well we’ve paddle it all the way from Ray’s Landing"
+        intervals [23]
+            xmin = 1253.027
+            xmax = 1256.32
+            text = "We’ve paddled on our kayaks up and down here many times"
+        intervals [24]
+            xmin = 1256.32
+            xmax = 1257.81
+            text = ""
+        intervals [25]
+            xmin = 1257.81
+            xmax = 1258.648
+            text = "I mean recently"
+        intervals [26]
+            xmin = 1258.648
+            xmax = 1260.64
+            text = "No I mean since I've since I’ve been old"
+        intervals [27]
+            xmin = 1260.64
+            xmax = 1265.743
+            text = "I didn’t mean to interrupt but wanted to know if manatees had ever"
+        intervals [28]
+            xmin = 1265.743
+            xmax = 1271.824
+            text = ""
+        intervals [29]
+            xmin = 1271.824
+            xmax = 1273.743
+            text = "Looks like you’re doing an interview of some sort"
+        intervals [30]
+            xmin = 1273.743
+            xmax = 1274.319
+            text = ""
+        intervals [31]
+            xmin = 1274.319
+            xmax = 1274.981
+            text = "Wow"
+        intervals [32]
+            xmin = 1274.981
+            xmax = 1288.459
+            text = ""
+        intervals [33]
+            xmin = 1288.459
+            xmax = 1294.6
+            text = "We don’t remember each we don't remember each other but when I was the twins age seven years old"
+        intervals [34]
+            xmin = 1294.6
+            xmax = 1294.92
+            text = ""
+        intervals [35]
+            xmin = 1294.92
+            xmax = 1297.375
+            text = "He rode me on a glass bottom boat out there"
+        intervals [36]
+            xmin = 1297.375
+            xmax = 1298.077
+            text = ""
+        intervals [37]
+            xmin = 1298.077
+            xmax = 1298.783
+            text = "Sure did"
+        intervals [38]
+            xmin = 1298.783
+            xmax = 1299.72
+            text = ""
+        intervals [39]
+            xmin = 1299.72
+            xmax = 1301.24
+            text = "Oh we came here all the time"
+        intervals [40]
+            xmin = 1301.24
+            xmax = 1308.596
+            text = ""
+        intervals [41]
+            xmin = 1308.596
+            xmax = 1309.947
+            text = "Oh I know I know"
+        intervals [42]
+            xmin = 1309.947
+            xmax = 1311.789
+            text = "We used to love coming here"
+        intervals [43]
+            xmin = 1311.789
+            xmax = 1313.052
+            text = ""
+        intervals [44]
+            xmin = 1313.052
+            xmax = 1313.736
+            text = "We loved it"
+        intervals [45]
+            xmin = 1313.736
+            xmax = 1314.719
+            text = "We loved it"
+        intervals [46]
+            xmin = 1314.719
+            xmax = 1325.052
+            text = ""
+        intervals [47]
+            xmin = 1325.052
+            xmax = 1327.771
+            text = "All right well I’m gonna get outta ya’lls way I had"
+        intervals [48]
+            xmin = 1327.771
+            xmax = 1336.807
+            text = ""
+        intervals [49]
+            xmin = 1336.807
+            xmax = 1342.929
+            text = "Alright Piper You have to get up so I can get up baby Let these people get back at it"
+        intervals [50]
+            xmin = 1342.929
+            xmax = 1345.035
+            text = "She’s got a lot of questions to get answered"
+        intervals [51]
+            xmin = 1345.035
+            xmax = 1352.683
+            text = ""
+        intervals [52]
+            xmin = 1352.683
+            xmax = 1355.209
+            text = "Oh yeah been there done that"
+        intervals [53]
+            xmin = 1355.209
+            xmax = 1359.35
+            text = ""
+        intervals [54]
+            xmin = 1359.35
+            xmax = 1360.298
+            text = "All right you too"
+        intervals [55]
+            xmin = 1360.298
+            xmax = 1485.577
+            text = ""
+        intervals [56]
+            xmin = 1485.577
+            xmax = 1486.921
+            text = "the headwaters of it"
+        intervals [57]
+            xmin = 1486.921
+            xmax = 1503.124
+            text = ""
+        intervals [58]
+            xmin = 1503.124
+            xmax = 1504.406
+            text = "he's gone"
+        intervals [59]
+            xmin = 1504.406
+            xmax = 1506.375
+            text = ""
+        intervals [60]
+            xmin = 1506.375
+            xmax = 1507.437
+            text = "that's funny"
+        intervals [61]
+            xmin = 1507.437
+            xmax = 1511.046
+            text = ""
+        intervals [62]
+            xmin = 1511.046
+            xmax = 1515.452
+            text = "that's good stuff where else can you see it at and get paid"
+        intervals [63]
+            xmin = 1515.452
+            xmax = 1758.308
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "F: "
+        xmin = 0.0
+        xmax = 1758.308
+        intervals: size = 528
+        intervals [1]
+            xmin = 0.0
+            xmax = 10.8
+            text = ""
+        intervals [2]
+            xmin = 10.8
+            xmax = 16.96
+            text = "Well I had a brother here he come here in 56 me in 57 and we about the two oldest things here right now"
+        intervals [3]
+            xmin = 16.96
+            xmax = 20.64
+            text = "And when I come uh uh I like what I seen"
+        intervals [4]
+            xmin = 20.64
+            xmax = 26.56
+            text = "I was training I was trained and I been gettin the eh take people out"
+        intervals [5]
+            xmin = 26.56
+            xmax = 30.23
+            text = "And I made everybody so happy so I enjoyed doing what I was doing"
+        intervals [6]
+            xmin = 30.23
+            xmax = 30.26
+            text = ""
+        intervals [7]
+            xmin = 30.26
+            xmax = 33.58
+            text = "That's the reason many put as many years in this place as I have"
+        intervals [8]
+            xmin = 33.58
+            xmax = 33.66
+            text = ""
+        intervals [9]
+            xmin = 33.66
+            xmax = 37.77
+            text = "Cause I was enjoying what I was doing that's making somebody happy so"
+        intervals [10]
+            xmin = 37.77
+            xmax = 41.44
+            text = ""
+        intervals [11]
+            xmin = 41.44
+            xmax = 42.09
+            text = "Son"
+        intervals [12]
+            xmin = 42.09
+            xmax = 44.26
+            text = ""
+        intervals [13]
+            xmin = 44.26
+            xmax = 46.03
+            text = "Yeah"
+        intervals [14]
+            xmin = 46.03
+            xmax = 48.07
+            text = "Yeah those the guys that hired me right there"
+        intervals [15]
+            xmin = 48.07
+            xmax = 53.18
+            text = "First one you’re looking at is Corey next one in the middle is old man Dave they was piloting ships together"
+        intervals [16]
+            xmin = 53.18
+            xmax = 53.65
+            text = ""
+        intervals [17]
+            xmin = 53.65
+            xmax = 60.75
+            text = "And then the one out there about in the far left that was his son Buckley those were the guys that hired me back 1957"
+        intervals [18]
+            xmin = 60.75
+            xmax = 64.41
+            text = ""
+        intervals [19]
+            xmin = 64.41
+            xmax = 66.42
+            text = "Yeah he come here in 56 me in 57"
+        intervals [20]
+            xmin = 66.42
+            xmax = 68.92
+            text = "We are the two oldest things here right now"
+        intervals [21]
+            xmin = 68.92
+            xmax = 74.17
+            text = ""
+        intervals [22]
+            xmin = 74.17
+            xmax = 75.89
+            text = "Oh I loved doing what I was doing"
+        intervals [23]
+            xmin = 75.89
+            xmax = 78.36
+            text = "I loved it because I made a lot of people happy"
+        intervals [24]
+            xmin = 78.36
+            xmax = 83.65
+            text = "We would go down there back in the day because there was a whole lot more to see then than what we are seeing today"
+        intervals [25]
+            xmin = 83.65
+            xmax = 85.19
+            text = ""
+        intervals [26]
+            xmin = 85.19
+            xmax = 88.15
+            text = "Um we would well we had more fish"
+        intervals [27]
+            xmin = 88.15
+            xmax = 96.31
+            text = "I remember a time I could take that boat I could spin it ‘round I don’t care where in that river and I’d have that glass just full of blue gill and bream as you could see"
+        intervals [28]
+            xmin = 96.31
+            xmax = 97.91
+            text = ""
+        intervals [29]
+            xmin = 97.91
+            xmax = 100.39
+            text = "They began to dribble away"
+        intervals [30]
+            xmin = 100.39
+            xmax = 107.19
+            text = "When they started with the state barge canal they say they was gonna finish it I don’t think they are they ain't finished it so far I doubt they do"
+        intervals [31]
+            xmin = 107.19
+            xmax = 110.69
+            text = "But anyway that’s cause it was wars"
+        intervals [32]
+            xmin = 110.69
+            xmax = 119.08
+            text = "In those days it was just two things going Silver Springs Cypress Park those were the two main attractions back in the days"
+        intervals [33]
+            xmin = 119.08
+            xmax = 122.81
+            text = ""
+        intervals [34]
+            xmin = 122.81
+            xmax = 123.29
+            text = "No"
+        intervals [35]
+            xmin = 123.29
+            xmax = 123.83
+            text = ""
+        intervals [36]
+            xmin = 123.83
+            xmax = 125.8
+            text = "I’ve done all of mine right here"
+        intervals [37]
+            xmin = 125.8
+            xmax = 127.51
+            text = "Right up and down that river right there"
+        intervals [38]
+            xmin = 127.51
+            xmax = 131.17
+            text = "The head water of the Silver river that’s the beginning of it I’d bring you down"
+        intervals [39]
+            xmin = 131.17
+            xmax = 133.8
+            text = "That’s where all my training that’s where I got it right there"
+        intervals [40]
+            xmin = 133.8
+            xmax = 137.56
+            text = ""
+        intervals [41]
+            xmin = 137.56
+            xmax = 139.44
+            text = "The training oh the change"
+        intervals [42]
+            xmin = 139.44
+            xmax = 141.88
+            text = ""
+        intervals [43]
+            xmin = 141.88
+            xmax = 144.64
+            text = "Oh I guess like doing what I was doing"
+        intervals [44]
+            xmin = 144.64
+            xmax = 147.92
+            text = "All we done was just ride with another captain"
+        intervals [45]
+            xmin = 147.92
+            xmax = 151.04
+            text = "And see what he does and you take it from there"
+        intervals [46]
+            xmin = 151.04
+            xmax = 155.09
+            text = "Sometimes you do good sometimes better than one you rode with"
+        intervals [47]
+            xmin = 155.09
+            xmax = 158.04
+            text = "So in my case it happened many times yeah"
+        intervals [48]
+            xmin = 158.04
+            xmax = 165.81
+            text = ""
+        intervals [49]
+            xmin = 165.81
+            xmax = 169.11
+            text = "Absolutely absolutely"
+        intervals [50]
+            xmin = 169.11
+            xmax = 169.15
+            text = ""
+        intervals [51]
+            xmin = 169.15
+            xmax = 169.58
+            text = "Yeah"
+        intervals [52]
+            xmin = 169.58
+            xmax = 172.8
+            text = ""
+        intervals [53]
+            xmin = 172.8
+            xmax = 174.68
+            text = "Um not necessarily no"
+        intervals [54]
+            xmin = 174.68
+            xmax = 179.49
+            text = "We had both we had black captains and white captains also"
+        intervals [55]
+            xmin = 179.49
+            xmax = 181.279
+            text = ""
+        intervals [56]
+            xmin = 181.279
+            xmax = 181.761
+            text = "Yeah"
+        intervals [57]
+            xmin = 181.761
+            xmax = 183.348
+            text = ""
+        intervals [58]
+            xmin = 183.348
+            xmax = 184.197
+            text = "We had a few"
+        intervals [59]
+            xmin = 184.197
+            xmax = 185.866
+            text = "We had some here"
+        intervals [60]
+            xmin = 185.866
+            xmax = 192.333
+            text = "Up there’s a picture of some of us you might wanna look at that too before you walk out of here"
+        intervals [61]
+            xmin = 192.333
+            xmax = 192.766
+            text = ""
+        intervals [62]
+            xmin = 192.766
+            xmax = 195.233
+            text = "I don’t know but that one was done back in 72"
+        intervals [63]
+            xmin = 195.233
+            xmax = 197.499
+            text = "A lot of them have already gone back in that day"
+        intervals [64]
+            xmin = 197.499
+            xmax = 199.866
+            text = "But that’s what it was"
+        intervals [65]
+            xmin = 199.866
+            xmax = 203.866
+            text = "Wasn’t nothing but a string of us Twenty some of us"
+        intervals [66]
+            xmin = 203.866
+            xmax = 205.612
+            text = ""
+        intervals [67]
+            xmin = 205.612
+            xmax = 208.469
+            text = "Twenty Five"
+        intervals [68]
+            xmin = 208.469
+            xmax = 209.612
+            text = "Look in front of ya"
+        intervals [69]
+            xmin = 209.612
+            xmax = 211.081
+            text = "That’s what we were running"
+        intervals [70]
+            xmin = 211.081
+            xmax = 215.836
+            text = ""
+        intervals [71]
+            xmin = 215.836
+            xmax = 217.612
+            text = "Always glass bottom"
+        intervals [72]
+            xmin = 217.612
+            xmax = 224.285
+            text = "We had a jungle boat it's a much larger boat I don’t think he’s on in this"
+        intervals [73]
+            xmin = 224.285
+            xmax = 233.775
+            text = "Uh I think that they done most of this somewhere I looked at a picture we had made on that something's captain it was made in seventy two I want to say"
+        intervals [74]
+            xmin = 233.775
+            xmax = 235.693
+            text = "It’s up there anyway you take a look at it"
+        intervals [75]
+            xmin = 235.693
+            xmax = 237.469
+            text = "But that’s what we done"
+        intervals [76]
+            xmin = 237.469
+            xmax = 240.408
+            text = "We was here back in the day and that’s what we used to do"
+        intervals [77]
+            xmin = 240.408
+            xmax = 246.836
+            text = ""
+        intervals [78]
+            xmin = 246.836
+            xmax = 247.326
+            text = "No"
+        intervals [79]
+            xmin = 247.326
+            xmax = 248.918
+            text = "Paradise was here when I come here"
+        intervals [80]
+            xmin = 248.918
+            xmax = 255.51
+            text = ""
+        intervals [81]
+            xmin = 255.51
+            xmax = 257.88
+            text = "A lot of times we go there all the time anyway"
+        intervals [82]
+            xmin = 257.88
+            xmax = 261.183
+            text = "A lot of the time they would call they had one or two boats there"
+        intervals [83]
+            xmin = 261.183
+            xmax = 263.32
+            text = "Sometimes the crowd got larger"
+        intervals [84]
+            xmin = 263.32
+            xmax = 276.02
+            text = "If it did they’d just call the phone the PD bell rang  whoever was workin’ the front Alright guys We need one to PD Anybody wanna go volunteer or I’m gonna draft somebody"
+        intervals [85]
+            xmin = 276.02
+            xmax = 277.346
+            text = "That’s the way we acted"
+        intervals [86]
+            xmin = 277.346
+            xmax = 279.122
+            text = "We’d go down there I enjoyed it all"
+        intervals [87]
+            xmin = 279.122
+            xmax = 282.653
+            text = ""
+        intervals [88]
+            xmin = 282.653
+            xmax = 283.693
+            text = "Not in Ocala"
+        intervals [89]
+            xmin = 283.693
+            xmax = 284.408
+            text = "Fort McCoy"
+        intervals [90]
+            xmin = 284.408
+            xmax = 286.367
+            text = ""
+        intervals [91]
+            xmin = 286.367
+            xmax = 294.693
+            text = "Nineteen Fort McCoy  I was born nineteen uh ew bout ah"
+        intervals [92]
+            xmin = 294.693
+            xmax = 296.306
+            text = "Can’t even think of my birthday"
+        intervals [93]
+            xmin = 296.306
+            xmax = 297.224
+            text = "First let that 32"
+        intervals [94]
+            xmin = 297.224
+            xmax = 303.04
+            text = ""
+        intervals [95]
+            xmin = 303.04
+            xmax = 312.857
+            text = "Oh they did a little of everything just here and there Different time to what it is today yeah"
+        intervals [96]
+            xmin = 312.857
+            xmax = 319.53
+            text = "I lost my father at an early age too at forty five years When I got there I thought about it Lord have mercy"
+        intervals [97]
+            xmin = 319.53
+            xmax = 327.632
+            text = "Um he was a young guy but technology just wasn’t where it was that day like it is today"
+        intervals [98]
+            xmin = 327.632
+            xmax = 332.816
+            text = "So many problems people had then knock it out like nothing"
+        intervals [99]
+            xmin = 332.816
+            xmax = 335.346
+            text = "Then he just wasn’t there so"
+        intervals [100]
+            xmin = 335.346
+            xmax = 341.816
+            text = ""
+        intervals [101]
+            xmin = 341.816
+            xmax = 343.897
+            text = "How did what now did"
+        intervals [102]
+            xmin = 343.897
+            xmax = 346.979
+            text = ""
+        intervals [103]
+            xmin = 346.979
+            xmax = 349.142
+            text = "Well yeah that"
+        intervals [104]
+            xmin = 349.142
+            xmax = 354.653
+            text = "This come up during segregation days"
+        intervals [105]
+            xmin = 354.653
+            xmax = 358.387
+            text = "And this is the purpose of all what you’re seeing in here right now"
+        intervals [106]
+            xmin = 358.387
+            xmax = 359.755
+            text = "Yeah it's gonna change"
+        intervals [107]
+            xmin = 359.755
+            xmax = 361.285
+            text = "Yeah it was change"
+        intervals [108]
+            xmin = 361.285
+            xmax = 368.959
+            text = "I never felt too much of a bite from it cause I enjoyed doing what I was doin’"
+        intervals [109]
+            xmin = 368.959
+            xmax = 376.918
+            text = "And most people that I rode that’s what made me a sort of interesting thing"
+        intervals [110]
+            xmin = 376.918
+            xmax = 383.204
+            text = "Because you made a lot of peoples happy and that was my goal to make somebody happy"
+        intervals [111]
+            xmin = 383.204
+            xmax = 386.142
+            text = "I’m not here to offend anybody I’m here to try and make them happy"
+        intervals [112]
+            xmin = 386.142
+            xmax = 387.53
+            text = "And that’s what I done"
+        intervals [113]
+            xmin = 387.53
+            xmax = 390.02
+            text = "And that’s the purpose of me putting in the time that I did"
+        intervals [114]
+            xmin = 390.02
+            xmax = 391.897
+            text = ""
+        intervals [115]
+            xmin = 391.897
+            xmax = 394.367
+            text = "Yeah makin’ people happy that’s the bottom line"
+        intervals [116]
+            xmin = 394.367
+            xmax = 397.918
+            text = "But it was something out there to make them happy back in those days"
+        intervals [117]
+            xmin = 397.918
+            xmax = 406.244
+            text = "Cause we would go back in there I could take it and spin that boat around I don’t care where in that river and I’d have that boat a glass full of fish anywhere in the river"
+        intervals [118]
+            xmin = 406.244
+            xmax = 407.8
+            text = "We’d feed them bread back in the day"
+        intervals [119]
+            xmin = 407.8
+            xmax = 412.56
+            text = "So it made a few changes in the feeding system things like that"
+        intervals [120]
+            xmin = 412.56
+            xmax = 415.04
+            text = "But still fun place to work"
+        intervals [121]
+            xmin = 415.04
+            xmax = 420.061
+            text = ""
+        intervals [122]
+            xmin = 420.061
+            xmax = 423.0
+            text = "Well attendance has dropped"
+        intervals [123]
+            xmin = 423.0
+            xmax = 426.12
+            text = "Um and I’m gonna say this to ya"
+        intervals [124]
+            xmin = 426.12
+            xmax = 427.693
+            text = "The state is there"
+        intervals [125]
+            xmin = 427.693
+            xmax = 431.52
+            text = "When when I was here under those three guys those are the ones that hired me on the wall"
+        intervals [126]
+            xmin = 431.52
+            xmax = 433.489
+            text = "It was a theme park"
+        intervals [127]
+            xmin = 433.489
+            xmax = 434.163
+            text = "All right"
+        intervals [128]
+            xmin = 434.163
+            xmax = 437.061
+            text = "The state come in and changed it to be a state park"
+        intervals [129]
+            xmin = 437.061
+            xmax = 443.04
+            text = "A lot of things we could do when it was a theme park state didn’t want it to be that way"
+        intervals [130]
+            xmin = 443.04
+            xmax = 446.88
+            text = "And that’s what’s making it slightly changed right"
+        intervals [131]
+            xmin = 446.88
+            xmax = 449.367
+            text = ""
+        intervals [132]
+            xmin = 449.367
+            xmax = 449.96
+            text = "Yes"
+        intervals [133]
+            xmin = 449.96
+            xmax = 453.428
+            text = "That hurt the attendance definitely yeah"
+        intervals [134]
+            xmin = 453.428
+            xmax = 461.836
+            text = ""
+        intervals [135]
+            xmin = 461.836
+            xmax = 462.571
+            text = "Yeah"
+        intervals [136]
+            xmin = 462.571
+            xmax = 464.244
+            text = "We done some of everything yeah"
+        intervals [137]
+            xmin = 464.244
+            xmax = 468.122
+            text = "Sometime we would go down there we’d ride on Sundays"
+        intervals [138]
+            xmin = 468.122
+            xmax = 471.959
+            text = "Sometime we would go down that’s where we used to turn around at Paradise Park"
+        intervals [139]
+            xmin = 471.959
+            xmax = 472.775
+            text = ""
+        intervals [140]
+            xmin = 472.775
+            xmax = 482.571
+            text = "And we’d go down there and sometimes they’d have fifteen to twenty converts baptizing right in the Silver River"
+        intervals [141]
+            xmin = 482.571
+            xmax = 488.673
+            text = "And we would go down there and there and uh with a boatload of tourists from here we’d go around and spin the boat around"
+        intervals [142]
+            xmin = 488.673
+            xmax = 489.734
+            text = "Hold it right there brother"
+        intervals [143]
+            xmin = 489.734
+            xmax = 490.836
+            text = "What what’s going on"
+        intervals [144]
+            xmin = 490.836
+            xmax = 492.571
+            text = "A baptism is goin’ on over there"
+        intervals [145]
+            xmin = 492.571
+            xmax = 497.04
+            text = "And a lot of time I would sit the boat and hold it for em there til the baptism was over phew"
+        intervals [146]
+            xmin = 497.04
+            xmax = 499.897
+            text = "Turn around bring em back up the river"
+        intervals [147]
+            xmin = 499.897
+            xmax = 501.163
+            text = "That’s what we used to do"
+        intervals [148]
+            xmin = 501.163
+            xmax = 502.489
+            text = "Fun place to work"
+        intervals [149]
+            xmin = 502.489
+            xmax = 503.163
+            text = ""
+        intervals [150]
+            xmin = 503.163
+            xmax = 504.102
+            text = "Yeah"
+        intervals [151]
+            xmin = 504.102
+            xmax = 510.244
+            text = ""
+        intervals [152]
+            xmin = 510.244
+            xmax = 514.081
+            text = "Well no and yes"
+        intervals [153]
+            xmin = 514.081
+            xmax = 522.84
+            text = "There’s a guy up there and he use to do all the filming for advertising for Silver Springs"
+        intervals [154]
+            xmin = 522.84
+            xmax = 527.142
+            text = "That’s Bruce Moller he’s on that the little short guy over there"
+        intervals [155]
+            xmin = 527.142
+            xmax = 530.682
+            text = "He’s good at what he was doing lots of these old cameras and things you see up there"
+        intervals [156]
+            xmin = 530.682
+            xmax = 532.32
+            text = "He was good at that"
+        intervals [157]
+            xmin = 532.32
+            xmax = 533.719
+            text = "And that’s what he would do"
+        intervals [158]
+            xmin = 533.719
+            xmax = 537.84
+            text = "And he would stop us in the middle of the river and the trip was a forty five minute ride"
+        intervals [159]
+            xmin = 537.84
+            xmax = 539.634
+            text = "For the glass bottom boat"
+        intervals [160]
+            xmin = 539.634
+            xmax = 547.8
+            text = "They had the general crew would carry you on down there it was stay down there for about an hour or better but it went much further down the river five miles"
+        intervals [161]
+            xmin = 547.8
+            xmax = 551.76
+            text = "Man when you when see him coming he’d wave his hand out like that"
+        intervals [162]
+            xmin = 551.76
+            xmax = 557.88
+            text = "When he do that he’d want to stop and make some pictures where you was at that particular time"
+        intervals [163]
+            xmin = 557.88
+            xmax = 568.72
+            text = "And we’d just stop the boat and he’d tell us what he want done and Spin us around raise ya windows everybody hang on feed the fish"
+        intervals [164]
+            xmin = 568.72
+            xmax = 570.329
+            text = "Okay he’d get a shot of that"
+        intervals [165]
+            xmin = 570.329
+            xmax = 575.109
+            text = "Then he’s spinning around couple of three positions that he would have you in"
+        intervals [166]
+            xmin = 575.109
+            xmax = 576.06
+            text = "It wasn’t bad"
+        intervals [167]
+            xmin = 576.06
+            xmax = 579.402
+            text = "And um I like doing what I was doing"
+        intervals [168]
+            xmin = 579.402
+            xmax = 582.219
+            text = "So I done what he said do"
+        intervals [169]
+            xmin = 582.219
+            xmax = 584.853
+            text = "So I enjoyed doing what I was doing so"
+        intervals [170]
+            xmin = 584.853
+            xmax = 588.085
+            text = "So the same way he was doing he done"
+        intervals [171]
+            xmin = 588.085
+            xmax = 588.17
+            text = ""
+        intervals [172]
+            xmin = 588.17
+            xmax = 589.44
+            text = "He done a good job at it"
+        intervals [173]
+            xmin = 589.44
+            xmax = 590.76
+            text = "He made good shots yeah"
+        intervals [174]
+            xmin = 590.76
+            xmax = 592.5
+            text = ""
+        intervals [175]
+            xmin = 592.5
+            xmax = 595.44
+            text = "Aw yeah he’s good ain’t no question about it"
+        intervals [176]
+            xmin = 595.44
+            xmax = 596.92
+            text = "Just to get by there cause"
+        intervals [177]
+            xmin = 596.92
+            xmax = 598.56
+            text = "There or four months ago"
+        intervals [178]
+            xmin = 598.56
+            xmax = 600.585
+            text = ""
+        intervals [179]
+            xmin = 600.585
+            xmax = 601.658
+            text = "Um hm"
+        intervals [180]
+            xmin = 601.658
+            xmax = 605.44
+            text = ""
+        intervals [181]
+            xmin = 605.44
+            xmax = 608.829
+            text = "Just dig up something I’m gonna give you answers for it whatever is coming"
+        intervals [182]
+            xmin = 608.829
+            xmax = 615.207
+            text = ""
+        intervals [183]
+            xmin = 615.207
+            xmax = 618.963
+            text = "Well yeah I was aware of that cause I was in the middle of some of it anyways"
+        intervals [184]
+            xmin = 618.963
+            xmax = 621.975
+            text = ""
+        intervals [185]
+            xmin = 621.975
+            xmax = 622.44
+            text = "Yeah"
+        intervals [186]
+            xmin = 622.44
+            xmax = 623.719
+            text = ""
+        intervals [187]
+            xmin = 623.719
+            xmax = 626.08
+            text = "Well that’s what was goin’ on and um"
+        intervals [188]
+            xmin = 626.08
+            xmax = 629.88
+            text = "I was just into it because it was interesting to me you know"
+        intervals [189]
+            xmin = 629.88
+            xmax = 633.414
+            text = "The way the thing was going it wasn’t exactly right the way it was going for the get go"
+        intervals [190]
+            xmin = 633.414
+            xmax = 635.951
+            text = "And that’s why I was right in the middle of it"
+        intervals [191]
+            xmin = 635.951
+            xmax = 637.865
+            text = "I stayed right in the middle of it"
+        intervals [192]
+            xmin = 637.865
+            xmax = 641.512
+            text = ""
+        intervals [193]
+            xmin = 641.512
+            xmax = 649.5
+            text = "No but I was happy with what I was doin’ here simply because what I done I made people happy with what I was doing"
+        intervals [194]
+            xmin = 649.5
+            xmax = 652.829
+            text = "If I made them happy then there was no reason for me not to be happy"
+        intervals [195]
+            xmin = 652.829
+            xmax = 657.611
+            text = ""
+        intervals [196]
+            xmin = 657.611
+            xmax = 662.444
+            text = "Yeah I used to I I come up on a farm my own self farm my own self I have one now"
+        intervals [197]
+            xmin = 662.444
+            xmax = 668.333
+            text = "I did and um after I got here I got to busy here"
+        intervals [198]
+            xmin = 668.333
+            xmax = 672.055
+            text = "I just kind of let it fade away that’s what it was"
+        intervals [199]
+            xmin = 672.055
+            xmax = 673.0
+            text = "But it was good"
+        intervals [200]
+            xmin = 673.0
+            xmax = 674.418
+            text = ""
+        intervals [201]
+            xmin = 674.418
+            xmax = 675.27
+            text = "Yeah"
+        intervals [202]
+            xmin = 675.27
+            xmax = 688.986
+            text = ""
+        intervals [203]
+            xmin = 688.986
+            xmax = 693.81
+            text = "Well it's a whole lot it may not come to my remembrance right now but so much I've done"
+        intervals [204]
+            xmin = 693.81
+            xmax = 698.48
+            text = "And man I could just about should’ve written a book about it anyway cause"
+        intervals [205]
+            xmin = 698.48
+            xmax = 700.824
+            text = "I’ve seen it all and I’ve done all of it"
+        intervals [206]
+            xmin = 700.824
+            xmax = 701.0
+            text = ""
+        intervals [207]
+            xmin = 701.0
+            xmax = 708.824
+            text = "And the bottom line was what I done is that I make people happy with what I was doing"
+        intervals [208]
+            xmin = 708.824
+            xmax = 712.405
+            text = "So it's a  wasn't no backfire I mean one way or the other"
+        intervals [209]
+            xmin = 712.405
+            xmax = 713.391
+            text = "You know"
+        intervals [210]
+            xmin = 713.391
+            xmax = 715.527
+            text = "People are people I don’t care where you go"
+        intervals [211]
+            xmin = 715.527
+            xmax = 718.702
+            text = "And I had some mighty good people thereI though"
+        intervals [212]
+            xmin = 718.702
+            xmax = 722.445
+            text = ""
+        intervals [213]
+            xmin = 722.445
+            xmax = 723.013
+            text = "Yup"
+        intervals [214]
+            xmin = 723.013
+            xmax = 724.297
+            text = ""
+        intervals [215]
+            xmin = 724.297
+            xmax = 724.864
+            text = "Yeah"
+        intervals [216]
+            xmin = 724.864
+            xmax = 725.418
+            text = ""
+        intervals [217]
+            xmin = 725.418
+            xmax = 726.324
+            text = "No I no"
+        intervals [218]
+            xmin = 726.324
+            xmax = 730.351
+            text = "I just put them on my boat and take them down the river and show em that happens all the time"
+        intervals [219]
+            xmin = 730.351
+            xmax = 732.32
+            text = "Some they come to respect me"
+        intervals [220]
+            xmin = 732.32
+            xmax = 732.783
+            text = ""
+        intervals [221]
+            xmin = 732.783
+            xmax = 734.8
+            text = "And take them down the um river"
+        intervals [222]
+            xmin = 734.8
+            xmax = 737.567
+            text = "We done well we done all down through here"
+        intervals [223]
+            xmin = 737.567
+            xmax = 743.783
+            text = ""
+        intervals [224]
+            xmin = 743.783
+            xmax = 744.92
+            text = "Oh"
+        intervals [225]
+            xmin = 744.92
+            xmax = 746.28
+            text = "That’s here on the wall"
+        intervals [226]
+            xmin = 746.28
+            xmax = 749.837
+            text = "Just about everything you see up there you see this was here Johnny Weissmuller"
+        intervals [227]
+            xmin = 749.837
+            xmax = 750.891
+            text = ""
+        intervals [228]
+            xmin = 750.891
+            xmax = 752.92
+            text = "That was one of the older movies"
+        intervals [229]
+            xmin = 752.92
+            xmax = 755.405
+            text = "But I can barely remember him"
+        intervals [230]
+            xmin = 755.405
+            xmax = 761.013
+            text = "But just about everything else you see along there All of that I can just about walk you through it every bit of it"
+        intervals [231]
+            xmin = 761.013
+            xmax = 761.31
+            text = ""
+        intervals [232]
+            xmin = 761.31
+            xmax = 762.797
+            text = "See this guy here"
+        intervals [233]
+            xmin = 762.797
+            xmax = 766.324
+            text = "Old old Rick O’Bryan that’s my old buddy anyway"
+        intervals [234]
+            xmin = 766.324
+            xmax = 767.378
+            text = ""
+        intervals [235]
+            xmin = 767.378
+            xmax = 769.594
+            text = "Well and the Creature right there him"
+        intervals [236]
+            xmin = 769.594
+            xmax = 773.945
+            text = "Well and his mother was in here I don’t know three months ago"
+        intervals [237]
+            xmin = 773.945
+            xmax = 777.081
+            text = "And yeah she say that’s my son"
+        intervals [238]
+            xmin = 777.081
+            xmax = 781.28
+            text = "Yeah well me and him done been in to some of everything I can tell you right"
+        intervals [239]
+            xmin = 781.28
+            xmax = 787.027
+            text = ""
+        intervals [240]
+            xmin = 787.027
+            xmax = 791.351
+            text = "Oh it’s been a fun place no question That’s a good guy up there he’s done a lot of good"
+        intervals [241]
+            xmin = 791.351
+            xmax = 792.054
+            text = "Lloyd Bridges"
+        intervals [242]
+            xmin = 792.054
+            xmax = 792.5
+            text = ""
+        intervals [243]
+            xmin = 792.5
+            xmax = 793.932
+            text = "Yeah he was good"
+        intervals [244]
+            xmin = 793.932
+            xmax = 795.216
+            text = "He was good"
+        intervals [245]
+            xmin = 795.216
+            xmax = 797.824
+            text = "All of those guys were good"
+        intervals [246]
+            xmin = 797.824
+            xmax = 800.743
+            text = "And the story goes on and on"
+        intervals [247]
+            xmin = 800.743
+            xmax = 802.081
+            text = ""
+        intervals [248]
+            xmin = 802.081
+            xmax = 803.391
+            text = "Still goes on"
+        intervals [249]
+            xmin = 803.391
+            xmax = 803.851
+            text = ""
+        intervals [250]
+            xmin = 803.851
+            xmax = 809.0
+            text = "We don’t have that um nothing like the attendance that we used to have here you know"
+        intervals [251]
+            xmin = 809.0
+            xmax = 809.04
+            text = ""
+        intervals [252]
+            xmin = 809.04
+            xmax = 811.121
+            text = "We all look out there"
+        intervals [253]
+            xmin = 811.121
+            xmax = 813.216
+            text = "Where all that grass done grew up there"
+        intervals [254]
+            xmin = 813.216
+            xmax = 815.432
+            text = "That used to be nothing but a big sand beach"
+        intervals [255]
+            xmin = 815.432
+            xmax = 818.189
+            text = ""
+        intervals [256]
+            xmin = 818.189
+            xmax = 818.88
+            text = "Oh yeah"
+        intervals [257]
+            xmin = 818.88
+            xmax = 820.013
+            text = "All back in there"
+        intervals [258]
+            xmin = 820.013
+            xmax = 823.729
+            text = "Where you see all that all that was nothing but sand beach"
+        intervals [259]
+            xmin = 823.729
+            xmax = 828.635
+            text = "Go in and take your dip in seventy two degree water come out lay in the sun and get your suntan"
+        intervals [260]
+            xmin = 828.635
+            xmax = 830.675
+            text = "That’s what it was all about back in the day"
+        intervals [261]
+            xmin = 830.675
+            xmax = 831.127
+            text = ""
+        intervals [262]
+            xmin = 831.127
+            xmax = 831.83
+            text = "Yeah"
+        intervals [263]
+            xmin = 831.83
+            xmax = 835.081
+            text = ""
+        intervals [264]
+            xmin = 835.081
+            xmax = 835.486
+            text = "Yeah"
+        intervals [265]
+            xmin = 835.486
+            xmax = 836.581
+            text = "Well that’s farther down"
+        intervals [266]
+            xmin = 836.581
+            xmax = 837.229
+            text = "To get there"
+        intervals [267]
+            xmin = 837.229
+            xmax = 839.162
+            text = "Ya’ll didn’t get there"
+        intervals [268]
+            xmin = 839.162
+            xmax = 840.108
+            text = ""
+        intervals [269]
+            xmin = 840.108
+            xmax = 842.797
+            text = "You can but it’s done grew up you wouldn’t know it"
+        intervals [270]
+            xmin = 842.797
+            xmax = 843.581
+            text = ""
+        intervals [271]
+            xmin = 843.581
+            xmax = 845.716
+            text = "That’s what I’m saying is a road that go there"
+        intervals [272]
+            xmin = 845.716
+            xmax = 847.013
+            text = "You come in on forty"
+        intervals [273]
+            xmin = 847.013
+            xmax = 849.959
+            text = "You just shift over on Baseline"
+        intervals [274]
+            xmin = 849.959
+            xmax = 856.905
+            text = "And you’ll see the big road here going east"
+        intervals [275]
+            xmin = 856.905
+            xmax = 864.405
+            text = "Yeah you just drive right down and it will take you right on down to Ole’ PD or Paradise Park"
+        intervals [276]
+            xmin = 864.405
+            xmax = 873.054
+            text = "I done went through it with the has a well they were just taking riders through it on the old buggy pullin"
+        intervals [277]
+            xmin = 873.054
+            xmax = 874.702
+            text = "Yeah we done been all the way through there"
+        intervals [278]
+            xmin = 874.702
+            xmax = 878.013
+            text = ""
+        intervals [279]
+            xmin = 878.013
+            xmax = 879.48
+            text = "No no boats there at all"
+        intervals [280]
+            xmin = 879.48
+            xmax = 880.92
+            text = "You wouldn’t even know it"
+        intervals [281]
+            xmin = 880.92
+            xmax = 881.891
+            text = ""
+        intervals [282]
+            xmin = 881.891
+            xmax = 888.581
+            text = "This river they cut a canal through going there and that’s where it would come out"
+        intervals [283]
+            xmin = 888.581
+            xmax = 891.081
+            text = "Right there down on PD Paradise Park"
+        intervals [284]
+            xmin = 891.081
+            xmax = 897.837
+            text = "I had to give one young guy He come here he wanted to make some pictures and he needed instruction"
+        intervals [285]
+            xmin = 897.837
+            xmax = 899.48
+            text = "And I asked him Where you were going"
+        intervals [286]
+            xmin = 899.48
+            xmax = 901.12
+            text = "He said Oh Paradise Park"
+        intervals [287]
+            xmin = 901.12
+            xmax = 903.28
+            text = "Then I just lay out coming back the way it was"
+        intervals [288]
+            xmin = 903.28
+            xmax = 905.04
+            text = "Now he said Yeah I know where you were"
+        intervals [289]
+            xmin = 905.04
+            xmax = 909.2
+            text = "I say You remember that big rock set way out there"
+        intervals [290]
+            xmin = 909.2
+            xmax = 909.8
+            text = "He said Yeah"
+        intervals [291]
+            xmin = 909.8
+            xmax = 914.56
+            text = "I said Well if you get there you’re in trouble cause a big rock down in your path and everything so"
+        intervals [292]
+            xmin = 914.56
+            xmax = 915.88
+            text = "He understood"
+        intervals [293]
+            xmin = 915.88
+            xmax = 920.459
+            text = "Keep on askin"
+        intervals [294]
+            xmin = 920.459
+            xmax = 923.486
+            text = "I don’t know I’m going to give you answers whatever you got there"
+        intervals [295]
+            xmin = 923.486
+            xmax = 938.756
+            text = ""
+        intervals [296]
+            xmin = 938.756
+            xmax = 939.932
+            text = "They just shut it down"
+        intervals [297]
+            xmin = 939.932
+            xmax = 940.337
+            text = ""
+        intervals [298]
+            xmin = 940.337
+            xmax = 941.121
+            text = "Shut it down"
+        intervals [299]
+            xmin = 941.121
+            xmax = 941.135
+            text = ""
+        intervals [300]
+            xmin = 941.135
+            xmax = 942.459
+            text = "That was a beautiful place"
+        intervals [301]
+            xmin = 942.459
+            xmax = 942.473
+            text = ""
+        intervals [302]
+            xmin = 942.473
+            xmax = 943.864
+            text = "See all those pictures to your left"
+        intervals [303]
+            xmin = 943.864
+            xmax = 949.8
+            text = ""
+        intervals [304]
+            xmin = 949.8
+            xmax = 951.364
+            text = "All that they just ripped down"
+        intervals [305]
+            xmin = 951.364
+            xmax = 951.475
+            text = ""
+        intervals [306]
+            xmin = 951.475
+            xmax = 953.148
+            text = "Tore it down just like shoom"
+        intervals [307]
+            xmin = 953.148
+            xmax = 954.08
+            text = ""
+        intervals [308]
+            xmin = 954.08
+            xmax = 959.648
+            text = "Used to have the same thing that this guy here that you’re lookin’ at up in there"
+        intervals [309]
+            xmin = 959.648
+            xmax = 959.8
+            text = ""
+        intervals [310]
+            xmin = 959.8
+            xmax = 960.72
+            text = "Okay"
+        intervals [311]
+            xmin = 960.72
+            xmax = 966.2
+            text = "He made animals and all of that all of that they was kept he had at Paradise Park"
+        intervals [312]
+            xmin = 966.2
+            xmax = 968.243
+            text = ""
+        intervals [313]
+            xmin = 968.243
+            xmax = 969.459
+            text = "Yeah yeah"
+        intervals [314]
+            xmin = 969.459
+            xmax = 972.135
+            text = ""
+        intervals [315]
+            xmin = 972.135
+            xmax = 979.31
+            text = "Well he just put that up for people to see not necessarily he was in everything with that he had somebody that was running it for him"
+        intervals [316]
+            xmin = 979.31
+            xmax = 980.77
+            text = ""
+        intervals [317]
+            xmin = 980.77
+            xmax = 981.351
+            text = "Yeah"
+        intervals [318]
+            xmin = 981.351
+            xmax = 986.297
+            text = ""
+        intervals [319]
+            xmin = 986.297
+            xmax = 988.108
+            text = "Well yeah yeah"
+        intervals [320]
+            xmin = 988.108
+            xmax = 1003.92
+            text = "I would say so cause everybody would come man on a Christmas they had Santa Claus and on Easter they would have all that going It’s a big day at PD at Paradise Park Same thing as here"
+        intervals [321]
+            xmin = 1003.92
+            xmax = 1007.28
+            text = "So all of that was missing yes"
+        intervals [322]
+            xmin = 1007.28
+            xmax = 1016.31
+            text = ""
+        intervals [323]
+            xmin = 1016.31
+            xmax = 1016.864
+            text = "Yeah"
+        intervals [324]
+            xmin = 1016.864
+            xmax = 1016.891
+            text = ""
+        intervals [325]
+            xmin = 1016.891
+            xmax = 1017.445
+            text = "Yeah"
+        intervals [326]
+            xmin = 1017.445
+            xmax = 1021.689
+            text = "That’s the purpose of Paradise Park"
+        intervals [327]
+            xmin = 1021.689
+            xmax = 1024.189
+            text = "Now you’re backing up into integration days"
+        intervals [328]
+            xmin = 1024.189
+            xmax = 1027.567
+            text = "And that’s what that was all about back in the days"
+        intervals [329]
+            xmin = 1027.567
+            xmax = 1032.319
+            text = "A lot of people that come here Blacks I’m talkin’ and they was turned down"
+        intervals [330]
+            xmin = 1032.319
+            xmax = 1036.04
+            text = "That’s the purpose of that we opened up the way it was"
+        intervals [331]
+            xmin = 1036.04
+            xmax = 1039.432
+            text = "That’s why it become a Paradise Park"
+        intervals [332]
+            xmin = 1039.432
+            xmax = 1041.72
+            text = ""
+        intervals [333]
+            xmin = 1041.72
+            xmax = 1043.162
+            text = "Yeah yeah"
+        intervals [334]
+            xmin = 1043.162
+            xmax = 1045.108
+            text = ""
+        intervals [335]
+            xmin = 1045.108
+            xmax = 1048.946
+            text = "Yeah but boy man places be covered people there"
+        intervals [336]
+            xmin = 1048.946
+            xmax = 1053.418
+            text = "Man you come at a holiday you couldn’t stir a stick down there people"
+        intervals [337]
+            xmin = 1053.418
+            xmax = 1057.689
+            text = "So it was a drawing card cause bottom line that’s what it was"
+        intervals [338]
+            xmin = 1057.689
+            xmax = 1061.473
+            text = "I enjoyed it all and I was right in the middle of all of it"
+        intervals [339]
+            xmin = 1061.473
+            xmax = 1065.837
+            text = ""
+        intervals [340]
+            xmin = 1065.837
+            xmax = 1068.013
+            text = "Yeah for a long time that’s right"
+        intervals [341]
+            xmin = 1068.013
+            xmax = 1071.85
+            text = ""
+        intervals [342]
+            xmin = 1071.85
+            xmax = 1072.499
+            text = "Yeah"
+        intervals [343]
+            xmin = 1072.499
+            xmax = 1074.2
+            text = ""
+        intervals [344]
+            xmin = 1074.2
+            xmax = 1075.0
+            text = "Yeah"
+        intervals [345]
+            xmin = 1075.0
+            xmax = 1086.216
+            text = "Well when it comes to the state park I’m not saying being a state park and a theme park that’s what it was"
+        intervals [346]
+            xmin = 1086.216
+            xmax = 1088.68
+            text = "When I was running it back in those days it was a theme park"
+        intervals [347]
+            xmin = 1088.68
+            xmax = 1091.64
+            text = "And then the state taken over what"
+        intervals [348]
+            xmin = 1091.64
+            xmax = 1098.567
+            text = "The reason being a lot of them attendance was droppin with a lot of the places"
+        intervals [349]
+            xmin = 1098.567
+            xmax = 1103.0
+            text = "And the state would just barge in and pick it out which I thought was good"
+        intervals [350]
+            xmin = 1103.0
+            xmax = 1106.527
+            text = "Some of the places they closed down anyway"
+        intervals [351]
+            xmin = 1106.527
+            xmax = 1111.378
+            text = "Um you they done it a little bit different from what they was doin then so um"
+        intervals [352]
+            xmin = 1111.378
+            xmax = 1114.581
+            text = "To me I think it played a good part"
+        intervals [353]
+            xmin = 1114.581
+            xmax = 1121.76
+            text = "I real I ah liked it a whole lot better when they was doing it is a theme park in place of a state park"
+        intervals [354]
+            xmin = 1121.76
+            xmax = 1130.446
+            text = "Cause they got the rules and regulations some good and some well maybe not be so good but That’s the way it was"
+        intervals [355]
+            xmin = 1130.446
+            xmax = 1148.04
+            text = "But I’d just like to keep on taking it the way I done it as long as I made people happy but A lot of them they just had to because the attendance had dropped so bad that they couldn’t keep it open anyway They just closed it down themselves and that’s what they done"
+        intervals [356]
+            xmin = 1148.04
+            xmax = 1150.148
+            text = "That’s the good part right there yeah"
+        intervals [357]
+            xmin = 1150.148
+            xmax = 1154.8
+            text = ""
+        intervals [358]
+            xmin = 1154.8
+            xmax = 1158.81
+            text = "Some of em got it temporary but eventually closed completely"
+        intervals [359]
+            xmin = 1158.81
+            xmax = 1160.216
+            text = "That’s when the state come in"
+        intervals [360]
+            xmin = 1160.216
+            xmax = 1167.729
+            text = ""
+        intervals [361]
+            xmin = 1167.729
+            xmax = 1170.067
+            text = "Yeah They were good"
+        intervals [362]
+            xmin = 1170.067
+            xmax = 1172.52
+            text = "The state got the attendance changed"
+        intervals [363]
+            xmin = 1172.52
+            xmax = 1179.878
+            text = "But bottom line I don’t see being too bad because it’s uh if they’re gonna keep it open well then good"
+        intervals [364]
+            xmin = 1179.878
+            xmax = 1182.96
+            text = "If they don’t then they pull it in on it anyway"
+        intervals [365]
+            xmin = 1182.96
+            xmax = 1188.932
+            text = "See a lot of them they just couldn’t maintain them because of the lack of attendance"
+        intervals [366]
+            xmin = 1188.932
+            xmax = 1192.175
+            text = "That’s what they done back in the day"
+        intervals [367]
+            xmin = 1192.175
+            xmax = 1193.297
+            text = ""
+        intervals [368]
+            xmin = 1193.297
+            xmax = 1195.5
+            text = "Yes you sure can"
+        intervals [369]
+            xmin = 1195.5
+            xmax = 1198.48
+            text = ""
+        intervals [370]
+            xmin = 1198.48
+            xmax = 1199.08
+            text = "Yup"
+        intervals [371]
+            xmin = 1199.08
+            xmax = 1202.719
+            text = ""
+        intervals [372]
+            xmin = 1202.719
+            xmax = 1203.716
+            text = "Oh yeah"
+        intervals [373]
+            xmin = 1203.716
+            xmax = 1204.24
+            text = "No"
+        intervals [374]
+            xmin = 1204.24
+            xmax = 1205.68
+            text = "They come up in here"
+        intervals [375]
+            xmin = 1205.68
+            xmax = 1207.446
+            text = "I didn’t seem them but some did"
+        intervals [376]
+            xmin = 1207.446
+            xmax = 1211.2
+            text = "It was a strange thing when you see a manatee come out this far"
+        intervals [377]
+            xmin = 1211.2
+            xmax = 1212.72
+            text = "But yeah"
+        intervals [378]
+            xmin = 1212.72
+            xmax = 1219.054
+            text = ""
+        intervals [379]
+            xmin = 1219.054
+            xmax = 1224.108
+            text = "Yeah Rodman you was talking about where Off on Fort McCoy area"
+        intervals [380]
+            xmin = 1224.108
+            xmax = 1226.04
+            text = "And I used to fish"
+        intervals [381]
+            xmin = 1226.04
+            xmax = 1227.0
+            text = ""
+        intervals [382]
+            xmin = 1227.0
+            xmax = 1227.8
+            text = "Yeah"
+        intervals [383]
+            xmin = 1227.8
+            xmax = 1229.08
+            text = "Ocklawaha River"
+        intervals [384]
+            xmin = 1229.08
+            xmax = 1231.121
+            text = "Yeah they got the big locks down"
+        intervals [385]
+            xmin = 1231.121
+            xmax = 1233.16
+            text = "If they close that lock no they can’t get through"
+        intervals [386]
+            xmin = 1233.16
+            xmax = 1235.24
+            text = "But if they open that lock yes"
+        intervals [387]
+            xmin = 1235.24
+            xmax = 1235.28
+            text = "They come on"
+        intervals [388]
+            xmin = 1235.28
+            xmax = 1241.48
+            text = ""
+        intervals [389]
+            xmin = 1241.48
+            xmax = 1242.56
+            text = "Yeah some"
+        intervals [390]
+            xmin = 1242.56
+            xmax = 1243.351
+            text = "Let me explain"
+        intervals [391]
+            xmin = 1243.351
+            xmax = 1247.76
+            text = "I just looked at some not too long ago right at that big spring right there"
+        intervals [392]
+            xmin = 1247.76
+            xmax = 1249.44
+            text = "It wanted the Silver River"
+        intervals [393]
+            xmin = 1249.44
+            xmax = 1252.887
+            text = ""
+        intervals [394]
+            xmin = 1252.887
+            xmax = 1253.4
+            text = "Yeah"
+        intervals [395]
+            xmin = 1253.4
+            xmax = 1256.32
+            text = ""
+        intervals [396]
+            xmin = 1256.32
+            xmax = 1257.2
+            text = "I’ll bet ya did"
+        intervals [397]
+            xmin = 1257.2
+            xmax = 1257.44
+            text = "Yeah"
+        intervals [398]
+            xmin = 1257.44
+            xmax = 1265.28
+            text = ""
+        intervals [399]
+            xmin = 1265.28
+            xmax = 1267.6
+            text = "That's alright I ain’t got nothing but time go ahead"
+        intervals [400]
+            xmin = 1267.6
+            xmax = 1269.88
+            text = "I don’t know how much time she got"
+        intervals [401]
+            xmin = 1269.88
+            xmax = 1296.933
+            text = ""
+        intervals [402]
+            xmin = 1296.933
+            xmax = 1298.68
+            text = "I rode a many"
+        intervals [403]
+            xmin = 1298.68
+            xmax = 1305.754
+            text = ""
+        intervals [404]
+            xmin = 1305.754
+            xmax = 1308.596
+            text = "Oh we used to have people here like you wouldn’t believe"
+        intervals [405]
+            xmin = 1308.596
+            xmax = 1311.631
+            text = ""
+        intervals [406]
+            xmin = 1311.631
+            xmax = 1312.105
+            text = "Oh yeah everybody did"
+        intervals [407]
+            xmin = 1312.105
+            xmax = 1313.035
+            text = "Everybody did"
+        intervals [408]
+            xmin = 1313.035
+            xmax = 1314.842
+            text = ""
+        intervals [409]
+            xmin = 1314.842
+            xmax = 1316.228
+            text = "Yeah it was a beautiful site"
+        intervals [410]
+            xmin = 1316.228
+            xmax = 1318.88
+            text = "I thought it was That’s what I loved about it so much"
+        intervals [411]
+            xmin = 1318.88
+            xmax = 1325.052
+            text = "There was so much to see and you made so many peoples happy and that’s what made me happy cause I was making somebody else happy"
+        intervals [412]
+            xmin = 1325.052
+            xmax = 1330.508
+            text = ""
+        intervals [413]
+            xmin = 1330.508
+            xmax = 1334.28
+            text = "I can set here all day and ask simple questions it ain’t no big deal"
+        intervals [414]
+            xmin = 1334.28
+            xmax = 1345.0
+            text = ""
+        intervals [415]
+            xmin = 1345.0
+            xmax = 1346.964
+            text = "That’s all right I got an answer for it"
+        intervals [416]
+            xmin = 1346.964
+            xmax = 1347.622
+            text = ""
+        intervals [417]
+            xmin = 1347.622
+            xmax = 1349.008
+            text = "It's gonna be close to right"
+        intervals [418]
+            xmin = 1349.008
+            xmax = 1350.561
+            text = ""
+        intervals [419]
+            xmin = 1350.561
+            xmax = 1355.14
+            text = "Often doing it from experience is what I've already seen Have a good day anyway sir"
+        intervals [420]
+            xmin = 1355.14
+            xmax = 1357.288
+            text = ""
+        intervals [421]
+            xmin = 1357.288
+            xmax = 1359.375
+            text = "Have a good day anyway sir"
+        intervals [422]
+            xmin = 1359.375
+            xmax = 1360.245
+            text = ""
+        intervals [423]
+            xmin = 1360.245
+            xmax = 1360.929
+            text = "I will"
+        intervals [424]
+            xmin = 1360.929
+            xmax = 1364.508
+            text = "All right I’m back to you"
+        intervals [425]
+            xmin = 1364.508
+            xmax = 1367.36
+            text = ""
+        intervals [426]
+            xmin = 1367.36
+            xmax = 1369.68
+            text = "Oh yea manatees they used to come in"
+        intervals [427]
+            xmin = 1369.68
+            xmax = 1378.07
+            text = "But the longest all the years that I was worked here I reckon about three years ago when I first even seen a manatee in here"
+        intervals [428]
+            xmin = 1378.07
+            xmax = 1383.28
+            text = "I member coming around around to the old where we park our boats back there"
+        intervals [429]
+            xmin = 1383.28
+            xmax = 1386.877
+            text = "It was coming through there but I missed them"
+        intervals [430]
+            xmin = 1386.877
+            xmax = 1391.894
+            text = "And one day I was over here showing the bridal chamber"
+        intervals [431]
+            xmin = 1391.894
+            xmax = 1393.48
+            text = "Right here right down there"
+        intervals [432]
+            xmin = 1393.48
+            xmax = 1396.842
+            text = "And a lady asked me she said Is there manatee in here"
+        intervals [433]
+            xmin = 1396.842
+            xmax = 1401.2
+            text = "I say Yes ma’am there are but I haven’t seen one yet"
+        intervals [434]
+            xmin = 1401.2
+            xmax = 1403.32
+            text = "That’s been couple three years ago"
+        intervals [435]
+            xmin = 1403.32
+            xmax = 1405.403
+            text = "She said Yeah there’s one right over there"
+        intervals [436]
+            xmin = 1405.403
+            xmax = 1406.368
+            text = "I said Where"
+        intervals [437]
+            xmin = 1406.368
+            xmax = 1407.578
+            text = "She said Right back there"
+        intervals [438]
+            xmin = 1407.578
+            xmax = 1411.07
+            text = "I spinned the boat around and sailed right over"
+        intervals [439]
+            xmin = 1411.07
+            xmax = 1411.964
+            text = "There he was"
+        intervals [440]
+            xmin = 1411.964
+            xmax = 1413.263
+            text = "It was two of em there"
+        intervals [441]
+            xmin = 1413.263
+            xmax = 1414.947
+            text = "And so then I began to see em"
+        intervals [442]
+            xmin = 1414.947
+            xmax = 1419.193
+            text = "I was going down around the old Christmas Tree Spring we called it"
+        intervals [443]
+            xmin = 1419.193
+            xmax = 1423.298
+            text = "And it was three of them come up there and just lying"
+        intervals [444]
+            xmin = 1423.298
+            xmax = 1426.982
+            text = "They sat right up and down that glass Just a beautiful shot on your walk"
+        intervals [445]
+            xmin = 1426.982
+            xmax = 1431.239
+            text = "The guy was settin in the back and I say If you want a picture there it is brother"
+        intervals [446]
+            xmin = 1431.239
+            xmax = 1436.956
+            text = "And I just sit that boat right there He sat there He just fired away with em"
+        intervals [447]
+            xmin = 1436.956
+            xmax = 1444.021
+            text = "So uh it’s a lot I’ve done and seen and that that's what makes part of it enjoyable to ya"
+        intervals [448]
+            xmin = 1444.021
+            xmax = 1446.326
+            text = "When you enjoy doing what you’re doing"
+        intervals [449]
+            xmin = 1446.326
+            xmax = 1451.108
+            text = "And you’re making somebody happy in what you’re doing you’re not making somebody angry at you with what you are doin"
+        intervals [450]
+            xmin = 1451.108
+            xmax = 1452.804
+            text = "It makes all the difference in the world"
+        intervals [451]
+            xmin = 1452.804
+            xmax = 1458.031
+            text = ""
+        intervals [452]
+            xmin = 1458.031
+            xmax = 1462.375
+            text = "I’ve enjoyed it the whole time I’ve been here and the whole time"
+        intervals [453]
+            xmin = 1462.375
+            xmax = 1464.031
+            text = "There was so much to see"
+        intervals [454]
+            xmin = 1464.031
+            xmax = 1466.28
+            text = ""
+        intervals [455]
+            xmin = 1466.28
+            xmax = 1467.124
+            text = "Yeah"
+        intervals [456]
+            xmin = 1467.124
+            xmax = 1478.843
+            text = ""
+        intervals [457]
+            xmin = 1478.843
+            xmax = 1491.656
+            text = "Man we see em come here right out here the the Spring here where you see the U looks like a U that’s and old manatee come right in there he was swimming up kind of high"
+        intervals [458]
+            xmin = 1491.656
+            xmax = 1507.687
+            text = "You could see him there say there a go a manatee look over there boy he went on there taken a dive down there in the cave come up flipped his tail and turned out he's gone"
+        intervals [459]
+            xmin = 1507.687
+            xmax = 1516.562
+            text = "It was a beautiful sight yeah I and uh oh that's right"
+        intervals [460]
+            xmin = 1516.562
+            xmax = 1520.8
+            text = "Keep goin I ain't through if you got more questions keep on answering"
+        intervals [461]
+            xmin = 1520.8
+            xmax = 1525.08
+            text = ""
+        intervals [462]
+            xmin = 1525.08
+            xmax = 1526.406
+            text = "Still live in Fort McCoy"
+        intervals [463]
+            xmin = 1526.406
+            xmax = 1529.125
+            text = "That’s where they gonna bury me from Fort McCoy I'm"
+        intervals [464]
+            xmin = 1529.125
+            xmax = 1535.56
+            text = ""
+        intervals [465]
+            xmin = 1535.56
+            xmax = 1536.4
+            text = "Well yeah"
+        intervals [466]
+            xmin = 1536.4
+            xmax = 1542.84
+            text = "I would go to town Yeah Yeah I’ve been quite a bit time I’ve spent in Ocala yeah"
+        intervals [467]
+            xmin = 1542.84
+            xmax = 1546.28
+            text = ""
+        intervals [468]
+            xmin = 1546.28
+            xmax = 1546.74
+            text = "Yup"
+        intervals [469]
+            xmin = 1546.74
+            xmax = 1551.08
+            text = ""
+        intervals [470]
+            xmin = 1551.08
+            xmax = 1551.64
+            text = "Yeah"
+        intervals [471]
+            xmin = 1551.64
+            xmax = 1554.5
+            text = "Matter of fact that’s where I went to high school in Ocala"
+        intervals [472]
+            xmin = 1554.5
+            xmax = 1555.85
+            text = ""
+        intervals [473]
+            xmin = 1555.85
+            xmax = 1556.85
+            text = "Howard heaven"
+        intervals [474]
+            xmin = 1556.85
+            xmax = 1560.34
+            text = ""
+        intervals [475]
+            xmin = 1560.34
+            xmax = 1570.86
+            text = "Well she’s backin’ up in segregation days It wasn’t altogether together but that was just pulling everything together right then"
+        intervals [476]
+            xmin = 1570.86
+            xmax = 1574.5
+            text = "That’s what its all about back in the day"
+        intervals [477]
+            xmin = 1574.5
+            xmax = 1577.48
+            text = "So I didn’t find a problem with it"
+        intervals [478]
+            xmin = 1577.48
+            xmax = 1579.64
+            text = ""
+        intervals [479]
+            xmin = 1579.64
+            xmax = 1580.24
+            text = "Yup"
+        intervals [480]
+            xmin = 1580.24
+            xmax = 1584.64
+            text = ""
+        intervals [481]
+            xmin = 1584.64
+            xmax = 1585.8
+            text = "You out of questions"
+        intervals [482]
+            xmin = 1585.8
+            xmax = 1588.08
+            text = "Well that’s why I’m here to answer your questions"
+        intervals [483]
+            xmin = 1588.08
+            xmax = 1590.36
+            text = "I done answered everything you"
+        intervals [484]
+            xmin = 1590.36
+            xmax = 1592.24
+            text = ""
+        intervals [485]
+            xmin = 1592.24
+            xmax = 1594.48
+            text = "You got to find some Just keep thinkin"
+        intervals [486]
+            xmin = 1594.48
+            xmax = 1596.48
+            text = "You’ll come up with something"
+        intervals [487]
+            xmin = 1596.48
+            xmax = 1607.04
+            text = ""
+        intervals [488]
+            xmin = 1607.04
+            xmax = 1608.8
+            text = "Well I’ve had so many"
+        intervals [489]
+            xmin = 1608.8
+            xmax = 1615.72
+            text = "The reason being to me everything that I done that I made somebody happy then it made me happy"
+        intervals [490]
+            xmin = 1615.72
+            xmax = 1625.48
+            text = "So it’s not a theory with me about that I just answer just in general it’s what I done and I enjoyed what I was doing"
+        intervals [491]
+            xmin = 1625.48
+            xmax = 1627.76
+            text = "That’s what made me put in the time that I did"
+        intervals [492]
+            xmin = 1627.76
+            xmax = 1631.92
+            text = "Because I made a lot of people happy and I liked doing that so um"
+        intervals [493]
+            xmin = 1631.92
+            xmax = 1633.62
+            text = "I don’t have a problem with it"
+        intervals [494]
+            xmin = 1633.62
+            xmax = 1635.16
+            text = "Still don’t have a problem with it"
+        intervals [495]
+            xmin = 1635.16
+            xmax = 1645.5
+            text = "It’s a little bit different from when it was a theme park then it come to a state park because some of the things we done back in there when it was a theme park we could do it"
+        intervals [496]
+            xmin = 1645.5
+            xmax = 1648.1
+            text = "With the state its"
+        intervals [497]
+            xmin = 1648.1
+            xmax = 1651.44
+            text = ""
+        intervals [498]
+            xmin = 1651.44
+            xmax = 1656.4
+            text = "Do just about anything you wanted to do out there as long as made people happy they was pleased with it"
+        intervals [499]
+            xmin = 1656.4
+            xmax = 1657.0
+            text = ""
+        intervals [500]
+            xmin = 1657.0
+            xmax = 1661.46
+            text = "Feeding the fish fish football game and the story goes on"
+        intervals [501]
+            xmin = 1661.46
+            xmax = 1663.24
+            text = ""
+        intervals [502]
+            xmin = 1663.24
+            xmax = 1664.64
+            text = "Throwing a bread ball"
+        intervals [503]
+            xmin = 1664.64
+            xmax = 1666.48
+            text = "We squeezed a bread ball together"
+        intervals [504]
+            xmin = 1666.48
+            xmax = 1672.32
+            text = "Make a bread ball throw it out there and let the blue gill come in in that V formation"
+        intervals [505]
+            xmin = 1672.32
+            xmax = 1674.04
+            text = "That was the army"
+        intervals [506]
+            xmin = 1674.04
+            xmax = 1680.56
+            text = "Then come the catfish they got that big mouth and they bottom feeders and they bumped that ball down beautiful sight"
+        intervals [507]
+            xmin = 1680.56
+            xmax = 1684.28
+            text = "I want you to you should see that I could tell you about it but it ain’t like seein’ it"
+        intervals [508]
+            xmin = 1684.28
+            xmax = 1689.06
+            text = "And they bumped that ball and they’d get down there in that catfish territory and they had that big mouth"
+        intervals [509]
+            xmin = 1689.06
+            xmax = 1697.12
+            text = "Well the blue gill couldn’t figure out the bread ball no way was the mouths too small when it get there when that catfish get it boy he come up there"
+        intervals [510]
+            xmin = 1697.12
+            xmax = 1703.86
+            text = "Like a shot like that and when he’d picked it up he’s go and them blue gill is running after him"
+        intervals [511]
+            xmin = 1703.86
+            xmax = 1704.6
+            text = "It was fun"
+        intervals [512]
+            xmin = 1704.6
+            xmax = 1705.6
+            text = "It was fun"
+        intervals [513]
+            xmin = 1705.6
+            xmax = 1706.68
+            text = "Everybody enjoyed that"
+        intervals [514]
+            xmin = 1706.68
+            xmax = 1713.42
+            text = "Everyone I threw out there they would man are you gonna have a fish football game"
+        intervals [515]
+            xmin = 1713.42
+            xmax = 1714.54
+            text = "Yeah we gonna have one"
+        intervals [516]
+            xmin = 1714.54
+            xmax = 1716.02
+            text = ""
+        intervals [517]
+            xmin = 1716.02
+            xmax = 1716.76
+            text = "Yeah"
+        intervals [518]
+            xmin = 1716.76
+            xmax = 1718.48
+            text = ""
+        intervals [519]
+            xmin = 1718.48
+            xmax = 1719.06
+            text = "Yeah"
+        intervals [520]
+            xmin = 1719.06
+            xmax = 1720.36
+            text = "Well we had fish"
+        intervals [521]
+            xmin = 1720.36
+            xmax = 1724.38
+            text = "It used to be a time I could take that boat I don’t care where"
+        intervals [522]
+            xmin = 1724.38
+            xmax = 1730.48
+            text = "Just spin that boat around two times and I’d have that glass full of blue gill"
+        intervals [523]
+            xmin = 1730.48
+            xmax = 1736.12
+            text = "They feed up top catfish are your bottom feeders"
+        intervals [524]
+            xmin = 1736.12
+            xmax = 1738.76
+            text = "It’s something to see it was interesting no question about it"
+        intervals [525]
+            xmin = 1738.76
+            xmax = 1742.16
+            text = "I enjoyed doing what I was doing yeah"
+        intervals [526]
+            xmin = 1742.16
+            xmax = 1754.6
+            text = ""
+        intervals [527]
+            xmin = 1754.6
+            xmax = 1755.72
+            text = "Um hm"
+        intervals [528]
+            xmin = 1755.72
+            xmax = 1758.308
+            text = ""

@@ -63,7 +63,7 @@ def compare_strings(str1, str2, match_threshold=0.7):
 def run_script():
     input_eaf = entry.get()
 
-    headers = ["Text","Null copula","Person/num. agreement","Multiple negators","Existential it/dey","Perfect done","Remote past BIN","Habitual be"]
+    
     eaf_file = pympi.Elan.Eaf(input_eaf)
 
 
@@ -84,8 +84,13 @@ def run_script():
     featuresList = []
     with open(csv_file, newline='', mode='r', encoding ='utf-8') as csvfile:
         csv_reader = csv.reader(csvfile)
-        for row in csv_reader:
+        for i,row in enumerate(csv_reader):
             rows.append(row)
+            if i == 0:
+                if len(row[0]) == 9:
+                    headers = ["Speaker","Text","Null copula","Person/num. agreement","Multiple negators","Existential it/dey","Perfect done","Remote past BIN","Habitual be"]
+                else:
+                    headers = ["Text","Null copula","Person/num. agreement","Multiple negators","Existential it/dey","Perfect done","Remote past BIN","Habitual be"]
         
     checkCount = 0
     for row in rows:
@@ -94,14 +99,17 @@ def run_script():
                 
                 if col == '1' :
                     
-                    no_punct = re.sub(r'[^\w\s]', '', row[0])
+                    if(len(headers) == 9):
+                        no_punct = re.sub(r'[^\w\s]', '', row[1])
+                    else:
+                        no_punct = re.sub(r'[^\w\s]', '', row[1])
                     clean_text = re.sub(r'\s+', ' ', no_punct).strip()
                     feature = [clean_text,headers[checkCount]]
                     featuresList.append(feature)
                     #print(row[0])
                 checkCount +=1
             checkCount = 0
-            
+    print(featuresList) 
     count = 0
     for tier in eaf_file.tiers:
         tier_id = tier

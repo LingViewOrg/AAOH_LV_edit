@@ -1,0 +1,2662 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1207.096
+tiers? <exists>
+size = 3
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "P: "
+        xmin = 0.0
+        xmax = 1207.096
+        intervals: size = 158
+        intervals [1]
+            xmin = 0.0
+            xmax = 2.39
+            text = "This is Breanne Palmer and Nialah Summers"
+        intervals [2]
+            xmin = 2.39
+            xmax = 2.77
+            text = ""
+        intervals [3]
+            xmin = 2.77
+            xmax = 13.05
+            text = "It’s September twenty third and we are at Ruleville Central High School with our friend Doctor Darron L Edwards and he’s going to just introduce himself and tell us um a bit about his life"
+        intervals [4]
+            xmin = 13.05
+            xmax = 14.522
+            text = "So if you just state your name please"
+        intervals [5]
+            xmin = 14.522
+            xmax = 45.601
+            text = ""
+        intervals [6]
+            xmin = 45.601
+            xmax = 46.065
+            text = "Nice"
+        intervals [7]
+            xmin = 46.065
+            xmax = 105.912
+            text = ""
+        intervals [8]
+            xmin = 105.912
+            xmax = 106.362
+            text = "Mhm"
+        intervals [9]
+            xmin = 106.362
+            xmax = 136.926
+            text = ""
+        intervals [10]
+            xmin = 136.926
+            xmax = 137.207
+            text = "Mm"
+        intervals [11]
+            xmin = 137.207
+            xmax = 143.145
+            text = ""
+        intervals [12]
+            xmin = 143.145
+            xmax = 143.559
+            text = "Okay"
+        intervals [13]
+            xmin = 143.559
+            xmax = 147.195
+            text = ""
+        intervals [14]
+            xmin = 147.195
+            xmax = 147.441
+            text = "Mhm"
+        intervals [15]
+            xmin = 147.441
+            xmax = 191.391
+            text = ""
+        intervals [16]
+            xmin = 191.391
+            xmax = 191.672
+            text = "Mhm"
+        intervals [17]
+            xmin = 191.672
+            xmax = 245.605
+            text = ""
+        intervals [18]
+            xmin = 245.605
+            xmax = 245.864
+            text = "Oh"
+        intervals [19]
+            xmin = 245.864
+            xmax = 256.973
+            text = ""
+        intervals [20]
+            xmin = 256.973
+            xmax = 257.311
+            text = "Mm"
+        intervals [21]
+            xmin = 257.311
+            xmax = 267.381
+            text = ""
+        intervals [22]
+            xmin = 267.381
+            xmax = 267.726
+            text = "Mhm"
+        intervals [23]
+            xmin = 267.726
+            xmax = 280.761
+            text = ""
+        intervals [24]
+            xmin = 280.761
+            xmax = 281.169
+            text = "Mhm"
+        intervals [25]
+            xmin = 281.169
+            xmax = 365.88
+            text = ""
+        intervals [26]
+            xmin = 365.88
+            xmax = 366.56
+            text = "Mm hm"
+        intervals [27]
+            xmin = 366.56
+            xmax = 374.673
+            text = ""
+        intervals [28]
+            xmin = 374.673
+            xmax = 375.01
+            text = "Mhm"
+        intervals [29]
+            xmin = 375.01
+            xmax = 390.549
+            text = ""
+        intervals [30]
+            xmin = 390.549
+            xmax = 390.886
+            text = "Mhm"
+        intervals [31]
+            xmin = 390.886
+            xmax = 412.257
+            text = ""
+        intervals [32]
+            xmin = 412.257
+            xmax = 412.718
+            text = "Mhm"
+        intervals [33]
+            xmin = 412.718
+            xmax = 434.511
+            text = ""
+        intervals [34]
+            xmin = 434.511
+            xmax = 434.949
+            text = "Mhm"
+        intervals [35]
+            xmin = 434.949
+            xmax = 440.719
+            text = ""
+        intervals [36]
+            xmin = 440.719
+            xmax = 440.988
+            text = "Right"
+        intervals [37]
+            xmin = 440.988
+            xmax = 442.433
+            text = ""
+        intervals [38]
+            xmin = 442.433
+            xmax = 442.655
+            text = "Right"
+        intervals [39]
+            xmin = 442.655
+            xmax = 454.071
+            text = ""
+        intervals [40]
+            xmin = 454.071
+            xmax = 454.431
+            text = "Mhm"
+        intervals [41]
+            xmin = 454.431
+            xmax = 456.877
+            text = ""
+        intervals [42]
+            xmin = 456.877
+            xmax = 460.388
+            text = "Are there still faculty at the school that knew your parents that are still here now"
+        intervals [43]
+            xmin = 460.388
+            xmax = 472.56
+            text = ""
+        intervals [44]
+            xmin = 472.56
+            xmax = 472.841
+            text = "Mhm"
+        intervals [45]
+            xmin = 472.841
+            xmax = 509.333
+            text = ""
+        intervals [46]
+            xmin = 509.333
+            xmax = 509.682
+            text = "Mhm"
+        intervals [47]
+            xmin = 509.682
+            xmax = 517.325
+            text = ""
+        intervals [48]
+            xmin = 517.325
+            xmax = 517.673
+            text = "Mhm"
+        intervals [49]
+            xmin = 517.673
+            xmax = 522.158
+            text = ""
+        intervals [50]
+            xmin = 522.158
+            xmax = 522.512
+            text = "Mhm"
+        intervals [51]
+            xmin = 522.512
+            xmax = 531.83
+            text = ""
+        intervals [52]
+            xmin = 531.83
+            xmax = 532.167
+            text = "Mhm"
+        intervals [53]
+            xmin = 532.167
+            xmax = 542.339
+            text = ""
+        intervals [54]
+            xmin = 542.339
+            xmax = 542.71
+            text = "Mhm"
+        intervals [55]
+            xmin = 542.71
+            xmax = 561.618
+            text = ""
+        intervals [56]
+            xmin = 561.618
+            xmax = 562.045
+            text = "Mhm"
+        intervals [57]
+            xmin = 562.045
+            xmax = 571.932
+            text = ""
+        intervals [58]
+            xmin = 571.932
+            xmax = 572.339
+            text = "Mhm"
+        intervals [59]
+            xmin = 572.339
+            xmax = 574.056
+            text = ""
+        intervals [60]
+            xmin = 574.056
+            xmax = 574.449
+            text = "Right"
+        intervals [61]
+            xmin = 574.449
+            xmax = 577.527
+            text = ""
+        intervals [62]
+            xmin = 577.527
+            xmax = 577.982
+            text = "Mhm"
+        intervals [63]
+            xmin = 577.982
+            xmax = 596.156
+            text = ""
+        intervals [64]
+            xmin = 596.156
+            xmax = 596.541
+            text = "Mhm"
+        intervals [65]
+            xmin = 596.541
+            xmax = 598.404
+            text = ""
+        intervals [66]
+            xmin = 598.404
+            xmax = 598.617
+            text = "Right"
+        intervals [67]
+            xmin = 598.617
+            xmax = 603.83
+            text = ""
+        intervals [68]
+            xmin = 603.83
+            xmax = 604.145
+            text = "Mhm"
+        intervals [69]
+            xmin = 604.145
+            xmax = 622.926
+            text = ""
+        intervals [70]
+            xmin = 622.926
+            xmax = 623.241
+            text = "Mhm"
+        intervals [71]
+            xmin = 623.241
+            xmax = 632.064
+            text = ""
+        intervals [72]
+            xmin = 632.064
+            xmax = 632.479
+            text = "Right"
+        intervals [73]
+            xmin = 632.479
+            xmax = 636.32
+            text = ""
+        intervals [74]
+            xmin = 636.32
+            xmax = 639.266
+            text = "Over the last two years what’s the journey been like"
+        intervals [75]
+            xmin = 639.266
+            xmax = 660.686
+            text = ""
+        intervals [76]
+            xmin = 660.686
+            xmax = 660.944
+            text = "Mhm"
+        intervals [77]
+            xmin = 660.944
+            xmax = 669.569
+            text = ""
+        intervals [78]
+            xmin = 669.569
+            xmax = 669.918
+            text = "Mhm"
+        intervals [79]
+            xmin = 669.918
+            xmax = 676.386
+            text = ""
+        intervals [80]
+            xmin = 676.386
+            xmax = 676.808
+            text = "Mhm"
+        intervals [81]
+            xmin = 676.808
+            xmax = 683.11
+            text = ""
+        intervals [82]
+            xmin = 683.11
+            xmax = 683.447
+            text = "Mhm"
+        intervals [83]
+            xmin = 683.447
+            xmax = 694.427
+            text = ""
+        intervals [84]
+            xmin = 694.427
+            xmax = 694.856
+            text = "Mhm"
+        intervals [85]
+            xmin = 694.856
+            xmax = 716.466
+            text = ""
+        intervals [86]
+            xmin = 716.466
+            xmax = 716.758
+            text = "Mhm"
+        intervals [87]
+            xmin = 716.758
+            xmax = 724.098
+            text = ""
+        intervals [88]
+            xmin = 724.098
+            xmax = 724.468
+            text = "Mhm"
+        intervals [89]
+            xmin = 724.468
+            xmax = 726.549
+            text = ""
+        intervals [90]
+            xmin = 726.549
+            xmax = 727.001
+            text = "Mhm"
+        intervals [91]
+            xmin = 727.001
+            xmax = 733.613
+            text = ""
+        intervals [92]
+            xmin = 733.613
+            xmax = 733.894
+            text = "Mhm"
+        intervals [93]
+            xmin = 733.894
+            xmax = 749.626
+            text = ""
+        intervals [94]
+            xmin = 749.626
+            xmax = 749.873
+            text = "Mhm"
+        intervals [95]
+            xmin = 749.873
+            xmax = 762.18
+            text = ""
+        intervals [96]
+            xmin = 762.18
+            xmax = 762.495
+            text = "Mhm"
+        intervals [97]
+            xmin = 762.495
+            xmax = 841.097
+            text = ""
+        intervals [98]
+            xmin = 841.097
+            xmax = 841.656
+            text = "Mhm"
+        intervals [99]
+            xmin = 841.656
+            xmax = 854.509
+            text = ""
+        intervals [100]
+            xmin = 854.509
+            xmax = 854.846
+            text = "Okay"
+        intervals [101]
+            xmin = 854.846
+            xmax = 855.397
+            text = ""
+        intervals [102]
+            xmin = 855.397
+            xmax = 856.397
+            text = "Right and what do you um"
+        intervals [103]
+            xmin = 856.397
+            xmax = 857.677
+            text = ""
+        intervals [104]
+            xmin = 857.677
+            xmax = 859.188
+            text = "How’s that benefitting the students"
+        intervals [105]
+            xmin = 859.188
+            xmax = 865.888
+            text = "Do you feel like it helps instill a sense of pride in them that they’re learning about people before in Mississippi who were integral in the movement"
+        intervals [106]
+            xmin = 865.888
+            xmax = 871.187
+            text = ""
+        intervals [107]
+            xmin = 871.187
+            xmax = 871.535
+            text = "Mhm"
+        intervals [108]
+            xmin = 871.535
+            xmax = 878.01
+            text = ""
+        intervals [109]
+            xmin = 878.01
+            xmax = 878.369
+            text = "Mhm"
+        intervals [110]
+            xmin = 878.369
+            xmax = 889.953
+            text = ""
+        intervals [111]
+            xmin = 889.953
+            xmax = 890.34
+            text = "Mhm"
+        intervals [112]
+            xmin = 890.34
+            xmax = 895.847
+            text = ""
+        intervals [113]
+            xmin = 895.847
+            xmax = 896.298
+            text = "Mhm"
+        intervals [114]
+            xmin = 896.298
+            xmax = 908.49
+            text = ""
+        intervals [115]
+            xmin = 908.49
+            xmax = 908.95
+            text = "Mhm"
+        intervals [116]
+            xmin = 908.95
+            xmax = 928.75
+            text = ""
+        intervals [117]
+            xmin = 928.75
+            xmax = 929.143
+            text = "Mhm"
+        intervals [118]
+            xmin = 929.143
+            xmax = 938.547
+            text = ""
+        intervals [119]
+            xmin = 938.547
+            xmax = 939.443
+            text = "Um and and"
+        intervals [120]
+            xmin = 939.443
+            xmax = 939.677
+            text = ""
+        intervals [121]
+            xmin = 939.677
+            xmax = 948.233
+            text = "What does it mean to you with your parents having been staples in this community what is it like for you"
+        intervals [122]
+            xmin = 948.233
+            xmax = 957.677
+            text = "What was it shortly like growing up in an area like Ruleville and having your parents be major people in this community Like what"
+        intervals [123]
+            xmin = 957.677
+            xmax = 958.444
+            text = ""
+        intervals [124]
+            xmin = 958.444
+            xmax = 961.08
+            text = "Does it give you pride does it what does it do for you"
+        intervals [125]
+            xmin = 961.08
+            xmax = 963.566
+            text = "What does knowing this history like what has it done for you"
+        intervals [126]
+            xmin = 963.566
+            xmax = 969.563
+            text = ""
+        intervals [127]
+            xmin = 969.563
+            xmax = 970.118
+            text = "Mhm"
+        intervals [128]
+            xmin = 970.118
+            xmax = 1062.355
+            text = ""
+        intervals [129]
+            xmin = 1062.355
+            xmax = 1062.859
+            text = "Mhm"
+        intervals [130]
+            xmin = 1062.859
+            xmax = 1066.156
+            text = ""
+        intervals [131]
+            xmin = 1066.156
+            xmax = 1066.575
+            text = "Mhm"
+        intervals [132]
+            xmin = 1066.575
+            xmax = 1071.791
+            text = ""
+        intervals [133]
+            xmin = 1071.791
+            xmax = 1078.427
+            text = "And then finally just as a last thing could you tell us about where you did your undergrad studies and your graduate studies and also now you have a doctorate so"
+        intervals [134]
+            xmin = 1078.427
+            xmax = 1087.7
+            text = ""
+        intervals [135]
+            xmin = 1087.7
+            xmax = 1088.113
+            text = "Okay"
+        intervals [136]
+            xmin = 1088.113
+            xmax = 1090.036
+            text = ""
+        intervals [137]
+            xmin = 1090.036
+            xmax = 1090.436
+            text = "Yep"
+        intervals [138]
+            xmin = 1090.436
+            xmax = 1095.435
+            text = ""
+        intervals [139]
+            xmin = 1095.435
+            xmax = 1095.933
+            text = "Okay"
+        intervals [140]
+            xmin = 1095.933
+            xmax = 1098.08
+            text = ""
+        intervals [141]
+            xmin = 1098.08
+            xmax = 1099.691
+            text = "Right we were there last night"
+        intervals [142]
+            xmin = 1099.691
+            xmax = 1108.818
+            text = ""
+        intervals [143]
+            xmin = 1108.818
+            xmax = 1109.091
+            text = "Right"
+        intervals [144]
+            xmin = 1109.091
+            xmax = 1122.4
+            text = ""
+        intervals [145]
+            xmin = 1122.4
+            xmax = 1122.982
+            text = "Very good"
+        intervals [146]
+            xmin = 1122.982
+            xmax = 1140.68
+            text = ""
+        intervals [147]
+            xmin = 1140.68
+            xmax = 1142.563
+            text = "Ah wow well there you go"
+        intervals [148]
+            xmin = 1142.563
+            xmax = 1143.009
+            text = ""
+        intervals [149]
+            xmin = 1143.009
+            xmax = 1143.518
+            text = "Legacy"
+        intervals [150]
+            xmin = 1143.518
+            xmax = 1143.8
+            text = ""
+        intervals [151]
+            xmin = 1143.8
+            xmax = 1145.921
+            text = "Mhmm Awesome"
+        intervals [152]
+            xmin = 1145.921
+            xmax = 1146.04
+            text = ""
+        intervals [153]
+            xmin = 1146.04
+            xmax = 1151.409
+            text = "Is there anything else you’d want us to know any last final words to kind of wrap up what you’ve been telling us"
+        intervals [154]
+            xmin = 1151.409
+            xmax = 1176.634
+            text = ""
+        intervals [155]
+            xmin = 1176.634
+            xmax = 1177.316
+            text = "Mhm"
+        intervals [156]
+            xmin = 1177.316
+            xmax = 1202.373
+            text = ""
+        intervals [157]
+            xmin = 1202.373
+            xmax = 1203.08
+            text = "Thank you"
+        intervals [158]
+            xmin = 1203.08
+            xmax = 1207.096
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "E: "
+        xmin = 0.0
+        xmax = 1207.096
+        intervals: size = 322
+        intervals [1]
+            xmin = 0.0
+            xmax = 14.95
+            text = ""
+        intervals [2]
+            xmin = 14.95
+            xmax = 30.33
+            text = "Um my name is Darron Edwards and I’m a second year principal here at Ruleville Central High School the school where I graduated from um my siblings my brother my sister uh all graduated from this school as well as my parents"
+        intervals [3]
+            xmin = 30.33
+            xmax = 31.0
+            text = ""
+        intervals [4]
+            xmin = 31.0
+            xmax = 34.94
+            text = "So it’s a privilege to be a part of this particular process"
+        intervals [5]
+            xmin = 34.94
+            xmax = 36.79
+            text = ""
+        intervals [6]
+            xmin = 36.79
+            xmax = 38.15
+            text = "Ten sixteen sixty eight"
+        intervals [7]
+            xmin = 38.15
+            xmax = 42.01
+            text = ""
+        intervals [8]
+            xmin = 42.01
+            xmax = 42.26
+            text = "Sure"
+        intervals [9]
+            xmin = 42.26
+            xmax = 42.783
+            text = ""
+        intervals [10]
+            xmin = 42.783
+            xmax = 43.456
+            text = "Um"
+        intervals [11]
+            xmin = 43.456
+            xmax = 44.0
+            text = ""
+        intervals [12]
+            xmin = 44.0
+            xmax = 45.32
+            text = "I’m the oldest of three children"
+        intervals [13]
+            xmin = 45.32
+            xmax = 46.163
+            text = ""
+        intervals [14]
+            xmin = 46.163
+            xmax = 46.893
+            text = "Um"
+        intervals [15]
+            xmin = 46.893
+            xmax = 47.44
+            text = ""
+        intervals [16]
+            xmin = 47.44
+            xmax = 51.08
+            text = "My father's parents lived in this town"
+        intervals [17]
+            xmin = 51.08
+            xmax = 51.943
+            text = ""
+        intervals [18]
+            xmin = 51.943
+            xmax = 54.063
+            text = "Uh and they were very very active in the community."
+        intervals [19]
+            xmin = 54.063
+            xmax = 54.966
+            text = ""
+        intervals [20]
+            xmin = 54.966
+            xmax = 59.64
+            text = "Um and my father it was four children two boys and two girls"
+        intervals [21]
+            xmin = 59.64
+            xmax = 60.191
+            text = ""
+        intervals [22]
+            xmin = 60.191
+            xmax = 62.586
+            text = "Uh my father was next to the youngest."
+        intervals [23]
+            xmin = 62.586
+            xmax = 63.348
+            text = ""
+        intervals [24]
+            xmin = 63.348
+            xmax = 69.468
+            text = "Um and he actually was the second black principle"
+        intervals [25]
+            xmin = 69.468
+            xmax = 70.038
+            text = ""
+        intervals [26]
+            xmin = 70.038
+            xmax = 71.388
+            text = "of this particular high school"
+        intervals [27]
+            xmin = 71.388
+            xmax = 71.999
+            text = ""
+        intervals [28]
+            xmin = 71.999
+            xmax = 74.302
+            text = "um and he was also the first"
+        intervals [29]
+            xmin = 74.302
+            xmax = 75.14
+            text = ""
+        intervals [30]
+            xmin = 75.14
+            xmax = 75.83
+            text = "superintendent"
+        intervals [31]
+            xmin = 75.83
+            xmax = 76.28
+            text = ""
+        intervals [32]
+            xmin = 76.28
+            xmax = 77.49
+            text = "of this particular school district."
+        intervals [33]
+            xmin = 77.49
+            xmax = 79.05
+            text = ""
+        intervals [34]
+            xmin = 79.05
+            xmax = 80.78
+            text = "Thomas Edwards Senior"
+        intervals [35]
+            xmin = 80.78
+            xmax = 81.92
+            text = ""
+        intervals [36]
+            xmin = 81.92
+            xmax = 85.21
+            text = "Um we all participated in sports here at the high school"
+        intervals [37]
+            xmin = 85.21
+            xmax = 85.6
+            text = ""
+        intervals [38]
+            xmin = 85.6
+            xmax = 96.33
+            text = "And it’s kind of very interesting because it’s five of us with my Mother my brother my sister my Father and we all played sports we all graduated from here"
+        intervals [39]
+            xmin = 96.33
+            xmax = 96.78
+            text = ""
+        intervals [40]
+            xmin = 96.78
+            xmax = 98.72
+            text = "And I’m the only one left"
+        intervals [41]
+            xmin = 98.72
+            xmax = 99.18
+            text = ""
+        intervals [42]
+            xmin = 99.18
+            xmax = 100.45
+            text = "Everybody else moved away"
+        intervals [43]
+            xmin = 100.45
+            xmax = 101.0
+            text = ""
+        intervals [44]
+            xmin = 101.0
+            xmax = 105.88
+            text = "So it’s interesting because my Mother my Father are still here they’re still leaders in this community"
+        intervals [45]
+            xmin = 105.88
+            xmax = 106.4
+            text = ""
+        intervals [46]
+            xmin = 106.4
+            xmax = 117.64
+            text = "And this is a position that I never dreamed of having never had a desire or a wish to have but I feel like it was done because of God’s will"
+        intervals [47]
+            xmin = 117.64
+            xmax = 118.4
+            text = ""
+        intervals [48]
+            xmin = 118.4
+            xmax = 124.88
+            text = "Because I never ask to have this position but interestingly enough I was a college professor"
+        intervals [49]
+            xmin = 124.88
+            xmax = 125.44
+            text = ""
+        intervals [50]
+            xmin = 125.44
+            xmax = 125.44
+            text = "I didn't and it’s real interesting because my Father encouraged me to take it and it was pretty expensive so I enrolled and I said that I was gonna take the test and I said well God I will see if this is for me"
+        intervals [51]
+            xmin = 125.44
+            xmax = 125.44
+            text = "If it’s not for me I’ll stay and continue to work in higher education"
+        intervals [52]
+            xmin = 125.44
+            xmax = 125.44
+            text = "Something that I enjoyed and I enjoyed the flexibility"
+        intervals [53]
+            xmin = 125.44
+            xmax = 125.44
+            text = "I just didn’t wanna be confined"
+        intervals [54]
+            xmin = 125.44
+            xmax = 130.29
+            text = "And I did consulting work for all of the public school districts in this area"
+        intervals [55]
+            xmin = 130.29
+            xmax = 131.53
+            text = ""
+        intervals [56]
+            xmin = 131.53
+            xmax = 140.55
+            text = "So doing consulting work in the area it just made it even less interesting for me to want to be a part of public education"
+        intervals [57]
+            xmin = 140.55
+            xmax = 141.12
+            text = ""
+        intervals [58]
+            xmin = 141.12
+            xmax = 146.91
+            text = "But my father’s the one who’s responsible because he always encouraged me he said you would like it if you get into it"
+        intervals [59]
+            xmin = 146.91
+            xmax = 147.96
+            text = ""
+        intervals [60]
+            xmin = 147.96
+            xmax = 153.85
+            text = "But what happened was I had certification to be a counselor and I never pursued it"
+        intervals [61]
+            xmin = 153.85
+            xmax = 154.65
+            text = ""
+        intervals [62]
+            xmin = 154.65
+            xmax = 168.21
+            text = "So an administrator’s exam was coming up and I kinda tested my fate and my faith uh with God because I didn’t study or prepare for the exam"
+        intervals [63]
+            xmin = 168.21
+            xmax = 168.54
+            text = ""
+        intervals [64]
+            xmin = 168.54
+            xmax = 170.29
+            text = "I didn't and and it's real interesting because"
+        intervals [65]
+            xmin = 170.29
+            xmax = 171.55
+            text = ""
+        intervals [66]
+            xmin = 171.55
+            xmax = 173.942
+            text = "my father encouraged me to take it and it was pretty expensive."
+        intervals [67]
+            xmin = 173.942
+            xmax = 174.442
+            text = ""
+        intervals [68]
+            xmin = 174.442
+            xmax = 178.237
+            text = "So I rolled and I said that I was gonna take the test and I said well"
+        intervals [69]
+            xmin = 178.237
+            xmax = 179.312
+            text = ""
+        intervals [70]
+            xmin = 179.312
+            xmax = 180.592
+            text = "God I will see"
+        intervals [71]
+            xmin = 180.592
+            xmax = 181.06
+            text = ""
+        intervals [72]
+            xmin = 181.06
+            xmax = 182.413
+            text = "if this is for me."
+        intervals [73]
+            xmin = 182.413
+            xmax = 183.123
+            text = ""
+        intervals [74]
+            xmin = 183.123
+            xmax = 189.182
+            text = "If it's not for me I'll stay and continue to work in higher education something that I enjoyed and I enjoyed the flexibility."
+        intervals [75]
+            xmin = 189.182
+            xmax = 189.783
+            text = ""
+        intervals [76]
+            xmin = 189.783
+            xmax = 191.323
+            text = "I just didn't want to be confined."
+        intervals [77]
+            xmin = 191.323
+            xmax = 192.52
+            text = ""
+        intervals [78]
+            xmin = 192.52
+            xmax = 198.88
+            text = "So the weekend of the test I had a cousin who had some material about the test and he gave it to me"
+        intervals [79]
+            xmin = 198.88
+            xmax = 199.75
+            text = ""
+        intervals [80]
+            xmin = 199.75
+            xmax = 204.04
+            text = "And uh I got it and looked over it didn’t study it put it to the side"
+        intervals [81]
+            xmin = 204.04
+            xmax = 204.82
+            text = ""
+        intervals [82]
+            xmin = 204.82
+            xmax = 210.46
+            text = "And I said a prayer I said Lord well if this is what you want for me to do I don’t need to prepare"
+        intervals [83]
+            xmin = 210.46
+            xmax = 211.06
+            text = ""
+        intervals [84]
+            xmin = 211.06
+            xmax = 217.42
+            text = "The knowledge that I possess will be sufficient enough to make a satisfactory score to qualify to be an administrator in public education"
+        intervals [85]
+            xmin = 217.42
+            xmax = 218.4
+            text = ""
+        intervals [86]
+            xmin = 218.4
+            xmax = 220.28
+            text = "So I went and took the test and it was real easy"
+        intervals [87]
+            xmin = 220.28
+            xmax = 221.31
+            text = ""
+        intervals [88]
+            xmin = 221.31
+            xmax = 223.32
+            text = "You know it was just very very easy"
+        intervals [89]
+            xmin = 223.32
+            xmax = 223.61
+            text = ""
+        intervals [90]
+            xmin = 223.61
+            xmax = 230.81
+            text = "And when I got the results back they were satisfactory for any school in the United States of America for me to be an administrator"
+        intervals [91]
+            xmin = 230.81
+            xmax = 231.53
+            text = ""
+        intervals [92]
+            xmin = 231.53
+            xmax = 235.81
+            text = "And that’s when I said I started preparing to transition"
+        intervals [93]
+            xmin = 235.81
+            xmax = 236.62
+            text = ""
+        intervals [94]
+            xmin = 236.62
+            xmax = 245.25
+            text = "So um that’s how I got into this position because at the time when I came to work uh in Ruleville on public education my Father was still the superintendent"
+        intervals [95]
+            xmin = 245.25
+            xmax = 246.13
+            text = ""
+        intervals [96]
+            xmin = 246.13
+            xmax = 256.49
+            text = "So he retired after that they had another superintendent who was elected um and the Mississippi Department of Education abolished that superintendent as well as that school board"
+        intervals [97]
+            xmin = 256.49
+            xmax = 257.44
+            text = ""
+        intervals [98]
+            xmin = 257.44
+            xmax = 259.99
+            text = "So that’s when the state took over our schools"
+        intervals [99]
+            xmin = 259.99
+            xmax = 260.48
+            text = ""
+        intervals [100]
+            xmin = 260.48
+            xmax = 261.02
+            text = "of this county"
+        intervals [101]
+            xmin = 261.02
+            xmax = 261.56
+            text = ""
+        intervals [102]
+            xmin = 261.56
+            xmax = 264.04
+            text = "So and Ruleville Central High School was one of those schools"
+        intervals [103]
+            xmin = 264.04
+            xmax = 264.32
+            text = ""
+        intervals [104]
+            xmin = 264.32
+            xmax = 270.27
+            text = "At the time they were classified as being a failing school and that’s something that this high school has never experienced before"
+        intervals [105]
+            xmin = 270.27
+            xmax = 270.8
+            text = ""
+        intervals [106]
+            xmin = 270.8
+            xmax = 277.61
+            text = "Historically we’ve always been a successful district and this school has always performed regionally pretty well"
+        intervals [107]
+            xmin = 277.61
+            xmax = 278.16
+            text = ""
+        intervals [108]
+            xmin = 278.16
+            xmax = 285.04
+            text = "So we’ve never experienced low test scores under performing uh students or anything of the sort"
+        intervals [109]
+            xmin = 285.04
+            xmax = 285.68
+            text = ""
+        intervals [110]
+            xmin = 285.68
+            xmax = 293.42
+            text = "So to have that it was something that was very uncomfortable uneasy and anxiety filled for this community"
+        intervals [111]
+            xmin = 293.42
+            xmax = 293.92
+            text = ""
+        intervals [112]
+            xmin = 293.92
+            xmax = 302.75
+            text = "You know to be able to not to have people that are personable accessible and the stakeholders in this community to run the school district"
+        intervals [113]
+            xmin = 302.75
+            xmax = 303.28
+            text = ""
+        intervals [114]
+            xmin = 303.28
+            xmax = 304.25
+            text = "So it was something new"
+        intervals [115]
+            xmin = 304.25
+            xmax = 305.09
+            text = ""
+        intervals [116]
+            xmin = 305.09
+            xmax = 319.47
+            text = "So to have the school district being classified as a failing school was something that people were really really interested in making sure that they played a role in changing that so it could go back to some of the traditions academically that existed here"
+        intervals [117]
+            xmin = 319.47
+            xmax = 319.96
+            text = ""
+        intervals [118]
+            xmin = 319.96
+            xmax = 326.811
+            text = "So being a part of that process uh it was something that I think a lot of people were nervous about me coming in"
+        intervals [119]
+            xmin = 326.811
+            xmax = 327.32
+            text = ""
+        intervals [120]
+            xmin = 327.32
+            xmax = 333.29
+            text = "But uh no one I think was more confident in my ability than my parents"
+        intervals [121]
+            xmin = 333.29
+            xmax = 334.05
+            text = ""
+        intervals [122]
+            xmin = 334.05
+            xmax = 339.11
+            text = "Uh it w I can just talk to you that’s my son for days and days and days"
+        intervals [123]
+            xmin = 339.11
+            xmax = 340.01
+            text = ""
+        intervals [124]
+            xmin = 340.01
+            xmax = 340.65
+            text = "Can we do it right qucik"
+        intervals [125]
+            xmin = 340.65
+            xmax = 341.5
+            text = ""
+        intervals [126]
+            xmin = 341.5
+            xmax = 364.53
+            text = "We were talking about my motivation and I think for my parents to have their oldest child to be a leader in the community that they both grew up in and one that I grew up in as well uh was very very meaningful to them"
+        intervals [127]
+            xmin = 364.53
+            xmax = 365.25
+            text = ""
+        intervals [128]
+            xmin = 365.25
+            xmax = 370.22
+            text = "And I don’t think that they could have been more proud of uh me"
+        intervals [129]
+            xmin = 370.22
+            xmax = 370.52
+            text = ""
+        intervals [130]
+            xmin = 370.52
+            xmax = 375.3
+            text = "Even when I got my PhD I think this was a lot more meaningful to them"
+        intervals [131]
+            xmin = 375.3
+            xmax = 375.56
+            text = ""
+        intervals [132]
+            xmin = 375.56
+            xmax = 402.6
+            text = "So uh to me that serves as a sense of uh motivation but it also serves um for me as a higher order of making sure that what’s expected of me is fulfilled not just for myself but making sure that everything I do with the decisions I make the choices I make and the manner in which I conduct myself is one that would make them proud as well"
+        intervals [133]
+            xmin = 402.6
+            xmax = 402.92
+            text = ""
+        intervals [134]
+            xmin = 402.92
+            xmax = 422.233
+            text = "So it’s special and to know that this is the school that my Father worked in my Mother worked in and to know that their reputations are one that are still well respected and well viewed and perceived in this community"
+        intervals [135]
+            xmin = 422.233
+            xmax = 422.8
+            text = ""
+        intervals [136]
+            xmin = 422.8
+            xmax = 427.733
+            text = "Also um kind of increases the standards that you operate by"
+        intervals [137]
+            xmin = 427.733
+            xmax = 428.28
+            text = ""
+        intervals [138]
+            xmin = 428.28
+            xmax = 429.211
+            text = "so it’s good"
+        intervals [139]
+            xmin = 429.211
+            xmax = 429.244
+            text = ""
+        intervals [140]
+            xmin = 429.244
+            xmax = 434.366
+            text = "I mean I always look at it as a blessing because it could be on the other end of the spectrum"
+        intervals [141]
+            xmin = 434.366
+            xmax = 435.066
+            text = ""
+        intervals [142]
+            xmin = 435.066
+            xmax = 442.177
+            text = "And you could have leaders who have tainted or tarnished images and then you have to follow those"
+        intervals [143]
+            xmin = 442.177
+            xmax = 442.788
+            text = ""
+        intervals [144]
+            xmin = 442.788
+            xmax = 448.166
+            text = "So and and you have to play a role at trying to defend them throughout the process"
+        intervals [145]
+            xmin = 448.166
+            xmax = 456.72
+            text = "So it’s a blessing to have parents who are still uh in good physical and mental health that are still here and still real respected"
+        intervals [146]
+            xmin = 456.72
+            xmax = 460.866
+            text = ""
+        intervals [147]
+            xmin = 460.866
+            xmax = 474.711
+            text = "Interesting uh that you ask because um my name is Darron Lamont Edwards and it’s interesting because when I went to school they all called me by my middle name and no one really knew my first name"
+        intervals [148]
+            xmin = 474.711
+            xmax = 475.08
+            text = ""
+        intervals [149]
+            xmin = 475.08
+            xmax = 479.04
+            text = "So when I first got the job there were teachers here who were my teachers when I was in school"
+        intervals [150]
+            xmin = 479.04
+            xmax = 479.92
+            text = ""
+        intervals [151]
+            xmin = 479.92
+            xmax = 484.388
+            text = "and when they saw me in the building they ran up and hugged me"
+        intervals [152]
+            xmin = 484.388
+            xmax = 492.111
+            text = "and they didn’t call me Mister Edwards they didn’t call me Doctor Edwards they called me Lamont and it was like oh Lamont I’m so glad that you’re here"
+        intervals [153]
+            xmin = 492.111
+            xmax = 492.422
+            text = ""
+        intervals [154]
+            xmin = 492.422
+            xmax = 497.1
+            text = "And the other teachers who were young they looked at me like how does she know you"
+        intervals [155]
+            xmin = 497.1
+            xmax = 499.211
+            text = "She calls you by your first name"
+        intervals [156]
+            xmin = 499.211
+            xmax = 502.811
+            text = "So we hugged and they were very apologetic you know"
+        intervals [157]
+            xmin = 502.811
+            xmax = 503.188
+            text = ""
+        intervals [158]
+            xmin = 503.188
+            xmax = 504.434
+            text = "You know and and "
+        intervals [159]
+            xmin = 504.434
+            xmax = 504.655
+            text = ""
+        intervals [160]
+            xmin = 504.655
+            xmax = 509.22
+            text = "But at that is something that makes you feel good about having this opportunity"
+        intervals [161]
+            xmin = 509.22
+            xmax = 509.728
+            text = ""
+        intervals [162]
+            xmin = 509.728
+            xmax = 513.252
+            text = "Because again its it could've been another way"
+        intervals [163]
+            xmin = 513.252
+            xmax = 513.36
+            text = ""
+        intervals [164]
+            xmin = 513.36
+            xmax = 528.122
+            text = "That they could have looked at me and said well he’s nobody that we respect he’s someone that was this type of individual in this community and we know him not just when he was in school but even after he finished school so"
+        intervals [165]
+            xmin = 528.122
+            xmax = 528.6
+            text = ""
+        intervals [166]
+            xmin = 528.6
+            xmax = 531.788
+            text = "To know that they respected me then they respect me now means a lot"
+        intervals [167]
+            xmin = 531.788
+            xmax = 532.488
+            text = ""
+        intervals [168]
+            xmin = 532.488
+            xmax = 546.133
+            text = "Um and I get actually the most cooperation in terms of collaboration in terms of support from the teachers who have been here a long time who have been knowing me all my life"
+        intervals [169]
+            xmin = 546.133
+            xmax = 546.5
+            text = ""
+        intervals [170]
+            xmin = 546.5
+            xmax = 548.36
+            text = "And they actually worked for my Father"
+        intervals [171]
+            xmin = 548.36
+            xmax = 548.955
+            text = ""
+        intervals [172]
+            xmin = 548.955
+            xmax = 550.711
+            text = "you know so it’s been good"
+        intervals [173]
+            xmin = 550.711
+            xmax = 550.977
+            text = ""
+        intervals [174]
+            xmin = 550.977
+            xmax = 561.344
+            text = "And a lot of people you know you hear um and I know this is something that happened with me you had a lot of people who would say well I would not want to work in the community where I live"
+        intervals [175]
+            xmin = 561.344
+            xmax = 562.08
+            text = ""
+        intervals [176]
+            xmin = 562.08
+            xmax = 573.888
+            text = "Well it depends on the personality and the character of the person because for me I’ve actually turned down opportunities to go to other communities to work for less I mean for more money"
+        intervals [177]
+            xmin = 573.888
+            xmax = 574.76
+            text = ""
+        intervals [178]
+            xmin = 574.76
+            xmax = 577.222
+            text = "But you know that’s extrinsic motivation"
+        intervals [179]
+            xmin = 577.222
+            xmax = 578.029
+            text = ""
+        intervals [180]
+            xmin = 578.029
+            xmax = 582.429
+            text = "You know monetary things so that doesn't have anything to do with what drives me and motivates me. "
+        intervals [181]
+            xmin = 582.429
+            xmax = 582.971
+            text = ""
+        intervals [182]
+            xmin = 582.971
+            xmax = 584.829
+            text = "So um you know it"
+        intervals [183]
+            xmin = 584.829
+            xmax = 585.133
+            text = ""
+        intervals [184]
+            xmin = 585.133
+            xmax = 587.133
+            text = "I love working in the community where I grew up"
+        intervals [185]
+            xmin = 587.133
+            xmax = 587.6
+            text = ""
+        intervals [186]
+            xmin = 587.6
+            xmax = 603.477
+            text = "The plus side to that is when the people respect you for your ability to make fair and impartial decisions that are for the best interest of their children they may not necessarily agree with the decisions but my decision is always gonna be supported by policy"
+        intervals [187]
+            xmin = 603.477
+            xmax = 604.388
+            text = ""
+        intervals [188]
+            xmin = 604.388
+            xmax = 611.955
+            text = "So as long as I can show it to them and black and white and say this is the rule and I’m not gonna compromise that then it’s okay"
+        intervals [189]
+            xmin = 611.955
+            xmax = 612.211
+            text = ""
+        intervals [190]
+            xmin = 612.211
+            xmax = 615.244
+            text = "I think in the end they end up respecting you even more"
+        intervals [191]
+            xmin = 615.244
+            xmax = 615.766
+            text = ""
+        intervals [192]
+            xmin = 615.766
+            xmax = 624.32
+            text = "They may not agree with you at the time but after their emotions kind of settle down and they look at things from an objective standpoint then they okay"
+        intervals [193]
+            xmin = 624.32
+            xmax = 635.788
+            text = ""
+        intervals [194]
+            xmin = 635.788
+            xmax = 636.133
+            text = "Exactly"
+        intervals [195]
+            xmin = 636.133
+            xmax = 639.3
+            text = ""
+        intervals [196]
+            xmin = 639.3
+            xmax = 640.344
+            text = "I will be glad to tell you"
+        intervals [197]
+            xmin = 640.344
+            xmax = 641.266
+            text = ""
+        intervals [198]
+            xmin = 641.266
+            xmax = 644.588
+            text = "And it’s something that I tell the students"
+        intervals [199]
+            xmin = 644.588
+            xmax = 644.833
+            text = ""
+        intervals [200]
+            xmin = 644.833
+            xmax = 669.811
+            text = "We’ve been in school today makes the seventh completed week of school so what happened a little over a year ago was that um your performance level there were various variables that determine your performance level as a school the drop out rate the graduation rate and in Mississippi we have um subject area testing"
+        intervals [201]
+            xmin = 669.811
+            xmax = 670.211
+            text = ""
+        intervals [202]
+            xmin = 670.211
+            xmax = 670.511
+            text = "Okay"
+        intervals [203]
+            xmin = 670.511
+            xmax = 670.811
+            text = ""
+        intervals [204]
+            xmin = 670.811
+            xmax = 676.166
+            text = "And that’s basically defined by four different areas Algebra I Biology I English II and US History"
+        intervals [205]
+            xmin = 676.166
+            xmax = 676.966
+            text = ""
+        intervals [206]
+            xmin = 676.966
+            xmax = 687.066
+            text = "So basically because of those test results and students under performing at a certain level the Mississippi Department of Education gives you a performance level"
+        intervals [207]
+            xmin = 687.066
+            xmax = 687.633
+            text = ""
+        intervals [208]
+            xmin = 687.633
+            xmax = 694.066
+            text = "So the performance level of the high school was a failing status"
+        intervals [209]
+            xmin = 694.066
+            xmax = 695.0
+            text = ""
+        intervals [210]
+            xmin = 695.0
+            xmax = 700.888
+            text = "And uh we had two schools that were classified as failing and the high school was one of them"
+        intervals [211]
+            xmin = 700.888
+            xmax = 701.722
+            text = ""
+        intervals [212]
+            xmin = 701.722
+            xmax = 716.322
+            text = "And it was because of several factors the drop out rate well the dropout rate and the graduation rate and because of a large significant number of students who did not pass the subject area tests"
+        intervals [213]
+            xmin = 716.322
+            xmax = 717.011
+            text = ""
+        intervals [214]
+            xmin = 717.011
+            xmax = 726.255
+            text = "So uh what we did was when we came in at the beginning of the year um it was my first year as a high school principal so the learning curve was very very high"
+        intervals [215]
+            xmin = 726.255
+            xmax = 727.066
+            text = ""
+        intervals [216]
+            xmin = 727.066
+            xmax = 739.188
+            text = "But I took it upon myself to do as much research as I possibly could and I surrounded myself with some people that I trusted as well as some people who were knowledgeable about what we needed to do as a team"
+        intervals [217]
+            xmin = 739.188
+            xmax = 739.888
+            text = ""
+        intervals [218]
+            xmin = 739.888
+            xmax = 745.044
+            text = "So I requested from the conservator"
+        intervals [219]
+            xmin = 745.044
+            xmax = 745.344
+            text = ""
+        intervals [220]
+            xmin = 745.344
+            xmax = 751.933
+            text = "And the conservator just so you’ll know is when the state takes over your school because of your underperformance"
+        intervals [221]
+            xmin = 751.933
+            xmax = 752.12
+            text = ""
+        intervals [222]
+            xmin = 752.12
+            xmax = 754.744
+            text = "You don’t have a superintendent you have a conservator"
+        intervals [223]
+            xmin = 754.744
+            xmax = 755.477
+            text = ""
+        intervals [224]
+            xmin = 755.477
+            xmax = 761.622
+            text = "So I met with the conservator and to me the first step was to bring in a new staff"
+        intervals [225]
+            xmin = 761.622
+            xmax = 763.077
+            text = ""
+        intervals [226]
+            xmin = 763.077
+            xmax = 779.944
+            text = "So there were a large portion of people that we did not renew their contracts we did not renew their contracts um and I brought in um a total of eight new staff members"
+        intervals [227]
+            xmin = 779.944
+            xmax = 780.2
+            text = ""
+        intervals [228]
+            xmin = 780.2
+            xmax = 796.055
+            text = "A new secretary a new assistant principal a new counselor a new lead teacher some new coaches a new in school suspension person uh safety resource officer people that I was familiar with"
+        intervals [229]
+            xmin = 796.055
+            xmax = 797.855
+            text = ""
+        intervals [230]
+            xmin = 797.855
+            xmax = 823.133
+            text = "What we try to do at the high school as it relates to civil rights and that particular era we request that our history teachers in the social studies department integrate and emphasize and highlight the Civil Rights Era into their particular lesson plans into their daily instruction"
+        intervals [231]
+            xmin = 823.133
+            xmax = 823.64
+            text = ""
+        intervals [232]
+            xmin = 823.64
+            xmax = 833.711
+            text = "And we periodically invite speakers leaders in our community as well as leaders from surrounding communities to come in and speak to those students"
+        intervals [233]
+            xmin = 833.711
+            xmax = 834.12
+            text = ""
+        intervals [234]
+            xmin = 834.12
+            xmax = 841.044
+            text = "One person that you all probably have heard of may be familiar with is Mister Charles McLauren"
+        intervals [235]
+            xmin = 841.044
+            xmax = 842.5
+            text = ""
+        intervals [236]
+            xmin = 842.5
+            xmax = 847.722
+            text = "He’s someone who last year came in and spoke to our student body"
+        intervals [237]
+            xmin = 847.722
+            xmax = 848.5
+            text = ""
+        intervals [238]
+            xmin = 848.5
+            xmax = 855.177
+            text = "So periodically we do have speakers to come in like Mister Guyot who came in today"
+        intervals [239]
+            xmin = 855.177
+            xmax = 866.188
+            text = ""
+        intervals [240]
+            xmin = 866.188
+            xmax = 877.9
+            text = "I think what it does is it connects the students with the past by giving them someone that they just can’t read and I think you all know that there are all different types of learners"
+        intervals [241]
+            xmin = 877.9
+            xmax = 878.36
+            text = ""
+        intervals [242]
+            xmin = 878.36
+            xmax = 896.4
+            text = "So you have learners that learn in different ways and from receiving knowledge and information in different methods so it’s good to read about it but it’s also good to have that human component to come in and actually add that to uh what the teacher is actually lecturing about"
+        intervals [243]
+            xmin = 896.4
+            xmax = 899.6
+            text = "Or what you’re watching on film or what you’re reading about so"
+        intervals [244]
+            xmin = 899.6
+            xmax = 900.211
+            text = ""
+        intervals [245]
+            xmin = 900.211
+            xmax = 913.222
+            text = "The book can’t answer questions it can provide you with you know information but to have a person who can come give you the oral history of what is actually taking place and they have actually experienced themselves"
+        intervals [246]
+            xmin = 913.222
+            xmax = 913.76
+            text = ""
+        intervals [247]
+            xmin = 913.76
+            xmax = 915.977
+            text = "It’s a different type of knowledge that’s delivered to you"
+        intervals [248]
+            xmin = 915.977
+            xmax = 916.322
+            text = ""
+        intervals [249]
+            xmin = 916.322
+            xmax = 935.033
+            text = "So that makes a difference and I hope that it does serve as a sense of pride and motivation to the students to let them know about the privileges that they have now that those people who came before them the giants or the historians the heroes of what they did to give you the opportunity that you have today"
+        intervals [250]
+            xmin = 935.033
+            xmax = 935.864
+            text = ""
+        intervals [251]
+            xmin = 935.864
+            xmax = 936.675
+            text = "and you know"
+        intervals [252]
+            xmin = 936.675
+            xmax = 936.877
+            text = ""
+        intervals [253]
+            xmin = 936.877
+            xmax = 937.877
+            text = "so all of that’s important"
+        intervals [254]
+            xmin = 937.877
+            xmax = 964.322
+            text = ""
+        intervals [255]
+            xmin = 964.322
+            xmax = 978.111
+            text = "For me and I like to be modest about it you know but I just like to look at it that they had a role to play in that particular era"
+        intervals [256]
+            xmin = 978.111
+            xmax = 978.7
+            text = ""
+        intervals [257]
+            xmin = 978.7
+            xmax = 983.422
+            text = "And I think God put them in the positions that they were in to help others and to serve their community"
+        intervals [258]
+            xmin = 983.422
+            xmax = 983.988
+            text = ""
+        intervals [259]
+            xmin = 983.988
+            xmax = 1003.233
+            text = "And what they have done is actually aside from put pressure on me to make sure that I fulfill what’s designed for me at this particular moment in my life to make sure that I try to fulfill as much as I possibly can"
+        intervals [260]
+            xmin = 1003.233
+            xmax = 1003.52
+            text = ""
+        intervals [261]
+            xmin = 1003.52
+            xmax = 1029.599
+            text = "To make sure that in this time uh I open doors for those individuals who will come after me and make sure that I can take the baton as far as I possibly can open as many doors as I possibly can and try to serve as a leader not just by speaking it but by living it and being an example and a model that my parents and others who came before me can be proud of"
+        intervals [262]
+            xmin = 1029.599
+            xmax = 1050.811
+            text = "But also more importantly my children I know how important it was for me to have parents who were respectful hard working and dedicated and always exhibited a form of altruism where it was always about not doing for yourself but trying to do something better for mankind and the welfare of others"
+        intervals [263]
+            xmin = 1050.811
+            xmax = 1051.189
+            text = ""
+        intervals [264]
+            xmin = 1051.189
+            xmax = 1062.191
+            text = "So I know that’s something that’s been instilled in me and it was um you know growing up you didn’t really realize the magnitude of it until you got to be an adult"
+        intervals [265]
+            xmin = 1062.191
+            xmax = 1062.845
+            text = ""
+        intervals [266]
+            xmin = 1062.845
+            xmax = 1063.645
+            text = "Uh you know"
+        intervals [267]
+            xmin = 1063.645
+            xmax = 1068.92
+            text = "And then you realize that you’re traveling the same path and you realize what it was like for them You know so"
+        intervals [268]
+            xmin = 1068.92
+            xmax = 1069.791
+            text = ""
+        intervals [269]
+            xmin = 1069.791
+            xmax = 1070.036
+            text = "So"
+        intervals [270]
+            xmin = 1070.036
+            xmax = 1070.363
+            text = ""
+        intervals [271]
+            xmin = 1070.363
+            xmax = 1071.327
+            text = "It’s been good"
+        intervals [272]
+            xmin = 1071.327
+            xmax = 1076.363
+            text = ""
+        intervals [273]
+            xmin = 1076.363
+            xmax = 1076.654
+            text = "Sure"
+        intervals [274]
+            xmin = 1076.654
+            xmax = 1077.4
+            text = ""
+        intervals [275]
+            xmin = 1077.4
+            xmax = 1077.709
+            text = "Sure"
+        intervals [276]
+            xmin = 1077.709
+            xmax = 1079.154
+            text = ""
+        intervals [277]
+            xmin = 1079.154
+            xmax = 1089.763
+            text = "Um I went to after graduating um from Ruleville Central High School I attended school at Mississippi Valley State University and that’s the home of Jerry Rice"
+        intervals [278]
+            xmin = 1089.763
+            xmax = 1090.918
+            text = ""
+        intervals [279]
+            xmin = 1090.918
+            xmax = 1092.818
+            text = "Uh I like to say that"
+        intervals [280]
+            xmin = 1092.818
+            xmax = 1093.036
+            text = ""
+        intervals [281]
+            xmin = 1093.036
+            xmax = 1097.836
+            text = "Um after that I went to Delta State which is nine miles away"
+        intervals [282]
+            xmin = 1097.836
+            xmax = 1099.773
+            text = ""
+        intervals [283]
+            xmin = 1099.773
+            xmax = 1108.582
+            text = "Yeah and and it was a good school and I like the fact that all of my degrees are from different institutions but they’re all from the state of Mississippi"
+        intervals [284]
+            xmin = 1108.582
+            xmax = 1109.509
+            text = ""
+        intervals [285]
+            xmin = 1109.509
+            xmax = 1111.309
+            text = "and I’m very proud of that"
+        intervals [286]
+            xmin = 1111.309
+            xmax = 1111.318
+            text = ""
+        intervals [287]
+            xmin = 1111.318
+            xmax = 1118.2
+            text = "So after graduating from Delta State I received my educational specialist degree from Mississippi State and"
+        intervals [288]
+            xmin = 1118.2
+            xmax = 1118.436
+            text = ""
+        intervals [289]
+            xmin = 1118.436
+            xmax = 1122.345
+            text = "after that I received my PhD from Mississippi State"
+        intervals [290]
+            xmin = 1122.345
+            xmax = 1123.166
+            text = ""
+        intervals [291]
+            xmin = 1123.166
+            xmax = 1125.446
+            text = "So um you know it was"
+        intervals [292]
+            xmin = 1125.446
+            xmax = 1126.145
+            text = ""
+        intervals [293]
+            xmin = 1126.145
+            xmax = 1132.082
+            text = "I never had an interest in going to school or attending school or following my education outside of Mississippi"
+        intervals [294]
+            xmin = 1132.082
+            xmax = 1132.954
+            text = ""
+        intervals [295]
+            xmin = 1132.954
+            xmax = 1140.473
+            text = "And I’m fortunate because I have a daughter who is a freshman at Mississippi State"
+        intervals [296]
+            xmin = 1140.473
+            xmax = 1141.305
+            text = ""
+        intervals [297]
+            xmin = 1141.305
+            xmax = 1142.429
+            text = "So um"
+        intervals [298]
+            xmin = 1142.429
+            xmax = 1142.746
+            text = ""
+        intervals [299]
+            xmin = 1142.746
+            xmax = 1143.191
+            text = "she didn't"
+        intervals [300]
+            xmin = 1143.191
+            xmax = 1143.942
+            text = ""
+        intervals [301]
+            xmin = 1143.942
+            xmax = 1144.325
+            text = "Yes"
+        intervals [302]
+            xmin = 1144.325
+            xmax = 1144.517
+            text = ""
+        intervals [303]
+            xmin = 1144.517
+            xmax = 1144.79
+            text = "So"
+        intervals [304]
+            xmin = 1144.79
+            xmax = 1145.373
+            text = ""
+        intervals [305]
+            xmin = 1145.373
+            xmax = 1145.782
+            text = "Yes"
+        intervals [306]
+            xmin = 1145.782
+            xmax = 1151.159
+            text = ""
+        intervals [307]
+            xmin = 1151.159
+            xmax = 1151.612
+            text = "Um"
+        intervals [308]
+            xmin = 1151.612
+            xmax = 1152.393
+            text = ""
+        intervals [309]
+            xmin = 1152.393
+            xmax = 1156.122
+            text = "I'm excited to be a part of this process uh with you all"
+        intervals [310]
+            xmin = 1156.122
+            xmax = 1156.782
+            text = ""
+        intervals [311]
+            xmin = 1156.782
+            xmax = 1157.463
+            text = "Um"
+        intervals [312]
+            xmin = 1157.463
+            xmax = 1157.618
+            text = ""
+        intervals [313]
+            xmin = 1157.618
+            xmax = 1182.018
+            text = "And I hope that at some point the students who are having an opportunity to experience this this will serve as some staple in their lives to help motivate them that everything is not about how much money you can make or how many superficial things you can kind of possess"
+        intervals [314]
+            xmin = 1182.018
+            xmax = 1182.766
+            text = ""
+        intervals [315]
+            xmin = 1182.766
+            xmax = 1189.763
+            text = "But there's a generation of people who came before you that have opened doors and given you opportunities that you have today."
+        intervals [316]
+            xmin = 1189.763
+            xmax = 1190.206
+            text = ""
+        intervals [317]
+            xmin = 1190.206
+            xmax = 1200.329
+            text = "So I hoped that the new generation of students the new generation of leaders are ones who can do just as much and more as I'm doing and those who came before me."
+        intervals [318]
+            xmin = 1200.329
+            xmax = 1202.545
+            text = ""
+        intervals [319]
+            xmin = 1202.545
+            xmax = 1202.879
+            text = "Yeah"
+        intervals [320]
+            xmin = 1202.879
+            xmax = 1205.17
+            text = ""
+        intervals [321]
+            xmin = 1205.17
+            xmax = 1205.792
+            text = "You're welcome"
+        intervals [322]
+            xmin = 1205.792
+            xmax = 1207.096
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "S: "
+        xmin = 0.0
+        xmax = 1207.096
+        intervals: size = 179
+        intervals [1]
+            xmin = 0.0
+            xmax = 35.43
+            text = ""
+        intervals [2]
+            xmin = 35.43
+            xmax = 36.64
+            text = "What’s your date of birth"
+        intervals [3]
+            xmin = 36.64
+            xmax = 38.28
+            text = ""
+        intervals [4]
+            xmin = 38.28
+            xmax = 38.933
+            text = "Perfect"
+        intervals [5]
+            xmin = 38.933
+            xmax = 39.02
+            text = ""
+        intervals [6]
+            xmin = 39.02
+            xmax = 40.64
+            text = "And then can you tell us a bit about your family"
+        intervals [7]
+            xmin = 40.64
+            xmax = 42.133
+            text = "You said you had a brother and a sister"
+        intervals [8]
+            xmin = 42.133
+            xmax = 78.101
+            text = ""
+        intervals [9]
+            xmin = 78.101
+            xmax = 78.72
+            text = "What was his name"
+        intervals [10]
+            xmin = 78.72
+            xmax = 98.764
+            text = ""
+        intervals [11]
+            xmin = 98.764
+            xmax = 99.733
+            text = "Mm wow"
+        intervals [12]
+            xmin = 99.733
+            xmax = 100.756
+            text = ""
+        intervals [13]
+            xmin = 100.756
+            xmax = 101.126
+            text = "Really"
+        intervals [14]
+            xmin = 101.126
+            xmax = 137.706
+            text = ""
+        intervals [15]
+            xmin = 137.706
+            xmax = 137.908
+            text = "Right"
+        intervals [16]
+            xmin = 137.908
+            xmax = 140.539
+            text = ""
+        intervals [17]
+            xmin = 140.539
+            xmax = 140.922
+            text = "Mhm"
+        intervals [18]
+            xmin = 140.922
+            xmax = 182.559
+            text = ""
+        intervals [19]
+            xmin = 182.559
+            xmax = 182.941
+            text = "Right"
+        intervals [20]
+            xmin = 182.941
+            xmax = 191.6
+            text = ""
+        intervals [21]
+            xmin = 191.6
+            xmax = 192.08
+            text = "Right"
+        intervals [22]
+            xmin = 192.08
+            xmax = 210.641
+            text = ""
+        intervals [23]
+            xmin = 210.641
+            xmax = 210.955
+            text = "Right"
+        intervals [24]
+            xmin = 210.955
+            xmax = 230.84
+            text = ""
+        intervals [25]
+            xmin = 230.84
+            xmax = 231.16
+            text = "Wow"
+        intervals [26]
+            xmin = 231.16
+            xmax = 236.097
+            text = ""
+        intervals [27]
+            xmin = 236.097
+            xmax = 236.545
+            text = "Right"
+        intervals [28]
+            xmin = 236.545
+            xmax = 245.414
+            text = ""
+        intervals [29]
+            xmin = 245.414
+            xmax = 245.661
+            text = "Mhm"
+        intervals [30]
+            xmin = 245.661
+            xmax = 256.76
+            text = ""
+        intervals [31]
+            xmin = 256.76
+            xmax = 257.322
+            text = "Mhm"
+        intervals [32]
+            xmin = 257.322
+            xmax = 260.12
+            text = ""
+        intervals [33]
+            xmin = 260.12
+            xmax = 260.48
+            text = "Right"
+        intervals [34]
+            xmin = 260.48
+            xmax = 267.134
+            text = ""
+        intervals [35]
+            xmin = 267.134
+            xmax = 267.426
+            text = "Right"
+        intervals [36]
+            xmin = 267.426
+            xmax = 270.552
+            text = ""
+        intervals [37]
+            xmin = 270.552
+            xmax = 270.788
+            text = "Right"
+        intervals [38]
+            xmin = 270.788
+            xmax = 277.762
+            text = ""
+        intervals [39]
+            xmin = 277.762
+            xmax = 278.088
+            text = "Yeah"
+        intervals [40]
+            xmin = 278.088
+            xmax = 285.17
+            text = ""
+        intervals [41]
+            xmin = 285.17
+            xmax = 285.37
+            text = "Right"
+        intervals [42]
+            xmin = 285.37
+            xmax = 290.32
+            text = ""
+        intervals [43]
+            xmin = 290.32
+            xmax = 290.774
+            text = "Mhm"
+        intervals [44]
+            xmin = 290.774
+            xmax = 293.6
+            text = ""
+        intervals [45]
+            xmin = 293.6
+            xmax = 293.92
+            text = "Right"
+        intervals [46]
+            xmin = 293.92
+            xmax = 298.651
+            text = ""
+        intervals [47]
+            xmin = 298.651
+            xmax = 299.078
+            text = "Right"
+        intervals [48]
+            xmin = 299.078
+            xmax = 303.19
+            text = ""
+        intervals [49]
+            xmin = 303.19
+            xmax = 303.483
+            text = "Right"
+        intervals [50]
+            xmin = 303.483
+            xmax = 304.828
+            text = ""
+        intervals [51]
+            xmin = 304.828
+            xmax = 305.193
+            text = "Mhm"
+        intervals [52]
+            xmin = 305.193
+            xmax = 314.303
+            text = ""
+        intervals [53]
+            xmin = 314.303
+            xmax = 314.786
+            text = "Mhm"
+        intervals [54]
+            xmin = 314.786
+            xmax = 317.388
+            text = ""
+        intervals [55]
+            xmin = 317.388
+            xmax = 317.747
+            text = "That's right"
+        intervals [56]
+            xmin = 317.747
+            xmax = 319.767
+            text = ""
+        intervals [57]
+            xmin = 319.767
+            xmax = 320.13
+            text = "Right"
+        intervals [58]
+            xmin = 320.13
+            xmax = 325.78
+            text = ""
+        intervals [59]
+            xmin = 325.78
+            xmax = 326.117
+            text = "Right"
+        intervals [60]
+            xmin = 326.117
+            xmax = 327.191
+            text = ""
+        intervals [61]
+            xmin = 327.191
+            xmax = 327.568
+            text = "Mhm"
+        intervals [62]
+            xmin = 327.568
+            xmax = 333.352
+            text = ""
+        intervals [63]
+            xmin = 333.352
+            xmax = 333.734
+            text = "Right"
+        intervals [64]
+            xmin = 333.734
+            xmax = 339.13
+            text = ""
+        intervals [65]
+            xmin = 339.13
+            xmax = 339.92
+            text = "Pause it"
+        intervals [66]
+            xmin = 339.92
+            xmax = 340.41
+            text = ""
+        intervals [67]
+            xmin = 340.41
+            xmax = 340.89
+            text = "Mhmm"
+        intervals [68]
+            xmin = 340.89
+            xmax = 364.809
+            text = ""
+        intervals [69]
+            xmin = 364.809
+            xmax = 365.292
+            text = "Absolutely"
+        intervals [70]
+            xmin = 365.292
+            xmax = 374.673
+            text = ""
+        intervals [71]
+            xmin = 374.673
+            xmax = 375.01
+            text = "Mhm"
+        intervals [72]
+            xmin = 375.01
+            xmax = 426.522
+            text = ""
+        intervals [73]
+            xmin = 426.522
+            xmax = 427.3
+            text = "Mm hm"
+        intervals [74]
+            xmin = 427.3
+            xmax = 427.966
+            text = ""
+        intervals [75]
+            xmin = 427.966
+            xmax = 428.3
+            text = "Right"
+        intervals [76]
+            xmin = 428.3
+            xmax = 434.516
+            text = ""
+        intervals [77]
+            xmin = 434.516
+            xmax = 434.881
+            text = "Right"
+        intervals [78]
+            xmin = 434.881
+            xmax = 455.276
+            text = ""
+        intervals [79]
+            xmin = 455.276
+            xmax = 455.579
+            text = "Right"
+        intervals [80]
+            xmin = 455.579
+            xmax = 479.04
+            text = ""
+        intervals [81]
+            xmin = 479.04
+            xmax = 479.92
+            text = "Oh wow"
+        intervals [82]
+            xmin = 479.92
+            xmax = 517.325
+            text = ""
+        intervals [83]
+            xmin = 517.325
+            xmax = 517.673
+            text = "Right"
+        intervals [84]
+            xmin = 517.673
+            xmax = 548.36
+            text = ""
+        intervals [85]
+            xmin = 548.36
+            xmax = 548.844
+            text = "Wow"
+        intervals [86]
+            xmin = 548.844
+            xmax = 561.394
+            text = ""
+        intervals [87]
+            xmin = 561.394
+            xmax = 561.747
+            text = "Right"
+        intervals [88]
+            xmin = 561.747
+            xmax = 565.418
+            text = ""
+        intervals [89]
+            xmin = 565.418
+            xmax = 565.711
+            text = "Right"
+        intervals [90]
+            xmin = 565.711
+            xmax = 574.067
+            text = ""
+        intervals [91]
+            xmin = 574.067
+            xmax = 574.471
+            text = "Right"
+        intervals [92]
+            xmin = 574.471
+            xmax = 577.511
+            text = ""
+        intervals [93]
+            xmin = 577.511
+            xmax = 577.866
+            text = "Right"
+        intervals [94]
+            xmin = 577.866
+            xmax = 582.618
+            text = ""
+        intervals [95]
+            xmin = 582.618
+            xmax = 582.785
+            text = "Right"
+        intervals [96]
+            xmin = 582.785
+            xmax = 603.805
+            text = ""
+        intervals [97]
+            xmin = 603.805
+            xmax = 604.142
+            text = "Right"
+        intervals [98]
+            xmin = 604.142
+            xmax = 607.938
+            text = ""
+        intervals [99]
+            xmin = 607.938
+            xmax = 608.129
+            text = "Right"
+        intervals [100]
+            xmin = 608.129
+            xmax = 615.366
+            text = ""
+        intervals [101]
+            xmin = 615.366
+            xmax = 615.669
+            text = "Mhm"
+        intervals [102]
+            xmin = 615.669
+            xmax = 623.104
+            text = ""
+        intervals [103]
+            xmin = 623.104
+            xmax = 623.25
+            text = "Right"
+        intervals [104]
+            xmin = 623.25
+            xmax = 624.577
+            text = ""
+        intervals [105]
+            xmin = 624.577
+            xmax = 632.5
+            text = "And can you tell us how what was the process to get this school out of failing status"
+        intervals [106]
+            xmin = 632.5
+            xmax = 632.777
+            text = ""
+        intervals [107]
+            xmin = 632.777
+            xmax = 635.622
+            text = "Now you’re one point away from being a successful school"
+        intervals [108]
+            xmin = 635.622
+            xmax = 640.659
+            text = ""
+        intervals [109]
+            xmin = 640.659
+            xmax = 641.007
+            text = "Right"
+        intervals [110]
+            xmin = 641.007
+            xmax = 701.138
+            text = ""
+        intervals [111]
+            xmin = 701.138
+            xmax = 701.452
+            text = "Mhm"
+        intervals [112]
+            xmin = 701.452
+            xmax = 730.113
+            text = ""
+        intervals [113]
+            xmin = 730.113
+            xmax = 730.473
+            text = "Right"
+        intervals [114]
+            xmin = 730.473
+            xmax = 750.401
+            text = ""
+        intervals [115]
+            xmin = 750.401
+            xmax = 750.592
+            text = "Right"
+        intervals [116]
+            xmin = 750.592
+            xmax = 751.845
+            text = ""
+        intervals [117]
+            xmin = 751.845
+            xmax = 752.126
+            text = "Right"
+        intervals [118]
+            xmin = 752.126
+            xmax = 753.517
+            text = ""
+        intervals [119]
+            xmin = 753.517
+            xmax = 753.697
+            text = "Right"
+        intervals [120]
+            xmin = 753.697
+            xmax = 796.067
+            text = ""
+        intervals [121]
+            xmin = 796.067
+            xmax = 796.657
+            text = "Yes"
+        intervals [122]
+            xmin = 796.657
+            xmax = 853.063
+            text = ""
+        intervals [123]
+            xmin = 853.063
+            xmax = 853.321
+            text = "Mhm"
+        intervals [124]
+            xmin = 853.321
+            xmax = 859.123
+            text = ""
+        intervals [125]
+            xmin = 859.123
+            xmax = 859.659
+            text = "Yeah"
+        intervals [126]
+            xmin = 859.659
+            xmax = 896.128
+            text = ""
+        intervals [127]
+            xmin = 896.128
+            xmax = 896.506
+            text = "Right"
+        intervals [128]
+            xmin = 896.506
+            xmax = 898.86
+            text = ""
+        intervals [129]
+            xmin = 898.86
+            xmax = 899.199
+            text = "Right"
+        intervals [130]
+            xmin = 899.199
+            xmax = 901.995
+            text = ""
+        intervals [131]
+            xmin = 901.995
+            xmax = 902.31
+            text = "Right"
+        intervals [132]
+            xmin = 902.31
+            xmax = 913.295
+            text = ""
+        intervals [133]
+            xmin = 913.295
+            xmax = 913.665
+            text = "Mhm"
+        intervals [134]
+            xmin = 913.665
+            xmax = 935.268
+            text = ""
+        intervals [135]
+            xmin = 935.268
+            xmax = 935.493
+            text = "Right"
+        intervals [136]
+            xmin = 935.493
+            xmax = 978.425
+            text = ""
+        intervals [137]
+            xmin = 978.425
+            xmax = 978.871
+            text = "Mhm"
+        intervals [138]
+            xmin = 978.871
+            xmax = 1003.203
+            text = ""
+        intervals [139]
+            xmin = 1003.203
+            xmax = 1003.462
+            text = "Mhm"
+        intervals [140]
+            xmin = 1003.462
+            xmax = 1009.988
+            text = ""
+        intervals [141]
+            xmin = 1009.988
+            xmax = 1010.463
+            text = "Mhm"
+        intervals [142]
+            xmin = 1010.463
+            xmax = 1031.77
+            text = ""
+        intervals [143]
+            xmin = 1031.77
+            xmax = 1032.222
+            text = "Mhm"
+        intervals [144]
+            xmin = 1032.222
+            xmax = 1042.762
+            text = ""
+        intervals [145]
+            xmin = 1042.762
+            xmax = 1043.165
+            text = "Right"
+        intervals [146]
+            xmin = 1043.165
+            xmax = 1060.68
+            text = ""
+        intervals [147]
+            xmin = 1060.68
+            xmax = 1060.994
+            text = "Right"
+        intervals [148]
+            xmin = 1060.994
+            xmax = 1068.962
+            text = ""
+        intervals [149]
+            xmin = 1068.962
+            xmax = 1069.341
+            text = "Right"
+        intervals [150]
+            xmin = 1069.341
+            xmax = 1095.233
+            text = ""
+        intervals [151]
+            xmin = 1095.233
+            xmax = 1095.379
+            text = "Okay"
+        intervals [152]
+            xmin = 1095.379
+            xmax = 1117.196
+            text = ""
+        intervals [153]
+            xmin = 1117.196
+            xmax = 1117.561
+            text = "Okay"
+        intervals [154]
+            xmin = 1117.561
+            xmax = 1118.382
+            text = ""
+        intervals [155]
+            xmin = 1118.382
+            xmax = 1118.709
+            text = "Cool"
+        intervals [156]
+            xmin = 1118.709
+            xmax = 1120.944
+            text = ""
+        intervals [157]
+            xmin = 1120.944
+            xmax = 1121.326
+            text = "Mhm"
+        intervals [158]
+            xmin = 1121.326
+            xmax = 1122.973
+            text = ""
+        intervals [159]
+            xmin = 1122.973
+            xmax = 1123.445
+            text = "Awesome"
+        intervals [160]
+            xmin = 1123.445
+            xmax = 1129.221
+            text = ""
+        intervals [161]
+            xmin = 1129.221
+            xmax = 1129.803
+            text = "Mhm"
+        intervals [162]
+            xmin = 1129.803
+            xmax = 1132.421
+            text = ""
+        intervals [163]
+            xmin = 1132.421
+            xmax = 1132.835
+            text = "Right"
+        intervals [164]
+            xmin = 1132.835
+            xmax = 1163.187
+            text = ""
+        intervals [165]
+            xmin = 1163.187
+            xmax = 1163.686
+            text = "Mhm"
+        intervals [166]
+            xmin = 1163.686
+            xmax = 1172.441
+            text = ""
+        intervals [167]
+            xmin = 1172.441
+            xmax = 1173.021
+            text = "Mhm"
+        intervals [168]
+            xmin = 1173.021
+            xmax = 1197.776
+            text = ""
+        intervals [169]
+            xmin = 1197.776
+            xmax = 1198.136
+            text = "Mhm"
+        intervals [170]
+            xmin = 1198.136
+            xmax = 1201.445
+            text = ""
+        intervals [171]
+            xmin = 1201.445
+            xmax = 1202.382
+            text = "Perfectly put"
+        intervals [172]
+            xmin = 1202.382
+            xmax = 1203.082
+            text = ""
+        intervals [173]
+            xmin = 1203.082
+            xmax = 1203.39
+            text = "Yes"
+        intervals [174]
+            xmin = 1203.39
+            xmax = 1203.427
+            text = ""
+        intervals [175]
+            xmin = 1203.427
+            xmax = 1204.909
+            text = "Thank you so much for sharing with us"
+        intervals [176]
+            xmin = 1204.909
+            xmax = 1204.96
+            text = ""
+        intervals [177]
+            xmin = 1204.96
+            xmax = 1205.88
+            text = "We appreciate it"
+        intervals [178]
+            xmin = 1205.88
+            xmax = 1207.08
+            text = "Alight we’re turning this of"
+        intervals [179]
+            xmin = 1207.08
+            xmax = 1207.096
+            text = ""
