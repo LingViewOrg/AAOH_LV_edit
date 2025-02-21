@@ -319,7 +319,7 @@ export function setupYoutubeAndTextSync() {
     const youtubeID = youtubeMedia.getAttribute('youtube-id');
     //Problem found with original Youtube Player setup, this function was being called before the Youtube API was ready,
     //and window.YT was undefined
-    if (typeof window.YT !== 'undefined' && window.YT.ready) {
+    if (typeof window.YT !== 'undefined' && typeof window.YT.ready === 'function') {
         player = new window.YT.Player("video", {
             height: "270",
             width: "480",
