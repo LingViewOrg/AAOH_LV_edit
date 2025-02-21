@@ -10,8 +10,17 @@ let ts_tag_array = []; // Array that stores all timestamps/sentence id
 let ts_start_time_array = [];
 let ts_stop_time_array = [];
 
+document.addEventListener('DOMContentLoaded', () => {
+    const refreshed = sessionStorage.getItem('refreshed');
 
-
+    if (!refreshed) {
+        sessionStorage.setItem('refreshed', 'true'); // Mark as refreshed
+        window.location.reload(); // Refresh once
+    } else {
+        sessionStorage.removeItem('refreshed'); // Clear after refresh
+        // ✅ Your page scripts initialize here without reloading again
+    }
+});
 
 /* Sets up syncing between AV file and text scrolling and highlighting. */
 function setupTextSync() {
@@ -351,6 +360,8 @@ function getYoutubeMedia() {
 //     }
 // }
 export function setupYoutubeAndTextSync() {
+
+    
     const youtubeMedia = getYoutubeMedia();
     if (!youtubeMedia) {
         setupTextSync();
