@@ -330,7 +330,7 @@ export function setupYoutubeAndTextSync() {
     }
     else {
         //Temporary Solution: wait until window.YT is defined
-        setTimeout(setupYoutubeAndTextSync, 100);
+        setTimeout(setupYoutubeAndTextSync, 200);
     }
     
     
