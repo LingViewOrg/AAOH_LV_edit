@@ -350,44 +350,7 @@ function getYoutubeMedia() {
 //         setupTextSync();
 //     }
 // }
-function waitForVideoElement() {
-    return new Promise((resolve) => {
-        const check = setInterval(() => {
-            const videoEl = document.getElementById("video");
-            if (videoEl) {
-                clearInterval(check);
-                resolve(videoEl);
-            }
-        }, 100);
-    });
-}
-
-function loadYouTubeAPI() {
-    return new Promise((resolve, reject) => {
-        if (window.YT && window.YT.Player) {
-            window.YT.ready(resolve);
-            return;
-        }
-
-        const existingScript = document.getElementById("youtube-iframe-api");
-        if (!existingScript) {
-            const tag = document.createElement('script');
-            tag.id = "youtube-iframe-api";
-            tag.src = "https://www.youtube.com/iframe_api";
-            tag.onload = () => {
-                if (window.YT && window.YT.ready) {
-                    window.YT.ready(resolve);
-                }
-            };
-            tag.onerror = reject;
-            document.head.appendChild(tag);
-        } else {
-            window.YT.ready(resolve);
-        }
-    });
-}
-
-export async function setupYoutubeAndTextSync() {
+export function setupYoutubeAndTextSync() {
     const youtubeMedia = getYoutubeMedia();
     if (!youtubeMedia) {
         setupTextSync();
@@ -396,12 +359,32 @@ export async function setupYoutubeAndTextSync() {
 
     const youtubeID = youtubeMedia.getAttribute('youtube-id');
 
-    await waitForVideoElement();
-    await loadYouTubeAPI();
+    // Load YouTube API if it's not present
+    if (!window.YT) {
+        loadYouTubeAPI().then(initPlayer);
+    } else if (window.YT && window.YT.Player) {
+        initPlayer();
+    } else {
+        window.YT.ready(initPlayer); // If YT is defined but not ready
+    }
 
-    window.YT.ready(() => {
-        if (window.player && window.player.destroy) {
-            window.player.destroy(); // Cleanup any old player
+    function loadYouTubeAPI() {
+        return new Promise((resolve, reject) => {
+            const script = document.createElement('script');
+            script.src = "https://www.youtube.com/iframe_api";
+            script.onload = () => {
+                if (window.YT && window.YT.ready) {
+                    window.YT.ready(resolve);
+                }
+            };
+            script.onerror = reject;
+            document.head.appendChild(script);
+        });
+    }
+
+    function initPlayer() {
+        if (window.player && typeof window.player.destroy === 'function') {
+            window.player.destroy();
         }
 
         window.player = new window.YT.Player("video", {
@@ -410,7 +393,7 @@ export async function setupYoutubeAndTextSync() {
             videoId: youtubeID,
             events: { onReady: onPlayerReady }
         });
-    });
+    }
 
     function onPlayerReady() {
         setupTextSync();
