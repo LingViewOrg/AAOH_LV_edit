@@ -344,5 +344,51 @@
         "tier": "F: "
       }
     }
+  },
+  "db8a7b6f-9e08-41ee-94ac-af4db4609ba3": {
+    "timed": true,
+    "story ID": "db8a7b6f-9e08-41ee-94ac-af4db4609ba3",
+    "title": {
+      "_default": "AAHP 073 Diana Bell 9-5-2009"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=fK5S7dX0K-c"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "2/20/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP 073 Diana Bell 9-5-2009.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "B: ": {
+        "subdivided": false
+      },
+      "W: ": {
+        "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "B: "
+      },
+      "S2": {
+        "tier": "W: "
+      },
+      "S3": {
+        "tier": "Features"
+      }
+    }
   }
 }
