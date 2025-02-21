@@ -299,6 +299,7 @@ function setupTextSync() {
         if (getYoutubeMedia()) {
             setInterval(function(){
                 const currentTime = player.playerInfo.currentTime;
+                //const currentTime = player.getCurrentTime();
                 sync(currentTime);
                 featureDetect(currentTime);
             }, 100);
@@ -318,96 +319,96 @@ function getYoutubeMedia() {
 * Youtube video. When the YT player is ready, or if the story does
 * not require Youtube setup, calls setupTextSync.
 */
-// export function setupYoutubeAndTextSync() {
-//     const youtubeMedia = getYoutubeMedia();
-//     if (!youtubeMedia) {
-//         setupTextSync();
-//         return; 
-//     }
-
-//     const youtubeID = youtubeMedia.getAttribute('youtube-id');
-//     //Problem found with original Youtube Player setup, this function was being called before the Youtube API was ready,
-//     //and window.YT was undefined
-//     if (typeof window.YT !== 'undefined' && typeof window.YT.ready === 'function') {
-//         player = new window.YT.Player("video", {
-//             height: "270",
-//             width: "480",
-//             videoId: youtubeID
-//         });
-//         player.addEventListener('onReady', onPlayerReady);
-
-//     }
-//     else {
-//         //Temporary Solution: wait until window.YT is defined
-//         setTimeout(setupYoutubeAndTextSync, 200);
-//     }
-    
-    
-//         // // Initialize YouTube player: 
-//         // window.YT.ready(function() {
-//         //     player = new window.YT.Player("video", {
-//         //         height: "270",
-//         //         width: "480",
-//         //         videoId: youtubeID
-//         //     });
-//         //     player.addEventListener('onReady', onPlayerReady);
-//         // });
-    
-   
-
-//     function onPlayerReady(event) {
-//         setupTextSync();
-//     }
-// }
 export function setupYoutubeAndTextSync() {
-
-    
     const youtubeMedia = getYoutubeMedia();
     if (!youtubeMedia) {
         setupTextSync();
-        return;
+        return; 
     }
 
     const youtubeID = youtubeMedia.getAttribute('youtube-id');
-
-    // Load YouTube API if it's not present
-    if (!window.YT) {
-        loadYouTubeAPI().then(initPlayer);
-    } else if (window.YT && window.YT.Player) {
-        initPlayer();
-    } else {
-        window.YT.ready(initPlayer); // If YT is defined but not ready
-    }
-
-    function loadYouTubeAPI() {
-        return new Promise((resolve, reject) => {
-            const script = document.createElement('script');
-            script.src = "https://www.youtube.com/iframe_api";
-            script.onload = () => {
-                if (window.YT && window.YT.ready) {
-                    window.YT.ready(resolve);
-                }
-            };
-            script.onerror = reject;
-            document.head.appendChild(script);
-        });
-    }
-
-    function initPlayer() {
-        if (window.player && typeof window.player.destroy === 'function') {
-            window.player.destroy();
-        }
-
-        window.player = new window.YT.Player("video", {
+    //Problem found with original Youtube Player setup, this function was being called before the Youtube API was ready,
+    //and window.YT was undefined
+    if (typeof window.YT !== 'undefined' && typeof window.YT.ready === 'function') {
+        player = new window.YT.Player("video", {
             height: "270",
             width: "480",
-            videoId: youtubeID,
-            events: { onReady: onPlayerReady }
+            videoId: youtubeID
         });
-    }
+        player.addEventListener('onReady', onPlayerReady);
 
-    function onPlayerReady() {
+    }
+    else {
+        //Temporary Solution: wait until window.YT is defined
+        setTimeout(setupYoutubeAndTextSync, 200);
+    }
+    
+    
+        // // Initialize YouTube player: 
+        // window.YT.ready(function() {
+        //     player = new window.YT.Player("video", {
+        //         height: "270",
+        //         width: "480",
+        //         videoId: youtubeID
+        //     });
+        //     player.addEventListener('onReady', onPlayerReady);
+        // });
+    
+   
+
+    function onPlayerReady(event) {
         setupTextSync();
     }
 }
+// export function setupYoutubeAndTextSync() {
+
+    
+//     const youtubeMedia = getYoutubeMedia();
+//     if (!youtubeMedia) {
+//         setupTextSync();
+//         return;
+//     }
+
+//     const youtubeID = youtubeMedia.getAttribute('youtube-id');
+
+//     // Load YouTube API if it's not present
+//     if (!window.YT) {
+//         loadYouTubeAPI().then(initPlayer);
+//     } else if (window.YT && window.YT.Player) {
+//         initPlayer();
+//     } else {
+//         window.YT.ready(initPlayer); // If YT is defined but not ready
+//     }
+
+//     function loadYouTubeAPI() {
+//         return new Promise((resolve, reject) => {
+//             const script = document.createElement('script');
+//             script.src = "https://www.youtube.com/iframe_api";
+//             script.onload = () => {
+//                 if (window.YT && window.YT.ready) {
+//                     window.YT.ready(resolve);
+//                 }
+//             };
+//             script.onerror = reject;
+//             document.head.appendChild(script);
+//         });
+//     }
+
+//     function initPlayer() {
+//         if (window.player && typeof window.player.destroy === 'function') {
+//             window.player.destroy();
+//         }
+
+//         window.player = new window.YT.Player("video", {
+//             height: "270",
+//             width: "480",
+//             videoId: youtubeID,
+//             events: { onReady: onPlayerReady }
+//         });
+//     }
+
+//     function onPlayerReady() {
+//         setupTextSync();
+//     }
+// }
 export  {ts_tag_array,player};
