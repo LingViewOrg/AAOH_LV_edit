@@ -20,6 +20,8 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+      - name: Set Node.js OpenSSL legacy mode
+        run: export NODE_OPTIONS=--openssl-legacy-provider
 
       - name: Run quick build
         run: npm run quick-build
