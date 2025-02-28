@@ -66,7 +66,7 @@ jobs:
         REMOTE_MEDIA_PATH: ${{ secrets.REMOTE_MEDIA_PATH }}
 
     - name: Save offline-compatible local version as an artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: LingView-local
         path: bundle-offline
