@@ -1,45 +1,31 @@
-name: Deploy to GitHub Pages
+name: Quick Build
 
-on:
-  push:
-    branches:
-      - main  # Runs on push to main
-  workflow_dispatch:  # Enables manual trigger in GitHub Actions UI
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+on: [push, pull_request]  # Runs on every push or pull request
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-    
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Ensures a full history fetch
+          fetch-depth: 0  # Ensures the full repo history is pulled
 
-      - name: Install dependencies
+      - name: Use Node.js 18
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install Dependencies
         run: npm install
 
-      - name: Build website
-        run: npm run quick-build
+      - name: Run Quick Build
+        run: NODE_OPTIONS=--openssl-legacy-provider npm run quick-build
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v4
         with:
-          path: ./dist  # Change if needed
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          name: quick-build-output
+          path: dist/  # Change this to your actual output folder
+          if-no-files-found: error  # Fail if no files are found
