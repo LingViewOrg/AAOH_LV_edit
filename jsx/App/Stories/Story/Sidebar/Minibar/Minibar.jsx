@@ -2,7 +2,7 @@ import { Info } from './Info/Info.jsx';
 import { MoreInfo } from './Info/Info.jsx';
 import { Settings } from './Settings/Settings.jsx';
 import { Descriptions } from './Descriptions/Descriptions.jsx';
-import { Features } from './features.jsx';
+import { Features } from './Features.jsx';
 
 export function Minibar({ metadata, hasVideo }) {
 	// I/P: metadata, in JSON format
