@@ -29,3 +29,10 @@ jobs:
           name: quick-build-output
           path: build/  # Change this to your actual output folder
           if-no-files-found: error  # Fail if no files are found
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: main
+          publish_dir: ./build
+          force_orphan: true
