@@ -27,5 +27,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: quick-build-output
-          path: dist/  # Change this to your actual output folder
+          path: build/  # Change this to your actual output folder
           if-no-files-found: error  # Fail if no files are found
