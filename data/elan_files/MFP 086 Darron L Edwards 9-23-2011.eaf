@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-03-04T22:07:37-05:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///D:/MFP 086 Darron L Edwards 9-23-2011.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../MFP 086 Darron L Edwards 9-23-2011.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:76dc3bdb-a37d-4a64-bd3b-c4384851332e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">35</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="15000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="15000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="34000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="34000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="36000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="36000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="38000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="38000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="43000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="43000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="106000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="106000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="168000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="168000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="218000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="218000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="267000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="267000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="318000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="318000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="374000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="374000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="457000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="457000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="461000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="461000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="509000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="509000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="561000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="561000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="624000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="624000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="639000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="639000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="643000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="643000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="717000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="717000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="776000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="776000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="857000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="857000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="866000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="866000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="936000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="936000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="938000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="938000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="964000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="964000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="972000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="972000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="1031000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="1031000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="1071000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="1071000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="1079000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="1079000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="1098000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="1098000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="1100000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="1100000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="1145000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="1145000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="1152000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="1152000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="1201000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="1201000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="1204000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Speaker 0">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>This is Brianne Palmer and Naela Summers. It's September 23rd, and we are at Ruleville Central High School with our friend Dr. Darren l Edwards. And he's going to just introduce himself and tell us, um, a bit about his life. So if you just state your name, please. Okay. Um,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>What's your date of birth?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Perfect. And then, um, could you tell us a bit about your family? You said you had a brother and a sister that Sure.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>There still faculty at the school that knew your parents that are still here now?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>How's that benefiting the students? Do you feel like it helps instill a sense of pride in them that they're learning about people from Mississippi who were integral in the movement?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>And then finally, just as a last thing, can you tell us about, um, where you did your undergrad studies and your graduate studies, and all of a sudden you have a doctorate? So,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Were there last, last night.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>Yeah. Awesome. Is there any, anything else you'd want us to know? Any last, final words to kind of wrap up what you've been telling us? Um,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Perfectly put. Thank you. Yes. We thank you so much for sharing with us. We appreciate it. All right. We're turning this off.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Speaker 1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>My name is Darren Edwards, and I'm a second year principal here at Ville Central High School. Uh, the school where I graduated from, uh, my siblings, my brother, my sister, uh, all graduated from this school as well as my parents. So it's a privilege to be a part of this particular process.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>10/16/68.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Um, I'm the oldest of three children. Nice. Um, my father's parents lived in this town, uh, and they were very, very active in the community. Um, and my father, it was four children, two boys and two girls. Uh, my father was next to the youngest, um, and he actually, um, was the second black principal of this particular high school. Um, and he was also the first, um, superintendent of this particular school district. What was his name? So, Thomas Edwards Senior. Um, we all participated in sports here at the high school, and it's kind of very interesting because it's five of us. Mm-hmm &lt;affirmative&gt;. With, uh, my mother, my brother, my sister, and my father. And we all play sports. We all graduated, uh, from here, and, uh, I'm the only one left. Mm. Yeah. Everybody else moved away, really. So it's interesting because my mother, my father's still here, they're still leaders in this community mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>And, uh, this is a position that I never dreamed of having, never had a desire or a wish to have, but I feel like it was done, uh, because of God's will. Yes. Because I never asked to have this position. But interestingly enough, uh, I was a college professor Yeah. And I did consulting work, uh, for all of the public school districts in this area. So doing consulting work, uh, in the area, it just made it even less interesting for me to want to be, uh, a part of public education. Mm-hmm &lt;affirmative&gt;. But my father's the one who's responsible. Yeah. Because he always encouraged me. He said, you would like it if you get into it. Mm-hmm &lt;affirmative&gt;. But what happened was, uh, I had certification to be a counselor and I never pursued it. So, uh, an administrator's exam was coming up mm-hmm &lt;affirmative&gt;. And I kinda tested my faith and my faith, uh, with God because I didn't study or prepare for the exam &lt;laugh&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>I didn't. And, and it is real interesting because, um, my father encouraged me to take it, and it was pretty expensive. So I enrolled and I said that I was gonna take the test and I said, well, God, I will see &lt;laugh&gt; if this is for me. Right. If it's not for me, I'll stay and continue to work in higher education. Right. Something that I enjoyed, and I enjoyed the flexibility. Right. I just didn't wanna be confined. Mm-hmm &lt;affirmative&gt;. Right. Uh, so the weekend of the test, I had a cousin who had some material about the test, and he gave it to me. And, uh, I, I got it and looked over it, didn't study it, put it to the side, &lt;laugh&gt;, and I said a prayer. I said, Lord, well, if this is what you want for me to do, I don't need to prepare. Right. The knowledge that I possess will be sufficient enough to make a satisfactory score to qualify to be an administrator in public education.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>So I went and took the test, and it was real easy. &lt;laugh&gt;, you know, it was, it was just very, very easy. And, uh, when I got the results back, they were satisfactory for any school in the United States of America for me to be an administrator. Wow. And that's when I said, I started preparing to transition. Right. So, um, that's how I got into this position, because at the time when I came to work, uh, in Ruleville on public education, my father was still the superintendent. Mm-hmm &lt;affirmative&gt;. Um, so he retired after that. They had another superintendent who was elected, um, and the Mississippi Department of Education abolished that superintendent as well as that school board mm-hmm &lt;affirmative&gt;. So that's when the state took over our schools Right. Of this county. So in Ruleville, central High School is one of those schools. At the time, they were classified as being a failing school.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Right? Mm-hmm &lt;affirmative&gt;. And that's something that this high school has never experienced before. Right. Historically, we've always been a successful district, and this school has always performed, uh, regionally pretty well. Yeah. So we've never experienced low test scores mm-hmm &lt;affirmative&gt;. Uh, underperforming, uh, students or anything of the sort. Right. So, uh, to have that, it was something that was, uh, very uncomfortable mm-hmm &lt;affirmative&gt;. Uneasy and anxiety feel for this community. Right. I see. You know, to be able to not to have people that are personable, accessible. Right. Uh, and the stakeholders in this community to run the school district. Right. So it was something new mm-hmm &lt;affirmative&gt;. So to have the school district being classified as a failing school, something that, uh, people were really, really interested in making sure that they played a role in changing that mm-hmm &lt;affirmative&gt;. So it could go back to, uh, some of the traditions Right.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Academically that existed here. Right. So being a part of that process, uh, it was something that I think a lot of people were nervous about. Right. Me coming in mm-hmm &lt;affirmative&gt;. But, uh, no one I think was more confident in my ability than my parents, right? Mm-hmm &lt;affirmative&gt;. Uh, it would, I can just talk to you, that's my son for days and days and days. Can we do it right quick? Mm-hmm &lt;affirmative&gt;. We were talking about my motivation, and I think for my parents to have their oldest child to be a leader in the community that they both grew up in. Mm-hmm. And one that I grew up in as well, uh, was very, very meaningful to them. Absolutely. And I don't think that they could have been more proud of, uh, me. Mm-hmm. Even when I got my PhD, I think this was a lot more meaningful mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>To them. So, uh, to me that serves as a sense of, uh, motivation, but it also serves, um, for me as a higher order of making sure that what's expected of me mm-hmm &lt;affirmative&gt;. Is fulfilled not just for myself, but making sure that everything that I do with the decisions I make, the choices I make, and the manner in which I conduct myself is one that will make them proud as well. So it's, it's special. And to know that this is the school that, you know, my father, um, worked in, my mother worked in mm-hmm &lt;affirmative&gt;. And to know that their reputations are one that are still, uh, well respected and well viewed and perceived in this community also, um, kinda increases the standards mm-hmm &lt;affirmative&gt;. That you operate by. Right. So it's good. I mean, I always look at it as a blessing because it could be on the other end of the spectrum mm-hmm &lt;affirmative&gt;. And you could have leaders who, you know, have, uh, tainted or tarnished images. Right. And then you have to follow those. Right. So, and, and you have to play a role at trying to defend them throughout the process. So it's a blessing to have parents who are still, uh, in good physical and mental health mm-hmm &lt;affirmative&gt;. That are still here and still well respected. Are</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Interesting. Uh, that you ask because, um, my name is Darren Lamont Edwards, and it's interesting because when I went to school, they all called me by my middle name mm-hmm &lt;affirmative&gt;. And no one really knew my first name. Hmm. So when I first got the job, there were teachers here who were my teachers when I was in school. Oh, wow. And when they saw me, uh, in the building, they ran up and hugged me, and they didn't call me Mr. Edwards, they didn't call me Doctor was, they called me Lamont. And they was like, oh, Lamont, I'm so glad that you're here. And the other teachers who were young, they looked at me like, how does she know you? Mm-hmm &lt;affirmative&gt;. She calls you by your first name. Yeah. So, uh, we hugged and they were very apologetic, &lt;laugh&gt;, you know, and, and, but that is something that makes you feel good about having this opportunity mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Because again, it's, it could have been another way that they could have looked at me and said, well, he's nobody that we respect. Mm-hmm &lt;affirmative&gt;. He's someone that was, you know, um, this type of individual in this community. And we know him not just when he was in school, but even after he finished school. So to know that they respected me, then they respect me now means a lot. Mm-hmm &lt;affirmative&gt;. Um, and I get actually the most cooperation, uh, in terms of collaboration, in terms of, um, support. Mm-hmm &lt;affirmative&gt;. From the teachers who've been here for a long time, who've been knowing me all my life, and they actually worked for my father. Wow. Mm-hmm &lt;affirmative&gt;. You know, so it's been good. And a lot of people, you know, you hear, uh, and I know this is something that happened with me, you had a lot of people who would say, well, I would not want to work in the community where I live.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Right? Mm-hmm &lt;affirmative&gt;. Well, it depends on the personality and the character of the person. Right. Because for me, I've actually turned down opportunities to go to other communities to work mm-hmm &lt;affirmative&gt;. For less, I mean for more money. Right. Right. But, you know, that's extrinsic motivation, right? Mm-hmm &lt;affirmative&gt;. You know, monetary things. So that doesn't have anything to do with what drives me and motivates me. Right. So, um, you know, it, I love working in the community where I grew up. The plus side to that is, um, when the people respect you for your ability to make fair and impartial decisions, right? Mm-hmm &lt;affirmative&gt;. That are for the best interest of their children. Right. They may not necessarily agree with the decisions, but my decision is always gonna be supported by policy. Right. So as long as I can show it to 'em black and whiteness, that this is the rule, right. And, and I'm not gonna compromise that, then it's okay. I think in the end they end up respecting you even more. Mm-hmm &lt;affirmative&gt;. They may not agree with you at the time, but after their emotions kinda, you know, settle down and they look at things from an objective standpoint mm-hmm &lt;affirmative&gt;. And they Okay. Right. And,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>I will be glad to tell you &lt;laugh&gt;, and it's something that</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>I tell the students, we've been in school today, makes the seventh completed week of school. So what happened, um, a little over a year ago was that, um, your performance level, there are various variables that determine your performance level as a school. Mm-hmm &lt;affirmative&gt;. Um, the dropout rate, the graduation rate. And in Mississippi we have, um, subject area testing mm-hmm &lt;affirmative&gt;. Okay. And that's basically defined by four different areas. Algebra one, biology one, English Two, and US History. Okay. So basically because of those test results, uh, and students underperforming at a certain level mm-hmm &lt;affirmative&gt;. Um, the Mississippi Department of Education gives you a performance level. So the performance level of the high school, um, was a failing status mm-hmm &lt;affirmative&gt;. And, uh, we had two schools that were classified as failing, and the high school was one of them. Mm-hmm &lt;affirmative&gt;. And it was because of several factors. Uh, the dropout rate, the grad, well, the dropout rate, the graduation rate, and because of, um, a large, significant number of students who did not pass the subject area test mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>So, uh, what we did was, when we came in at the beginning of the year, um, it was my first year as a high school principal mm-hmm &lt;affirmative&gt;. So the learning curve was very, very high. Mm-hmm &lt;affirmative&gt;. But I took it upon myself to do as much research as I possibly could. Right. And I surrounded myself with some people that I trusted mm-hmm &lt;affirmative&gt;. Um, as well as some people who were knowledgeable about what we needed to do as a team. So, um, I, I requested, uh, from the conservator, and the conservator, just so you'll know, is when the state takes over your school mm-hmm &lt;affirmative&gt;. Because of, uh, your underperformance. Right. You don't have a superintendent. Right. You have a conservator. So I met with the conservator, and to me, the first step was to, um, bring in a new staff mm-hmm &lt;affirmative&gt;. So there were a large portion of people that we did not renew their contracts. We did not renew their contracts. Um, and I brought in, um,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>A total of eight new staff members, a new secretary, a new assistant principal, a new counselor, a new lead teacher, um, some new coaches, a new in-school suspension person, a safety resource officer, people that I was familiar with, what we try to do at the high school as it relates to, um, civil rights. And that particular era, we, um, request, uh, that our history teachers in the social studies department, um, integrate, um, and emphasize and highlight the civil rights era into their particular lesson plans, into their daily instruction. And we periodically invite speakers, leaders in our community, as well as leaders from surrounding communities to come in and speak to those students. Uh, one person that you all probably have heard of, uh, may be familiar with is Mr. Charles McLaren. Mm-hmm &lt;affirmative&gt;. Um, he's someone who last year came in and spoke to our student body. Wow. So, um, periodically we do have speakers to come in, like Mr. &lt;inaudible&gt; who came in today. Right. And what do you, um,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>I think what it does is it, it connects the students with the past mm-hmm &lt;affirmative&gt;. By giving them someone that they just can't read. And I think you all know that they're all different types of learners mm-hmm &lt;affirmative&gt;. So you have learners who learn in different ways and from receiving knowledge and information in different methods. Right. So it's good to read about it, but it's also good to have that human component mm-hmm &lt;affirmative&gt;. To come in and actually add that to, uh, what the teacher's actually, you know, lecturing about mm-hmm &lt;affirmative&gt;. Right. Or what you're watching on a film or what you're reading about. Right. So, uh, the book can't answer questions. Right. It can provide you with, you know, information, but to have a person who can come give you the oral history mm-hmm &lt;affirmative&gt;. Of, uh, what has actually taken place and they have actually experienced themselves, is a different type of knowledge that's delivered to you. So that makes a difference. And I, I hope that it does serve as a sense of pride and motivation to the students to let them know about the privileges that they have now that those people who came before them mm-hmm &lt;affirmative&gt;. The giants or the historians, uh, and the heroes of what they did to give you the opportunities that you have today. Right.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>And, you know, so all of that's important.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>For me, um, and I, I like to be modest about it mm-hmm &lt;affirmative&gt;. You know, but</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>I just like to look at it that they had a role to play in that particular era mm-hmm &lt;affirmative&gt;. And I think God put them in the positions that they were in to help others and to serve their community. And what they have done is actually, uh, aside from putting pressure on me, &lt;laugh&gt;, uh, to make sure that I, I fulfill what's designed, um, for me at this particular moment in my life, uh, to make sure that I try to fulfill, um, as much as I possibly can mm-hmm &lt;affirmative&gt;. To make sure that in this time, uh, I open doors for those individuals who will come after me mm-hmm &lt;affirmative&gt;. And make sure that I can take the baton as far as I possibly can, open as many doors as I possibly can, and try to serve as a leader, uh, not just by speaking it, but by living it and being an example and a model that my parents, uh, and others who came, uh, before me can be proud of, but also more importantly, my children.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>Mm-hmm &lt;affirmative&gt;. You know, I know how important it was for me to have parents who were respectful, hardworking, and dedicated, and always, uh, exhibited, you know, a form of altruism mm-hmm &lt;affirmative&gt;. Where it was always about, uh, not doing for yourself, but trying to do something better for mankind and the welfare of others. So I know that that's something that's been instilled in me, and it was, um, you know, growing up it was something that you didn't really realize the magnitude of it. Right. Right. Until you got to be an adult. Mm-hmm &lt;affirmative&gt;. Uh, you know, and then you realize that you're traveling the same path mm-hmm &lt;affirmative&gt;. And you realize what it was like for them. Right. You know, so it, it's been good.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>Um, I went to, after graduating, um, from, from Ruleville Central High School, I attended school, uh, at Mississippi Valley State University. Great. And that's the home of Jerry Rice? Yep. Mm-hmm &lt;affirmative&gt;. Uh, I like to say that &lt;laugh&gt;. Great. Understand. Uh, after that I went to Delta State. Okay. Okay. Um, which is nine miles away. Right. You</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>And it was a, a good school and I, I, I liked the fact that all of my degrees are from, uh, different institutions, but they're all from the state of Mississippi, right, mm-hmm &lt;affirmative&gt;. And I'm very proud of that. So after graduating from Delta State, I received my educational specialist degree from Mississippi State. Okay. Very cool. And cool. After that, I received my PhD mm-hmm &lt;affirmative&gt;. From Mississippi State. Very good. Awesome. So, um, you know, it was, I never had an interest of going to school mm-hmm &lt;affirmative&gt;. Or attending school or further my education outside of Mississippi. Right. And I'm fortunate because, um, I have a daughter who is a freshman at Mississippi State. There you go. Oh, wow. There you go. Um, she didn't legacy mm-hmm &lt;affirmative&gt;. Yes. So,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>I'm excited to be a part of this process, &lt;laugh&gt;, uh, with you all. Um, and I hope that at some point, the students mm-hmm &lt;affirmative&gt;. Who are having an opportunity to experience this, uh, this will serve as, as some staple in their lives to help motivate them. Mm-hmm &lt;affirmative&gt;. That everything is not about how much money you can make mm-hmm &lt;affirmative&gt;. Or, you know, how many superficial things you can kinda possess. Absolutely. But there's a generation of people who came before you that have opened doors and given you opportunities that you have today. So I hope that the new generation of students, the new generation of leaders are ones who can do just as much and more mm-hmm &lt;affirmative&gt;. As I'm doing. And those who came before me.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Speaker 2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Um, can you tell us how, what was the process to get this school out of failing status right now? Now you're one point away from being a successful school Exactly. Over the last two years. What's Right. The journey been like,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>&lt;laugh&gt;. Um, and, and what does it mean to you with your parents having been staples in this community? What, what is it like for you? What was it shortly like growing up in an area like Ville and having your parents be major people in this community? Like what does it give you pride? Does it, I mean, what does it do for you? What has knowing this history, like what has it done for you?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
