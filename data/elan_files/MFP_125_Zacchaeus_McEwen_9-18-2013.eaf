@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-03-04T22:02:27-05:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///D:/MFP_125_Zacchaeus_McEwen_9-18-2013.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../MFP_125_Zacchaeus_McEwen_9-18-2013.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:38897ecb-c648-42b7-8253-27f739ff10c7</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">47</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="15000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="15000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="17000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="17000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="20000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="20000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="27000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="27000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="49000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="49000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="106000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="106000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="179000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="179000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="188000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="188000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="254000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="254000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="265000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="265000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="318000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="318000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="323000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="323000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="374000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="374000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="384000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="384000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="441000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="441000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="509000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="509000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="519000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="519000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="571000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="571000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="621000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="621000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="667000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="667000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="679000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="679000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="745000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="745000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="788000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="788000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="803000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="803000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="857000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="857000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="869000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="869000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="923000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="923000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="962000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="962000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="978000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="978000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="1010000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="1010000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="1012000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="1012000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="1016000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="1016000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="1060000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="1060000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="1112000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="1112000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="1128000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="1128000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="1203000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="1203000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="1219000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="1219000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="1308000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="1308000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="1334000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="1334000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="1387000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="1387000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="1425000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="1425000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="1481000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="1481000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="1496000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="1496000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="1503000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="1503000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="1523000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="1523000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="1524000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="1524000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="1527000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Speaker 0">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Okay. Uh, this is Brittany Hier and I am in McComb, Mississippi at McComb High School. And today is September 18th, 2013. And I'm here and I'm doing an interview, uh, for the San Proctor Oral History Program on the McComb Legacies Project. And I'm sitting with</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Okay. Zakia, can you, um, spell your name for me, please?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>All right. So first of all, I just wanna say, you know, we were talking before, but I just wanna say thank you for, um, first of all sitting down and wanting to do an interview. And I hope that at the end of this, you have something great that you can add to your own collection. Hopefully it makes you wanna do, um, work in all history later on, or continue your work in all history. Um, so can you start by telling me some of your experiences? Um, as far as growing up in Macomb,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Did they talk to you, um, well, I guess as you were growing up, did they emphasize how much history was in McComb? Like were you aware of the history of McComb before</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Okay. Um, what are some of the connotations that you've heard that have been associated, uh, with McComb? Either something that you've heard amongst your peers or from adults, or what are some of the connotations you think are associated</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>And hearing all the connotations. Um, how would you describe your home, your hometown?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Now we spoke, uh, previously, and I know you're a senior here at McComb High School. Can you talk some more about, um, what your roles are here in the high school, especially your roles in the McComb Legacy Project?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Um, for those who don't know, um, the history of the Macomb Legacies, um, here at the, at the high school, can you describe, I guess, the history of the project that you're doing, and any background information that you could tell us about the project?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Okay. So when you first started doing your research as a part of, um, the McComb Legacies mm-hmm &lt;affirmative&gt;. Um, project, what was your reaction, your first reaction to hearing like the true, uh, hearing the true history of your hometown?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>And, um, you mentioned that, you know, you don't understand why it took you so long to learn about McComb. Um, why do you think adults refrain from telling their children in, in high, uh, younger students about the history of McComb?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>What do you think the project, um, means to Macomb High School? Like, do you think that it has helped, I guess, put attention on your high school? Has it benefited students here? What do you think the project means to your school?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Um, you spoke of, um, McComb Legacy is a project advancing your own personal life. Um, do you think that your work here has any bearing on what you want to do as an adult as far as like your profession, you know, what you wanna study when you get to college? Like, do you think that work has influenced you?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>And you guys are, um, just high school students, but you've done, you've done so much in the short period of time. You've only been active at, around for three years now. Mm-hmm. And you've done so much. Um, being that you've already done so much, what are some of the future projects, or what are some of the future directions you would like to see Macomb legacies go in?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Okay. And I know, um, you said you haven't been in McComb your whole life, but you know, you've seen changes and you now having studied the history of McComb, have seen how much the city has grown. What would you like to see, um, come to McComb? Like, what would you like to see in the city as far as growth?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>&lt;affirmative&gt;. Um, and, you know, we're getting to towards the end of your interview, but, um, just now in closing, um, as a young black man, how do you think, or why do you think that your work, you know, knowing your history is so important? Like, what does that mean for you as a young male, one that's about to leave his hometown and, you know, leave all this amazing work that you've done here and then go to college and grow more? Like, why is that important for you to be here and to do all this amazing work? You know, as far as just like community history,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>&lt;affirmative&gt;. And, um, lastly, if anyone who, forever, whoever's listening to your interview, what do you want them to take away from listening to you speak? What do you want them to take away from about your high school? About your what, your work you're doing, just in general. What the, what do you want your last message to be?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>Well, on behalf of the Samuel Proctor Oral history program, I just wanna thank you again for first of all, doing the work that you're doing, because I guess we have, we have a connection as oral historians 'cause the work we're doing, we help some every time we sit down and do an interview. So congratulations on that being so young and making such a difference. And thank you for your time today. We can't wait for you to get an interview and get a copy of it. So thank</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>No problem.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Speaker 1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>Zakia McEwen.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Z-A-C-C-H-A-E-U-S-M-C-E-W-E-N.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Um, like I said earlier, when we were talking, uh, earlier, I was originally born in Jackson, Mississippi, um, in de on December 28th, 1995. And I moved here in Macomb in 1998. So I was like three. Um, I don't live in the inner city part of McComb. I live on the outer, uh, city limits, uh, but as we say, the country or &lt;laugh&gt;, uh, the boom docks &lt;laugh&gt;. Um, so I stay at, I still live in McComb. My actually still McComb like, you know, but I'm just living like in the country. Um, so growing up was very, it was kind of tough for me because, um, growing up, especially going to school here in McComb school district here in the city, um, because all my friends basically lived around here. So like, I lived, you know, outside of the city on gas and stuff like that. So I really didn't get to do a lot of stuff like I wanted to because, um, 'cause I lived, um, pretty far from, you know, the inner, inner city limits.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Um, let's see, I grew up in a shelter at home, I guess you could say. My parents were very sheltering, uh, religious, um, church, church going people Wednesday night, every Sunday. Didn't miss a Sunday &lt;laugh&gt; unless we was in a vacation somewhere else. But if we was, um, we were vacationing. So where our family member was, we went to their church that Sunday morning, um, which I'm very, uh, appreciative of that because of the morals and values that I have now today. Um, my grandparents, uh, I grew up around my grandparents. Um, then they lived here in McCombs, uh, for, since they were born. Um, which my grandmother is currently 72 right now. Um, and I'm very close to her. So we talk a lot about a lot of stuff that, um, went on in Macomb in the past with her growing up and stuff like that when she went to school, which at that time, you know, the schools very segregated. Um, so she went to, um, Barnwood High School, which was, uh, a little small, like high school, um, out there where I stay. Um, and my granddad went to some school out there too, but yeah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>High school? They, they told me in a, in a generalization, um, standpoint, um, they never really went like in depth of what actually really happened. I'm not saying that they probably didn't want to, I'm just my grandparents, they were very optimistic. Like, you know, they're very positive. They try not to really, um, worry about, you know, that, but we're just moving forward and we're gonna, you know, but they always, they always told me, uh, as I get older, that, um, learning your history, especially after being an African American male, that learning your history would be very important. Uh, it's important education and it's something that people would never take away from you. And that's something that, um, that stuck with me when I was little growing up. Um, so as far as them, you know, really going into depth when I was little, no, not so much. Uh, I mean that my grandmother, she just told me, you know, certain things that happened that they had to do, certain rules, um, especially like during, uh, the dream crow like era and stuff like that. Um, which to me I thought was like stupid, but, um, but they never really was a opinion about it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>That it's a retirement city? Um, it's really, all the businesses are ran by old, uh, Caucasian, uh, citizens here. Um, it's boring &lt;laugh&gt;. Um, and, uh, it's not really much, well, now it's not as, um, like the racial issue or discrimination is not as bad as it was then, like, you know, then was prominent, you know, it was like, okay, I'm black, you're white, we cannot, you know, we cannot communicate with each other. Now it's like, you know, we're all working together to, because, um, I think this should be as a whole, uh, we're all all trying to push Mississippi before, 'cause like right now we're kind of really behind when it comes to, like, reforms on different social issues and stuff like that. Um, but that's what I heard about Macomb. Um,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>I think Macomb is a very small, family oriented, quiet community. Um, it's, uh, like I said before, I mean, it's a great place to raise your family because it's, it's, it's really, it's like a safe haven here. I mean, nothing really bad happens here. Um, let's see, it's very peaceful. Um, we have great, we have a great school district here in the community. Um, it's not that, I mean, we, I mean, we're not perfect, of course not. I mean, there's still a lot of things that we have to work on so that we, um, that needs to be done. But we're like getting there. Like, I can see it like, you know, a few years ago I probably couldn't have, but now, you know, as, um, 17-year-old, uh, male now, like I can actually see like where this could go.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Um, first, well, in high school they call me the man, quote unquote, the man &lt;laugh&gt; because, uh, basically like I, well kind of run everything as far as, uh, student, um, affairs is concerned. Uh, I'm very close knitted with my teachers, um, have great close relationships with my teachers. Um, and, and I think that's something that I've always had a connection with teachers, because growing up, my mom has been working in the school district since I came here in kindergarten. So my mom has been here since kindergarten. So I never really got away with anything growing up because my mom was, was a teacher, she was working here. So everything I did, I knew, like, I couldn't, I didn't even have time to tell my parents about it. They already knew &lt;laugh&gt;. Um, um, I, I mean, some of my peers know, they make jokes, you know, you're the teacher's that, not really I'm, I'm just, you know, very work oriented and, you know, like, I like to be involved.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>Um, so I'm very involved in the school right now. I really don't have a office held position, but I guess you can say I am student vice president. Um, we haven't like, made elections yet, which we are kind of late on, but we're gonna get that done. Um, but in Macomb Legacies, I basically serve as one of the leaders, um, was one of the veterans per se, because I've been, um, in the group longer than some of the people that we have this year. Um, I help with presentations. Uh, I'm more like the, the man to come to, like, if you want to talk to, uh, 'cause most of the people, you know, really not comfortable talking. But I am, like, I love to talk. I can talk all day. It can be, it can, the topic can be food. And I will probably talk hours about food &lt;laugh&gt;. Um, and this is how I am. I'm just very comfortable with myself. I love people. Um, I have a fiery passion for helping and serving people my, or helping others. Uh, I believe the service above self is really, um, it's a great responsibility as human beings. Uh, and that's just my belief. Um, and so,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Okay. Macomb Legacies were started in, um, 2010. Um, I wasn't a part of the first group that came. Uh, it was just like a few people though. It really wasn't a big thing. I don't even think it was just, uh, you know, big, big as it is now. Uh, it was just like a small, like a club or something. Um, and it progressed 2010 to like, over to like 2011 that summer. And then, uh, I joined the summer of 2012. Well, no, I, I joined the summer of 2011. Um, and so basically, myON Legacies is a student led, um, organization. I mean, we have adults who help us, like our facilitators, but pretty much the students do everything. We basically, we service as historians. We go out and we research our local history, and we share, we share it to our peers, we share it to our teachers.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>We share it to anyone who wants to, you know, learn about this city. Uh, we believe that in order for our city to move forward, we have to know our past. Like, we have to know what happened here. We have to know, um, in, in, in, in a depth and different perspectives. We learned that history is a complex thing. Uh, it's more than history than just what we read in textbooks, because we realized that hi, everyone has their own truth. Everyone has their own perspective on what they saw, what they've experienced. So we, you know, go out, we interview, we do interviews, um, um, older citizens here that live here in the city that were alive during that time, during the, um, civil rights era. Um, and we compile like research and stuff. And each year we participate in this thing called National History Day Competition.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>And, um, it's where we like, gather, like they have different themes. And so last year the theme was, um, a turning point in history, um, for national history today. So we kind of focused our research and stuff around voting rights, um, uh, different activists like Fannie Lou Hamer, um, that was prominent here in Mississippi during that time. Um, primarily voting rights and stuff, which, you know, led to SNC and, um, all the other organizations that were formed in. Um, so this year, the national history of a theme is rights and responsibility. And I think for, for Macomb Legacies, I think our focus will be on education reform, freedom schools. So basically what we do.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>I was astounded. Like, I, honestly, I, I was one of those people who said McCall was born before I joined Macomb Legacies. I thought McCall was just a little small town, you know, there's nothing to do here. You know, I can't wait to get out the house, can't wait to leave. It's like, uh, but when I joined Macomb Legacies, it opened up my eyes. Um, I've always been, I always had an interest in history, like in, um, in social relationships, uh, and government and stuff like that. So, joined MCC Lexus to me was, um, basically it was just like the appetizer &lt;laugh&gt; of, of everything else that I wanna do in life as far as my future plans is concerned. Um, I enjoy reading, uh, reading about different stuff that I don't read in our textbooks and history and our, um, actual history classes. So I was really shocked and surprised that all this history that happened here in McCall, Mississippi, the little McCall Mississippi, um, because like I said, no one really talks about it now.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>I, which I think it's something that we, um, McComb Link, they weren't fixing. You know, I, I think that it should be, you know, our local history should be taught. Um, I don't know what happened. I don't know why, you know, it will stop being taught to us from generation to generation. But, um, I think that's one of our main goals here in McComb is to share it out to McComb, um, to the whole area because it's a lot of great history. And, and some of the history that's, that's locally here in Macomb, it ties into statewide and it ties in nationally. Uh, what happened here affected many, uh, many people here in this nation, and no one really knows about it. So researching about that was very, uh, it was an eye grade.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>I think they would want to tell, but like I said before, I like my grandparents, you know, they were very, they always focused on the task at hand. Like, they always focused on moving forward. And they never, and they never thought that going back to our past, we'll, bring will help us move forward. Um, so I think like a lot of adults, uh, you know, they kind of think that, oh, well, I mean, you know, it's okay. You know, it's, it is just a little history. They're not gonna really, you know, pay attention to it. Which, you know, our generation is, um, sort of apathetic towards a lot of stuff. Um, but I think that it's very, it's, it's essential, um, as, especially as students, you know, um, that, you know, that want to pursue higher education or higher learning, or just want to just, um, be better citizens here in America to know our history. Mm-hmm &lt;affirmative&gt;. I mean, it's necessary. It's very social. Um,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Macomb has definitely brought attention to Macomb High School. Uh, I can, for example, this past summer, we were in DC uh, for National History Day, national competition. And, uh, we, uh, last year, comb Legacy, we contributed a documentary called The Voting Rights, um, struggle in McCall, Mississippi. And we had the opportunity to present it at the African American Civil War Museum, um, in DC. And, uh, after we presented it, they accepted our documentary as an exhibit for the, uh, civil War Museum. So we were like, oh my gosh, we were so happy and excited. 'cause it's something that's big. I mean, that's huge. We were in the Afro-American newspaper up there. We were in the clear, uh, clear and ledger. Um, and, and at that moment I was thinking to myself, wow. Like, I would've never have thought that I would've went this far, this far in my life without Macomb legacies.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>Um, and when we came back, like a lot of students were like, I wanna be a part of this 'cause I wanna, you know, travel and stuff. And at first that's what they were thinking. And then when they did the, um, summer Institute that we do every year annually, um, here during the summer, you know, they finally realized, you know, how much they did not know about the city that we live in. Um, and, um, a lot of students, they enjoyed it. You know, they're excited about this year. And I think it gives, um, the students something positive to look forward to doing as well with, you know, just with everything just going on nowadays. Um,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Yes. Uh, it influenced me personally and as, uh, educational wise too. Uh, I plan on, when I go to college, I plan on double majoring in journalism and public policy. So being in legacy has most definitely taught me how to do interviews, has taught me how to, um, speak publicly and, um, to have heated like conversations without trying to kill the next person that's talking to you. Um, 'cause, uh, let's see,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Um,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>Oh, and it's also taught me how to be a leader. Mm-hmm &lt;affirmative&gt;. Um, you know, uh, which is something that I plan on doing one day. Like, I might run for public office one day, who knows? Um, but, you know, I, I love, you know, being a leader, you first have to understand, you first have to follow, like, you first have to, you know, play the, you know, you have Chiefs of Indians, you have to play the Indian role too. So McCall legacy definitely, uh, taught me that as well. 'cause in some instances, you know, when we're like presenting stuff, you know, sometimes I have to step out the picture because I know like we're a team and we're a group, and to see other people like stuff forward, it like, brings joy to my soul. Um, but personally, it has made me stronger. Uh, I've became, became more open-minded.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>'cause like I said, like earlier when I was little, you know, I was sheltered. I really didn't, you know, know much. Uh, I had, I was kind of at an stage in my life where when I was younger, um, that, you know, my way was my way, you know, and there was no other way that was right. There was no other possible way. And because of my common legacies, I grew as a person. Um, I, I started to think more about other people than myself. I started to realize that everyone has their own truth. That everyone has their own story. And it's our responsibility to listen. It's our responsibility to listen and to take from it and to share your story too, and, and to live from it and to build, uh, for a more positive, for, uh, better outcome. And, and to have an influential impact in other people's lives. Mm-hmm &lt;affirmative&gt;. But MCC legacy, um, most definitely did that for me.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>Uh, I would like to see us go statewide. Like I would like for other Cs here in Mississippi to do local history stuff. Um, I mean, Mississippi has great history, um, that a lot of people really don't think, I mean, they know about the bad stuff. Like they know, you know, about the slavery and the Civil War, and, um, but they, um, it's, it is a lot more history that's not being told. And I think that's one of our, um, big biggest projects that we want to do. We want to, uh, stress how important it is, especially in our education, um, in the history era area, to discuss our, you know, local history and stuff like that. Um, I wanna see us do like more community service stuff. Uh, um, like not so much, you know, like picking up trash, but, but being, like being community, community organizers, like, organizing like big events, uh, and, uh, different other projects and of that nature. Uh, 'cause I know like a lot of students, like they have plans, um, of actually having like, youth groups or, you know, stuff like that. Like move, actually having a movement, um, that stands for something. So I think we're gonna work on that too, as well.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>Um, I would like to, um, see more teenagers, um, because as, as the years go by, you know, the older people are dying off. Um, so its especially the, you know, the gener our our generation, the young, um, our generation, you know, we're coming on forth. And I would like to, um, give 'em something to look forward to. Like, 'cause I feel like some students, you know, they, excuse me, they have no hope. Like they, you know, they're, they're thinking inside the box, whether thinking outside, like on a bigger scale. I mean, uh, it's more than life than just, you know, what we do on a regular basis. And I would like, for us as McComb and McCombs, I would like for us to venture out more, um, to see other people in different walks of life. Um, yes, you know, mom, common legacy is yes, we, you know, stress our local history, but, you know, it is also very important to understand other people's history too, as well. Um, so I would like to see that, uh, take for it also. Um, I would also would like to see, um, comb legacy, just taking it another level as far as learning. And, um, like, I guess I go into what I was just saying earlier about just for us to venture out more, you think outside the box, you know? Mm-hmm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Because it's, it is a blessing to know that I made a difference. I, I, I we're, we're basically making history right now, uh, as, as a young historian, um, like, you wanna leave something behind, and that's why we're called Macon Legacies, because we want to leave, you know, our legacies behind. And, um, it's, it, our history is important because like I said before, I mean, it's just something that people cannot take away from you. I mean, they just can't, I mean, they can hold you down. They can scream, screaming, shout, but they never can take away the knowledge that you, uh, that you found out about your history. Um, so as a young, as a young black male with that, uh, it makes me more proud, uh, as an African American male. It makes me, you know, proud that yes, our past is troubling, but look where we are today.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>I mean, we're moving forward and we're gonna continue to move forward. We're gonna continue to research and research and research, tell and share and, you know, and do more stuff. Uh, and it's never gonna end. Like when I go off to college, you know, yeah, I'm gonna enjoy the college life. I'm gonna work on my, you know, major and stuff like that, you know, trying to get my career going, but I will, this is something that I'll always have, uh, as a part of me, uh, I'm gonna always come back home. I'm gonna be like, okay, well, I'm home. Let me go over to the school and see what McCall the McCall legacy is doing, you know, and see what I can do to help out. Um, and it's all gonna, it is teaching us to, when we come back, we can give to our community.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>Like, you know, this is just the starting point. Like, like laying, like building a house. When you're laying bricks like a foundation, this is just a foundation and we're, and we're building, we're building, and then we're getting done with the house. We're gonna, you know, sell the house. You know, I'm gonna come back and I'll be like, okay, you know, I'm gonna help anyone get back to my community. Uh, this organization has been an extreme. Like, I can't stress how, how, how much of a blessing it has been for me. Like, I've met so many people, wonderful people. I've talked to so many people. I experienced something that a lot of my peers haven't experienced yet. Um, and it is, it is most definitely made me a better person, uh, a better speaker, a better friend, a better student. Um, and I'm just excited to be a part of it. Mm-hmm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE>Your life is a message to the world. So make an inspirational, make inspiring.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>You. Thank you so much.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Speaker 2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>I lost my phone, darn.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
