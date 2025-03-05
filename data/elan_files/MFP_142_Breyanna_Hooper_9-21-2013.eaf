@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-03-04T22:06:25-05:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///D:/MFP_142_Breyanna_Hooper_9-21-2013.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../MFP_142_Breyanna_Hooper_9-21-2013.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3232fbf0-e9d2-4a54-99e7-a263f4306fac</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">129</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="25000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="25000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="35000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="35000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="38000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="38000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="42000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="42000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="45000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="45000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="51000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="51000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="57000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="57000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="62000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="62000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="67000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="67000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="68000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="68000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="70000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="70000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="74000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="74000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="87000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="87000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="93000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="93000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="104000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="104000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="109000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="109000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="113000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="113000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="114000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="114000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="116000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="116000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="126000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="126000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="151000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="151000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="153000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="153000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="154000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="154000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="159000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="159000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="161000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="161000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="166000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="166000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="176000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="176000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="182000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="182000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="191000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="191000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="194000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="194000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="202000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="202000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="206000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="206000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="232000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="232000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="235000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="235000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="239000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="239000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="241000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="241000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="243000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="243000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="245000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="245000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="266000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="266000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="270000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="270000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="301000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="301000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="317000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="317000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="354000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="354000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="361000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="361000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="364000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="364000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="374000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="374000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="383000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="383000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="394000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="394000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="403000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="403000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="413000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="413000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="446000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="446000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="456000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="456000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="497000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="497000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="504000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="504000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="509000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="509000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="557000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="557000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="564000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="564000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="567000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="567000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="569000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="569000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="592000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="592000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="603000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="603000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="622000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="622000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="632000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="632000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="633000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="633000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="634000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="634000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="638000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="638000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="643000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="643000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="645000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="645000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="651000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="651000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="664000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="664000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="677000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="677000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="678000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="678000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="686000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="686000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="689000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="689000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="695000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="695000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="704000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="704000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="713000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="713000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="724000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="724000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="730000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="730000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="757000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="757000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="760000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="760000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="780000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="780000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="783000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="783000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="787000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="787000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="791000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="791000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="795000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="795000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="799000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="799000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="811000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="811000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="821000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="821000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="825000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="825000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="835000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="835000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="850000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="850000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="870000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="870000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="891000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="891000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="898000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="898000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="906000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="906000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="925000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="925000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="929000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="929000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="946000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="946000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="964000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="964000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="974000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="974000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="1005000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="1005000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="1006000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="1006000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="1011000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="1011000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="1045000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="1045000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="1053000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="1053000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="1060000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts215" TIME_VALUE="1060000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts216" TIME_VALUE="1064000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts217" TIME_VALUE="1064000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts218" TIME_VALUE="1065000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts219" TIME_VALUE="1065000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts220" TIME_VALUE="1066000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts221" TIME_VALUE="1066000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts222" TIME_VALUE="1074000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts223" TIME_VALUE="1074000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts224" TIME_VALUE="1084000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts225" TIME_VALUE="1084000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts226" TIME_VALUE="1087000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts227" TIME_VALUE="1087000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts228" TIME_VALUE="1092000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts229" TIME_VALUE="1092000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts230" TIME_VALUE="1097000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts231" TIME_VALUE="1097000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts232" TIME_VALUE="1111000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts233" TIME_VALUE="1111000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts234" TIME_VALUE="1112000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts235" TIME_VALUE="1112000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts236" TIME_VALUE="1124000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts237" TIME_VALUE="1124000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts238" TIME_VALUE="1136000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts239" TIME_VALUE="1136000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts240" TIME_VALUE="1142000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts241" TIME_VALUE="1142000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts242" TIME_VALUE="1148000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts243" TIME_VALUE="1148000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts244" TIME_VALUE="1162000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts245" TIME_VALUE="1162000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts246" TIME_VALUE="1184000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts247" TIME_VALUE="1184000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts248" TIME_VALUE="1191000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts249" TIME_VALUE="1191000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts250" TIME_VALUE="1200000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts251" TIME_VALUE="1200000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts252" TIME_VALUE="1207000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts253" TIME_VALUE="1207000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts254" TIME_VALUE="1212000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts255" TIME_VALUE="1212000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts256" TIME_VALUE="1241000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts257" TIME_VALUE="1241000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts258" TIME_VALUE="1244000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Speaker 0">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Okay, good morning. Um, this is Brittany Hibbert with the Samuel Proctor Oral History Program from the University of Florida. And I'm currently in Sunflower, Mississippi, um, with Brianna Hooper on September 21st, 2013. And we will be talking about, um, her involvement with the Sunflower County Freedom Project. So, good morning Brianna. Thank you for doing this interview. I want to go ahead and start with you. Um, if you could state your name, um, and then spell it for us both names.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Okay. So first of all, how old are you?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>You're 15. And have you been in Sunflower County your whole life?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Okay. So, um, is it a big difference as far as what you experience, uh, being a young woman in that county and being here in Sunflower?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>There. What, what do you, when you say violence, what type of violence are you talking about?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Drugs,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Um, do you feel safe here or do you feel safer in the other county?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Now as a young woman, what are you most afraid of by being here in Sunflower County?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Okay. Do you feel like, um, your school is a safe place for you? Like what school do you go to? I</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>What grade are you</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>And um, I guess what does the, um, sunflower County Freedom Project School mean for you? You being able to come here and have somewhere to go.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>And what do you want be?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Really? Yes. So what have you looking at any colleges, like, where are you thinking about going?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Atlanta, Georgia? Yes. &lt;laugh&gt;. Are you excited about getting ready to start applying for colleges, stuff like that?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>&lt;affirmative&gt;. Um, and how often do you come to the Sunflower? Um, county Freedom Project. And how far is it from Drew?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Okay. So you, do you come after school or in the morning or after</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>And how would you describe your teachers here?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Who would be your favorite teacher here and why?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Lna. Can you spell her name?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>Okay. And why is she your favorite teacher?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Okay. And what kind of, um, what kind of work do you guys normally do here?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>And what do they usually prepare you guys for here? So are you doing only schoolwork or are they helping you with like preparing for college, like, you know, studying for the SAT or the A CT or are they helping you um, learn how to fi you know, figure out the fafsa or are they helping you, you know, apply for college? Like what kind of help do you guys get here?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>Okay. So do you feel prepared for college? College? Like, I know you're only a sophomore, but do you feel like you're prepared already for what could be coming? I</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>So I know that you, um, previously said that you're a sophomore, um, but do you honestly feel as though, um, you are already prepared being here at the Sunflower County Freedom Project?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>Okay. So right now, what do you, you feel prepared to do? Um, as far as maybe academics or maybe um, you know, just as, just as a young woman, what kind of things have they prepared you for so far?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>What about um, personally, have they taught you any like, values, um, you know, self-awareness? Do you feel like they teach you to be confident and to make good relationships with people?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>Well. That's cool. I didn't know that. What is that like traveling with a nonprofit organization? Would you, I mean, would you prefer to be able to stay in hotels or do you like getting to meet new people and staying with them and talking to people and camping</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>Can you tell us some of the history of the Sunflower County? Uh, uh, excuse me, freedom Project. Can you tell us any, some of the history that you know?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>When it was started, who started it? How long has it been here? Who are the founders? Stuff like that.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>Okay. And do a lot of people come here to visit you guys or you know, or is it just you guys? Most of the time</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>And what do they, when, what do the colleges usually do when they come?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>Okay. And what is your favorite part about being here? Because I know you guys have a really long days in school. Mm-hmm. And then you come here, but you seem so happy and proud to be a part of it. So, um, what is your favorite part about being here?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>And that's good. Um, is there a special name for students who attend here? Like are you guys like the sunflowers or have you guys come up with like names for each other? 'cause I know the whole school doesn't come here. So Yeah,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>Freedom Fellows.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>So even the students call each other Mr. And Mrs. Yeah. So you would probably say Miss Brittany and I would say Ms. Brianna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>Or Miss. So how does that make you feel for someone to give you such a title of respect when you're so young?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>And what do you wanna do when you grow up? Because I'm, I'm imagining that them saying, you know, Ms. Hooper makes you feel respected and it gives you a kind of, it gives you authority. &lt;laugh&gt;. Exactly. So do you know what you wanna do already when you wanna get, when you get older?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>I wanna be a psychologist. So they're gonna call you Dr. Hooper? Mm-hmm &lt;affirmative&gt; Do you feel that you already can see yourself being a doctor because you're so used to hearing that them respect you here?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>And what does that mean for you as a black woman to have someone your peers and adults call you? Ms. Hooper?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>That's a good thing. How, how does that make you feel to have even older students call you? Respect? Like, do you guys ever have trouble with the older students not wanting to call you Ms. Hooper?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>That's good. And what is high school like here? Because I know you go to high school in Drew. What is high school like?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>Why Why do you think the, the violence is so bad between three cities?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>Mm-hmm &lt;affirmative&gt; And how long ago was that song released?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>So it was recently that there's been a a, a fight mm-hmm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>Has anybody close to you been hurt in the violence?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>And, and you, you spoke about earlier feeling safe, safer in where you, um, previously came from mm-hmm &lt;affirmative&gt;. Do you think that by the time you're a high school senior it would be safer here</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts180" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>Safe. Now you being a young woman, how do you think um, you guys can improve what's going on between the three cities? Like what are some practical ways right now that you guys can fix what's going on?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>Okay. Now if you guys were given a whole lot of money, like say somebody came down here with like a hundred thousand dollars check and was like, we wanna give this to the Freedom Fellows that are here. What, what would, what improvements would you make to, I guess the city of Sunflower and also to this, this building and your project? Like what type of things would you do here?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts188" TIME_SLOT_REF2="ts190">
+                <ANNOTATION_VALUE>Like maybe computers and more textbooks. And what are some of the things you got you wish you had here</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>And what else as far as um, you know, would you paint? Like would you put more murals up? Because outside when we were coming we were so shocked. Like &lt;laugh&gt; we had to stop. We were like, oh my God, that's so beautiful. We like stopped the van in the middle of the street so we could take a picture. So I mean, your murals are beautiful so would you make, you know, probably put more murals up in here and um, around the building? Yeah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts196" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>Room? It's a beautiful mural. Yeah, I was in a classroom like this &lt;laugh&gt; like I was trying to read, we were talking about the book and I'm looking up at the ceiling like, wow, this is beautiful. And like artwork is a very big part of what you guys have placed forth here. Do you think artwork is a great way of, of advertising or maybe showing about the project?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts202">
+                <ANNOTATION_VALUE>That's very interesting. And what do you tell people about the Freedom Project? Because I didn't know nothing about it. So say for example, a random person in the street come up to you and was like Brianna, tell me about the Freedom Project. What would you say?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts208">
+                <ANNOTATION_VALUE>Now not just high school students, if an adult asked you what you do here, how would you describe the Freedom Project?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts210" TIME_SLOT_REF2="ts212">
+                <ANNOTATION_VALUE>Now it sounds like you guys just so much amazing things going on here. Do you guys fundraise mm-hmm to help keep the school up? What ways do you guys fundraise?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts214" TIME_SLOT_REF2="ts216">
+                <ANNOTATION_VALUE>Is it how much? How much, if you don't mind me asking, is the tuition to come here</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts220">
+                <ANNOTATION_VALUE>Is that for the year or is that for,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts222" TIME_SLOT_REF2="ts224">
+                <ANNOTATION_VALUE>&lt;affirmative&gt;. Okay. And do you think if there was more money, like if more students in your community could afford to pay the tuition, do you think more students would come or are students only coming because they don't wanna do the work</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts226" TIME_SLOT_REF2="ts228">
+                <ANNOTATION_VALUE>But do you think, um, fundraising would help if more students could afford the one 50? Do you think it</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts230" TIME_SLOT_REF2="ts232">
+                <ANNOTATION_VALUE>You're able to come. Yeah. Trying to think of what else I can ask you. Kind of, you asked, you know, you've answered everything so well. Like, but I feel like it's such an amazing, you know, program here that a lot of people don't know about. 'cause I had no idea what I was coming up to.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts234" TIME_SLOT_REF2="ts236">
+                <ANNOTATION_VALUE>Penn? Yeah, this is my first time in Mississippi. Um, it's my first time being here too. So you guys are doing like amazing stuff here. Like, so just tell me like what's that like living in Mississippi? Like what can you possibly do here</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts238" TIME_SLOT_REF2="ts240">
+                <ANNOTATION_VALUE>&lt;affirmative&gt; So what, what do you guys do for fun? Like you, you're on a weekend, I know, right? I know you come here on Saturdays, but you downtime, what do you</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts242" TIME_SLOT_REF2="ts244">
+                <ANNOTATION_VALUE>Okay. And what else? Um, do and now you, you spoke about, you um, spoke about going to college in Mississippi. Are you looking at any schools outside of Mississippi? We talked about Spelman. Um, are you thinking of going up north or do you wanna stay in the south or are you trying to go to like the West Coast or</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts246" TIME_SLOT_REF2="ts248">
+                <ANNOTATION_VALUE>So you, you guys actually went to Ole Miss and gotta take classes. What was that like being on Ole Miss's campus and being able to take classes?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts250" TIME_SLOT_REF2="ts252">
+                <ANNOTATION_VALUE>And what, did the college students have any advice for you guys as to you know, how to get into college or what to do for college life? Or like what did they</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts254" TIME_SLOT_REF2="ts256">
+                <ANNOTATION_VALUE>True. &lt;laugh&gt;, that's very, it's a lot of reading and writing and you read and write to your hands hurt. It's not so many much like exams as before. Like if you're in a major where there's a lot of science or math, then you have a lot of like exams. But I'm a history major and I read and write all the time. That's all I do is read and write. That's it. So if that's something you, I mean you are gonna be in psychology so you're gonna have exams, but you also will read and write because you get to write papers, you know, so that'll be cool for you too. But I'm, I'm so thankful that, you know, especially us coming from a big school,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts257" TIME_SLOT_REF2="ts258">
+                <ANNOTATION_VALUE>We get the chance to come down here and see what amazing things you guys are doing because I would love to bring this information back to, to my school and be able to tell them what you guys are doing here. So what I wanna do, I just wanna wrap up and first of all tell you thank you again for being here and, and and working so hard and it will pay off and I'm gonna keep in touch with you and I hope if you need anything, you definitely reach out to us at the Samuel Proctor Oil History program or even just me and individually. Um, so just once again, today is September 21st, 2013. I'm sitting here with Brianna Hooper and we just wrapped up our interview, um, here at the Sunflower County Freedom Project. Thank you Brianna. You are welcome. No problem sweetheart. Bye.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Speaker 1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>Okay. My name is Brianna Hooper. It's spelled B-R-E-Y-A-N-N-A-H-O-O-P-E-R.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>I have not. Okay. I am originally from Tallah County.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Not at all. It's, the difference is the violence. It's more violent here than was</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>It's been a lot of killing that type murder. It's like</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>Things of this sort.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Actually, I feel safer in Tallahatchie, not because that's where I'm originally from, but in Tallahatchie I stay like in the country. So it's like nothing out there, but like animals and a lot of trees and stuff. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>The gang violence. It's like so out of control. It's even at school, that's how out of control it is. Like last year our school was on lockdown so many times because of the violence.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Attend Rural Central High School and it is not a safe place at all. And</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>In? I'm a sophomore.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>So in Drew, that's why I stay now Drew Mississippi, it is not like a lot of opportunities for anyone. Not just people my age, but anyone, not even the adults. And I didn't know about the Freedom Project until I was like eighth grade. And when I heard about it I was like, this is what I have to do because I just felt like it can get me to where I wanted to be in life. I think it's a really good organization.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>I wanna be a psychologist.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>I want to attend failing college in</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>I am very excited. I was, um, looking online like a few weeks ago and I'm trying to get like a trip to Spelman, like to stay for a weekend to see if I would like the college atmosphere. Mm-hmm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>Maybe a 30 minute drive, but that's only because we have to pick up students in between. And I come Monday to Thursdays and on Saturdays.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>School? It's like a after school program. So it is from five to seven 30 every day, except for on Saturdays is from nine to two.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>They are, I, I'll use special, like, I don't know this like way Well, you can speak honestly, because they are special. They're like different, like our teachers at school, they help us, but here they like help us in a special kind of way. Like they go far and beyond to get what we need. But at school our teachers are like, okay, this is what you have, you have it. But they like, they teach us what we need to know, but they teach us like things past it and I like that. So</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>Ms. Lna would have to be my favorite teacher here. &lt;laugh&gt;. Miss who? Ms. Lna.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>L-U-M-N-A-H.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts79">
+                <ANNOTATION_VALUE>She's like, I don't know, &lt;laugh&gt;, she explains stuff like really good and she, she like her voice or the tone that she uses, a lot of people would think that she's explaining stuff to them to make them seem slow, like, you know, kind of remedial &lt;laugh&gt;. But she does this so that you will understand and I like that.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>It depends on the day. Okay. So we have different activities. Like on Thursday is our club night. We have yoga, hip hop, drama, and, and the, well not the morning, but at the beginning before club, well, every day before we do any extracurricular activity, we have a study session at the Freedom Project. Getting your homework done is the main priority. So that's what we get done first. And then at the later part of the day, that's when we do different activities.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>We get all the help we need, like honestly help for everything. Um, this class right here is the college prep class and as you can see it's a college research board right there. Our only seniors take this class though 'cause you know they're getting ready for college. Yes. But they do help you apply for college. They get you into special, well not special, but they get you into summer opportunities. Like some of the students here did. Um, the Winters Institute program at Ole Miss and Mia Clayton, she is like a senior that just graduated. She's like not a part of the project anymore, but, um, she goes to Elon University in North Carolina.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts91">
+                <ANNOTATION_VALUE>Do. Okay.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>I do feel prepared, but I think like in the future that they can prepare me more for like, the things that I'll be facing like on college campus.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE>We write a lot of essays here, so I think that I'm capable of writing an essay for a college or like for a scholarship. And</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts103">
+                <ANNOTATION_VALUE>Okay, so I started the Freedom Project my summer going into my freshman year. Mm-hmm &lt;affirmative&gt;. And before I came to the Freedom Project I was really shy, but now it is easier for me to talk in front of a group of people because we have like different classes to like teach that. And also like the Freedom Project is a non-profit organization. So when we go on trips, we, we don't like sleep in hotels and stuff. We like live with host families and we like camp, we sleep outside and stuff like that. So I think this preparedness</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts107">
+                <ANNOTATION_VALUE>&lt;laugh&gt;? Well, at first I preferred a hotel because like, I thought it would be kind of crazy and I was like afraid at first 'cause I didn't know the people and I was going to their home. But when I got there it is like, it's like a family. They like trust you, like people that you don't even know. They trust you. So when you go into their homes, it's like friendly. It makes you feel like you're at home. Mm-hmm &lt;affirmative&gt;. And with the camping, oh my God, &lt;laugh&gt;, that was like something so new. We did like, we literally, we had to go potty outside &lt;laugh&gt;, you know, like something so different to me. &lt;laugh&gt;. Okay.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts113">
+                <ANNOTATION_VALUE>So the first original Freedom Project was in Meridian, Mississippi. Okay. And now they are starting another Freedom project there of another freedom project. Was India. In India, NOLA, Mississippi. But it burned, it was like during like a racial time it burned. And a few years ago, students helped build this building and it was started by three TFAs when I got here last year. Mr. Allen, well Nick Allen and Becca Bassett, they were like the executive producers. Ms. Shaster and Mr. Stevens, they're the newer ones. And Ms has been here like for a long time.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts117">
+                <ANNOTATION_VALUE>A lot of people visit like a lot of different colleges.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts121">
+                <ANNOTATION_VALUE>They come and they try to learn about the Freedom Project. Like most of the time it's for college group visits. It's like a college group that doesn't know much about us. And they always seem like so amazed because you of the way, like Sunflower County looks like it's, it's not like a pretty place, but they think that the Freedom Project is a good place. So they're like amazed at what, like how much stuff we can do in like, communities like this.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts125">
+                <ANNOTATION_VALUE>Honestly, the Freedom Project is like my second family and at home my parents like, they motivate me so much and it's like so good knowing that you have people that wanna see you do good. And when you come to the Freedom Project, it, it's like a good feeling to know that people like wanna help you and they, here they care about you and they push you</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts129">
+                <ANNOTATION_VALUE>We're called Freedom Fellows.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts133">
+                <ANNOTATION_VALUE>And we address each other by Mr. And Mrs. So even,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts137">
+                <ANNOTATION_VALUE>We would say like Ms. Hooper</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts141">
+                <ANNOTATION_VALUE>&lt;laugh&gt;? Honestly, at first I wasn't like, I was like, I wasn't not okay with it. But after a while it grows onto you and it makes you feel like you're like professional.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts145">
+                <ANNOTATION_VALUE>I wanna be a psychologist.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts149">
+                <ANNOTATION_VALUE>I can it like it grows on you &lt;laugh&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103"
+                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts153">
+                <ANNOTATION_VALUE>It makes me feel like a lot of people look up to me. Like I actually feel respected. Like even the older student, they address as Mr. And Mrs. And I feel respected by everyone.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104"
+                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts157">
+                <ANNOTATION_VALUE>Not, no, not actually. Like I am considered like an older student 'cause I'm in high school, but still like the seniors and the juniors, it makes me feel like they look up to me too.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105"
+                TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts161">
+                <ANNOTATION_VALUE>It's like, it's wild &lt;laugh&gt;. Oh my god. It is wild. Like, so it's like a, a town thing. I would say Sunflower and Drew and Ville, they're like against each other and all of us are stuck in this school. And I promise they fight like almost every day. And they have like police officers to like check everybody in the school and they actually found guns and knives and everything like that on people. We</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106"
+                TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts165">
+                <ANNOTATION_VALUE>I'm not sure why it started over something crazy. It started over with some distancing, a town and it went from there, which is like kind of crazy. I promise you. I always tell them I don't think there's anything to fight about. 'cause like the towns are like, like both of us like have nothing. And I tell them like, if they keep on doing this, then we'll stay without having anything.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107"
+                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts169">
+                <ANNOTATION_VALUE>Maybe it was over the summer I think.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108"
+                TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts173">
+                <ANNOTATION_VALUE>&lt;affirmative&gt;. And it's been going on since last year. Since last year. It was the summer of last year.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109"
+                TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts177">
+                <ANNOTATION_VALUE>Not close to me, but recently, it was like two weeks ago after a game. Um, a boy from Drew, he got jumped and he got beat so bad. Like he was just messed up. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110"
+                TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts181">
+                <ANNOTATION_VALUE>If things keep going the way they are going now? I don't think it would be</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111"
+                TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts185">
+                <ANNOTATION_VALUE>Well, the things I've tried and I think honestly I think that's all they can stop them. Like just tell them how foolish it is and I honestly think that they won't stop until someone that they really care about. That's how I feel about it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a112"
+                TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts189">
+                <ANNOTATION_VALUE>Um, honestly I would like the Freedom Project like has a lot of damage like everywhere like our roof that leak and stuff like that. So I would honestly fix that first and then I would like fix our guard, you know, like fix stuff that'll make like the frequent project more productive and maybe more students will like try to come mm-hmm &lt;affirmative&gt;. And then go on to help the community. So things</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a113"
+                TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts193">
+                <ANNOTATION_VALUE>Here? More books, honestly, because like our library is nice but I think we should have more books. More books? Yeah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a114"
+                TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts197">
+                <ANNOTATION_VALUE>Have you noticed like in the top, in the um, ceiling in the other</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115"
+                TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts201">
+                <ANNOTATION_VALUE>Actually it is. And um, a lot of people that come to the Freedom Project are artists and we do have an art class and um, most of the time if Freedom Project has a poster around, it's going to be like filled with art and I think that's what draws on people like my age, attention, creativity. Mm-hmm &lt;affirmative&gt;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116"
+                TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts204">
+                <ANNOTATION_VALUE>So at school, a lot of people will not come to the Freedom Project 'cause they push us, they give us extra work. Like we have homework at school, but the Freedom Project we have work too. Mm-hmm &lt;affirmative&gt;. And they think it's kind of crazy of us to do all this work. And at school I, I like try to explain to them that it is not as bad as they make it seem. Mm-hmm &lt;affirmative&gt;. They like don't like the time that we come here and leave and they think it's like uncalled for and stuff. Mm-hmm &lt;affirmative&gt;. And um,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117"
+                TIME_SLOT_REF1="ts205" TIME_SLOT_REF2="ts207">
+                <ANNOTATION_VALUE>If uh,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a118"
+                TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts211">
+                <ANNOTATION_VALUE>I would tell them that it's a good place. I would tell them that since I came to the Freedom Project, I've grown in a lot of different things. Like I've never been a C student, but at a point in time I was making like low B's but since I started doing the Freedom Project, I've got my grades back up to high A's, but that's the reason I was making the low B's was because after school had nothing to do, you know, I would just do enough to get by. But here you actually have time to do stuff and they will not let you slack. They keep you on top of your game. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119"
+                TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts215">
+                <ANNOTATION_VALUE>So going to the Freedom Project, you have to pay tuition and instead of like your parents paying the entire thing, you can sell donuts.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a120"
+                TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts219">
+                <ANNOTATION_VALUE>150?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121"
+                TIME_SLOT_REF1="ts221" TIME_SLOT_REF2="ts223">
+                <ANNOTATION_VALUE>For the um, it depends. So we have a summer school program and a year round program. Mm-hmm &lt;affirmative&gt;. Both of 'em are 150. Uhhuh.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122"
+                TIME_SLOT_REF1="ts225" TIME_SLOT_REF2="ts227">
+                <ANNOTATION_VALUE>They want come 'cause they don't wanna do the work,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123"
+                TIME_SLOT_REF1="ts229" TIME_SLOT_REF2="ts231">
+                <ANNOTATION_VALUE>Would It does help a lot. Mm-hmm &lt;affirmative&gt;. All you have to do is I think sell like 50 boxes and that's</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a124"
+                TIME_SLOT_REF1="ts233" TIME_SLOT_REF2="ts235">
+                <ANNOTATION_VALUE>So this is your first time</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125"
+                TIME_SLOT_REF1="ts237" TIME_SLOT_REF2="ts239">
+                <ANNOTATION_VALUE>Actually in Mississippi, nothing. Nothing but shop. I find shopping fun because like, that's the only thing you can do in Mississippi. Mm-hmm &lt;affirmative&gt;. But if you go to like Tennessee or places like that, that's when you can like have fun. Mm-hmm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a126"
+                TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts243">
+                <ANNOTATION_VALUE>Do? Skating, r balling alley, movies, theater, stuff like that.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a127"
+                TIME_SLOT_REF1="ts245" TIME_SLOT_REF2="ts247">
+                <ANNOTATION_VALUE>Actually I'm not decided &lt;laugh&gt;, but if I had a choice to go to a college in Mississippi, I think it would be Ole Miss. Mm-hmm &lt;affirmative&gt; I like the environment and like everyone is like so friendly and we took classes there this summer, like public speaking and we took art classes, we took um, film zone classes and I like the environment.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a128"
+                TIME_SLOT_REF1="ts249" TIME_SLOT_REF2="ts251">
+                <ANNOTATION_VALUE>It was different. I would say it is not like down here and like we got a chance to interact with a lot of college students. Mm-hmm &lt;affirmative&gt;</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a129"
+                TIME_SLOT_REF1="ts253" TIME_SLOT_REF2="ts255">
+                <ANNOTATION_VALUE>Tell you? They told us to read and write a lot. 'cause there's a lot in college. That's very</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
