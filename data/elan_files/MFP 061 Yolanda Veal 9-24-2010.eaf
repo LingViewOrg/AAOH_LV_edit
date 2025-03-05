@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-03-04T22:05:15-05:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///D:/MFP 061 Yolanda Veal 9-24-2010.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../MFP 061 Yolanda Veal 9-24-2010.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2dab40bd-edc9-472c-844c-89c863e2afcf</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">72</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="26000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="26000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="92000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="92000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="138000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="138000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="140000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="140000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="193000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="193000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="202000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="202000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="206000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="206000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="207000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="207000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="208000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="208000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="210000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="210000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="213000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="213000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="215000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="215000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="217000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="217000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="260000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="260000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="261000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="261000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="267000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="267000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="319000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="319000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="330000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="330000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="406000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="406000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="410000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="410000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="444000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="444000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="452000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="452000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="521000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="521000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="524000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="524000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="526000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="526000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="528000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="528000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="567000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="567000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="569000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="569000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="616000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="616000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="623000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="623000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="636000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="636000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="638000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="638000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="640000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="640000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="642000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="642000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="686000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="686000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="690000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="690000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="745000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="745000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="801000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="801000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="815000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="815000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="878000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="878000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="919000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="919000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="921000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="921000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="976000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="976000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="1022000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="1022000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="1029000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="1029000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="1085000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="1085000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="1136000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="1136000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="1185000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="1185000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="1239000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="1239000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="1241000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="1241000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="1257000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="1257000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="1317000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="1317000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="1370000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="1370000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="1424000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="1424000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="1481000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="1481000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="1486000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="1486000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="1530000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="1530000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="1534000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="1534000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="1609000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="1609000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="1618000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="1618000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="1664000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="1664000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="1676000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="1676000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="1685000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="1685000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="1688000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="1688000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="1744000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="1744000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="1789000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="1789000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="1798000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="1798000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="1807000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="1807000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="1810000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="1810000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="1813000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Speaker 0">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>All right. And we're rolling. I'm Candace Ellis with Mike Brandon,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>And we're here on September 24th, 2010 at the Catfish Workers Union. Um, it's probably easiest to start at the beginning. Um, so if you could just kind of go over your early life, family life, um, wherein when you were born, what your parents did. &lt;laugh&gt;, you don't have to say one if you don't want to. &lt;laugh&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>What kind of work do you do here?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Now. Okay? Mm-hmm &lt;affirmative&gt;. And what, what is that company?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Okay. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>So this union's, this union here is just trying to branch out.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Within the Delta.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Talk, sorry, go</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>When you knock on doors and, and visit people at their homes, what's the general reception? Are people usually interested</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>Um, you mentioned your mother worked in the Catfish industry. Mm-hmm &lt;affirmative&gt;. What kind of stuff did she</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>But you're still trying hard.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>&lt;laugh&gt;. Mm-hmm &lt;affirmative&gt;. Can you, can you give other examples of what it was like to work there? Things like that.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>Right? Mm-hmm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>What do you think the next step would be in getting people to take that stand? I mean, as a union worker, you've come up against some really difficult situations, I guess. I mean, does it seem completely futile to you at this point? Or do you think Well,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>Right. Um, I think that's about, yeah. I don't know if you have anything that you'd like to add, but that was great. No,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>I can't think so. No, that was great. Yeah. Thank you so much.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Speaker 1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>Yolanda Ville.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Uh, I was born here February the fourth, uh, 1984. Um, my mom and father married, uh, like a year or two before I was born. And, uh, my mom began working at the Catfish industry probably in the late eighties. My father, um, got into some trouble and he went to jail for a while. Uh, my grandmothers and my aunts, they raised me, um, sent me to school and things, you know, helped me to, you know, grow up to be a person that could understand the world as I grew up. Um, moved back in with my mom. Um, end up getting pregnant at the age of 17. Had my first child, um, went to college but didn't finish. My first job was Delta Pride, catfish Industry. Mm-hmm &lt;affirmative&gt;. Um, did that because at the time, and here you really don't have a choice. Once you reach probably 18, either you go to school or you get a job here.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Mm-hmm &lt;affirmative&gt;. Um, and here in Indianola, well, I'm not gonna say any Indianola. I'm gonna say the Delta. Most likely it's gonna be a Catfish job. So that was my first job. Um, I went back to school. I got my CNAs. Um, I left there and went to ConAgra. When I started working at ConAgra, I was introduced to Rose Turner. Rose Turner offered me a job here with the UFCW of last year. So I have been with them for what, about a year? Mm-hmm &lt;affirmative&gt;. Yeah. And I have been working with the union and it's a pretty good job. You know, you have your ups and downs, but we all human. What can you expect? &lt;laugh&gt;. &lt;laugh&gt;. Yeah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Uh, what I do is I go out into the field, which you talk to people about organizing and, and, and union in their workplace. So what you do is you try to gather some names of people that work inside that industry, and you go to their homes, you find their homes. Mm-hmm &lt;affirmative&gt;. You find them. I mean, you running up and down the highway actually looking for these people. Mm-hmm &lt;affirmative&gt;. Uh, once you, uh, find them, then you got them, you have a story. You have to tell them about the union. Because here a lot of people are not educated on the union mm-hmm &lt;affirmative&gt;. And so we have to sit there. Sometimes we really, you know, don't wanna sit there, but we have to sit there and we have to go over it from the beginning to the top. And we have to listen to their problems and their demands. And we try to get them to sign a card. I mean, yes. If they do, no, if they don't to</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>Union, no. It is not to become part of the union. Mm-hmm &lt;affirmative&gt;. What we are doing is we are trying to establish a union inside of another Catfish company right</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>It's in Ada, beta, Mississippi.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>Mm-hmm &lt;affirmative&gt;. Yeah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>Yeah. We are trying to branch out solidarity</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>Well, I mean, people can, only thing I can say about people here in the Delta is they have to want it for themselves. You can't say that someone is dirty or this or that, because we as a people accept it. If that's what we want, then, and that's what someone tell us. And if we don't know no better, then that's all we think that's good out there for us. Mm-hmm &lt;affirmative&gt;. So that's all we're going to do. We're just going to go with what someone have told us. We are not going to try to better ourselves because we don't know what's good out there for us. No one is standing over us telling us, Hey, there's a union out here that could help you guys. Right. You know? Mm-hmm &lt;affirmative&gt;. So I'm not gonna say it's dirty, but it's, it just is what it is here. Yeah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Well, you know, we try to get insiders that, you know, someone that would give us information on what's going on and let us know what's happening. We'll try to use that or we'll try to phone call you. Me and Shyna, we try not to phone call no one for the simple fact, when I call you, just say, if I call you and say, well, I wanna come talk to you about a union, if you don't know what a union is, you gonna hang up the phone in my face. Or if someone have bad talk to union, you still gonna hang the phone up in my face. Yeah. Then you might tell me, yeah, you can come over here, but when I come, you're not there. So we try not to call anyone. We really just try to get our names, find what these people are, and meet 'em before they go in the house, before they go to sleep. Mm. Yeah. And we will whip around on you. &lt;laugh&gt;,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>I mean, you just, well, you guys are not from here, so &lt;laugh&gt;, that's every day here. But you just, you have to just do your research and find out what's going on and how can you overcome what you're going through in life. And if you're not looking for the research and trying to get the help here in the Delta in Mississippi, you are not, because no one here in Mississippi, and I'm, I'm just sad to say, I mean blacks period do not have really a chance here. African American people here, you Mississippi to me, and I'm 26 years old, Mississippi is a place to come home and retire to. This is not a place to where people trying to have something would get something. Because every time you try to do it, you got someone turning you around saying, you can't do this, you can't do that. No, this, no, I'm just, it is just no, no, no to everything. You know, you just take it and No, we trying to get Sewages did around here. No. You know, where's all our money going? You have schools and these are public schools and they're here and the kids don't even have textbooks. But no one knows. No one cares. So that what happens here.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>I don't, I really don't, um, deal with politics and politicians. Um, it is never been, um, a value of mines because I don't believe in men. I believe in God. And politics is just a way to just come in and get richer off the poor to me. So I really have no idea what goes on with the politics. I stay out of the politics because I'm not the one &lt;laugh&gt;. I'm not the one. Okay. Next one. Yeah. Politics. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Or no? Yeah. No, they're not. Because like I said in the beginning, we are not knowledge around here. Mm-hmm &lt;affirmative&gt;. You have people, we had someone sign a card and didn't even know what he was signing. People here are not, and then you have to think about it like this. If you worked there, if you have worked at Def Pride and got fired and you was in the union and you left here and went to another non-union catfish place, the first thing you are gonna tell these people is, nah, don't join that union. 'cause that union ain't right. When oh, we are, is, you know, humans and we do make mistakes, but you can't fault us for everything that you done mm-hmm &lt;affirmative&gt;. At your last job. So you have people that will turn around, they slam the doze in our face, you know, sometimes say nasty things to us and cuss us out real bad. Um, let the dogs chase us &lt;laugh&gt;, you know, but there's people you know, so you really can't just say how people will react. But yeah. You know, when you knock on that door, you never know what you're going to get. Right. Yeah. You never know.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Yeah.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Whatever comes to their mind. The union ain't nothing. They just wanna take your money and all this. And I mean, whatever comes to their mind, anything, anything to keep that $7 in 25 cents in they pocket, they would tell you &lt;laugh&gt;. So, and it is just being honest, whatever. If they feel like that's how they gotta keep that $7 in they check, which is really nothing compared to what is we do every day with $7. They'll rather tell you a whole lot of, bunch of lies and excuses so that people that don't know won't ever know. And people that do know, they just try to keep it out because they scared to lose $7 and 25 cents.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>It is a matter of the dudes. A lot of people are afraid of losing their jobs. Um, when they hear about a union coming, a coming, they get these scare text from the people inside management inside of the workplace. They will say, well, we are gonna close this down. If y'all let this union in here or we are going to do this, or we are going to do that, then they'll promise you a lot. We're gonna give y'all some rice. We're gonna have a fish fry. We're gonna do this. And the people feed into it because this is a, some people, that's all we have around here. And the Catfish industry is just growing up every day and they're making millions and millions of dollars and the workers are not making them. And so whatever management tell them, the people believe.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>I heard that since I've been down. I heard that since I've been living too. Catfish is a million dollar, uh, franchise. When you go down this highway, have you guys ever traveled down the highway here?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>You did? Yeah. What did you see?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>Lot of farms. So it's not only catfish, um, you have catfish nowadays. You think about it, you have people that's trying to go across seeds and get catfish 'cause it's cheaper. Um, but farm raised Catfish is a little expensive. But the new cotton, I think corn is the new cotton &lt;laugh&gt;. Catfish is gonna make its money 'cause it's high. I mean, you just go in Sunflower Food Store, you get three little filets for like $8. So that's three little pieces of meat for $8. Yeah. So I don't think it's the new cotton. I think corn is the new cotton, because you can get a can of corn here for almost $3.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Do? My mother's, uh, when she first started working at Delta Pride, she worked in the box room. Mm-hmm &lt;affirmative&gt;. Back in the eighties and early nineties. They had to print out, well write out labels. So that's what she did. She wrote out the labels. And about, I think like in 92, my mom got a supervisor's job and she's been supervisor since. But at the same time, when she was at Delta Pride, they fired her because she, my mom is the type, she saying stuff for what she believes. Mm-hmm &lt;affirmative&gt;. Although she's a supervisor, she's not gonna mistreat anyone. She's gonna give everyone a fair chance. So when they see this kind of person coming in here, that's not what they'll want. That's not what they're want. They want someone to do as they say. And, and right now they don't want no one to give you a fair, fair chance in life and say, well, okay, well today it is a good day.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>I'm gonna let you keep your job. You just do better next time. They just want you to just do it out front. And my mom is not that type of person. Mm-hmm &lt;affirmative&gt;. They fired her. Um, she got another supervisor job at, uh, Baird. I forgot the name of that. It was a Catfish company. Uh, when that company shut down, my mom went to American's Catch. She was a supervisor there. Um, at that time, same thing, they're non-union. Um, she was helping, you know, helping people to her best. You know, giving people a fair chance in life and trying to help people keep their job because she know that people have responsibilities. People in management didn't like it. They fired her again, she went death, pride called her back. And so she's been with Death Pride since mm-hmm &lt;affirmative&gt;. And yeah. That's the only job she's ever done. She, she's never worked really hard. &lt;laugh&gt;. No.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>Because people won't let you into their lives. That good. I'm just gonna be honest. If, what's your name again? Candace. Candace? Mm-hmm &lt;affirmative&gt;. If Candace was management and me and you worked out there, you probably could lead Candace. Everything she said, me, if I'm standing up for myself and what I believe in, then no. But it takes one person with that. No. Say, no, we don't need this. That would change a whole room. So when you have one, no. And especially when they're around a crowd, you won't get anywhere. Mm-hmm &lt;affirmative&gt;. You won't get anywhere because people are here to, many people just believe in what someone tell them and not what they know. We're not going to read. We don't, we don't pick up the newspaper. We don't watch the news. We are not knowing what's going on here. It's a lot of things going, going on in the Delta right now that even, not even, I know mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>But it's nothing we can do about it because it's hell from us. Uh, coming, working with the union, you learn a lot. You learn a whole lot. You have to keep up with, you know, laws and things like that. Because when you go out to people and you have to talk to them, then people be like, well, what happened with so and so, so and so? And you have to be like, um, okay, I know what you're talking about. So, no things, things, no, I don't believe they're just believing in what with now you have some people, people that want change, but then you have a lot of older people and a lot of young people that just really don't know and don't care. They're just fine with a paycheck.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>Yeah. I just, I'm gonna try, you know, I can't help but to try. If I didn't try, I didn't do anything. But the thing is, you could try so hard. So sometimes that when people show you that they, they really don't care what happens then what can you do? I mean, God allow things to happen to us, but we are the reason things happen because we have our own mind and we have to do what our mind inspire us to do. And that's right or wrong. And if, if I'm working at American Care, I ain't gonna lie to you. I have worked there. I worked there three days, &lt;laugh&gt; &lt;laugh&gt;, three days. I left Delta Pride I was making, at the time, I was making $5 and 35 cents. That was night shift. I left there and went to American Cash because they was like, oh, American Cash making so much money.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>So I go to American Cash, they make $7 and what, 25 cents? But at the same time, it wasn't worth it. All money isn't good money. And when you have to tell someone, you gotta go to the bathroom and can you do this? And I mean, you like you in school again, and I'm grown, you know, that's how I felt. I'm grown. You could just either believe me or not. I, I need to use the restroom. You have to write my name down on a list. And I mean, I might be down here. I mean, I gotta wait on all these people to go. So I mean, um, it was a lot of things that goes on inside that plant that I believe if I lose the union job, I still wouldn't go back to that place. So no next</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>At American Catch? Mm-hmm &lt;affirmative&gt;. Wow. Um, yeah. I hated their computer system for the simple fact, if I'm cutting my fish, I have a brick. I can't, okay. It's like you have a brick, this is your time card and you have a computer sitting in front of you and you put your brick on this computer. So all your information goes into this computer. Right. They don't, they going to know how long you stayed in the bathroom, how many fish you cut in a minute, if you left too much, uh, waste on the fish if you left a bone in the fish, if you're not cutting fast enough. So this computer test everything you're doing. Mm-hmm &lt;affirmative&gt;. &lt;affirmative&gt;. And so, um, you have people that misuse the system. Of course, as a black people, we're gonna always find a way around something. We learn how to block fish. But what you're doing is you are causing hum to the next person.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>Uh, my second day I was cutting fish and all the fish was just coming to me. Everyone on the line was just standing up and I'm agro, I was grown, I was full of grown. I was crying. Mm-hmm &lt;affirmative&gt;. I was crying for the simple fact all the fish was coming to me and everyone was standing up. And I couldn't let it just sit there because I'm on these people computer and they would know what I'm doing. So when the supervisor at the time, which was my mom come by, she was like, what's wrong? Why are you sitting up here crying? I was like, ain't no one working. My fingers are hurt. I can't cut this fish this fast. And she was like, they, they done block the fish. Now you take that, for example, if they had a union there, oh my gosh, it was been, it probably would've been some firing going on, but because of no union, there was nothing dead about it.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>Only thing she told me was, I mean, just pay attention and learn what they do and catch 'em, which I did. So, but the next day I, it really didn't matter 'cause I quit because you left. Yeah. I couldn't, I couldn't do it. Um, that, um, you have what? 30? Well your breaks, this is the times to come in is crazy. They can tell you today, well you guys come in at seven o'clock and you going home at 11. And they can come back the day after that and say, well, you guys come in at nine and y'all gonna go home tonight, tomorrow night at 12 or whatever time. That time. It works there. I mean, and now we just, I'm, I'm finding now, now that these people are working Saturday and Sunday, so they're working seven days a week. They have no contract with the union.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts103">
+                <ANNOTATION_VALUE>So there's nothing we can do about it. And there's a lot more going on in there that just really don't even feel like sitting here talking about American catch. It makes me mad thinking about them and how they treat their people. Not only American catch, it's a lot of job industries. I'm not going to just sit here and point out that company. It's a lot of companies around here that does that to the employees don't really care just as long as they come to work, do what they have to do and go home and get the paycheck right. That's it. Mm-hmm &lt;affirmative&gt;. And it is not really about that. You know? Uh, like I say, our money isn't good money. We as a people have to understand that if we want better, we have to do better. And if it takes us to leave that place or get a union inside of that place, that's what we need to do. Mm-hmm &lt;affirmative&gt;. In order to gain something, sometime we must lose. So people just have to really be able to take a stand around here.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>Yeah, I put it to you like this. I said once, probably about a month ago, I told Rosa, I was like, people are now scared these days. People are not like back in when they first got the union to come here in the eighties, people are not amped up like they were. Mm-hmm &lt;affirmative&gt;. And she was like, no, that's a lie. People just make excuses. And she was, she made something that made a lot of sense. She said something to me, she was like, we could have, we could go down there and we could rent out a building and we could tell them to come eat with us and drink free with us so we could talk to them. And she said, you wouldn't believe it, but probably half of that company inside of there, those people will be there. But if you tell them just to come up here, or if we go out there and stand on the side of the road like we did last year, and you know, with our signs and stuff, we got people talking trash to us and they're not going to do that.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>But if you give someone, and that's sad to say that, but that's the way of people and that's how people believe. It's sad to say that if you say, well y'all come on over here, we're gonna talk to y'all, but we are going to have y'all some free food and free drinks. We'll even have y'all some beer or something back then in the back for, you know, you go back there when you get off work, they're gonna come. And it's sad to say that about 'em. So make taking the stand, they have to be willing to take their first step. I mean, I can't do anything about that. They have to want to do that. People as people here want, need to, want to do that, but they want, they just want what's given to 'em. And that's all you know, you really, and it's sad when you look at it because we as a people, you think about working in a catfish place and I have worked there, so I know you can't send your kids off to college with that.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>You can't do that. 'cause if that was the case, I would've been in college probably still right now. You know, my mom couldn't do it. And she was a supervisor. So you, but people don't look at that. They don't look at long terms. They thinking about today, well, today doesn't count because you never know what tomorrow's going to bring. And people here are just looking at the fact of, I'm just getting paycheck. Instead of looking at, there could be something better about this job. We can have better benefits. Our kids can, you know, get sick. It's, it's getting cold. A lot of people here don't have insurance. A lot of kids don't have insurance. And if you go to the clinic, you will see this people trying to come up with money so that kids could go. Then you take a, a place like &lt;inaudible&gt; or Delta Pride that has a union, I mean, it is only what, $25 to send your child up there to see a doctor.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>You play take a place like American's Cash or elsewhere, you have to pay the whole deductible. So I mean, it is good to the union inside these places and some people just don't want to see that. But it's also, you know, it's ups and downs. I'm not gonna say that the union's bad, the union's not bad. It's what we as a people make of the union because we are the people and we are the union. So whatever we decide to make of this union is what is this union's gonna stand for us for? Because it's our decision what goes down on that black and white paper. On this paper. It's our decision. It is us getting up ourself, coming up here listening to what our representative have to tell us what's going on now we missing our union meetings and sitting at home on the couch eating fried chicken or whatever. Then what, what? You can't get mad at the union, but you have people that does that. So.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>I'm gonna tell you, I'm just gonna be honest. No, we been in a recession here. It is never harmed us. To me. Ain't nothing changed in my life. It is, it is just like the bills come quicker now. That's it. I'm just being honest. No, no it hasn't because we, we are poor and we're gonna, we are not, I'm not gonna say we're gonna stay poor, but we are poor and the recession really didn't bother us because this ain't nothing. We just seeing, we been seeing this here, um, trying to, you know, pay these light bills. I think we have the highest light bills in the world, you know? But still, um, the recession here, no, it didn't, it didn't affect us at all. It's been going on here. &lt;laugh&gt;, nothing changed.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>No, nothing changed with the recession. I'm, I'm gonna be honest, only thing that changed with the recession for us here is when we found out about a rebate &lt;laugh&gt;. And that's it. And I'm just gonna be honest with you because we didn't know anything about a rebate here. We didn't know that you could, you know, you qualify for rebates. When we found out about a rebate, you should have seen people. We was like, wow, we get rebates. You know, the recession is good to us. It really is. When you think about it, the poor people, the recession's kind of good on us because, um, you have more programs coming in now. Like for example, the STEP program, it's a government program, but it helps you get a job. You got a lot of parents out there that cannot get a job. I don't care how hard you try, you can go put an application in every week, every week, call these people every week and they will not call you. But the step program came along to Mississippi and now you have people working. You know, you have people that's getting up going to get on this program because they know this program is gonna find them a job. They don't care if it's at McDonald's Burger King up here cleaning up, you know, they don't care where it is with that program. So recession kind of been good to us.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>They, this is the delta. We do use that. We have the Obama shirts. We had, we had the signs, well we had 'em last year. We didn't pull 'em out this year That thought that Obama support us supports the union. People really don't want to hear that. Really. No, they, they want to hear, what is you gonna do for us? They don't want to hear that. Yeah. Obama's behind us 100%. He believe in unions. They don't want to hear that. They, when you come to them and you say something about, for President Obama, they're gonna say, okay, what you going to do for us? Mm-hmm. Yeah. So, no, we use it. We have used it, but I mean it does any good.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>Yeah, they have their jobs and they have their paycheck, but what happens tomorrow if you go in there and they say, well, you gone then what you have,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>'em to realize it's our whole mission. But they are not realizing that a lot of people are telling us they gonna close this down. No, that company was going to close down anyway. They won't believe that part. But um, if you tell them, well no, the union does not make companies close down. Company closed down. I mean they just didn't have any money. They was gonna close down anyway. They just used that to make the union look bad and people run with it. Um, for example, we went to Morehead and we went over to this guy house and he used to work at where it was Bair and he gave us about an hour sit down because he was afraid that if he signed our card, it was going to end up just like there. He thought that when he signed that card, they was gonna close their plant down and we had to sit there for about an hour and let him know that companies do not close because of a union.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts137">
+                <ANNOTATION_VALUE>People, a company don't really care about a union. They just, you know, they try to keep their money in their pockets. They don't care if you want a union. They just don't wanna have to pay out pension and pensions and all of those. They don't care if you want a union. Hooray. 'cause you want a union. They looking at their pockets when you holler a union. And what the people fail to realize is you should be looking at your pockets too, because this is good benefits coming with this union. This union have scholarships. Maybe my child could get a scholarship or maybe I could save 'em my pension money and send my child off to college. They're not looking at that. No, not here.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts141">
+                <ANNOTATION_VALUE>No. I don't think I have anything to add, but I mean, my caffeine the morning. Uh, but if you guys, I mean, if you have another question to sign, don't mind my answer.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>Yeah. Okay. Alright.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Speaker 2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>Ahead. You talked about going door to door, uh mm-hmm &lt;affirmative&gt;. Is there any other strategies that you've used to mobilize?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>Mississippi is one of the most anti-union states in the country, and it's been that way for quite some time. Mm-hmm &lt;affirmative&gt;. Um, have you faced any repression from the, the resistance in the community?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>What about local politicians? How do union interact with them?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>So there's people in the black community spreading misinformation about the union.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>What kinds of things do they say?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>So it's really a matter of the dues then</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>Yeah. People say that. Uh, catfish is the new cotton. I've heard that since I've been down here.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>We drove. We drove around a lot yesterday.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>A lot of farms.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>So you mentioned the, uh, tactics of the company. Mm-hmm &lt;affirmative&gt;. To try to discourage unionization. Mm-hmm &lt;affirmative&gt;. And the misinformation in the black community. Mm-hmm &lt;affirmative&gt;. That's also discouraging. Unionization. You feel like you're making progress despite all of the resistance? No,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts117">
+                <ANNOTATION_VALUE>Hmm. Would you say the recession has made things even more difficult? &lt;laugh&gt;,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts121">
+                <ANNOTATION_VALUE>Has it shaped the backlash and the resistance that y'all face?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts125">
+                <ANNOTATION_VALUE>What about Obama's election? Could y'all use that? Yeah. To mobilize people. I mean that there is a lot of excitement. Couldn't you use that to break that resistance in the community?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts129">
+                <ANNOTATION_VALUE>So at the end of the day, they have the job and they have, and they have steady paycheck, which is, which is a lot these times. And you just, you just can't get 'em to,</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts133">
+                <ANNOTATION_VALUE>And that's, that's your whole mission to try to get</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
