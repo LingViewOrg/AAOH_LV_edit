@@ -28,9 +28,9 @@ body {
 }
 h1 {
 	font-family: "Hammersmith One", sans-serif;
-	font-size: 0.7em;
+	font-size: 1.3em;
 	font-weight: 300;
-	max-width: 100px;
+	max-width: 300px;
 	text-wrap:wrap ;
 
 }
@@ -562,4 +562,173 @@ video {
 }
 .highlight {
 	background-color: yellow;
+}
+:root {
+  --primary-text-color: #2c3e50;  /* A dark, soft black */
+  --secondary-text-color: #ffffff;
+  --accent-color: #2980b9;      /* A professional blue for buttons/links */
+  --background-color: #fdfdfd;  /* A clean, slightly off-white */
+  --section-background-color: #ecf0f1; /* A light grey for contrast */
+}
+
+
+
+h2 {
+  font-size: 2rem; /* 32px */
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+p {
+  font-size: 1.1rem; /* ~17px */
+  margin-bottom: 1rem;
+}
+
+
+.container {
+  max-width: 960px;
+  margin: 0 auto; 
+  padding: 4rem 1rem;
+}
+
+
+.hero {
+  
+   background-image: linear-gradient(to right, #033e75, #6698da);
+
+  color: #ffffff;
+  
+  display: flex;
+
+  
+  align-items: left; 
+
+ 
+  
+  text-align: center; 
+
+  
+  gap: 2rem; 
+}
+.hero-text {
+  
+  flex: 2; 
+}
+.hero .subtitle {
+  font-size: 3rem;
+  opacity: 0.9;
+
+  flex: 1
+}
+.hero .partner-logo {
+  
+  flex: 1;
+  max-width: 600px; 
+  height: auto;
+}
+.line-two {
+  
+  font-size: 0.5em; 
+
+ 
+}
+
+.stats-bar {
+  background-color: var(--accent-color);
+  color: var(--secondary-text-color);
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-number {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.stat-label {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+
+.focus-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 2rem; 
+}
+
+.focus-card {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+.focus-card h3 {
+  margin-top: 0;
+  color: var(--accent-color);
+}
+
+
+.partners-section, .cta-section {
+  background-color: var(--section-background-color);
+  text-align: center;
+}
+
+.partner-logos {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 2rem;
+}
+
+.logo-placeholder {
+  font-style: italic;
+  color: #777;
+}
+
+.cta-button {
+  display: inline-block;
+  background-color: var(--accent-color);
+  color: var(--secondary-text-color);
+  padding: 1rem 2rem;
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #3498db; 
+}
+
+
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 1.75rem;
+  }
+
+  .stats-bar {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .focus-grid {
+    grid-template-columns: 1fr; 
+  }
 }

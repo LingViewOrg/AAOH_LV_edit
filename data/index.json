@@ -56,14 +56,14 @@
     }
   },
   "1ed3d641-acd9-4466-811d-17c8ed59844c": {
-    "timed": true,
+    "timed": false,
     "story ID": "1ed3d641-acd9-4466-811d-17c8ed59844c",
     "title": {
       "_default": "Kuke chiste"
     },
     "media": {
-      "audio": "20170804_kuke_chiste_FACQ.mp3",
-      "video": "20170804_kuke_chiste_FACQ_handbrake.mp4"
+      "audio": "",
+      "video": ""
     },
     "languages": [],
     "date_created": "",
@@ -388,6 +388,634 @@
       },
       "S3": {
         "tier": "Features"
+      }
+    }
+  },
+  "c2077b58-db00-4545-aa81-3d9af38511d2": {
+    "timed": true,
+    "story ID": "c2077b58-db00-4545-aa81-3d9af38511d2",
+    "title": {
+      "_default": "AAHP 024 David Richardson 5-27-2010"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=4XpMh5m4fU0"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP 024 David Richardson 5-27-2010.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      },
+      "Speaker 3": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
+      },
+      "S3": {
+        "tier": "Speaker 2"
+      },
+      "S4": {
+        "tier": "Speaker 3"
+      }
+    }
+  },
+  "8168ab11-cd38-4767-a1ec-60b7e2d63be7": {
+    "timed": true,
+    "story ID": "8168ab11-cd38-4767-a1ec-60b7e2d63be7",
+    "title": {
+      "_default": "AAHP 180 Alethia Brown 8-10-2011"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://youtu.be/Tbf9eyudNaE"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP 180 Alethia Brown 8-10-2011.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 3": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 2"
+      },
+      "S3": {
+        "tier": "Speaker 1"
+      },
+      "S4": {
+        "tier": "Speaker 3"
+      }
+    }
+  },
+  "6a033265-4f1f-4140-8cef-9aa6b833e9d2": {
+    "timed": true,
+    "story ID": "6a033265-4f1f-4140-8cef-9aa6b833e9d2",
+    "title": {
+      "_default": "AAHP 183 Leitha Nichols 1-19-2009"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=olg7wuQG5QQ"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP 183 Leitha Nichols 1-19-2009.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      },
+      "Speaker 4": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
+      },
+      "S3": {
+        "tier": "Speaker 2"
+      },
+      "S4": {
+        "tier": "Speaker 4"
+      }
+    }
+  },
+  "4ae53d22-9030-47dc-b990-723b6c967ccf": {
+    "timed": true,
+    "story ID": "4ae53d22-9030-47dc-b990-723b6c967ccf",
+    "title": {
+      "_default": "AAHP173BCorneliusClayton9-9-2011"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=U3u8gerOlVY"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP173BCorneliusClayton9-9-2011.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      },
+      "Speaker 3": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
+      },
+      "S3": {
+        "tier": "Speaker 2"
+      },
+      "S4": {
+        "tier": "Speaker 3"
+      }
+    }
+  },
+  "3f4b2c1e-9a8d-4f6a-9132-0b7c5d6e8f90": {
+    "timed": true,
+    "story ID": "3f4b2c1e-9a8d-4f6a-9132-0b7c5d6e8f90",
+    "title": {
+      "_default": "AAHP_173A"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=mLk4CwkjawQ"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP_173A.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
+      },
+      "S3": {
+        "tier": "Speaker 2"
+      }
+    }
+  },
+  "edeadf53-1a2b-42e1-9991-67a36a37899c": {
+    "timed": true,
+    "story ID": "edeadf53-1a2b-42e1-9991-67a36a37899c",
+    "title": {
+      "_default": "AAHP_173A_Cornelius_Clayton_Jr_5-12-2011"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=1ZiBF_n9CfU"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP_173A_Cornelius_Clayton_Jr_5-12-2011.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
+      },
+      "S3": {
+        "tier": "Speaker 2"
+      }
+    }
+  },
+  "6a123079-26bc-4a16-889f-cbcb1ed069d2": {
+    "timed": true,
+    "story ID": "6a123079-26bc-4a16-889f-cbcb1ed069d2",
+    "title": {
+      "_default": "AAHP_176_Nkwanda_Jah_5-31-2011"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=Xm60-DaL_Qo"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP_176_Nkwanda_Jah_5-31-2011.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      },
+      "Speaker 5": {
+        "subdivided": false
+      },
+      "Speaker 6": {
+        "subdivided": false
+      },
+      "Speaker 7": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
+      },
+      "S3": {
+        "tier": "Speaker 2"
+      },
+      "S4": {
+        "tier": "Speaker 5"
+      },
+      "S5": {
+        "tier": "Speaker 6"
+      },
+      "S6": {
+        "tier": "Speaker 7"
+      }
+    }
+  },
+  "76dc3bdb-a37d-4a64-bd3b-c4384851332e": {
+    "timed": true,
+    "story ID": "76dc3bdb-a37d-4a64-bd3b-c4384851332e",
+    "title": {
+      "_default": "MFP 086 Darron L Edwards 9-23-2011"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=P0ioFSEDqMQ"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "MFP 086 Darron L Edwards 9-23-2011.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
+      },
+      "S3": {
+        "tier": "Speaker 2"
+      }
+    }
+  },
+  "38897ecb-c648-42b7-8253-27f739ff10c7": {
+    "timed": true,
+    "story ID": "38897ecb-c648-42b7-8253-27f739ff10c7",
+    "title": {
+      "_default": "MFP_125_Zacchaeus_McEwen_9-18-2013"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=7bdkFQTVtU8"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "MFP_125_Zacchaeus_McEwen_9-18-2013.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
+      },
+      "S3": {
+        "tier": "Speaker 2"
+      }
+    }
+  },
+  "2dab40bd-edc9-472c-844c-89c863e2afcf": {
+    "timed": true,
+    "story ID": "2dab40bd-edc9-472c-844c-89c863e2afcf",
+    "title": {
+      "_default": "MFP 061 Yolanda Veal 9-24-2010"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=iJ40OCHnass"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "MFP 061 Yolanda Veal 9-24-2010.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
+      },
+      "S3": {
+        "tier": "Speaker 2"
+      }
+    }
+  },
+  "d5a7eafb-d9c6-461d-b5af-fb65ac163946": {
+    "timed": true,
+    "story ID": "d5a7eafb-d9c6-461d-b5af-fb65ac163946",
+    "title": {
+      "_default": "AAHP_209_Barbara_Sharpe_11-8-2011"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=teFgu4bpTH4"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP_209_Barbara_Sharpe_11-8-2011.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
+      },
+      "S3": {
+        "tier": "Speaker 2"
+      }
+    }
+  },
+  "483703ec-48a3-478d-9279-87940a0a67d0": {
+    "timed": true,
+    "story ID": "483703ec-48a3-478d-9279-87940a0a67d0",
+    "title": {
+      "_default": "MFP_136_Alexis_Cooper_9-21-2013"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=tJffN8nkhl8"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "MFP_136_Alexis_Cooper_9-21-2013.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
+      }
+    }
+  },
+  "3232fbf0-e9d2-4a54-99e7-a263f4306fac": {
+    "timed": true,
+    "story ID": "3232fbf0-e9d2-4a54-99e7-a263f4306fac",
+    "title": {
+      "_default": "MFP_142_Breyanna_Hooper_9-21-2013"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=K5KXWW2ZyKc"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "MFP_142_Breyanna_Hooper_9-21-2013.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
       }
     }
   }

@@ -8,44 +8,110 @@ import AAOH_logo4 from "./../../images/AAOH_logo4.png";
 import AAOH_logo4Copy from "./../../images/AAOH_logo4Copy.png";
 
 const aboutPageJSX = {
-  [ENGLISH]:
-  <body className='about' style={{margin:0}}>
-  <div  style={{margin:0}}>
-  <div id="header1">
-    <div id="header1Text">Reanimating African American Histories of the Gulf South</div>
-  </div>
+  [ENGLISH]: (
+    <div className="about-page">
 
-    
-  <div id="slider">
-    <figure>
-      <img src={AAOH_logo4} ></img>
-      <img src={AAOH_logo2}></img>
-      <img src={AAOH_logo3}></img>
-      <img src={AAOH_logo4Copy}></img>
       
+      <section className="hero">
+       
+        <div className="hero-text">
+          
+          <p className="subtitle">Powered by LingView<br />
+             <span className="line-two">an interactive interview player</span></p>
+        </div>
+        <img 
+                  src={AAOH_logo1} 
+                  alt="Logo for Samuel Proctor Oral History Program"
+                  className="partner-logo" 
+                />
+      </section>
+
       
-    </figure>
+      <section className="container mission-section">
+        <h2>AAOH Project</h2>
+        <p>
+          The Samuel Proctor Oral History Program (SPOHP), UF Department of Linguistics, and George A. Smathers Libraries are proud to establish this collaborative project. Our foundation is the Joel Buchanan African American Oral History Archive, an ongoing collection of over 1000 interviews with African Americans in the Gulf South—a population absent from many other collections. LingView is the interview player chosen to showcase this essential history. With features just as auto text scrolling and phrase identification, we are able to create a simple interface to learn and follow along with meaningful conversations hosted here.
+        </p>
+      </section>
+      
+     
+      <section className="stats-bar">
+        <div className="stat-item">
+            <span className="stat-number">1000+</span>
+            <span className="stat-label">Interviews Collected</span>
+        </div>
+        <div className="stat-item">
+            <span className="stat-number">5+</span>
+            <span className="stat-label">Decades of History</span>
+        </div>
+        <div className="stat-item">
+            <span className="stat-number">3</span>
+            <span className="stat-label">Founding Partners</span>
+        </div>
+      </section>
 
-  </div>
-  <div id="aboutInfo">Samuel Proctor Oral History Program (SPOHP), UF Department of Linguistics, and George A. Smathers 
-      Libraries are proud to announce the establishment of an NEH-funded collaborative project entitled, 
-      Reanimating African American Oral Histories of the Gulf South (RGS). The project’s 
-      foundation is the Joel Buchanan African American Oral History Archive, which is ongoing and 
-      currently contains over 1000 interviews with African Americans in the Gulf South, a population absent from many other oral 
-      history collections. Contained within this archive are the stories of African Americans who lived through the transatlantic slave trade, 
-      the Jim Crow era, the Civil Rights Movement, the wars of the 20th Century, and the first Black presidency, along with the voices of those typically 
-      marginalized in the study of African American histories such as the Gullah-Geechee and Black Seminoles. This project emphasizes the aforementioned 
-      subjects and an extensive analysis of African American Language in the Gulf South (AALGS). The RGS project organizes these elements into a curriculum 
-      with enormous potential for educators and their students, or in alternative educational environments such as teacher, adult, senior, or museum education programs.</div>
-  </div>
-  <div id='line'></div>
-  <div id='linkText'>
-    <p>Check out the official <a href="https://www.youtube.com/channel/UCPyiAStrnYuTEqCZ03Jp7rQ" target="_blank">AAOH Youtube Channel</a>
-    for videos of all interviews and extra content!</p>
-  </div>
-  
 
-</body>,
+      {/* Core Focus Areas Section (using a 3-column layout) */}
+      <section className="container focus-section">
+        <h2>A Rich Historical & Cultural Tapestry</h2>
+        <div className="focus-grid">
+          <div className="focus-card">
+            {/* You could add an icon here */}
+            <h3>Preserving Untold Stories</h3>
+            <p>Our archive contains the stories of those who lived through the transatlantic slave trade, the Jim Crow era, the Civil Rights Movement, and the wars of the 20th Century.</p>
+          </div>
+          <div className="focus-card">
+            {/* You could add an icon here */}
+            <h3>Amplifying Marginalized Voices</h3>
+            <p>We place special emphasis on the voices of those typically marginalized in history, ensuring their narratives are preserved.</p>
+          </div>
+          <div className="focus-card">
+            {/* You could add an icon here */}
+            <h3>Linguistic & Educational Goals</h3>
+            <p>This project features extensive analysis of African American Language in the Gulf South (AALGS) and organizes these rich materials into a curriculum for educators and students.</p>
+          </div>
+        </div>
+      </section>
+
+      {/* Partners Section */}
+      <section className="partners-section">
+          <div className="container">
+              <h2>Our Partners</h2>
+              <div className="partner-logos">
+                  
+                {/* Each placeholder is now an img tag */}
+                <img 
+                  src={AAOH_logo2} 
+                  alt="Logo for Samuel Proctor Oral History Program"
+                  className="partner-logo" 
+                />
+
+                <img 
+                  src={AAOH_logo3} 
+                  alt="Logo for UF Department of Linguistics"
+                  className="partner-logo" 
+                />
+
+                <img 
+                  src={AAOH_logo4} 
+                  alt="Logo for George A. Smathers Libraries"
+                  className="partner-logo"
+                />
+                
+              </div>
+          </div>
+      </section>
+
+      {/* Final Call to Action Section */}
+      <section className="cta-section">
+        <h2>Explore the Archives</h2>
+        <p>Watch full interviews on our official YouTube channel.</p>
+        <a href="https://www.youtube.com/channel/UCPyiAStrnYuTEqCZ03Jp7rQ" target="_blank" rel="noopener noreferrer" className="cta-button">
+          Visit the AAOH YouTube Channel
+        </a>
+      </section>
+    </div>
+  ),
   [ESPANOL]:
     <div>
       <p>Ingrese el contenido aquí :) </p>
