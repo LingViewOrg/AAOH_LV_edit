@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="pympi" DATE="2025-10-04T20:12:22-04:00" VERSION="2.8" FORMAT="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="C:/Users/mattf/Dropbox/Website Team/AAHP 209_Barbara_Sharp_Lingview/AAHP_209_Barbara_Sharpe_11-8-2011wav.wav" MIME_TYPE="audio/wav" />
+		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
+		<PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d5a7eafb-d9c6-461d-b5af-fb65ac163946</PROPERTY></HEADER>
+	<TIME_ORDER>
+		<TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0" />
+		<TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="11000" />
+		<TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="11000" />
+		<TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="13000" />
+		<TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="13000" />
+		<TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="18000" />
+		<TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="18000" />
+		<TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="65000" />
+		<TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="65000" />
+		<TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="69000" />
+		<TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="69000" />
+		<TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="70000" />
+		<TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="70000" />
+		<TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="71000" />
+		<TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="71000" />
+		<TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="135000" />
+		<TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="135000" />
+		<TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="138000" />
+		<TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="138000" />
+		<TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="148000" />
+		<TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="148000" />
+		<TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="153000" />
+		<TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="153000" />
+		<TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="191000" />
+		<TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="191000" />
+		<TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="192000" />
+		<TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="192000" />
+		<TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="195000" />
+		<TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="195000" />
+		<TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="196000" />
+		<TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="196000" />
+		<TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="202000" />
+		<TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="202000" />
+		<TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="204000" />
+		<TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="204000" />
+		<TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="206000" />
+		<TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="206000" />
+		<TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="215000" />
+		<TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="215000" />
+		<TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="294000" />
+		<TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="294000" />
+		<TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="295000" />
+		<TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="295000" />
+		<TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="302000" />
+		<TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="302000" />
+		<TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="312000" />
+		<TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="312000" />
+		<TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="366000" />
+		<TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="366000" />
+		<TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="372000" />
+		<TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="372000" />
+		<TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="425000" />
+		<TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="425000" />
+		<TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="432000" />
+		<TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="432000" />
+		<TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="439000" />
+		<TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="439000" />
+		<TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="441000" />
+		<TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="441000" />
+		<TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="506000" />
+		<TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="506000" />
+		<TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="565000" />
+		<TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="565000" />
+		<TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="627000" />
+		<TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="627000" />
+		<TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="689000" />
+		<TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="689000" />
+		<TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="758000" />
+		<TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="758000" />
+		<TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="822000" />
+		<TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="822000" />
+		<TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="884000" />
+		<TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="884000" />
+		<TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="945000" />
+		<TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="945000" />
+		<TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="1008000" />
+		<TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="1008000" />
+		<TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="1082000" />
+		<TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="1082000" />
+		<TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="1138000" />
+		<TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="1138000" />
+		<TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="1213000" />
+		<TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="1213000" />
+		<TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="1228000" />
+		<TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="1228000" />
+		<TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="1302000" />
+		<TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="1302000" />
+		<TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="1358000" />
+		<TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="1358000" />
+		<TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="1427000" />
+		<TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="1427000" />
+		<TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="1486000" />
+		<TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="1486000" />
+		<TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="1545000" />
+		<TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="1545000" />
+		<TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="1602000" />
+		<TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="1602000" />
+		<TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="1608000" />
+		<TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="1608000" />
+		<TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="1612000" />
+		<TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="1612000" />
+		<TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="1613000" />
+		<TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="1613000" />
+		<TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="1614000" />
+		<TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="1614000" />
+		<TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="1615000" />
+		<TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="1615000" />
+		<TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="1688000" />
+		<TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="1688000" />
+		<TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="1689000" />
+		<TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="1689000" />
+		<TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="1713000" />
+		<TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="1713000" />
+		<TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="1719000" />
+		<TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="1719000" />
+		<TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="1727000" />
+		<TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="1727000" />
+		<TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="1743000" />
+		<TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="1743000" />
+		<TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="1810000" />
+		<TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="1810000" />
+		<TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="1905000" />
+		<TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="1905000" />
+		<TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="1911000" />
+		<TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="1911000" />
+		<TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="1949000" />
+		<TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="1949000" />
+		<TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="1952000" />
+		<TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="1952000" />
+		<TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="1961000" />
+		<TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="1961000" />
+		<TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="1973000" />
+		<TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="1973000" />
+		<TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="1977000" />
+		<TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="1977000" />
+		<TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="2033000" />
+		<TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="2033000" />
+		<TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="2103000" />
+		<TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="2103000" />
+		<TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="2164000" />
+		<TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="2164000" />
+		<TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="2221000" />
+		<TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="2221000" />
+		<TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="2290000" />
+		<TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="2290000" />
+		<TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="2343000" />
+		<TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="2343000" />
+		<TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="2396000" />
+		<TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="2396000" />
+		<TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="2399000" />
+		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
+	<TIER TIER_ID="Speaker 0" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+				<ANNOTATION_VALUE>We are here with Mrs. Barbara Sharp at the Kirby Smith building in Gainesville. Um, it's November 8th. And, um, I would like to start off by asking, thanking you, Ms. Sharp, for agreeing to do the interview with me.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+				<ANNOTATION_VALUE>&lt;laugh&gt;. Um, could you start by telling me when and where you were born and what it was like to grow up in that area?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+				<ANNOTATION_VALUE>Um, was the area lived in predominantly white or African American, or mixed?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+				<ANNOTATION_VALUE>It was mixed. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+				<ANNOTATION_VALUE>See. Um, did you move around 'cause your father's job or?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+				<ANNOTATION_VALUE>Mm-hmm &lt;affirmative&gt;. Um, as a teenager, did you work anywhere?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+				<ANNOTATION_VALUE>Oh, really? Uhhuh &lt;affirmative&gt;. Did you</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+				<ANNOTATION_VALUE>Um,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+				<ANNOTATION_VALUE>So. Oh, that's, that's &lt;laugh&gt;</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+				<ANNOTATION_VALUE>Um, when you went to school those three days a week, it was, can you describe the experience? Was there like segregation still going on? Yes. Did you face that,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
+				<ANNOTATION_VALUE>&lt;laugh&gt;</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+				<ANNOTATION_VALUE>Oh my. Um, when you look back, can you remember any instances where you didn't realize that was segregation then, but now you're like, oh, gosh. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+				<ANNOTATION_VALUE>Mm-hmm &lt;affirmative&gt;. Do you think the education you received at your school was equivalent or better than the one at the white school?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+				<ANNOTATION_VALUE>Um hmm. When you were, so you went to, which high school?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+				<ANNOTATION_VALUE>And now you continued on to go to college.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
+				<ANNOTATION_VALUE>Okay. Um, when you, when segregation was switching to integration everywhere around the country, Uhhuh, um, how did you witness that? And how did it change? Did it change anything in your everyday life, or did it remain pretty much the same?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+				<ANNOTATION_VALUE>You mentioned grandparents. Mm-hmm &lt;affirmative&gt;. Do you wanna, can you tell me a little bit about your grandparents?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
+				<ANNOTATION_VALUE>Okay.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
+				<ANNOTATION_VALUE>So you never had the chance to meet them?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
+				<ANNOTATION_VALUE>Gosh. Uhhuh,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
+				<ANNOTATION_VALUE>Do you know, um, about their, what jobs they did? Other than</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
+				<ANNOTATION_VALUE>Um, I have a question about Uhhuh. The election that happened with Obama, um, when he was running for president. Were you supported? And do you feel like he's, um, how do, how do you feel about his current policy?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+				<ANNOTATION_VALUE>Um, coming back to your position, are you planning to run again? Uhhuh? &lt;affirmative&gt;? Are you gonna keep trying</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+				<ANNOTATION_VALUE>&lt;affirmative&gt;. Um, is there anything I didn't cover that you'd like to add?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<TIER TIER_ID="Speaker 1" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+				<ANNOTATION_VALUE>You are quite welcome,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+				<ANNOTATION_VALUE>Okay. I was born in Quincy, Florida. However, I don't remember living there because my parents left there actually when I was a baby. And we moved to Seminole County in Sanford. Now I remember living in Sanford and, uh, I liked Sanford. Uh, it was a celery city. My father was in the Navy, and, um, my mother just took care of us. And so, you know, I just enjoyed my growing up there. We had a guava tree in our backyard, and so it was just fun. I was just a typical child. And so, uh, and we lived in a nice area. Okay. Uhhuh, &lt;affirmative&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+				<ANNOTATION_VALUE>It was mixed.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+				<ANNOTATION_VALUE>The area that I lived, it was not, uh, it was not, um, uh, apartments, like the Section eight apartments or anything like that. No. We just, we were in a home. You were in a home, Uhhuh, &lt;affirmative&gt;. And so, uh, so I enjoyed that. I also, uh, remember, uh, my mother during the time, uh, was saying that they, they had, they had to get, uh, stamps for sugar and stuff like that. That was a long time ago. But, uh, so, and, and I went to school there. I could walk to school and, um, I went to school there in the Element in elementary school. Moved there from there to Gainesville to a lot county &lt;laugh&gt;. And I moved from, uh, uh, a lot county to Putnam County back to &lt;inaudible&gt;. I spent most of my life here in Otie County. I</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+				<ANNOTATION_VALUE>Uh, I, I, that's where my father was. That, you know, that's where my mother, my father was from there. My mother actually was from Quincy. Oh, okay.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
+				<ANNOTATION_VALUE>Yes, I did. &lt;laugh&gt;, I tell you what, when I was in school mm-hmm &lt;affirmative&gt;. When I was, I, the, the, uh, superintendent had, I had a, my mother had a, a certificate, which I don't even think they give those things anymore. I had a certificate so that I could go to school three days out of a week and work two and, uh, to help my mom. And, um, so I did that. But there was a stipulation that I had to be able to keep my grades up in order to do that, and I did it. And so it turned out fine. I worked at a doctor's office.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+				<ANNOTATION_VALUE>Enjoy that? Yes, I really did. I loved that.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
+				<ANNOTATION_VALUE>He kinda liked, you know, was a kind of second father or</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+				<ANNOTATION_VALUE>&lt;laugh&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
+				<ANNOTATION_VALUE>Kelly? Yes. There was segregation during all that time. Mm-hmm &lt;affirmative&gt;. However, I did not know that it was segregation. And the reason I did not know it was because I was not used to mixing with other ki, you know? Mm-hmm &lt;affirmative&gt;. I just, my own race was what I was used to. So I, I didn't know anything about it until later on, early on. I didn't, because I thought that's the way it's supposed to be. I thought everybody was like that, you know? Mm-hmm &lt;affirmative&gt;. So I didn't consider it a bad thing. It might not have been the best thing, but I didn't think it was that bad either. Mm-hmm &lt;affirmative&gt;. You know, 'cause I was growing up and I thought that was the way it's supposed to have been. Um, my mother kind of raised us that, uh, she, this is one thing that I believe all of us carried to this day, is that when we, when we were growing up and then we were learning, uh, my mother told us, said, nobody is any better than we were. We were different. Mm-hmm &lt;affirmative&gt;. But nobody was any better. That we were just as important as anybody else. And she wanted us always to remember that. And I always thought I was something, and I still don't, &lt;laugh&gt;</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+				<ANNOTATION_VALUE>That helped me, that helped me. So, you know, I did pretty good behind that &lt;laugh&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+				<ANNOTATION_VALUE>Because, um, we lived in Putnam County, and I, we used to have to drive, uh, we used to have to drive by white schools mm-hmm &lt;affirmative&gt;. And then, you know, that was when I was getting on up in the grades. And, um, I thought, you know, now that I look back, how come we had to, you know, ride by schools when we couldn't have stopped there, you know? Mm-hmm &lt;affirmative&gt;. But that, that's when I knew, you know, that, uh, that was segregation and my, and it probably, uh, shouldn't have been that way, but I wasn't, I guess if I was affected by it, I did not know it. Mm-hmm &lt;affirmative&gt;. If my, 'cause my mother and father were very good parents, so we had good food. I mean, we had good clothing and all that kind of stuff. So it, I, I was okay with that. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+				<ANNOTATION_VALUE>It, I think, to me it was pretty good because I was able to learn and I was able to take the materials that we had and learn. And, and that helped me to get where I am today. Now, to say that it was equal to what the other kids had the other race had, I don't know. But I was told that we had hand me down books mm-hmm &lt;affirmative&gt;. That some of the books that we got were, the pages were torn out of 'em. They were old books after, uh, everybody else had done it, then they were passed down to us. So, but I, I, I did the best I could with what I had, and so I, I'm comfortable with that.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
+				<ANNOTATION_VALUE>I went in, in, um, Seminole County. It was Harper Academy. That was an elementary school.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+				<ANNOTATION_VALUE>Oh, yeah. But what I did was, when I, um, got married and they had my children, my, uh, top priority was to get my kids educated. Mm-hmm &lt;affirmative&gt;. Which they were not in segregation. Mm-hmm &lt;affirmative&gt;. They were, everything was, you know, leveled off. And, uh, that was my first priority. Well, at one point in my life, uh, I was in college right along with my kids. Oh, mm-hmm &lt;affirmative&gt;. I was, uh, I started at Santa Fe and I, I graduated from Santa Fe. I was in the first honors class there. And, um, then that rested for a while because they were coming on up and I had to give them, you know, the mo a lot of attention, which I, which they deserve. It was their turn. Mm-hmm &lt;affirmative&gt;. So I did that. But later, I, uh, started at the University of Florida. However, I was such a non-traditional student until I could not get the classes that I needed.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+				<ANNOTATION_VALUE>I was going to go into, um, uh, social, uh, work. Mm-hmm &lt;affirmative&gt;. And I had already, uh, the transfer had already been done for me coming from, um, Santa Fe in, and I was already accepted into the, uh, what is it? University? Yeah, university of Florida. Social. What? Say, uh, gosh, what is it? I can't even think of the name of it. But the, the dean over that department, he'd, he'd already, uh, approved it mm-hmm &lt;affirmative&gt;. And everything, but I didn't go then. So I started going, just taking a few classes, but I could not make it because, but I did good though. Mm-hmm &lt;affirmative&gt;. But I couldn't make it because, uh, I, they weren't offering the classes I needed at night because I would need to, you know mm-hmm &lt;affirmative&gt;. So I went to, uh, Nova Southeastern. There was a satellite over here at, um, off of 13th Street.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+				<ANNOTATION_VALUE>Mm-hmm &lt;affirmative&gt;. So I went there and I got a degree in a Bachelor of Science degree. I got Associate of Science at Santa Fe. And then I got a Bachelor of Science at Nova Southeastern in Business and Professional Management, &lt;laugh&gt; Uhhuh. And then later on, I became a school board member. In 1992, I ran, I had no idea that I was going to win or lose. I just knew that the experience I'd had with my children and that, that I had had with myself was, uh, would qualify me mm-hmm &lt;affirmative&gt;. To be a school, good school board member. So I ran in 92 and I won the very first time. Congratulations, &lt;laugh&gt;. Thank you. The, uh, first female, black female to be elected since reconstruction. I thought that was pretty good. Well, that's impressive.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
+				<ANNOTATION_VALUE>So then I, I did that. I did, you know, did all of that. And that's a lot of work also mm-hmm &lt;affirmative&gt;. Because it, uh, and I was never a teacher or anything like that, but I believe that I was not at a disadvantage because I wasn't a teacher, because everybody don't need to be teacher. Having had to be teachers on the school board, you need a variety. I came from business. Mm-hmm &lt;affirmative&gt;. And, um, my husband and I owned a, uh, little community store, little, uh, grocery store. We called Pit Stop, &lt;laugh&gt;, pit Stop Community Store. And, um, he was a barber. He was in with his, uh, grandfather's Uncle Lynn. And, uh, uh, another man was in there, so he ran a barber shop. But then he, uh, after the grandfather died and the uncle died, they kind of closed that down. He became a housing inspector for the City of Gainesville.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
+				<ANNOTATION_VALUE>So he, uh, developed lung cancer, and he, there was a lot of stress mm-hmm &lt;affirmative&gt;. So we closed the, the, uh, grocery store down, and he, he was fine. They went in, they found out that he had just a tiny little spot on his lung, and so they were able to take care of that and everything. And he did not have to receive blood, no, uh, radiation, no chemo or anything. And that was in 1982. And he's awesome today. That's awful. He gets his checkups every day. He's a survivor, &lt;laugh&gt;. And so then, um, but I'm still constantly doing my, and then my daughters graduated from high school. They all have college degrees. I have two that graduated from Florida a and m University, and one that graduated from Bethune Cookman College. And their rivals, of course, &lt;laugh&gt; can't talk about it around my house. And, um, so, uh, I did a, I I, I think that I did a lot of good on the school board.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
+				<ANNOTATION_VALUE>'cause I, I was elected in 1992. I got off on my own volition in 2004, and I was recruited to come back. So in 2008, I did, I ran again, never had been done before. The same person on two times. But I was recruited and I thought, well, I'm not doing anything. Anyway. So I tried to see what happened. So I did, and I won again, and here I am. Gosh, that's wonderful. Now, during that time, I, I did some, I championed some things. I, um, was appointed by Governor Laton Charles to the Healthy Kids Program. It, it still, I, they, I don't know. I don't think it's Healthy Kids way anymore. It is something else. I was appointed, uh, to the board of directors. So then after that, I came here and started the Healthy Kids Program here in Alua County because our kids were using the, um, emergency room as their primary source of care.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+				<ANNOTATION_VALUE>So, um, any kid that, uh, was not on, uh, Medicaid, they qualified for the healthy kids. The people who were very, very low socioeconomics had to pay nothing. Mm-hmm &lt;affirmative&gt;. The people who could pay something, they were on the sliding scale, but it was still not the amount it ha it had to do with their income mm-hmm &lt;affirmative&gt;. And so I did that. I was really proud of that. And, but when the state kind of changed the N Kid Care, I think they did. And you've never heard of that. We have, uh, very, very few that may be in a larger, under healthy kids at the school system, but we do have health, you know? Mm-hmm &lt;affirmative&gt;. The, the kids care around the, the, uh, allot County. So then I did chess. Uh, there was just a few, Mr. Pine, there was a man named George Pine that had started just some chess in maybe one or two schools.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
+				<ANNOTATION_VALUE>So I championed chess. I did a lot of research on it from New York, from this man in New York. I forgot his name, because it was a myth that black kids or low socioeconomic kids, period, but particularly blacks, kids could not, they didn't, they couldn't learn as well, so they couldn't play chess. Now, that was the myth that was going on at that time, particularly in New York and Harlem. Mm-hmm &lt;affirmative&gt;. But it was going around, you know, everywhere. And people just weren't interested in trying to see whether that was true or not. But this guy did. And, and Harlem, and found out that those kids excelled. Well, I initiated that and got us chess into the, to most of our afterschool programs and most of our schools that were interested. And so, and now chess is still going on. Let me see, what else did I champion?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+				<ANNOTATION_VALUE>Now there's a program, uh, in this district called the, uh, teacher Orientate, excuse me. It's an orientation program for new teachers. Mm-hmm &lt;affirmative&gt;. I champion that. It's still going on. It's, it's, it's very good. The teachers, we have gotten great, uh, reviews and responses on it, and it's a very good thing. People love it. It started out as being new teachers, but we wanted, I wanted it to, uh, be for veteran teachers too, but I felt like the, uh, new teachers needed it most. So we kind of geared it toward that because, uh, you know, they needed it most. So. But it's, it's a very good program. I'm proud of that. What else? &lt;laugh&gt; trying to find. Oh, uniforms. Oh, yeah. I champion uniforms. I tried to get 'em back in 1994. And, um, I had, you gotta have three. You gotta be able to count the three &lt;laugh&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
+				<ANNOTATION_VALUE>You gotta have three board members who think a lot. But I did at the time, I thought, but then some of them, when it got to the wire and they started getting criticisms, they changed their mind. Well, any, you know, I felt like it was worth, uh, just going to battle for, because it wasn't helping me. It was helping the kids to took all of the, uh, uh, um, competitiveness out of it. Mm-hmm &lt;affirmative&gt;. The, the, uh, peer driven fashion shows where the girls showing too much skin. The boys are coming down with that. And it, it is just a shame. Takes the focus away from learning and all that kind of thing. So that helped a lot. The very first day of school. Now we started that last year. Mm-hmm &lt;affirmative&gt;. The very first day of school. We had the superintendent and I, and, and some of our other staff. We traveled around to the schools, all the schools, and people were saying it's the best, uh, first year of school that they had seen in years. And so that turned out good. And it happened again this year. So, so there's</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
+				<ANNOTATION_VALUE>Uhhuh, &lt;affirmative&gt; we're still uniforms. We made a policy of it. And, and, uh, so we had that policy. Now, the first, uh, school district in the state of Florida to do that was Polk County. That was in the early nineties. Some, somewhere back then. Uh, and they were challenged. They were sued because a lot of the parents did not want the children to wear uniforms. And, uh, so they sued the par, they got together and they sued the school board. Well, the judge upheld for the school board because they said that the school board have the right to, uh, determine what they think is best for their school districts. Mm-hmm &lt;affirmative&gt;. So that I knew that case. So people were threatening me too, saying that they were gonna sue. But I knew that if they did that it would be upheld. 'cause it had already happened. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+				<ANNOTATION_VALUE>And so that was one of the things that three of us thought would be best. And so we, so we are doing that, and I'm happy about that. Those are three. Oh, and one other thing I'm really proud of is the fact that I was elected by my peers to become the, um, uh, the president of the Florida School Board Association. I was, uh, presiding over all of the 67 counties in the state of Florida. Oh, God. So I did that. That's a year. You do that for a year. I, uh, have been delegates to the, uh, delegate to the nationals for law, actually, if I had not left mm-hmm &lt;affirmative&gt;. I was being primed for the National School Board Association. I was, I would've surely been that president. Right. Uh, you know, but I left the board because there, there had been some turbulent times in the district. And, um, so I, I just was tired mm-hmm &lt;affirmative&gt;. And I wanted somebody else to come on and, and, and try to, you know, take over where I left off. However, I was asked to come back. So I tried it and I made it. And so here I am right now.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
+				<ANNOTATION_VALUE>The only thing that changed was, uh, that when I graduated, I graduated in a still segregated school. Yeah. I wasn't, I was never in an integrated school system until I went to college. Mm-hmm &lt;affirmative&gt;. But as far as high school, and from my elementary on up, I, it was always segregated. So I never experienced, uh, the changeover. Oh, okay. And when my kids went to school, they went to school in an integrated system. Mm-hmm &lt;affirmative&gt;. So they never experienced the segregated. So it's kind of like, I was, uh, kind of not, you know, but I understand the plight though of that, because that was, that was turbulent times. Also because some, just like all white people are not alike. All black people are not either mm-hmm &lt;affirmative&gt;. And, um, some of the white people didn't mind their children being, you know, uh, integrated school system. Some of them did the, and I think it was, and then some of the blacks didn't wanna do it either because they had their own school.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
+				<ANNOTATION_VALUE>They loved their school, they didn't have a problem or anything like that. But as it stood, the law was that the schools need to be integrated. And I think that was a good thing. And the reason, I think it was because we are all living on this earth. Why can't we, why does it have to be separated? Mm-hmm &lt;affirmative&gt;. I don't think it was ever meant to be, to start with, but all that came from slavery, plantation is, and all that kind of thing. So back then, when our grandparents and great grandparents and all those, they had no choice whether they were slaves or not. Mm-hmm &lt;affirmative&gt;. And, uh, the ones that tried to leave were probably shot and killed and pushed over boats and in the water. You know, there were so many different things that happened, which was not a good thing. And, um, but the, but that's history.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
+				<ANNOTATION_VALUE>Mm-hmm &lt;affirmative&gt;. History, you can't change. Some, some people have avoided it. You can, you might be able to omit it, but you cannot change it. It's there, it's etched and it's etched. It's stone &lt;laugh&gt;. Yeah. You know, so you can't change that. So, but it has, you know, so there's been an omission, like even in some of the history books mm-hmm &lt;affirmative&gt;. I think it would help black students a lot if they knew their real history and where they came from and how they got there. Mm-hmm &lt;affirmative&gt;. Because at the history, books don't really don't go through the detail of what really happened in, uh, in, in, in, uh, the slavery days and the, the, the segregation and all that. Black people really had, did a lot to contribute to history mm-hmm &lt;affirmative&gt;. But you, you, you'd have a hard time trying to find that in the history books. It should be there.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
+				<ANNOTATION_VALUE>So what, so what, uh, parents need to be about the business of, even to this day, is trying to bring your kids up, teach 'em at home. They don't have, they don't have to wait till they get to school to find out there's nothing in there about them. Mm-hmm &lt;affirmative&gt;. Teach 'em at home. And if you don't know it, make yourself available. You can go to the libraries and find all that out. There's really no excuse now for kids coming to school, not knowing anything about their history. Mm-hmm &lt;affirmative&gt;. And, um, not being prepared. It all goes back down to being prepared to come to school. Some of our kids are, and this is, this is not a black issue alone. Mm-hmm &lt;affirmative&gt;. This is low socioeconomics. Poverty is, plays a key role in what is happening to students of low socioeconomic groups. Mm-hmm &lt;affirmative&gt;. Because all black kids are not poor.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
+				<ANNOTATION_VALUE>And all white kids are not rich. It is a conglomerate of children. And there are a lot of these kids who come to school so unread to learn. And it's not their fault. Some of 'em are so drugged out when they get to school because of their parents. They couldn't learn nothing if their life depended on it. But if they, um, can, if some students can even learn their name in the run of a school term, that's a lot. Mm-hmm &lt;affirmative&gt;. Because a lot of times you ask the kids say, what is your mama? What's your mother's name? Mama. That's all they know. That's not their fault. It's their surroundings. And, uh, so a lot of them are being raised by their grandparents who are lucky to be able to put food on the table for these kids who give them shelter and try to put, uh, clothes on their back because it's coming from their little, uh, uh, uh, social security checks.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
+				<ANNOTATION_VALUE>Mm-hmm &lt;affirmative&gt;. So everybody in this world, in this nation, in this county is not doing well. We are not as bad off as a lot of people. And, but we are not that well off either. We've come a long way, but we still have a long way to go. But I'm, I'm, um, considering where I've come from and where I've been and where I am now, I don't worry about so much about what ha it, even though I'm affected by everything that happened in the past. I don't let that guide my life for the future mm-hmm &lt;affirmative&gt;. Because, um, I can't help what was, but I can help what is and what will be. So that's where I am right now. Um,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
+				<ANNOTATION_VALUE>My grandparents died, you know.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
+				<ANNOTATION_VALUE>Early on. Yeah.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts109">
+				<ANNOTATION_VALUE>Uh, I had a chance to meet them, but not to, to live around them so much. Mm-hmm &lt;affirmative&gt;. Yeah. But, uh, I had one that, um, probably lived longer than any other, my grandmother and Quincy mm-hmm &lt;affirmative&gt;. When, uh, she, she worked in the tobacco fields and she was a very proud woman. She, um, had very little education, but, uh, she was able to, uh, get along with young people or anybody. They loved her. They called her mama sis, &lt;laugh&gt; &lt;laugh&gt;. And she just believed, and when people come, they could be passing by, Hey, mama. Si. Hey, come on in and have something to eat. She wanna feed everybody &lt;laugh&gt;. But, uh, but, uh, and she was really, I learned a lot from her too, how to be, uh, gracious and how to have pride in what you had. And, and she liked to dress and wear her hats to church and all this kind of stuff. She was a very proud woman. But she died. She had a heart attack. She went to one of her prince's funeral. Mm-hmm &lt;affirmative&gt;. And, uh, she had a heart attack the very day of the after, right after she came back from the funeral, died right there. Oh,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
+				<ANNOTATION_VALUE>&lt;affirmative&gt;, &lt;laugh&gt;. But, uh, she, but, you know, and then my, uh, one grandfather lived in Milwaukee with Wisconsin for a while. He did. I wasn't raised up around him, but I knew him. Mm-hmm &lt;affirmative&gt;. And, um, the other died, you know, before my mother's mother, uh, died when she was 30 with a heart attack. So I didn't know her either.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
+				<ANNOTATION_VALUE>No, I don't. Except my, my grandma. Yeah. Yeah. That's all. I, I don't know really what they did. Okay.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
+				<ANNOTATION_VALUE>I feel so proud that he was elected president. I don't know what to do. &lt;laugh&gt;. I think he is a brilliant man. I think he is, um, uh, one among a lot of brilliant black men. Um, but I think for his position that he, he's well qualified for the job, and I think he inherited, um, a lot of problems that could not be solved in the four years that he was elected to office. Mm-hmm &lt;affirmative&gt;. Uh, the president before him, um, uh, did the best he could, I believe. Um, and, but it didn't help. It didn't help the problem that, uh, president Obama, uh, uh, uh, inherited. I, I, it's, it's politics are strange. It is because he's being blamed now for stuff that he had nothing to do with mm-hmm &lt;affirmative&gt;. And he's got a Congress who is not willing to help him to get things done that needs to be done.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
+				<ANNOTATION_VALUE>And he is a guy that wants to be inclusive and expects things to just go smoothly for the sake of the country, not for his sake. Mm-hmm &lt;affirmative&gt;. But for the sake of this country. But you have got some people who are so ga against him to start with, would rather see the country come to its knees than to stand up and help this man try to get everything back on track. Mm-hmm &lt;affirmative&gt;. So that's the way I, I see that. But I'm supportive of him. I, I could not, I was so happy to see him being the first black, even though he's, uh, uh, uh, you know, he's got he mixed parentage and all that. It, it, it's okay. That, that's fine. Mm-hmm &lt;affirmative&gt;. He's got the one black one drop syndrome, which qualifies him as being black &lt;laugh&gt; &lt;laugh&gt;. That so far the history book says &lt;laugh&gt;. But, uh, so that, you know, so that's how that goes. But I am proud of him, and hopefully he will, um, overcome this. But it's hard because he's not used to having people, you know, in a position like the Congress is. And they're all against him, and they're expecting him to do miracles that nobody did. They expect him to walk on water without insulting the environmentalists. Mm-hmm &lt;affirmative&gt;. And, and, uh, you know, so it's, he's got a long road to hold, but I think he'll probably pull it off. And so, but, but, uh, I'm proud of him.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+				<ANNOTATION_VALUE>To Yeah, I'm gonna run again. Mm-hmm &lt;affirmative&gt;. My term, this four year term will be up this November. However, I have to qualify. The qualifying date is June of 2012, and the primary is August 8th, I believe it is this year. Okay. So I am going to run, I have not launched a full fledged campaign yet because I'm trying to collect signatures mm-hmm &lt;affirmative&gt;. And, uh, to keep from having to pay that money because that my, it's a lot. And I, so I'll be doing that, but I am gonna run. Okay. Mm-hmm</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
+				<ANNOTATION_VALUE>Uh, let me see. What can I think of? I'm trying to remember. I said chess,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
+				<ANNOTATION_VALUE>Um,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
+				<ANNOTATION_VALUE>I don't know. I just, I know I've seen a lot of changes though mm-hmm &lt;affirmative&gt;. And this, because, um, some people think that just being on the school board is an easy job, but it is not, it's not easy for the staff. It is not easy for the board. It is not easy for the superintendent and or his assistant, because everybody is focused on what they're doing. And we are, and I'm not, I'm, I am bragging about this. Mm-hmm &lt;affirmative&gt;. We have been, as far as I, I know for the longest time, uh, been, I know ever since I've been on the board, we have been way up there. And, uh, and been, uh, if not the best, next to the best. I, I think we are the best, uh, school district in the state of Florida. We are way ahead. We've always been forward thinkers. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
+				<ANNOTATION_VALUE>We've always, uh, managed to, uh, some kind of way not have to cut programs from our students programs and not have to lay people off like a lot of the other districts did. We've always tried to do our very best to stay. Uh, and we've, we have things thrown at us every year because every time the, the, um, the, the, um, legislature meets mm-hmm &lt;affirmative&gt;. You, you, you have new legislators. They come with their ideas. You have the one that's been on, you know, and they have their ideas too. But it seems like to me it's getting more and more some kind of, um, I don't wanna call it animosity, but it's more, uh, of a, um, challenge for school boards now to even stay afloat. It appears to me like public schools are not in some people's estimation as, uh, important as they, it used to be.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
+				<ANNOTATION_VALUE>Even though the public schools have to try to educate every child that walks through our doors. Mm-hmm &lt;affirmative&gt;. It seems like there are those who want to believe that. Um, we have charter schools, which are better than the public schools. Uh, we have private schools which they think are better. Uh, they think the parochial, but the thing is with that is we have to try to educate everybody. They don't mm-hmm &lt;affirmative&gt;. They can be selective. We can't, if we could be selective who's not going to go and try to get the best of every, the cream of the crop mm-hmm &lt;affirmative&gt;. We would too, probably. But we, that's not us. We are the public schools. And a lot of the legislators, a lot of the presidents, a lot of the congressmen, they went to public school. So what is it about public school suddenly mm-hmm &lt;affirmative&gt;. That is, uh, they're saying that it's not up to par and all that kind of thing.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
+				<ANNOTATION_VALUE>I do not, excuse me, Mrs. Sharp, it's 10 off. Okay. Thank you so much. Thank you. And, uh, so I don't agree with that, but I do think there is a way for us to work together mm-hmm &lt;affirmative&gt;. And that way is not for the school board to be belligerent with the, uh, legislature, but to just line out our strategies and what we think ought to be helpful from them. Mm-hmm &lt;affirmative&gt;. But when you have people who, uh, jump up and down shouting at the legislature or telling them what they're doing, this and that other, probably they're gonna go the other way. Because I don't like it when people shout at me and tell me that I don't know what I'm doing or, you know, and stuff like that. You, you need to know what you're talking about. Mm-hmm &lt;affirmative&gt;. You know what I mean? And so, um, I I, I, hopefully that will get better.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
+				<ANNOTATION_VALUE>Mm-hmm &lt;affirmative&gt;. And we'll be able to work together. Because I have seen when, uh, public schools edu uh, public schools, the education in public schools was on the front burner. Mm-hmm &lt;affirmative&gt;. But it's not even on the stove anymore. And it's getting to be it the universities are, or they're being targeted now too. So I don't think it's a good thing. I think that, um, we need to still have our children coming up and the PE that the students at the universities coming up so that they can contribute to society also. But what I would like to see is them stop putting all this stuff on us that these kids are not going to use. Make it, uh, relevant. Mm-hmm &lt;affirmative&gt;. Education needs to be relevant. Why would I make somebody that is not even going to school? Why, why would I want them to have geometry or whatever else?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
+				<ANNOTATION_VALUE>I see them having math, arithmetic, the basic, you know, stuff like that. But all this stuff that they're not going to need to have in their fields. Mm-hmm &lt;affirmative&gt;. Let it be geared toward what they need and not just have something just to throw it up there saying that they, they, they're going to use it. Because nine times outta 10, what it causes kids to do is when they start overburdening them, them with all that stuff, they drop out mm-hmm &lt;affirmative&gt;. And then they wonder why the dropout rate is so high. It's high because you're not gearing it toward what they need. We need vocation. 'cause a lot of kids are not going to go to college. They don't wanna go anyway. And they're not going. So that promotes drug is because it's lucrative. And if these kids don't, uh, if they, they get out there on the streets and they see where they can make a, a lot of money, they're gonna do it.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
+				<ANNOTATION_VALUE>And a lot of the parents are not gonna ask them when they bring it in. Mm-hmm &lt;affirmative&gt;. Where is it coming from? Because they need another meal on the table. So we've got all those things we need to work and together in doing and stop blaming the schools for these children. Not learning, blame these parents. It's up to these parents to get these kids ready to go to school. Mm-hmm &lt;affirmative&gt;. They need to be ready when they come to us, because when they're not, the teachers have to focus on those few who are disturbed mentally by no fault of their own. But then the others who are ready gets kind of, you know, they kind of like caught in the middle here. So there's, we are not perfect, but, but we are doing a lot for these children, and I'm tired of people blaming us and I'm, and, and they need to be put in the blame.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
+				<ANNOTATION_VALUE>They got mad at, uh, bill Cosby because he was saying this blame needs to go on these parents. I'm, I'm with him 100%. Mm-hmm &lt;affirmative&gt;. Because I think that's what needs to be do. Now we've got, um, uh, uh, uh, one of our assistant superintendents here that writes articles. He writes fantastic articles, and he's telling these people what they need to do. As a matter of fact, we are using his conference room right now. His name is, uh, Phil Wright. And, um, he is very good at, at, at writing these articles, telling these people what they need to do. Stop blaming everybody. These are your kids. Stop being a sperm receptacle and stop being a sperm donor. And if you are, take care of your children. You know what I mean? So much for that. Kelly, it's nice to meet you. Thank you so much for your time, &lt;laugh&gt;. Okay. And if you, if you know, if you think of something else, you need me, call me. I'll, okay. Talk. Thank you so much. You are welcome.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<TIER TIER_ID="Speaker 2" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
+				<ANNOTATION_VALUE>I said healthy kids. I said about the, the, um, teacher's orientation. I said about the Florida School Board Association President.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" GRAPHIC_REFERENCES="false" />
+	<CONSTRAINT STEREOTYPE="Time_Subdivision" DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Subdivision" DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Association" DESCRIPTION="1-1 association with a parent annotation" />
+	<CONSTRAINT STEREOTYPE="Included_In" DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" />
+	</ANNOTATION_DOCUMENT>
