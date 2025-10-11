@@ -25,13 +25,13 @@ export function Header() {
           </Link>
         </div>
         <div id="navLinks">
-          <NavLink to="/search">
+          <NavLink to="/search"className="disabled-link">
             <TranslatableText dictionary={navBarSearchText} />
           </NavLink>
           <NavLink to="/about">
             <TranslatableText dictionary={navBarAboutText} />
           </NavLink>
-          <NavLink to="/glossary">
+          <NavLink to="/glossary" className="disabled-link">
             <TranslatableText dictionary={navBarGlossaryText} />
           </NavLink>
           <NavLink to="/index">

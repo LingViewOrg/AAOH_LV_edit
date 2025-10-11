@@ -1018,5 +1018,127 @@
         "tier": "Speaker 1"
       }
     }
+  },
+  "543eb3ae-044e-49bc-b89a-916065a4555b": {
+    "timed": false,
+    "story ID": "543eb3ae-044e-49bc-b89a-916065a4555b",
+    "title": {
+      "_default": "AAHP_353_Jackson_Ryan_Hills_2-26-2008"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/11/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP_353_Jackson_Ryan_Hills_2-26-2008.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      },
+      "Speaker 3": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 1"
+      },
+      "S3": {
+        "tier": "Speaker 2"
+      },
+      "S4": {
+        "tier": "Speaker 3"
+      }
+    }
+  },
+  "08211eff-19bc-4d3d-9a67-b27a175ca2ad": {
+    "timed": true,
+    "story ID": "08211eff-19bc-4d3d-9a67-b27a175ca2ad",
+    "title": {
+      "_default": "AAHP_327_Charles_Bryant_4-25-2014"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=QzFCXT58yBk"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/11/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP_327_Charles_Bryant_4-25-2014.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      },
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 3": {
+        "subdivided": false
+      },
+      "Speaker 5": {
+        "subdivided": false
+      },
+      "Speaker 6": {
+        "subdivided": false
+      },
+      "Speaker 7": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 1"
+      },
+      "S2": {
+        "tier": "Speaker 2"
+      },
+      "S3": {
+        "tier": "Speaker 0"
+      },
+      "S4": {
+        "tier": "Speaker 3"
+      },
+      "S5": {
+        "tier": "Speaker 5"
+      },
+      "S6": {
+        "tier": "Speaker 6"
+      },
+      "S7": {
+        "tier": "Speaker 7"
+      }
+    }
   }
 }
