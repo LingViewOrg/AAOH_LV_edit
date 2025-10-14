@@ -1,0 +1,1034 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="pympi" DATE="2025-10-13T21:08:00-04:00" VERSION="2.8" FORMAT="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+	<HEADER>
+		<MEDIA_DESCRIPTOR MEDIA_URL="C:/Users/mattf/Dropbox/Website Team/AAHP_415_Eugene_Martin_Lingview/AAHP_415_Eugene_Martin_6-24-2016wav.wav" MIME_TYPE="audio/wav" />
+		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
+		<PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ba2a314b-b3a9-4f79-afa9-d8fb2741843d</PROPERTY></HEADER>
+	<TIME_ORDER>
+		<TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0" />
+		<TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="21000" />
+		<TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="21000" />
+		<TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="23000" />
+		<TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="23000" />
+		<TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="33000" />
+		<TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="33000" />
+		<TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="34000" />
+		<TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="34000" />
+		<TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="44000" />
+		<TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="44000" />
+		<TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="77000" />
+		<TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="77000" />
+		<TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="85000" />
+		<TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="85000" />
+		<TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="109000" />
+		<TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="109000" />
+		<TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="112000" />
+		<TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="112000" />
+		<TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="117000" />
+		<TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="117000" />
+		<TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="120000" />
+		<TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="120000" />
+		<TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="121000" />
+		<TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="121000" />
+		<TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="124000" />
+		<TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="124000" />
+		<TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="127000" />
+		<TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="127000" />
+		<TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="129000" />
+		<TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="129000" />
+		<TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="130000" />
+		<TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="130000" />
+		<TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="133000" />
+		<TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="133000" />
+		<TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="148000" />
+		<TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="148000" />
+		<TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="156000" />
+		<TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="156000" />
+		<TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="157000" />
+		<TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="157000" />
+		<TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="159000" />
+		<TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="159000" />
+		<TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="161000" />
+		<TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="161000" />
+		<TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="166000" />
+		<TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="166000" />
+		<TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="171000" />
+		<TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="171000" />
+		<TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="189000" />
+		<TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="189000" />
+		<TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="204000" />
+		<TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="204000" />
+		<TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="237000" />
+		<TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="237000" />
+		<TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="247000" />
+		<TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="247000" />
+		<TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="266000" />
+		<TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="266000" />
+		<TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="272000" />
+		<TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="272000" />
+		<TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="273000" />
+		<TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="273000" />
+		<TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="274000" />
+		<TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="274000" />
+		<TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="276000" />
+		<TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="276000" />
+		<TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="291000" />
+		<TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="291000" />
+		<TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="314000" />
+		<TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="314000" />
+		<TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="321000" />
+		<TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="321000" />
+		<TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="342000" />
+		<TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="342000" />
+		<TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="348000" />
+		<TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="348000" />
+		<TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="396000" />
+		<TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="396000" />
+		<TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="403000" />
+		<TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="403000" />
+		<TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="463000" />
+		<TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="463000" />
+		<TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="487000" />
+		<TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="487000" />
+		<TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="512000" />
+		<TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="512000" />
+		<TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="533000" />
+		<TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="533000" />
+		<TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="585000" />
+		<TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="585000" />
+		<TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="589000" />
+		<TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="589000" />
+		<TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="620000" />
+		<TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="620000" />
+		<TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="633000" />
+		<TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="633000" />
+		<TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="635000" />
+		<TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="635000" />
+		<TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="643000" />
+		<TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="643000" />
+		<TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="693000" />
+		<TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="693000" />
+		<TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="695000" />
+		<TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="695000" />
+		<TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="698000" />
+		<TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="698000" />
+		<TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="709000" />
+		<TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="709000" />
+		<TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="741000" />
+		<TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="741000" />
+		<TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="753000" />
+		<TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="753000" />
+		<TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="780000" />
+		<TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="780000" />
+		<TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="782000" />
+		<TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="782000" />
+		<TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="786000" />
+		<TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="786000" />
+		<TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="795000" />
+		<TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="795000" />
+		<TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="815000" />
+		<TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="815000" />
+		<TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="817000" />
+		<TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="817000" />
+		<TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="842000" />
+		<TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="842000" />
+		<TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="865000" />
+		<TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="865000" />
+		<TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="904000" />
+		<TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="904000" />
+		<TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="914000" />
+		<TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="914000" />
+		<TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="959000" />
+		<TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="959000" />
+		<TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="970000" />
+		<TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="970000" />
+		<TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="994000" />
+		<TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="994000" />
+		<TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="1000000" />
+		<TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="1000000" />
+		<TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="1023000" />
+		<TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="1023000" />
+		<TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="1030000" />
+		<TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="1030000" />
+		<TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="1092000" />
+		<TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="1092000" />
+		<TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="1095000" />
+		<TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="1095000" />
+		<TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="1105000" />
+		<TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="1105000" />
+		<TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="1126000" />
+		<TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="1126000" />
+		<TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="1129000" />
+		<TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="1129000" />
+		<TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="1131000" />
+		<TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="1131000" />
+		<TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="1134000" />
+		<TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="1134000" />
+		<TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="1140000" />
+		<TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="1140000" />
+		<TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="1154000" />
+		<TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="1154000" />
+		<TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="1157000" />
+		<TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="1157000" />
+		<TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="1161000" />
+		<TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="1161000" />
+		<TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="1168000" />
+		<TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="1168000" />
+		<TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="1198000" />
+		<TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="1198000" />
+		<TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="1202000" />
+		<TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="1202000" />
+		<TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="1209000" />
+		<TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="1209000" />
+		<TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="1211000" />
+		<TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="1211000" />
+		<TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="1213000" />
+		<TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="1213000" />
+		<TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="1218000" />
+		<TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="1218000" />
+		<TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="1230000" />
+		<TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="1230000" />
+		<TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="1232000" />
+		<TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="1232000" />
+		<TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="1240000" />
+		<TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="1240000" />
+		<TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="1242000" />
+		<TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="1242000" />
+		<TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="1244000" />
+		<TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="1244000" />
+		<TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="1251000" />
+		<TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="1251000" />
+		<TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="1269000" />
+		<TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="1269000" />
+		<TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="1271000" />
+		<TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="1271000" />
+		<TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="1293000" />
+		<TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="1293000" />
+		<TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="1298000" />
+		<TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="1298000" />
+		<TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="1302000" />
+		<TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="1302000" />
+		<TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="1306000" />
+		<TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="1306000" />
+		<TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="1307000" />
+		<TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="1307000" />
+		<TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="1311000" />
+		<TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="1311000" />
+		<TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="1317000" />
+		<TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="1317000" />
+		<TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="1353000" />
+		<TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="1353000" />
+		<TIME_SLOT TIME_SLOT_ID="ts215" TIME_VALUE="1364000" />
+		<TIME_SLOT TIME_SLOT_ID="ts216" TIME_VALUE="1364000" />
+		<TIME_SLOT TIME_SLOT_ID="ts217" TIME_VALUE="1376000" />
+		<TIME_SLOT TIME_SLOT_ID="ts218" TIME_VALUE="1376000" />
+		<TIME_SLOT TIME_SLOT_ID="ts219" TIME_VALUE="1378000" />
+		<TIME_SLOT TIME_SLOT_ID="ts220" TIME_VALUE="1378000" />
+		<TIME_SLOT TIME_SLOT_ID="ts221" TIME_VALUE="1396000" />
+		<TIME_SLOT TIME_SLOT_ID="ts222" TIME_VALUE="1396000" />
+		<TIME_SLOT TIME_SLOT_ID="ts223" TIME_VALUE="1399000" />
+		<TIME_SLOT TIME_SLOT_ID="ts224" TIME_VALUE="1399000" />
+		<TIME_SLOT TIME_SLOT_ID="ts225" TIME_VALUE="1401000" />
+		<TIME_SLOT TIME_SLOT_ID="ts226" TIME_VALUE="1401000" />
+		<TIME_SLOT TIME_SLOT_ID="ts227" TIME_VALUE="1406000" />
+		<TIME_SLOT TIME_SLOT_ID="ts228" TIME_VALUE="1406000" />
+		<TIME_SLOT TIME_SLOT_ID="ts229" TIME_VALUE="1431000" />
+		<TIME_SLOT TIME_SLOT_ID="ts230" TIME_VALUE="1431000" />
+		<TIME_SLOT TIME_SLOT_ID="ts231" TIME_VALUE="1438000" />
+		<TIME_SLOT TIME_SLOT_ID="ts232" TIME_VALUE="1438000" />
+		<TIME_SLOT TIME_SLOT_ID="ts233" TIME_VALUE="1442000" />
+		<TIME_SLOT TIME_SLOT_ID="ts234" TIME_VALUE="1442000" />
+		<TIME_SLOT TIME_SLOT_ID="ts235" TIME_VALUE="1444000" />
+		<TIME_SLOT TIME_SLOT_ID="ts236" TIME_VALUE="1444000" />
+		<TIME_SLOT TIME_SLOT_ID="ts237" TIME_VALUE="1461000" />
+		<TIME_SLOT TIME_SLOT_ID="ts238" TIME_VALUE="1461000" />
+		<TIME_SLOT TIME_SLOT_ID="ts239" TIME_VALUE="1486000" />
+		<TIME_SLOT TIME_SLOT_ID="ts240" TIME_VALUE="1486000" />
+		<TIME_SLOT TIME_SLOT_ID="ts241" TIME_VALUE="1491000" />
+		<TIME_SLOT TIME_SLOT_ID="ts242" TIME_VALUE="1491000" />
+		<TIME_SLOT TIME_SLOT_ID="ts243" TIME_VALUE="1501000" />
+		<TIME_SLOT TIME_SLOT_ID="ts244" TIME_VALUE="1501000" />
+		<TIME_SLOT TIME_SLOT_ID="ts245" TIME_VALUE="1507000" />
+		<TIME_SLOT TIME_SLOT_ID="ts246" TIME_VALUE="1507000" />
+		<TIME_SLOT TIME_SLOT_ID="ts247" TIME_VALUE="1529000" />
+		<TIME_SLOT TIME_SLOT_ID="ts248" TIME_VALUE="1529000" />
+		<TIME_SLOT TIME_SLOT_ID="ts249" TIME_VALUE="1545000" />
+		<TIME_SLOT TIME_SLOT_ID="ts250" TIME_VALUE="1545000" />
+		<TIME_SLOT TIME_SLOT_ID="ts251" TIME_VALUE="1588000" />
+		<TIME_SLOT TIME_SLOT_ID="ts252" TIME_VALUE="1588000" />
+		<TIME_SLOT TIME_SLOT_ID="ts253" TIME_VALUE="1596000" />
+		<TIME_SLOT TIME_SLOT_ID="ts254" TIME_VALUE="1596000" />
+		<TIME_SLOT TIME_SLOT_ID="ts255" TIME_VALUE="1607000" />
+		<TIME_SLOT TIME_SLOT_ID="ts256" TIME_VALUE="1607000" />
+		<TIME_SLOT TIME_SLOT_ID="ts257" TIME_VALUE="1612000" />
+		<TIME_SLOT TIME_SLOT_ID="ts258" TIME_VALUE="1612000" />
+		<TIME_SLOT TIME_SLOT_ID="ts259" TIME_VALUE="1649000" />
+		<TIME_SLOT TIME_SLOT_ID="ts260" TIME_VALUE="1649000" />
+		<TIME_SLOT TIME_SLOT_ID="ts261" TIME_VALUE="1652000" />
+		<TIME_SLOT TIME_SLOT_ID="ts262" TIME_VALUE="1652000" />
+		<TIME_SLOT TIME_SLOT_ID="ts263" TIME_VALUE="1745000" />
+		<TIME_SLOT TIME_SLOT_ID="ts264" TIME_VALUE="1745000" />
+		<TIME_SLOT TIME_SLOT_ID="ts265" TIME_VALUE="1758000" />
+		<TIME_SLOT TIME_SLOT_ID="ts266" TIME_VALUE="1758000" />
+		<TIME_SLOT TIME_SLOT_ID="ts267" TIME_VALUE="1816000" />
+		<TIME_SLOT TIME_SLOT_ID="ts268" TIME_VALUE="1816000" />
+		<TIME_SLOT TIME_SLOT_ID="ts269" TIME_VALUE="1830000" />
+		<TIME_SLOT TIME_SLOT_ID="ts270" TIME_VALUE="1830000" />
+		<TIME_SLOT TIME_SLOT_ID="ts271" TIME_VALUE="1860000" />
+		<TIME_SLOT TIME_SLOT_ID="ts272" TIME_VALUE="1860000" />
+		<TIME_SLOT TIME_SLOT_ID="ts273" TIME_VALUE="1861000" />
+		<TIME_SLOT TIME_SLOT_ID="ts274" TIME_VALUE="1861000" />
+		<TIME_SLOT TIME_SLOT_ID="ts275" TIME_VALUE="1866000" />
+		<TIME_SLOT TIME_SLOT_ID="ts276" TIME_VALUE="1866000" />
+		<TIME_SLOT TIME_SLOT_ID="ts277" TIME_VALUE="1873000" />
+		<TIME_SLOT TIME_SLOT_ID="ts278" TIME_VALUE="1873000" />
+		<TIME_SLOT TIME_SLOT_ID="ts279" TIME_VALUE="1912000" />
+		<TIME_SLOT TIME_SLOT_ID="ts280" TIME_VALUE="1912000" />
+		<TIME_SLOT TIME_SLOT_ID="ts281" TIME_VALUE="1939000" />
+		<TIME_SLOT TIME_SLOT_ID="ts282" TIME_VALUE="1939000" />
+		<TIME_SLOT TIME_SLOT_ID="ts283" TIME_VALUE="2025000" />
+		<TIME_SLOT TIME_SLOT_ID="ts284" TIME_VALUE="2025000" />
+		<TIME_SLOT TIME_SLOT_ID="ts285" TIME_VALUE="2028000" />
+		<TIME_SLOT TIME_SLOT_ID="ts286" TIME_VALUE="2028000" />
+		<TIME_SLOT TIME_SLOT_ID="ts287" TIME_VALUE="2077000" />
+		<TIME_SLOT TIME_SLOT_ID="ts288" TIME_VALUE="2077000" />
+		<TIME_SLOT TIME_SLOT_ID="ts289" TIME_VALUE="2093000" />
+		<TIME_SLOT TIME_SLOT_ID="ts290" TIME_VALUE="2093000" />
+		<TIME_SLOT TIME_SLOT_ID="ts291" TIME_VALUE="2096000" />
+		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
+	<TIER TIER_ID="Speaker 0" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+				<ANNOTATION_VALUE>This is Marna Wesson for the Sam Proctor Program at the University of Florida on June 24th, 2016. I'm speaking to Mr. Eugene Martin, who is a graduate of Douglas High School in High Springs, Florida. Our interview was taking place at the Civic Center in High Springs, Florida at approximately 7:00 PM Um, yes, sir.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+				<ANNOTATION_VALUE>Attendee. Pardon me? 'cause So attendee, the chair stands correct. And, and we'll get more information on exactly how his relations go. That's why we do these interviews. Right. But thank you for agreeing to the interview, sir.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+				<ANNOTATION_VALUE>Um, now you were able to offer a course correction about you didn't graduate from Douglas High School, but you attended it. Exactly. Could you tell me what that means to you and what is the difference?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+				<ANNOTATION_VALUE>&lt;affirmative&gt;. Where was your, uh, primary education before you went to high school and middle school? Where, where did you first begin your formalized education?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+				<ANNOTATION_VALUE>The school that you went to in Moultrie, did it have a name?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+				<ANNOTATION_VALUE>Was it a, uh, was it a two room schoolhouse?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+				<ANNOTATION_VALUE>Okay. So first to fourth grade and then fifth to eighth, the other part or?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+				<ANNOTATION_VALUE>Was the principal?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+				<ANNOTATION_VALUE>Uh, your favorite teacher there?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+				<ANNOTATION_VALUE>Is there anything in particular you remember about Mrs. Wise or how she taught that made school enjoyable for you or interesting for you?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
+				<ANNOTATION_VALUE>Uh, do you recall who your best friend in school was?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+				<ANNOTATION_VALUE>Okay. So we've come to 1947 to High Springs. Mm-hmm</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+				<ANNOTATION_VALUE>What was High Springs like for you in 1947?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+				<ANNOTATION_VALUE>Were you, um, really grounded in the community in Moultrie, you know, with church and activities? Was it hard to pull up and come here? Or was it, was it, was it an adventure? Was it something new? How, how did your parents frame that move from Moultrie to High Springs, Florida for you?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
+				<ANNOTATION_VALUE>Now, how about the middle school part of it? From the primary to the secondary? Was there something in between or had you finished enough in Moultrie to where you were going right into high school?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+				<ANNOTATION_VALUE>So Douglas was a, all the way from the beginning to the end school. We went to the same school.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+				<ANNOTATION_VALUE>Okay. So</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
+				<ANNOTATION_VALUE>&lt;affirmative&gt;. So what was, what was Douglas like for you when you first got here? You'd come from Moultrie, Georgia, you came to, um, a better life. You came to a place with more people out of the rural area. Mm-hmm &lt;affirmative&gt;. Uh, was it easy for you to adapt and make friends? Uh,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts73">
+				<ANNOTATION_VALUE>Mm-hmm &lt;affirmative&gt;. You're saying that, Mike, that's not something that exists right now. Do you have a, a comment about the difference in schools? &lt;laugh&gt;? It</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+				<ANNOTATION_VALUE>Did you feel that the teachers, in a way were an extension of your family? Where they kind of like, as a, as a mentor person you could trust?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
+				<ANNOTATION_VALUE>Why do you think that that has been lost? 'cause you seem to be saying that it's lost now, but why has that changed?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts85">
+				<ANNOTATION_VALUE>So less communication between the parent and the, and the teacher. Exactly. Do you think that some of that is also maybe cultural, uh, in a way, the fact when you went to school, it was a segregated school. The teachers were, were black, parents were black. It was a community where everybody knew each other. Do you think that that has made a difference in, in what you're saying is missing? Or is it more just the money?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
+				<ANNOTATION_VALUE>Right. Do you think that was more appropriate just for that time, um, you know, with the country being what it was, you know, that there were Jim Crow laws and there was the facto segregation, or do you think more even today, um, in a more, a diverse, multi plural society that some of that might apply in some ways, under some circumstance?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts93">
+				<ANNOTATION_VALUE>Why do you think it's harder to teach kids these days?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
+				<ANNOTATION_VALUE>All. Well, now that is a difference in the schools today. In fact, uh, teachers are probably encouraged to let that type of training remain at home as opposed to the school offer it. There's no prayer in the morning, for example, at school.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
+				<ANNOTATION_VALUE>Uh, and even the pledge to the flag is kind of, you know, it's kind of perfunctory when kids do it, but That's right. Um, it was different when you were growing up. Sure.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts105">
+				<ANNOTATION_VALUE>Now, this was a public school you went to it, was it a private school?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts109">
+				<ANNOTATION_VALUE>Do you think that today's schools could benefit from more, um, religious centered education in the public schools?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
+				<ANNOTATION_VALUE>You seem to be describing, um, activities, behavior, mentorship on behalf of the teachers, the community, the parents, to develop leaders in the future. What is your definition of leadership?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts117">
+				<ANNOTATION_VALUE>Preach. So you think kids watch that? Oh,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts120" TIME_SLOT_REF2="ts121">
+				<ANNOTATION_VALUE>Could you give a couple of examples of leadership training that you received at Douglas High School? Ways that you were helped to develop your leadership?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+				<ANNOTATION_VALUE>What was your coach's name?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts129">
+				<ANNOTATION_VALUE>And that seems to be, um, the script to be completely flipped from what we see today with Twitter and social media. Kids are more individually oriented first, and then the team comes along. That's good. But you look like LeBron James. You look at the NFL, it's all about trying to market yourself first. Right. Even though you're on a team as opposed to the team first. Why do you think that's changed? Or first, do you agree?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts133">
+				<ANNOTATION_VALUE>So how did going to Douglas High School protect you from being able to follow that same kind of thing? I'm assuming you feel you've left your life differently and those things that happened. So,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts137">
+				<ANNOTATION_VALUE>Can you, uh, give some examples of ways that she was able to bring this, uh, desire to the students to teach themselves while she, at the same time you're monitored. How was she able to do that?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
+				<ANNOTATION_VALUE>What subject did she teach or did teach? History. History. History. &lt;laugh&gt;. So I assume you're, you're a lover of history today. Oh,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts145">
+				<ANNOTATION_VALUE>Were there any other teachers that, uh, had a similar impact? I know you said they were all, uh, could you mention a couple of them?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts149">
+				<ANNOTATION_VALUE>Um, do you recall the principal?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts153">
+				<ANNOTATION_VALUE>Now. That's amazing to hear about that. Uh, especially that time because it's come to my attention that the state of Florida, um, at one point in time offered money to black, uh, graduate students to leave Florida and go to other places. Uh, was your principal, Mr. Green, was he originally from Florida and he went to Michigan State and then came back? Or was the actual sports?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts157">
+				<ANNOTATION_VALUE>But did he do his undergraduate in the state of Florida?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts161">
+				<ANNOTATION_VALUE>Some of the activities you did in high school, uh, you mentioned sports, basketball, uh, which sports</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts165">
+				<ANNOTATION_VALUE>Is that your favorite? Football? Yeah, football. My favorite. What positions did you play?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts169">
+				<ANNOTATION_VALUE>&lt;affirmative&gt;. Was the game similar to what we see today with the, a lot of forward passing, or was it more No. Behind the scenes. Hide the ball.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts173">
+				<ANNOTATION_VALUE>What kind of team did you have?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts176" TIME_SLOT_REF2="ts177">
+				<ANNOTATION_VALUE>&lt;affirmative&gt;. So like a five in five season three</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts180" TIME_SLOT_REF2="ts181">
+				<ANNOTATION_VALUE>Right. Besides athletics, uh, what other activities were you involved in at</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts185">
+				<ANNOTATION_VALUE>What instruments did you play in the band?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts188" TIME_SLOT_REF2="ts189">
+				<ANNOTATION_VALUE>Right. All the percussion or just the drums?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts193">
+				<ANNOTATION_VALUE>&lt;affirmative&gt;. And what about, you mentioned drama, uh, you played some lead roles or,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts196" TIME_SLOT_REF2="ts197">
+				<ANNOTATION_VALUE>Yeah. Student government.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts200" TIME_SLOT_REF2="ts201">
+				<ANNOTATION_VALUE>Telling you. So there's a strong connection for you with both Douglas and Mabank? Oh, yes.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts202" TIME_SLOT_REF2="ts203">
+				<ANNOTATION_VALUE>Yes. So how long were you at Douglas?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts206" TIME_SLOT_REF2="ts207">
+				<ANNOTATION_VALUE>And talk a little bit, oh, go ahead. I'm</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts210" TIME_SLOT_REF2="ts211">
+				<ANNOTATION_VALUE>Can you talk about your last year at Douglas? What was that like?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts214" TIME_SLOT_REF2="ts215">
+				<ANNOTATION_VALUE>Was there any kind of preparation for the fact that you wouldn't be going to Douglas anymore? You wouldn't be going to maba? Was that talked about or just, uh, over the summer when you came back, they said, okay, now you're gonna MABA no more Douglas.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts219">
+				<ANNOTATION_VALUE>Mean? When you say rumored? Um, we</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts222" TIME_SLOT_REF2="ts223">
+				<ANNOTATION_VALUE>Did the teachers come with you as well?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts226" TIME_SLOT_REF2="ts227">
+				<ANNOTATION_VALUE>Okay. What happened to those teachers that didn't come with and were they prepared for that? Or, I mean, I know you were still a child, but,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts230" TIME_SLOT_REF2="ts231">
+				<ANNOTATION_VALUE>So you were moved from your community. I mean, a lot was close, but it's not necessarily walking close. No, not comfortably walking. It's what, seven eight miles. Seven</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a118" TIME_SLOT_REF1="ts234" TIME_SLOT_REF2="ts235">
+				<ANNOTATION_VALUE>What was that like? Who was the bus driver and what was it like?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts240" TIME_SLOT_REF2="ts241">
+				<ANNOTATION_VALUE>&lt;affirmative&gt;. Yeah. Do you recall where the bus picked you up and where it dropped you off?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts244" TIME_SLOT_REF2="ts245">
+				<ANNOTATION_VALUE>Mm-hmm &lt;affirmative&gt;. So what happened with Douglas when it closed? Did it become a different kind of school? Did it it stop being a school? Yes. It came middle school. A middle school?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts248" TIME_SLOT_REF2="ts249">
+				<ANNOTATION_VALUE>And, uh, when you got to Ma Bain, could you tell there was a difference in what existed at Douglas right away? Or was it something that, you know, eventually you came to love? Or was it just so very different in the beginning? There was a little resistance or,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts252" TIME_SLOT_REF2="ts253">
+				<ANNOTATION_VALUE>Coming from the one school into the new one, did you have problems in athletics or leadership or, you know, being one of those kids in the ingroup anymore, or was No,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a129" TIME_SLOT_REF1="ts256" TIME_SLOT_REF2="ts257">
+				<ANNOTATION_VALUE>&lt;affirmative&gt;. What were your last two years, um, at Ma Bain? Like, so it's a new experience. Chacho,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts260" TIME_SLOT_REF2="ts261">
+				<ANNOTATION_VALUE>When you left Ma Bain, uh, what happened with your life at that point?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts264" TIME_SLOT_REF2="ts265">
+				<ANNOTATION_VALUE>Were you ever in the armed forces? No. Or I was, um, did you, uh, start business for yourself? Or what did you ultimately get involved in after school when you</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts269">
+				<ANNOTATION_VALUE>What does it mean to, to you to be able to come back to this reunion here in High Springs where, you know, kind of all started for you, coming from Moultrie, Georgia to here and then, and, you know, giving this interview and talking about your life. I mean, what, what, what does all this mean?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts272" TIME_SLOT_REF2="ts273">
+				<ANNOTATION_VALUE>It's a low place on the map as well.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts277">
+				<ANNOTATION_VALUE>If you have, you have a closing comment or something that you'd like to add about what the reunion meant to you? Or, um, the interview or</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts280" TIME_SLOT_REF2="ts281">
+				<ANNOTATION_VALUE>Well, you know, something hit me as I was listening to you said that I often think about the persistence of black high school reunions. You know, they're not building any more black high schools. Mm-hmm &lt;affirmative&gt;. And the, the graduates continue to get older and, you know, season live with their lives, you know, children, grandkids, business, whatever. But, you know, everybody, we're all on that journey. Right. What can, what do you think can be done to, um, continue this legacy? I mean, 'cause I know they're not today, right now, there aren't any kids here, but what can be done to continue that?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts285">
+				<ANNOTATION_VALUE>How many of these have you been to?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts288" TIME_SLOT_REF2="ts289">
+				<ANNOTATION_VALUE>Mr. Eugene Martin, this has been, uh, a great pleasure. I wanna thank you for speaking with me and offering your, your wisdom and your perspective. Mm-hmm &lt;affirmative&gt;. And I just wanna give you the last word. Uh, anything you wanna offer, please feel free to. And when you conclude those comments, that'll conclude our interview.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<TIER TIER_ID="Speaker 1" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+				<ANNOTATION_VALUE>Now a graduation. I was a attendee. Oh,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+				<ANNOTATION_VALUE>Okay. You are welcome, sir.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+				<ANNOTATION_VALUE>Well, Douglas High School was a high school, I think it was started back in, uh, I think 9 8, 19 11, I believe, somewhere in that area. But it shut down in 1956. At that time, I was in the 10th grade, and, uh, it became a middle school and they built a county school, which was called Amma Bain. And from there I graduated in 1958 from am Bain High School, ua, Florida. Mm-hmm</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+				<ANNOTATION_VALUE>My formal education beginning, that's place called Morrie, Georgia. In which, where I was born. I left there when I was in the second grade. And this December of 1947, I started the school in High Springs, Florida, 1947. In the second grade? Mm.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+				<ANNOTATION_VALUE>Uh, yes. It was a county school called Rochelle.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
+				<ANNOTATION_VALUE>A two room schoolhouse.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+				<ANNOTATION_VALUE>Yes. Yes. It's similar to that. Right. As far as I recall. Who</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
+				<ANNOTATION_VALUE>I have no idea.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+				<ANNOTATION_VALUE>Uh, okay. Her name was Wise. I think her name was Mere Wise, I believe. Mm-hmm &lt;affirmative&gt;. At that time, it was back in 1947. I was only seven years old, so mm-hmm &lt;affirmative&gt;. Had gone back a long ways.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
+				<ANNOTATION_VALUE>No, I don't recall.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+				<ANNOTATION_VALUE>I don't recall.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+				<ANNOTATION_VALUE>Well, it was like leaving the country and coming to a city, because in Georgia we lived in a rural area, and when we come to High Spring, we'd come into an urban community-like setting, you know? Mm-hmm &lt;affirmative&gt;. It was different day and night. Mm-hmm &lt;affirmative&gt;. Right.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+				<ANNOTATION_VALUE>Well, we, my mother, she had an older daughter that was living in High Springs, and she said we could have a better living in High Springs. And so she convinced my mom to pick up the family and move to High Springs. And at that time, there was a, probably, I'm gonna say six or seven school aged kids that came along, right? Mm-hmm &lt;affirmative&gt;. And we all attended Douglas High School here in High Spring.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+				<ANNOTATION_VALUE>No, no, no. When I left Moultrie, I was in the second grade. Okay. So I started running almost in my primary education here in High Springs. Right. Because I was, I think two months into my second grade when I attended, uh, here in High Springs at Douglas, Douglas High School at that time.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+				<ANNOTATION_VALUE>All the same school.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
+				<ANNOTATION_VALUE>Until it closed down mm-hmm</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts71">
+				<ANNOTATION_VALUE>Much easier. Mm-hmm &lt;affirmative&gt;. Uh, the school teachers, we had, uh, a, a a teacher for every grade and they were very interested in your learnings. And they almost demanded that you learn, you know? And it was really, uh, uh, beautiful settings, you know what I mean? Because everybody was concerned about your learning and your wellbeing.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
+				<ANNOTATION_VALUE>Is a big difference. Teachers taught with pride in those days. Teachers not teach for money. Okay. And that's a big difference. Mm-hmm &lt;affirmative&gt;. They would tell you in a minute, I got mine. It's up to you to get yours. But that wasn't the case back then. Mm-hmm &lt;affirmative&gt;. They put their heart and soul in their jobs. Mm.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts79">
+				<ANNOTATION_VALUE>Most definitely. Mm-hmm &lt;affirmative&gt;. I'll give you a good example. Uh, we had my sixth grade teacher live almost, uh, adjacent to where I was living. And if anything went on in school that was part of my, uh, misbehaving, I would beg that teacher, please don't tell mom because she would take care of me at the school and she's still gonna come home and tell mom. So it was a double whammy. So, &lt;laugh&gt;, it was a double whammy. They showed, they was concerned about you being honest, you being brought up in the right way and being truthful. Mm-hmm &lt;affirmative&gt;. Right.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+				<ANNOTATION_VALUE>Like I said earlier, I think it changed because of, uh, uh, the monetary, uh, aspect of, uh, becoming a teacher. Uh, they just feel that if they getting paid, that's enough. That's all they want to do. And, and then again, I think one of the biggest problem has been over the years that drugs have been really our biggest downfall. Because at one point, your teacher was your second mom. And if I got disciplined in school and I reported, and they reported that to my parents, that was a double whammy. But nowadays, the teacher would come up to the school and swear that the child was wrongly accused of what their behavior was. And the tea, uh, parent would get on the teacher. Mm-hmm &lt;affirmative&gt;. So it's been reversed.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts87">
+				<ANNOTATION_VALUE>No, most of them has made a difference. Mm-hmm &lt;affirmative&gt;. Because if I'm of a different persuasion, why should I care about you? You actually my adversary, and I'm not gonna pull you up to where I am. I want to keep you oppressed. Mm-hmm &lt;affirmative&gt;. You see what I'm saying? So I think it's better if a black teacher teach a black kid and a white teacher teach a white kid. Mm-hmm &lt;affirmative&gt;. That's the way I feel. You know what I mean?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts91">
+				<ANNOTATION_VALUE>Sure. I, I do think it'll apply is in some ways nowadays, uh, because we got so much turmoil in our political system and the way, uh, things are being, I want to say word I want to use politicized. I'm put it that way that, uh, teachers, uh, only give an incentive if the class move up. But everybody in your class is not going to be a learner. You know what I mean? But if you can get 10%, maybe 20% of the kids to become excel in the education, you've done a terrific job. You've done a terrific job.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
+				<ANNOTATION_VALUE>First of all, I think it's harder to teach kids because some of 'em come from broken homes. Some of 'em come from parents that did not give them a fine upbringing come. Some of 'em come from ki uh, parents that didn't teach 'em right from wrong. And some of 'em didn't have no religion background, religious background. Mm-hmm &lt;affirmative&gt;. Mm-hmm &lt;affirmative&gt;. And so they just out existed. They don't have no moral, uh, sensitivity. Mm-hmm &lt;affirmative&gt;. No moral sensitivity at</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+				<ANNOTATION_VALUE>Exactly.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
+				<ANNOTATION_VALUE>It was different. We had, what do you call, when I was gonna school, we had prayer in class, then we had chapel where we had prayer in a community, set it, you know what I mean? And we learned bible verses. We lived under the umbrella of teaching of Christ. And, uh, we didn't have too much disobedience in schools. Although, you know, we had some kids might be still, some kids might be a little mischievous, but it wasn't, sorry. Very sorry. It wasn't to a great extent. You know what I mean? Right. But, uh, it's, it's just different my days.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
+				<ANNOTATION_VALUE>Public. Public school. Right.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts111">
+				<ANNOTATION_VALUE>Uh, I do believe that they keep, it can work, but you cannot make a person believe in what you believe. You know what I mean? It has to be, uh, I don't want to say taught from an early age, taught from an early age. Because if you don't get it when you are young, it's hard to get it later on in life. Mm-hmm &lt;affirmative&gt;. Right.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts115">
+				<ANNOTATION_VALUE>My definition of leadership is to exemplify what you teach. Don't tell me something that you not doing. If you exemplify what you teach, I have a tendency to believe in what you're telling me, but know what, what they call it swissy washing. No, no. Practice what you</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts119">
+				<ANNOTATION_VALUE>No, definitely. No. Definitely they do. Sure they do.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts123">
+				<ANNOTATION_VALUE>Well, the only way I can explain that is because I played athlete athletics throughout my, uh, school year, I mean my high school years. And we had a coach that taught leadership and he taught that no man can do anything by himself.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts127">
+				<ANNOTATION_VALUE>We had two coaches. One name was, uh, Mr. Gil, I forget his first name. And then we had Mr. Burgess, you know what I mean? But these guys teaches that as a team, you can make great accomplishment, but individually, you know what I mean? You can make accomplishment, but it's not bringing nobody up with you. Mm-hmm &lt;affirmative&gt;. But if you can do it as a team, you got power and you got strength.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts131">
+				<ANNOTATION_VALUE>Second, why has it changed? Well, I don't agree because what happened is, I think that they were the news media make you who they want you to be. Not only do you say you want, you might not say who you want to be, but they put you out there and make you who you look at OJ Simpson's situation, Fred, that's a good example. They made him somebody that he really didn't want to be. But the wealth and the, uh, glamor that came along with that kind of lifestyle, he forgot who he was. Right? So the news medias are one of our biggest enemies. The news media, they make you who you don't want to be, but once you get caught in that trap, you stop.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts135">
+				<ANNOTATION_VALUE>Wisdom of our teachers, we had teachers had wisdom and they passed it down to us. And I will never forget Douglas High School, no matter where I go in particular, we had one teacher named Catherine Taylor. She was everybody's mother. And she demanded, if you come to her class, you going to be obedient and you going to get your workout and you gonna learn. You know, she didn't make you learn. You learn on your own. Can no one make you learn. It was your job to learn. And she put it on you. And I love that woman today. Mm-hmm &lt;affirmative&gt;. She got a legacy at Douglas High School. You can ask anybody, &lt;laugh&gt;,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
+				<ANNOTATION_VALUE>I'd give you a good example. There were some bullies, boys, and, you know what I mean, certain grades and stuff like that. But she would tell 'em, says, okay, if you want a box, we gonna box. But when you come in this classroom, you gonna do what I say do. If you want a box, oh, we gonna box. And she was a female. And she got the ultimate respect from these individuals. She was a dynamic. She was a dynamic teacher.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts143">
+				<ANNOTATION_VALUE>Yes. Oh yes. She usually, uh, right history. In fact, they dedicated a, a a a a park here in hot spring in her honors, uh, about two or three years ago. Mm-hmm &lt;affirmative&gt;. Right. I think I was down here for the, I, uh, I might, might have missed a dedication, but I came down right after the dedication. Right. To see it, because it's beautiful. But that one, she always lived my life.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts147">
+				<ANNOTATION_VALUE>Mr. Cathy, Isaac Cathy, he was my, uh, English teacher. He taught English literature. And, uh, what else did he teach? Well, anyway, he was, uh, uh, I guess you might want to say, he told me a story one time. In fact, he told a whole class. He says, I'm gonna tell you something when you see a commotion going on. 'cause he said he got in some trouble. One time in New York, he was there. If you see some trouble going on in one direction, you turn around and go the other direction. Direction. And you read about it in the paper tomorrow if you wanna be safe, you know? And I always kept that in my mind because you want to get up there and find out what's going on in the, uh, when there's altercation going on, you might be the one that get the works of the, uh, ordeal. And he told us, no, you go other way and read in the paper tomorrow. And that was a good lesson. Good lesson that I learned.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts151">
+				<ANNOTATION_VALUE>Yeah, I recall James Randolph Green. My, he was a graduate from Michigan State. Yeah. University. Yeah. My principal.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts155">
+				<ANNOTATION_VALUE>No, he was a graduate in Michigan State. Okay. But he was a graduate.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts158" TIME_SLOT_REF2="ts159">
+				<ANNOTATION_VALUE>I don't know. I really dunno. I dunno.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts163">
+				<ANNOTATION_VALUE>Did you play? Basketball. Basketball, uh, baseball. And, uh, well, we had volleyball. Well, we had all sorts of sports. And I excelled pretty good in football. Mm-hmm &lt;affirmative&gt;. Right?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts167">
+				<ANNOTATION_VALUE>QB quarterback, right? Right. Mm-hmm</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
+				<ANNOTATION_VALUE>Hide the ball. Mostly behind the scenes. And there's one thing that we didn't have that you see today. We didn't even have face masks. We had face masks. We don't have one guard across your face. Mm-hmm &lt;affirmative&gt;. And you have had a lot of bloody nose back in those days. But now they got the, the guards that cover their whole face night football, you know. And then we used to call this thing, they call it the, uh, uh, hand on it would throw that air elbow in your nose and when you're on the line or whatever, you know what I mean? Bloody your nose. We do a, did a lot of bleeding in those days when I played football.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts174" TIME_SLOT_REF2="ts175">
+				<ANNOTATION_VALUE>Mediocre. We wasn't the champion and we wasn't the worst. Mm-hmm &lt;affirmative&gt;. We, middle of the road team. Mm-hmm &lt;affirmative&gt;. Right? Mm-hmm</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts179">
+				<ANNOTATION_VALUE>Or four. Yeah. Right, right, right, right,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts182" TIME_SLOT_REF2="ts183">
+				<ANNOTATION_VALUE>School? I was involved in band, of course, uh, drama. Mm-hmm &lt;affirmative&gt;. Right. Uh, I was involved in just about everything, even home economics. &lt;laugh&gt;,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts187">
+				<ANNOTATION_VALUE>Uh, I played drums in the band. Mm-hmm &lt;affirmative&gt;. Right. I started out at a, at the clarinet player, but I switched over to the drums. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts190" TIME_SLOT_REF2="ts191">
+				<ANNOTATION_VALUE>Just the drums. Mm-hmm &lt;affirmative&gt;. Yeah. Mm-hmm</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts195">
+				<ANNOTATION_VALUE>Well, you know, that Christmas played when, uh, the three wise men, you know what I mean? Right. I had a leading part in that. Yeah. Right. Mm-hmm &lt;affirmative&gt;. Uh, back in high school. Mm-hmm &lt;affirmative&gt;. Right. Uh, the, the what? The what what the shepherd by night. I forget what it was, but I, I had a big role in that. Yeah.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts198" TIME_SLOT_REF2="ts199">
+				<ANNOTATION_VALUE>Student government. Yes. I was the principal for the, in student government. I was a school principal over Ama Bain High School. Mm-hmm &lt;affirmative&gt;. Right. And I was a, uh, class president. Right. Uh, AMBA High School. Right. And so that was some beautiful days, I'm</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts205">
+				<ANNOTATION_VALUE>From the second grade to the 10th?</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts208" TIME_SLOT_REF2="ts209">
+				<ANNOTATION_VALUE>Sorry. And, uh, from &lt;inaudible&gt; 11th and 12th grade,</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts213">
+				<ANNOTATION_VALUE>I really can't recall mm-hmm &lt;affirmative&gt;. That last year. I, I really can't recall because I, only thing I can recall is that &lt;laugh&gt;, I think I had to, it was mandatory for me to take trigonometry. I think we did algebra one year, and the following year we had to do trigonometry. And that's something, I don't know today why I had to take that class, because I ain't never did nothing with it. But it was a mandatory that we did it. That's the only thing I remember about that, because I was scared to death about trigonometry. Mm-hmm &lt;affirmative&gt;. Right, right, right, right. That's really the only thing I, I remember.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts216" TIME_SLOT_REF2="ts217">
+				<ANNOTATION_VALUE>Well, it was, it was pretty much rumored, but it wasn't concretely, uh, uh, presented to the student body. We, until it really took place. You know what I</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts221">
+				<ANNOTATION_VALUE>Had heard that they was going to build a county school in Alachua mm-hmm &lt;affirmative&gt;. Which is in Alachua County, you know what I mean? And it came to fruition. And then when they got it built, they closed down Douglas and transfers all over the, or b</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a113" TIME_SLOT_REF1="ts224" TIME_SLOT_REF2="ts225">
+				<ANNOTATION_VALUE>Some of them, some of 'em didn't.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts228" TIME_SLOT_REF2="ts229">
+				<ANNOTATION_VALUE>But I don't, I don't, I really don't recall mm-hmm &lt;affirmative&gt;. I don't recall. I would say I, the teachers we had at, um, I mean at Douglas, I can recall about, okay, we had at least 12 teachers at, uh, Douglas. I think only about seven went to Amma, be only about seven of 'em went to Amma be.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts232" TIME_SLOT_REF2="ts233">
+				<ANNOTATION_VALUE>Miles? Right. We had to catch the school bus, you know what I mean? To get over there. So</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts236" TIME_SLOT_REF2="ts237">
+				<ANNOTATION_VALUE>Um, Mr. Whitfield and Un c Johnson? Yeah. They loved bus drivers. And, uh, we all loved, uh, Mr. Un c Johnson. 'cause he's driving fast. But Mr. Whitfield, which was my principal's</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts238" TIME_SLOT_REF2="ts239">
+				<ANNOTATION_VALUE>At one time before James Randolph Green came in, Whitfield was our principal. You know what I mean? My early years at Douglas Whitfield was my principal. Then James R. Green came in. Uh, and, uh, Whitfield father was one of the bus drivers, and he was the older guy. And so it took us forever to get where we were going. But Mr. Johnson, he gotta sit right away, you know? Everybody liked Mr. Johnson. Mm-hmm</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts242" TIME_SLOT_REF2="ts243">
+				<ANNOTATION_VALUE>Uh, it picked us up at the Douglas High School. I mean, it, it closed down in that area. Mm-hmm &lt;affirmative&gt;. Because there was a lot of kids that lived right there around the school.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts246" TIME_SLOT_REF2="ts247">
+				<ANNOTATION_VALUE>Uh, no, elementary school. I think it, I think it went up to the sixth grade, I believe. Did, because they built a school out here. Uh, yeah, they built a school in this area where we at right now, which was called a middle school. I, I don't know the name of it. Right. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a126" TIME_SLOT_REF1="ts250" TIME_SLOT_REF2="ts251">
+				<ANNOTATION_VALUE>Well, what I experienced when I got to a, on the vein, and some of the teachers that was transferred over there that I was under, the students that lived in that area said that they was gonna be disobedient towards how our teachers taught over there. And there was a little dissension for a while, you know what I mean? Because they, you know, it was, it was a coming together type of thing. But you want some people, uh, some people want to be standoffish. But finally we got it working together after a period of time. But it was, uh, at the outset, it was a little difficult. Mm-hmm &lt;affirmative&gt;. Right.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts254" TIME_SLOT_REF2="ts255">
+				<ANNOTATION_VALUE>No, no, no, no. Most of the, uh, dissension came between the students and the teachers. Right. But the, the students got along well. Mm-hmm &lt;affirmative&gt;. Mm-hmm</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a130" TIME_SLOT_REF1="ts258" TIME_SLOT_REF2="ts259">
+				<ANNOTATION_VALUE>I loved it at school. Mm-hmm &lt;affirmative&gt;. I liked the, uh, camaraderie. I, uh, in fact, I just, I guess you might say a love of people. I've always been able to get along with people, you know. And, uh, I'll tell you, when I left there, I cried almost like a baby. I hated that last day of school. I, I, when I looked back and said, I'm not coming back here anymore. It was a sad day. It was a sad day. I loved it. In Maba. Mm-hmm &lt;affirmative&gt;. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a132" TIME_SLOT_REF1="ts262" TIME_SLOT_REF2="ts263">
+				<ANNOTATION_VALUE>Well, uh, immediately one of my school teachers over there, which was the band leader, Mr. &lt;inaudible&gt;, uh, Mr. &lt;inaudible&gt; was a school teacher. He took us up on the results in New Jersey. We worked up there for three months. He took Louis Black, David, James, uh, Mike Yu and myself. We went up there to work on the resorts at a, one of those hotels up there on the ocean in, in, uh, spring Lake, New Jersey. We stayed up there during the, uh, summer, you know what I mean? We made a few dollars to come back home, you know, with a few extra dollars in our pocket. And, uh, I tried to get and to Florida a and m University, not Florida m yeah. Florida a m but it was too late. They said, well, my family wasn't, didn't have a college background, because they told me, I said, well, you preparing to go to college, you gotta do it much in advance. You just can't wait until the last minute to do that. You know, it's something, keep prepared for her. And I didn't, nobody never told me, because I never expressed anybody. That was my goal to go to college. So, uh, I found out then that if I wanted education, my sister living in Chicago, she said, uh, I can come to Chicago. And we had community schools up there that you didn't get an education at. So I moved my grades to Chicago in 1958. Right. And I've been there ever since.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a134" TIME_SLOT_REF1="ts266" TIME_SLOT_REF2="ts267">
+				<ANNOTATION_VALUE>Well, I would've been, uh, some corporations there. And in 1992, I started my own business. Uh, it's called Image Foods Incorporated. We, uh, a private labor company, and, uh, we start selling snake products under the image food label. Now, the word image is acronyms for, uh, Ida, Marvin, Anthony, Greg, and Eugene. That's, uh, my whole family names, you know what I mean? I didn't wanna leave out nobody. So that's how I come up with Word image. And, uh, we started a business and, uh, it's, it grown drastically. Uh, but in 2002, after the passing of my wife, I turned the business over to my sons. They in charge of that. So, but I help 'em out. But they, it's their, it's their baby. Mm-hmm &lt;affirmative&gt;. But it's a million dollar sales business for year. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts270" TIME_SLOT_REF2="ts271">
+				<ANNOTATION_VALUE>Well, the way I look at it, it, I feel good when I come down here. One reason I let f feel good is because I made something of myself. And if I did it, anybody else can do it too. You know what I mean? I made something of myself. And, uh, I just give things to God that it all started right here in High Springs, and I'm grateful for that.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts274" TIME_SLOT_REF2="ts275">
+				<ANNOTATION_VALUE>A little place on the map, but big in my heart. &lt;laugh&gt;. Mm-hmm &lt;affirmative&gt;. Mm-hmm &lt;affirmative&gt;.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a140" TIME_SLOT_REF1="ts278" TIME_SLOT_REF2="ts279">
+				<ANNOTATION_VALUE>Anything? Well, well, the, the only thing I want say, I want to thank the people here of High Springs that felt strongly enough to do this every other year, although they're not getting the full participation of some people that live right here in the area. I come over a thousand miles away from Chicago down here each year to attend this. And I would hope that the people would be more attentive to this kind of, uh, uh, uh, uh, uh, ceremony, you know, event. Mm-hmm &lt;affirmative&gt;. Right. That's the only thing. I hope that the people would participate more. Mm-hmm &lt;affirmative&gt;. You know what I mean? That's the only thing I have to say.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts282" TIME_SLOT_REF2="ts283">
+				<ANNOTATION_VALUE>Uh, that's right. I really haven't given that any thought because I, I don't know when the line going to run out, you know, because of, uh, most people that it hit today in 1956 when Douglas closed, they were 16 years old. Nah, you look at the 2016, what is that, 60 years ago? I mean, so ain't two minutes left. So I don't know what could take place if you do the math. You know what I mean? Mm-hmm &lt;affirmative&gt;. I don't know how long this can continue. I don't know. But today we have a turnout. They said the register list was 56, but I think some people, some other people did show up. Mm-hmm &lt;affirmative&gt;. Right. But I don't know how long it can go on, but I enjoy just to see somebody I saw last year, they still here. You know, it's a blessing. You know what I mean? To live from day to day and two years down the road. Ooh. I'm telling you, it, it's, it's heartwarming to be able to come back after two years with the reason reasonable pulse of your health and strength and Amarillo of God's blessings. Oh, man. It, it, it's a, it's a joy. Put it that way. It's just a joy.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts286" TIME_SLOT_REF2="ts287">
+				<ANNOTATION_VALUE>Uh, I tell you, when I really first started coming, my wife passed away in, uh, June, 2002. Okay. On that day, she passed away. I called a friend. They was having the same dedication they having today. And this, I told a friend, my wife had passed away, and she told me what was going on, and she gave me her, uh, uh, condolences and everything. And I told her from this point on, I would be to everyone that they have. And I haven't missed one year since then. Mm-hmm &lt;affirmative&gt;. So 2004, 2006, 2008, 2010, 2012. I've been everyone since then. Everyone since then. Yeah.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a146" TIME_SLOT_REF1="ts290" TIME_SLOT_REF2="ts291">
+				<ANNOTATION_VALUE>Well, as I said, I, it is a joy and a pleasure for me to come here every other year to meet these people. In fact, I see some faces out there in the nineties, you know, that's a blessing. And it is just run chills over my body to see how God has blessed us. You know what I mean? And to still congregate as a community, you know, it's just joy. Joy. That's all. That's all I have to say. It's a joy.</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" GRAPHIC_REFERENCES="false" />
+	<CONSTRAINT STEREOTYPE="Time_Subdivision" DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Subdivision" DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Association" DESCRIPTION="1-1 association with a parent annotation" />
+	<CONSTRAINT STEREOTYPE="Included_In" DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" />
+	</ANNOTATION_DOCUMENT>
