@@ -32,17 +32,17 @@ export class LatexButton extends React.Component {
     render() {
         return (
             <div class="latexButtonContainer">
-                <button class="latexButton" onClick={this.handleClick}>
+                {/* <button class="latexButton" onClick={this.handleClick}>
                     <TranslatableText dictionary={latexButtonText} />
-                </button>
+                </button> */}
                 {/* The -1 from start time ms matches how the sentence's search index is calculated for the sentence's URL.
                 A timed sentence's index in the URL is its start time minus 1. */}
-                {this.state.buttonClicked ? 
+                {/* {this.state.buttonClicked ? 
                     <TierSelectionWindow 
                         sentence={this.props.sentence} 
                         metadata={this.props.metadata} 
                         sentenceId = {this.props.metadata["timed"] ? (this.props.sentence["start_time_ms"]-1) : (this.props.sentence["sentence_id"])} /> 
-                    : null}
+                    : null} */}
             </div>); 
     }
     
