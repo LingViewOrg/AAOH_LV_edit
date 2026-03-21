@@ -1,5 +1,3 @@
-
-import React from 'react';
 import React, { useEffect } from 'react';
 import { ts_tag_array,player } from '../../lib/txt_sync';
 
