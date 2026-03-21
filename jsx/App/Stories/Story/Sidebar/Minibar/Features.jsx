@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { ts_tag_array,player } from '../../lib/txt_sync';
 
 
@@ -10,7 +10,7 @@ export function Features({  }) {
     let featuresList = [];
     let currentFeature = 0;
 
-    useEffect(() => {
+    React.useEffect(() => {
         featuresList = [];
         currentFeature = 0;
     }, []);
