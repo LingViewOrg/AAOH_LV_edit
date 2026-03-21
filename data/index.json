@@ -1,115 +1,4 @@
 {
-  "1e3bff88-29b9-4b3f-be34-bffc38624bac": {
-    "timed": false,
-    "story ID": "1e3bff88-29b9-4b3f-be34-bffc38624bac",
-    "title": {
-      "con-Latn-EC": "103 Singo a'i",
-      "en": "Black People",
-      "es": "El negro",
-      "_default": "Singo a'i"
-    },
-    "media": {
-      "audio": "",
-      "video": ""
-    },
-    "languages": [
-      "con-Latn-EC",
-      "en",
-      "es"
-    ],
-    "date_created": "",
-    "date_uploaded": "2/3/2018",
-    "source": {
-      "con-Latn-EC": "Blaser, Magdalena \"Mitos del pueblo Cofán\"",
-      "en": "Blaser, Magdalena \"Myths of the Cofán people\"",
-      "_default": ""
-    },
-    "description": "",
-    "genre": "",
-    "author": "",
-    "glosser": "",
-    "speakers": [],
-    "xml_file_name": "103.xml",
-    "source_filetype": "FLEx",
-    "tier IDs": {
-      "palabra en a'ingae (ortografía Borman)": {
-        "subdivided": true
-      },
-      "morfema (como en el texto) en a'ingae (ortografía Borman)": {
-        "subdivided": true
-      },
-      "morfema (forma típica) en a'ingae (ortografía Borman)": {
-        "subdivided": true
-      },
-      "glosa de morfema en inglés": {
-        "subdivided": true
-      },
-      "frase en inglés": {
-        "subdivided": false
-      },
-      "frase en Español": {
-        "subdivided": false
-      },
-      "frase en a'ingae (ortografía Borman)": {
-        "subdivided": false
-      }
-    }
-  },
-  "1ed3d641-acd9-4466-811d-17c8ed59844c": {
-    "timed": false,
-    "story ID": "1ed3d641-acd9-4466-811d-17c8ed59844c",
-    "title": {
-      "_default": "Kuke chiste"
-    },
-    "media": {
-      "audio": "",
-      "video": ""
-    },
-    "languages": [],
-    "date_created": "",
-    "date_uploaded": "8/30/2018",
-    "source": {
-      "_default": ""
-    },
-    "description": "A joke about a hare\n",
-    "genre": "",
-    "author": "",
-    "glosser": "",
-    "speakers": [
-      "Fausto Criollo"
-    ],
-    "xml_file_name": "20170804_kuke_chiste_FACQ.eaf",
-    "source_filetype": "ELAN",
-    "tier IDs": {
-      "Gloss": {
-        "subdivided": true
-      },
-      "Glosa": {
-        "subdivided": true
-      },
-      "Ortografía vieja": {
-        "subdivided": true
-      },
-      "Morfema": {
-        "subdivided": true
-      },
-      "English": {
-        "subdivided": true
-      },
-      "Español": {
-        "subdivided": true
-      },
-      "A'ingae": {
-        "subdivided": true
-      }
-    },
-    "speaker IDs": {
-      "S1": {
-        "name": "Fausto Criollo",
-        "tier": "--"
-      }
-    }
-  },
   "a5fd7f19-7044-462e-b501-200cb57c60e8": {
     "timed": true,
     "story ID": "a5fd7f19-7044-462e-b501-200cb57c60e8",
@@ -411,87 +300,28 @@
     "genre": "",
     "author": "",
     "glosser": "",
-    "speakers": [],
+    "speakers": [
+      "Marta Weston",
+      "David Richardson"
+    ],
     "xml_file_name": "AAHP 024 David Richardson 5-27-2010.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
-      "Speaker 0": {
+      "Marta Weston": {
         "subdivided": false
       },
-      "Speaker 1": {
-        "subdivided": false
-      },
-      "Speaker 2": {
-        "subdivided": false
-      },
-      "Speaker 3": {
+      "David Richardson": {
         "subdivided": false
       }
     },
     "speaker IDs": {
       "S1": {
-        "tier": "Speaker 0"
+        "name": "Marta Weston",
+        "tier": "Marta Weston"
       },
       "S2": {
-        "tier": "Speaker 1"
-      },
-      "S3": {
-        "tier": "Speaker 2"
-      },
-      "S4": {
-        "tier": "Speaker 3"
-      }
-    }
-  },
-  "8168ab11-cd38-4767-a1ec-60b7e2d63be7": {
-    "timed": true,
-    "story ID": "8168ab11-cd38-4767-a1ec-60b7e2d63be7",
-    "title": {
-      "_default": "AAHP 180 Alethia Brown 8-10-2011"
-    },
-    "media": {
-      "audio": "",
-      "video": "https://youtu.be/Tbf9eyudNaE"
-    },
-    "languages": [],
-    "date_created": "",
-    "date_uploaded": "10/5/2025",
-    "source": {
-      "_default": ""
-    },
-    "description": "",
-    "genre": "",
-    "author": "",
-    "glosser": "",
-    "speakers": [],
-    "xml_file_name": "AAHP 180 Alethia Brown 8-10-2011.eaf",
-    "source_filetype": "ELAN",
-    "tier IDs": {
-      "Speaker 0": {
-        "subdivided": false
-      },
-      "Speaker 2": {
-        "subdivided": false
-      },
-      "Speaker 1": {
-        "subdivided": false
-      },
-      "Speaker 3": {
-        "subdivided": false
-      }
-    },
-    "speaker IDs": {
-      "S1": {
-        "tier": "Speaker 0"
-      },
-      "S2": {
-        "tier": "Speaker 2"
-      },
-      "S3": {
-        "tier": "Speaker 1"
-      },
-      "S4": {
-        "tier": "Speaker 3"
+        "name": "David Richardson",
+        "tier": "David Richardson"
       }
     }
   },
@@ -503,7 +333,7 @@
     },
     "media": {
       "audio": "",
-      "video": "https://www.youtube.com/watch?v=olg7wuQG5QQ"
+      "video": "https://www.youtube.com/watch?v=KzV-CNRNMCg"
     },
     "languages": [],
     "date_created": "",
@@ -596,52 +426,6 @@
       },
       "S4": {
         "tier": "Speaker 3"
-      }
-    }
-  },
-  "3f4b2c1e-9a8d-4f6a-9132-0b7c5d6e8f90": {
-    "timed": true,
-    "story ID": "3f4b2c1e-9a8d-4f6a-9132-0b7c5d6e8f90",
-    "title": {
-      "_default": "AAHP_173A"
-    },
-    "media": {
-      "audio": "",
-      "video": "https://www.youtube.com/watch?v=mLk4CwkjawQ"
-    },
-    "languages": [],
-    "date_created": "",
-    "date_uploaded": "10/5/2025",
-    "source": {
-      "_default": ""
-    },
-    "description": "",
-    "genre": "",
-    "author": "",
-    "glosser": "",
-    "speakers": [],
-    "xml_file_name": "AAHP_173A.eaf",
-    "source_filetype": "ELAN",
-    "tier IDs": {
-      "Speaker 0": {
-        "subdivided": false
-      },
-      "Speaker 1": {
-        "subdivided": false
-      },
-      "Speaker 2": {
-        "subdivided": false
-      }
-    },
-    "speaker IDs": {
-      "S1": {
-        "tier": "Speaker 0"
-      },
-      "S2": {
-        "tier": "Speaker 1"
-      },
-      "S3": {
-        "tier": "Speaker 2"
       }
     }
   },
@@ -1019,19 +803,19 @@
       }
     }
   },
-  "543eb3ae-044e-49bc-b89a-916065a4555b": {
-    "timed": false,
-    "story ID": "543eb3ae-044e-49bc-b89a-916065a4555b",
+  "2db637c2-d21f-4bb2-b91a-603476e4bb8d": {
+    "timed": true,
+    "story ID": "2db637c2-d21f-4bb2-b91a-603476e4bb8d",
     "title": {
-      "_default": "AAHP_353_Jackson_Ryan_Hills_2-26-2008"
+      "_default": "AAHP 621 Emily Williams 9-21-2018"
     },
     "media": {
       "audio": "",
-      "video": ""
+      "video": "https://www.youtube.com/watch?v=YumzspzNucY"
     },
     "languages": [],
     "date_created": "",
-    "date_uploaded": "10/11/2025",
+    "date_uploaded": "3/21/2026",
     "source": {
       "_default": ""
     },
@@ -1040,7 +824,53 @@
     "author": "",
     "glosser": "",
     "speakers": [],
-    "xml_file_name": "AAHP_353_Jackson_Ryan_Hills_2-26-2008.eaf",
+    "xml_file_name": "AAHP 621 Emily Williams 9-21-2018.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
+        "tier": "Speaker 2"
+      },
+      "S3": {
+        "tier": "Speaker 1"
+      }
+    }
+  },
+  "b3e8e6f6-6a5c-4c66-9a57-bca850c45b19": {
+    "timed": true,
+    "story ID": "b3e8e6f6-6a5c-4c66-9a57-bca850c45b19",
+    "title": {
+      "_default": "AAHP-620-John-Bonaparte-9-21-2018"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=uq-URSZLxM4"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "3/21/2026",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP-620-John-Bonaparte-9-21-2018.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
       "Speaker 0": {
@@ -1071,19 +901,19 @@
       }
     }
   },
-  "08211eff-19bc-4d3d-9a67-b27a175ca2ad": {
+  "ba2a314b-b3a9-4f79-afa9-d8fb2741843d": {
     "timed": true,
-    "story ID": "08211eff-19bc-4d3d-9a67-b27a175ca2ad",
+    "story ID": "ba2a314b-b3a9-4f79-afa9-d8fb2741843d",
     "title": {
-      "_default": "AAHP_327_Charles_Bryant_4-25-2014"
+      "_default": "AAHP_415_Eugene_Martin_6-24-2016"
     },
     "media": {
       "audio": "",
-      "video": "https://www.youtube.com/watch?v=QzFCXT58yBk"
+      "video": "https://www.youtube.com/watch?v=MOz95b3XhKQ"
     },
     "languages": [],
     "date_created": "",
-    "date_uploaded": "10/11/2025",
+    "date_uploaded": "3/21/2026",
     "source": {
       "_default": ""
     },
@@ -1092,52 +922,120 @@
     "author": "",
     "glosser": "",
     "speakers": [],
-    "xml_file_name": "AAHP_327_Charles_Bryant_4-25-2014.eaf",
+    "xml_file_name": "AAHP_415_Eugene_Martin_6-24-2016.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
-      "Speaker 1": {
-        "subdivided": false
-      },
-      "Speaker 2": {
-        "subdivided": false
-      },
       "Speaker 0": {
         "subdivided": false
       },
-      "Speaker 3": {
-        "subdivided": false
-      },
-      "Speaker 5": {
-        "subdivided": false
-      },
-      "Speaker 6": {
-        "subdivided": false
-      },
-      "Speaker 7": {
+      "Speaker 1": {
         "subdivided": false
       }
     },
     "speaker IDs": {
       "S1": {
+        "tier": "Speaker 0"
+      },
+      "S2": {
         "tier": "Speaker 1"
+      }
+    }
+  },
+  "62b3a7df-7b29-48f3-adcc-6511a2db4a25": {
+    "timed": true,
+    "story ID": "62b3a7df-7b29-48f3-adcc-6511a2db4a25",
+    "title": {
+      "_default": "AAHP_180_Alethia_Brown_8-10-2011"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=4hM3B1_fr_M"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "3/21/2026",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP_180_Alethia_Brown_8-10-2011.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
+      },
+      "Speaker 2": {
+        "subdivided": false
+      },
+      "Speaker 1": {
+        "subdivided": false
+      },
+      "Speaker 3": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
       },
       "S2": {
         "tier": "Speaker 2"
       },
       "S3": {
-        "tier": "Speaker 0"
+        "tier": "Speaker 1"
       },
       "S4": {
         "tier": "Speaker 3"
+      }
+    }
+  },
+  "a97277ba-1d54-420c-84d8-1ed0718f6f80": {
+    "timed": true,
+    "story ID": "a97277ba-1d54-420c-84d8-1ed0718f6f80",
+    "title": {
+      "_default": "AAHP_629_John_Booth_1-13-2009"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=anBjLKTT07M"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "3/21/2026",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "AAHP_629_John_Booth_1-13-2009.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Speaker 0": {
+        "subdivided": false
       },
-      "S5": {
-        "tier": "Speaker 5"
+      "Speaker 1": {
+        "subdivided": false
       },
-      "S6": {
-        "tier": "Speaker 6"
+      "Speaker 2": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "Speaker 0"
       },
-      "S7": {
-        "tier": "Speaker 7"
+      "S2": {
+        "tier": "Speaker 1"
+      },
+      "S3": {
+        "tier": "Speaker 2"
       }
     }
   }

@@ -2,12 +2,19 @@
 import React from 'react';
 import { ts_tag_array,player } from '../../lib/txt_sync';
 
-let featuresList = [];
-let currentFeature = 0;
+
 export function Features({  }) {
 	// I/P: metadata, in JSON format
 	// O/P: description from txt file
     //const filteredDivs = ts_tag_array.filter(div => div.content.includes("textContent"));
+
+    let featuresList = [];
+    let currentFeature = 0;
+
+    useEffect(() => {
+        featuresList = [];
+        currentFeature = 0;
+    }, []);
 
     
 
