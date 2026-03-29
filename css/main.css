@@ -734,11 +734,11 @@ p {
 }
 
 .disabled-link {
-  
+	display: none;
   pointer-events: none;
 
  
   color: grey;
   cursor: not-allowed;
-  opacity: 0.1; 
+  opacity: 0.6; 
 }
