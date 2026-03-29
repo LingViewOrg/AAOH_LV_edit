@@ -38,7 +38,7 @@ export const navBarGlossaryText = {
 };
 
 export const navBarIndexText = {
-  [ENGLISH]: "Index of Texts",
+  [ENGLISH]: "Index of Interviews",
   [ESPANOL]: "Índice de textos",
   [FRANCAIS]: "Index des Textes",
 };
