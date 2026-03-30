@@ -254,14 +254,17 @@
     "genre": "",
     "author": "",
     "glosser": "",
-    "speakers": [],
+    "speakers": [
+      "Diana Bell",
+      "Unknown"
+    ],
     "xml_file_name": "AAHP 073 Diana Bell 9-5-2009.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
-      "B: ": {
+      "Diana Bell": {
         "subdivided": false
       },
-      "W: ": {
+      "Unknown": {
         "subdivided": false
       },
       "Features": {
@@ -270,10 +273,12 @@
     },
     "speaker IDs": {
       "S1": {
-        "tier": "B: "
+        "name": "Diana Bell",
+        "tier": "Diana Bell"
       },
       "S2": {
-        "tier": "W: "
+        "name": "Unknown",
+        "tier": "Unknown"
       },
       "S3": {
         "tier": "Features"
@@ -345,35 +350,28 @@
     "genre": "",
     "author": "",
     "glosser": "",
-    "speakers": [],
+    "speakers": [
+      "Leitha Nichols",
+      "Marna Weston"
+    ],
     "xml_file_name": "AAHP 183 Leitha Nichols 1-19-2009.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
-      "Speaker 0": {
+      "Leitha Nichols": {
         "subdivided": false
       },
-      "Speaker 1": {
-        "subdivided": false
-      },
-      "Speaker 2": {
-        "subdivided": false
-      },
-      "Speaker 4": {
+      "Marna Weston": {
         "subdivided": false
       }
     },
     "speaker IDs": {
       "S1": {
-        "tier": "Speaker 0"
+        "name": "Leitha Nichols",
+        "tier": "Leitha Nichols"
       },
       "S2": {
-        "tier": "Speaker 1"
-      },
-      "S3": {
-        "tier": "Speaker 2"
-      },
-      "S4": {
-        "tier": "Speaker 4"
+        "name": "Marna Weston",
+        "tier": "Marna Weston"
       }
     }
   },
