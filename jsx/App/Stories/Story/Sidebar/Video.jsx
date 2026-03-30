@@ -15,7 +15,7 @@ export class Video extends React.Component {
 		$('#leftPanel').css('height', bodyHeight);
 		$('#centerPanel').css('margin-left', '40%');
 		$('#centerPanel').css('height', bodyHeight);
-		$("#centerPanel").css("width", "60%");
+		$("#centerPanel").css("width", "55%");
 
 		// Deactivate audio (only if the audio footer exists)
 		if ($('#footer').length) {
