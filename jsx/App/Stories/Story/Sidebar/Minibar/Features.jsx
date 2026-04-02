@@ -14,11 +14,16 @@ export function Features({  }) {
         featuresList = [];
         currentFeature = 0;
     }, []);
-
-    const hasFeatures = ts_tag_array.some((index) => {
-        const firstTwoWords = index.textContent.split(' ').slice(0, 2).join(' ');
-        return firstTwoWords === 'AAOH Feature:';
-    });
+    const [hasFeatures, setHasFeatures] = useState(false);
+    useEffect(() => {
+        if (Array.isArray(ts_tag_array)) {
+            const featuresExist = ts_tag_array.some((index) => {
+                const firstTwoWords = index.textContent.split(' ').slice(0, 2).join(' ');
+                return firstTwoWords === 'AAOH Feature:';
+            });
+            setHasFeatures(featuresExist);
+        }
+    }, [ts_tag_array]);
 
     
 
