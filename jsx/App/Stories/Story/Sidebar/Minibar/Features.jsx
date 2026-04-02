@@ -14,8 +14,8 @@ export function Features({  }) {
         featuresList = [];
         currentFeature = 0;
     }, []);
-    const [hasFeatures, setHasFeatures] = useState(false);
-    useEffect(() => {
+    const [hasFeatures, setHasFeatures] = React.useState(false);
+    React.useEffect(() => {
         if (Array.isArray(ts_tag_array)) {
             const featuresExist = ts_tag_array.some((index) => {
                 const firstTwoWords = index.textContent.split(' ').slice(0, 2).join(' ');
