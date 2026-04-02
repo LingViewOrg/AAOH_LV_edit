@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { ts_tag_array,player } from '../../lib/txt_sync';
 
 
