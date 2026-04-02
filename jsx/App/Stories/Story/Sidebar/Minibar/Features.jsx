@@ -16,7 +16,9 @@ export function Features({  }) {
     }, []);
     const [hasFeatures, setHasFeatures] = React.useState(false);
     React.useEffect(() => {
-        if (Array.isArray(ts_tag_array)) {
+        if (Array.isArray(ts_tag_array)  && ts_tag_array.length > 0) {
+            console.log("CHECKING FOR FEATURES");
+            
             const featuresExist = ts_tag_array.some((index) => {
                 const firstTwoWords = index.textContent.split(' ').slice(0, 2).join(' ');
                 return firstTwoWords === 'AAOH Feature:';
