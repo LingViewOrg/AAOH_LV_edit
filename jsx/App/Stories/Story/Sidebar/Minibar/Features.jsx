@@ -15,6 +15,11 @@ export function Features({  }) {
         currentFeature = 0;
     }, []);
 
+    const hasFeatures = ts_tag_array.some((index) => {
+        const firstTwoWords = index.textContent.split(' ').slice(0, 2).join(' ');
+        return firstTwoWords === 'AAOH Feature:';
+    });
+
     
 
     const handleClick = () => {
@@ -72,6 +77,7 @@ export function Features({  }) {
 	
 	return (
 		<div >
+        {hasFeatures && (
 			<button           style={{
           padding: '10px 20px',
           backgroundColor: '#007bff',
@@ -80,6 +86,8 @@ export function Features({  }) {
           borderRadius: '5px',
           cursor: 'pointer'
         }} type="button" onClick={handleClick}>Next Feature</button>
+
+        )}
 
 		</div>
 	);
