@@ -125,11 +125,11 @@ export function highlightIfNeeded(target)
     });
     currPath = 'data/csv_files/' + currTitle;
 
-    if (foundFeature) {
-        setFeatureDetected(true); 
-    } else {
-        setFeatureDetected(false); 
-    }
+    // if (foundFeature) {
+    //     setFeatureDetected(true); 
+    // } else {
+    //     setFeatureDetected(false); 
+    // }
     
 
     // fetch(currPath)
