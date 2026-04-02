@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { ts_tag_array,player } from '../../lib/txt_sync';
+import { hasFeatureDetected } from '../../lib/globals';
+
 
 
 export function Features({  }) {
@@ -14,19 +16,19 @@ export function Features({  }) {
         featuresList = [];
         currentFeature = 0;
     }, []);
-    const [hasFeatures, setHasFeatures] = React.useState(false);
-    React.useEffect(() => {
-        if (Array.isArray(ts_tag_array)  && ts_tag_array.length > 0) {
-            console.log("CHECKING FOR FEATURES");
-            
-            const featuresExist = ts_tag_array.some((index) => {
-                const firstTwoWords = index.textContent.split(' ').slice(0, 2).join(' ');
-                return firstTwoWords === 'AAOH Feature:';
-            });
-            setHasFeatures(featuresExist);
-        }
-    }, [ts_tag_array]);
 
+
+    const [hasFeatures, setHasFeatures] = useState(false);
+
+    React.useEffect(() => {
+        
+        const interval = setInterval(() => {
+            setHasFeatures(hasFeatureDetected);
+        }, 500); 
+
+        
+        return () => clearInterval(interval);
+    }, []);
     
 
     const handleClick = () => {

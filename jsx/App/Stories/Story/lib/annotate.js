@@ -1,6 +1,8 @@
 //import  {getMediaFilePath} from '~./jsx/App/Stories/Story/Story.jsx'
 import  dataEmitter  from './emitter/dataEmitter.js';
 
+import { setFeatureDetected } from './globals';
+
 //const fs = require('fs');
 //const path = require('path');
 const dir = "./csvFiles";
@@ -9,6 +11,7 @@ let features = ['Text','Null copula','Person/num. agreement','Multiple negators'
 let found = false;
 let currFeatures = [];
 let featureTagText = '';
+let foundFeature = false;
 
 
 
@@ -112,12 +115,20 @@ export function highlightIfNeeded(target)
             div.style.backgroundColor = 'yellow'; 
             
             previousDiv.style.fontStyle = 'italic'; 
+
+            foundFeature = true;
         }
 
         previousDiv = div
         
     });
     currPath = 'data/csv_files/' + currTitle;
+
+    if (foundFeature) {
+        setFeatureDetected(true); 
+    } else {
+        setFeatureDetected(false); 
+    }
     
 
     // fetch(currPath)
