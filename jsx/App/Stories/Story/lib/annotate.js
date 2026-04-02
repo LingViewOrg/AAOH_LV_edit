@@ -112,6 +112,7 @@ export function highlightIfNeeded(target)
         let firstTwoWords = div.textContent.split(' ').slice(0, 2).join(' ');
         if(firstTwoWords === 'AAOH Feature:')
         {
+            console.log("FOUND FEATURE");
             div.style.backgroundColor = 'yellow'; 
             
             previousDiv.style.fontStyle = 'italic'; 
