@@ -80,6 +80,7 @@ function setupTextSync() {
                     if (div.textContent.includes('AAOH Feature:')) 
                     {
                         foundFeature = true;
+                        console.log("FOUND FEATURE");
                         div.style.fontStyle = 'italic';
                         if(previousDiv !== null)
                         {
