@@ -48,6 +48,15 @@ function setupTextSync() {
         ts_tag_array = document.getElementsByClassName("untimedBlock");
     }
 
+    let initialFound = false;
+    for (let i = 0; i < ts_tag_array.length; i++) {
+        if (ts_tag_array[i].textContent.includes('AAOH Feature:')) {
+            initialFound = true;
+            break; 
+        }
+    }
+    setFeatureDetected(initialFound);
+
 
     /* Scrolls to a selected sentence. */
     function scrollIntoViewIfNeeded(target) {
@@ -79,7 +88,7 @@ function setupTextSync() {
 
                     if (div.textContent.includes('AAOH Feature:')) 
                     {
-                        foundFeature = true;
+                        //foundFeature = true;
                         console.log("FOUND FEATURE");
                         div.style.fontStyle = 'italic';
                         if(previousDiv !== null)
@@ -119,12 +128,12 @@ function setupTextSync() {
         }
 
     }
-    if (foundFeature) {
-        setFeatureDetected(true); 
-        foundFeature = false;
-    } else {
-        setFeatureDetected(false); 
-    }
+    // if (foundFeature) {
+    //     setFeatureDetected(true); 
+    //     foundFeature = false;
+    // } else {
+    //     setFeatureDetected(false); 
+    // }
 
     /* Sync function for files with AV */
     function sync(current_time) {
