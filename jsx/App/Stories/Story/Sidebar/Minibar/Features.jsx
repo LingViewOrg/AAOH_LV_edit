@@ -86,7 +86,7 @@ export function Features({  }) {
 	
 	return (
 		<div >
-            {hasFeatures && (
+            
 			<button           style={{
           padding: '10px 20px',
           backgroundColor: '#007bff',
@@ -96,7 +96,7 @@ export function Features({  }) {
           cursor: 'pointer'
         }} type="button" onClick={handleClick}>Next Feature</button>
 
-    )}
+    
 
 		</div>
 	);
