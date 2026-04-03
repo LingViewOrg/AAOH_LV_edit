@@ -20,15 +20,15 @@ export function Features({  }) {
 
     const [hasFeatures, setHasFeatures] = useState(false);
 
-    React.useEffect(() => {
+    // React.useEffect(() => {
         
-        const interval = setInterval(() => {
-            setHasFeatures(hasFeatureDetected);
-        }, 500); 
+    //     const interval = setInterval(() => {
+    //         setHasFeatures(hasFeatureDetected);
+    //     }, 500); 
 
         
-        return () => clearInterval(interval);
-    }, []);
+    //     return () => clearInterval(interval);
+    // }, []);
     
 
     const handleClick = () => {
