@@ -106,6 +106,7 @@ export function highlightIfNeeded(target)
     let previousDiv = null;
     //console.log(textDivs);
     const textContents = [];
+    console.log("higlightsing");
     textDivs.forEach(div => {
         textContents.push(div.textContent);
         
