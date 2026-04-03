@@ -18,17 +18,17 @@ export function Features({  }) {
     }, []);
 
 
-    // const [hasFeatures, setHasFeatures] = useState(false);
+    const [hasFeatures, setHasFeatures] = useState(false);
 
-    // React.useEffect(() => {
+    React.useEffect(() => {
         
-    //     const interval = setInterval(() => {
-    //         setHasFeatures(hasFeatureDetected);
-    //     }, 500); 
+        const interval = setInterval(() => {
+            setHasFeatures(hasFeatureDetected);
+        }, 500); 
 
         
-    //     return () => clearInterval(interval);
-    // }, []);
+        return () => clearInterval(interval);
+    }, []);
     
 
     const handleClick = () => {
@@ -86,7 +86,7 @@ export function Features({  }) {
 	
 	return (
 		<div >
-        
+            {hasFeatures && (
 			<button           style={{
           padding: '10px 20px',
           backgroundColor: '#007bff',
@@ -96,7 +96,7 @@ export function Features({  }) {
           cursor: 'pointer'
         }} type="button" onClick={handleClick}>Next Feature</button>
 
-        
+    )}
 
 		</div>
 	);

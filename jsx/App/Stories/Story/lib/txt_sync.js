@@ -2,6 +2,8 @@
 
 import {highlightIfNeeded} from './annotate.js';
 
+import { setFeatureDetected } from './globals';
+
 let player; // object for Youtube player
 
 var timeCheck = 0;
@@ -9,6 +11,8 @@ var timeCheck = 0;
 let ts_tag_array = []; // Array that stores all timestamps/sentence id
 let ts_start_time_array = [];
 let ts_stop_time_array = [];
+
+let foundFeature = false;
 
 document.addEventListener('DOMContentLoaded', () => {
     const refreshed = sessionStorage.getItem('refreshed');
@@ -75,6 +79,7 @@ function setupTextSync() {
 
                     if (div.textContent.includes('AAOH Feature:')) 
                     {
+                        foundFeature = true;
                         div.style.fontStyle = 'italic';
                         if(previousDiv !== null)
                         {
@@ -112,6 +117,12 @@ function setupTextSync() {
                 });
         }
 
+    }
+    if (foundFeature) {
+        setFeatureDetected(true); 
+        foundFeature = false;
+    } else {
+        setFeatureDetected(false); 
     }
 
     /* Sync function for files with AV */
