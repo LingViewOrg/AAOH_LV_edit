@@ -1,15 +1,30 @@
 import { UntimedTextDisplay } from './Untimed.jsx';
 import { TimedTextDisplay } from './Timed.jsx';
+import { InterviewSearch } from './InterviewSearch.jsx';
 
-export function CenterPanel({ timed, sentences, metadata}) {
-	// I/P: timed, a boolean value
-	//      sentences, a list of sentences
-	// O/P: the main panel showing glossing, timestamps, etc.
-	// Status: tested, working
+export function CenterPanel({ timed, sentences, metadata }) {
+    let transcript;
 
-	if (timed) {
-		return <div id="centerPanel"><TimedTextDisplay sentences={sentences} metadata={metadata}/></div>;
-	} else {
-		return <div id="centerPanel"><UntimedTextDisplay sentences={sentences} metadata={metadata}/></div>;
-	}
+    if (timed) {
+        transcript = (
+            <TimedTextDisplay
+                sentences={sentences}
+                metadata={metadata}
+            />
+        );
+    } else {
+        transcript = (
+            <UntimedTextDisplay
+                sentences={sentences}
+                metadata={metadata}
+            />
+        );
+    }
+
+    return (
+        <div id="centerPanel">
+            <InterviewSearch />
+            {transcript}
+        </div>
+    );
 }
