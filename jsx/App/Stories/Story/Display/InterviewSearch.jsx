@@ -21,6 +21,23 @@ export class InterviewSearch extends React.Component {
         this.removeHighlights();
     }
 
+    handleKeyDown(event) {
+        if (event.key !== 'Enter') {
+            return;
+        }
+        event.preventDefault();
+
+        if (this.state.matches.length === 0) {
+            return;
+        }
+
+        if (event.shiftKey) {
+            this.previousMatch();
+        } else {
+            this.nextMatch();
+        }
+    }
+
     getTranscriptBlocks() {
         const panel = document.getElementById('centerPanel');
 

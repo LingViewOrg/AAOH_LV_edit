@@ -21,8 +21,7 @@
     "glosser": "",
     "speakers": [
       "Deloris Johnson Nason",
-      "Marna Weston",
-      "Features"
+      "Marna Weston"
     ],
     "xml_file_name": "MFP 100 Deloris Johnson Nason 9-22-2011.eaf",
     "source_filetype": "ELAN",
@@ -47,7 +46,6 @@
         "tier": "Marna Weston"
       },
       "S3": {
-        "name": "Features",
         "tier": "Features"
       }
     }
@@ -137,6 +135,9 @@
       },
       "Vendarae Lewis": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -147,6 +148,9 @@
       "S2": {
         "name": "Vendarae Lewis",
         "tier": "Vendarae Lewis"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -172,8 +176,7 @@
     "glosser": "",
     "speakers": [
       "Marna Weston",
-      "Cornelius Towns",
-      "Features"
+      "Cornelius Towns"
     ],
     "xml_file_name": "AAHP 288_Cornelius_Towns_11-25-2012.eaf",
     "source_filetype": "ELAN",
@@ -198,7 +201,6 @@
         "tier": "Cornelius Towns"
       },
       "S3": {
-        "name": "Features",
         "tier": "Features"
       }
     }
@@ -239,6 +241,9 @@
       },
       "David Faison": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -253,6 +258,9 @@
       "S3": {
         "name": "David Faison",
         "tier": "David Faison"
+      },
+      "S4": {
+        "tier": "Features"
       }
     }
   },
@@ -276,18 +284,14 @@
     "genre": "",
     "author": "",
     "glosser": "",
-    "speakers": [
-      "Diana Bell",
-      "Interviewer",
-      "Features"
-    ],
+    "speakers": [],
     "xml_file_name": "AAHP 073 Diana Bell 9-5-2009.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
-      "Diana Bell": {
+      "B: ": {
         "subdivided": false
       },
-      "Interviewer": {
+      "W: ": {
         "subdivided": false
       },
       "Features": {
@@ -296,15 +300,12 @@
     },
     "speaker IDs": {
       "S1": {
-        "name": "Diana Bell",
-        "tier": "Diana Bell"
+        "tier": "B: "
       },
       "S2": {
-        "name": "Interviewer",
-        "tier": "Interviewer"
+        "tier": "W: "
       },
       "S3": {
-        "name": "Features",
         "tier": "Features"
       }
     }
@@ -341,6 +342,9 @@
       },
       "David Richardson": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -351,6 +355,9 @@
       "S2": {
         "name": "David Richardson",
         "tier": "David Richardson"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -386,6 +393,9 @@
       },
       "Marna Weston": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -396,6 +406,9 @@
       "S2": {
         "name": "Marna Weston",
         "tier": "Marna Weston"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -431,6 +444,9 @@
       },
       "Cornelius Clayton": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -441,6 +457,9 @@
       "S2": {
         "name": "Cornelius Clayton",
         "tier": "Cornelius Clayton"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -476,6 +495,9 @@
       },
       "Cornelius Clayton": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -486,6 +508,9 @@
       "S2": {
         "name": "Cornelius Clayton",
         "tier": "Cornelius Clayton"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -521,6 +546,9 @@
       },
       "Nkwanda Jah": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -531,6 +559,9 @@
       "S2": {
         "name": "Nkwanda Jah",
         "tier": "Nkwanda Jah"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -611,6 +642,9 @@
       },
       "Zacchaeus McEwen": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -621,18 +655,21 @@
       "S2": {
         "name": "Zacchaeus McEwen",
         "tier": "Zacchaeus McEwen"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
   "2dab40bd-edc9-472c-844c-89c863e2afcf": {
-    "timed": true,
+    "timed": false,
     "story ID": "2dab40bd-edc9-472c-844c-89c863e2afcf",
     "title": {
       "_default": "MFP 061 Yolanda Veal 9-24-2010"
     },
     "media": {
       "audio": "",
-      "video": "https://www.youtube.com/watch?v=iJ40OCHnass"
+      "video": ""
     },
     "languages": [],
     "date_created": "",
@@ -656,6 +693,9 @@
       },
       "Yolanda Veal": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -666,6 +706,9 @@
       "S2": {
         "name": "Yolanda Veal",
         "tier": "Yolanda Veal"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -700,6 +743,9 @@
       },
       "Barbara Sharpe": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -709,6 +755,9 @@
       "S2": {
         "name": "Barbara Sharpe",
         "tier": "Barbara Sharpe"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -744,6 +793,9 @@
       },
       "Alexis Cooper": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -754,6 +806,9 @@
       "S2": {
         "name": "Alexis Cooper",
         "tier": "Alexis Cooper"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -789,6 +844,9 @@
       },
       "Breyanna Hooper": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -799,6 +857,9 @@
       "S2": {
         "name": "Breyanna Hooper",
         "tier": "Breyanna Hooper"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -834,6 +895,9 @@
       },
       "Emily Williams": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -844,6 +908,9 @@
       "S2": {
         "name": "Emily Williams",
         "tier": "Emily Williams"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -883,6 +950,9 @@
       },
       "Unknown": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -897,6 +967,9 @@
       "S3": {
         "name": "Unknown",
         "tier": "Unknown"
+      },
+      "S4": {
+        "tier": "Features"
       }
     }
   },
@@ -932,6 +1005,9 @@
       },
       "Eugene Martin": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -942,6 +1018,9 @@
       "S2": {
         "name": "Eugene Martin",
         "tier": "Eugene Martin"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -977,6 +1056,9 @@
       },
       "Alethia Brown": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -987,6 +1069,9 @@
       "S2": {
         "name": "Alethia Brown",
         "tier": "Alethia Brown"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -1022,6 +1107,9 @@
       },
       "John Booth": {
         "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -1032,6 +1120,9 @@
       "S2": {
         "name": "John Booth",
         "tier": "John Booth"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   },
@@ -1055,23 +1146,28 @@
     "genre": "",
     "author": "",
     "glosser": "",
-    "speakers": [],
+    "speakers": [
+      "Laura Tamayo",
+      "Sandra Gilyard"
+    ],
     "xml_file_name": "PCSD_004_Sandra_Gilyard_3-5-2022.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
-      "Speaker 2": {
+      "Laura Tamayo": {
         "subdivided": false
       },
-      "Speaker 3": {
+      "Sandra Gilyard": {
         "subdivided": false
       }
     },
     "speaker IDs": {
       "S1": {
-        "tier": "Speaker 2"
+        "name": "Laura Tamayo",
+        "tier": "Laura Tamayo"
       },
       "S2": {
-        "tier": "Speaker 3"
+        "name": "Sandra Gilyard",
+        "tier": "Sandra Gilyard"
       }
     }
   },
@@ -1095,23 +1191,28 @@
     "genre": "",
     "author": "",
     "glosser": "",
-    "speakers": [],
+    "speakers": [
+      "Laura Tamayo",
+      "Cynthia Asia"
+    ],
     "xml_file_name": "PCSD_005_Cynthia_Asia_3-5-2022.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
-      "Speaker 0": {
+      "Laura Tamayo": {
         "subdivided": false
       },
-      "Speaker 1": {
+      "Cynthia Asia": {
         "subdivided": false
       }
     },
     "speaker IDs": {
       "S1": {
-        "tier": "Speaker 0"
+        "name": "Laura Tamayo",
+        "tier": "Laura Tamayo"
       },
       "S2": {
-        "tier": "Speaker 1"
+        "name": "Cynthia Asia",
+        "tier": "Cynthia Asia"
       }
     }
   }

@@ -387,7 +387,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts381" TIME_VALUE="3035000" />
 		</TIME_ORDER>
 	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
-	<TIER TIER_ID="Speaker 2" LINGUISTIC_TYPE_REF="default-lt">
+	<TIER TIER_ID="Laura Tamayo" PARTICIPANT="Laura Tamayo" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
 				<ANNOTATION_VALUE>All right. So my name is Laura Tema. I'm here with the Samuel Proctor Oral History Program on March 5th in pco, Florida. And I'm here with Miss</ANNOTATION_VALUE>
@@ -839,7 +839,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
-	<TIER TIER_ID="Speaker 3" LINGUISTIC_TYPE_REF="default-lt">
+	<TIER TIER_ID="Sandra Gilyard" PARTICIPANT="Sandra Gilyard" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
 				<ANNOTATION_VALUE>Sandra Gillard.</ANNOTATION_VALUE>

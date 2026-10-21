@@ -25,7 +25,7 @@ export function Header() {
           </Link>
         </div>
         <div id="navLinks">
-          <NavLink to="/search"className="disabled-link">
+          <NavLink to="/search"className="/search">
             <TranslatableText dictionary={navBarSearchText} />
           </NavLink>
           <NavLink to="/about">

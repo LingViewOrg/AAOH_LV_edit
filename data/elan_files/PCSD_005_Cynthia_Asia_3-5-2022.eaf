@@ -605,7 +605,7 @@
 		<TIME_SLOT TIME_SLOT_ID="ts599" TIME_VALUE="4747000" />
 		</TIME_ORDER>
 	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
-	<TIER TIER_ID="Speaker 0" LINGUISTIC_TYPE_REF="default-lt">
+	<TIER TIER_ID="Laura Tamayo" PARTICIPANT="Laura Tamayo" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
 				<ANNOTATION_VALUE>All right. Uh, so we'll just get started here. Okay. Um, just, you know, a typical conversation. My name is Laura Tamaya. Um,</ANNOTATION_VALUE>
@@ -1297,7 +1297,7 @@
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		</TIER>
-	<TIER TIER_ID="Speaker 1" LINGUISTIC_TYPE_REF="default-lt">
+	<TIER TIER_ID="Cynthia Asia" PARTICIPANT="Cynthia Asia" LINGUISTIC_TYPE_REF="default-lt">
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
 				<ANNOTATION_VALUE>Tamaya.</ANNOTATION_VALUE>
