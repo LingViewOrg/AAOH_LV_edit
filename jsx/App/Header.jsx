@@ -41,7 +41,7 @@ export function Header() {
       </div>
       <div className="content">
         <Route exact path="/">
-          <LandingPage />
+          <AboutPage />
         </Route>
         <Route exact path="/index">
           <StoryIndex />
