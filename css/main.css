@@ -816,3 +816,23 @@ p {
   cursor: not-allowed;
   opacity: 0.6; 
 }
+
+.omeka-section {
+	text-align: center;
+}
+
+.omeka-button {
+	display: inline-block;
+	background-color: var(--accent-color);
+	color: var(--secondary-text-color);
+	padding: 1rem 2rem;
+	text-decoration: none;
+	font-size: 1.1rem;
+	font-weight: bold;
+	border-radius: 5px;
+	transition: background-color 0.3s ease;
+}
+
+.omeka-button:hover {
+	background-color: #3498db;
+}
