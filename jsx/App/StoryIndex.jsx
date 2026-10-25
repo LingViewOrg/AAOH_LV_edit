@@ -29,7 +29,7 @@ export class StoryIndex extends React.Component {
                         timed += '🎧 &nbsp;&nbsp;'
                     }
                     if (index[story]['media']['video'] != '') {
-                        timed += '🎥 &nbsp;&nbsp;'
+                        timed += '🎧 &nbsp;&nbsp;'
                     }
                 } else {
                     timed = '✘';
