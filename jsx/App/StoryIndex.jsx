@@ -3,7 +3,7 @@ import React from 'react';
 // import { Link } from 'react-router-dom';
 // import ReactDOMServer from 'react-dom/server';
 import { TranslatableText } from './locale/TranslatableText.jsx';
-import { indexPageTitleHeaderText, indexPageAuthorHeaderText, indexPageMediaHeaderText } from './locale/LocaleConstants.jsx';
+import { indexPageTitleHeaderText, indexPageMediaHeaderText } from './locale/LocaleConstants.jsx';
 
 require('datatables.net-dt');
 import 'datatables.net-dt/css/jquery.dataTables.css';
@@ -29,7 +29,7 @@ export class StoryIndex extends React.Component {
                         timed += '🎧 &nbsp;&nbsp;'
                     }
                     if (index[story]['media']['video'] != '') {
-                        timed += '🎞 &nbsp;&nbsp;'
+                        timed += '🎥 &nbsp;&nbsp;'
                     }
                 } else {
                     timed = '✘';
@@ -37,14 +37,14 @@ export class StoryIndex extends React.Component {
                 // React Router link:
                 const link = `<a href='#/story/${index[story]['story ID']}'>${mainTitle}</a>`;
 
-                storyList.push([link, index[story]['author'], timed]);
+                storyList.push([link, timed]);
             }
         }
 
         $(document).ready(function() {
             $('#indexTable').DataTable( {
                 data: storyList,
-                columns: [ {}, {}, {} ],
+                columns: [ {}, {}],
                 scrollY: '75vh',
                 scrollCollapse: true,
                 paging: false
@@ -60,7 +60,6 @@ export class StoryIndex extends React.Component {
                   <thead>
                     <tr>
                         <th><TranslatableText dictionary={indexPageTitleHeaderText} /></th>
-                        <th><TranslatableText dictionary={indexPageAuthorHeaderText} /></th>
                         <th><TranslatableText dictionary={indexPageMediaHeaderText} /></th>
                     </tr>
                   </thead>
