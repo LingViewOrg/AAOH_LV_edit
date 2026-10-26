@@ -1,7 +1,6 @@
 import React from "react";
-import { HashRouter as Router, Route, Link, NavLink } from "react-router-dom";
+import { HashRouter as Router, Route, Link, NavLink, Redirect } from "react-router-dom";
 import { AboutPage } from "./AboutPage.jsx";
-import { LandingPage } from "./LandingPage.jsx";
 import { GlossaryPage } from "./GlossaryPage.jsx";
 import { StoryIndex } from "./StoryIndex.jsx";
 import { Search } from "./Search.jsx";
@@ -20,7 +19,7 @@ export function Header() {
     <Router>
       <div id="navbar">
         <div id="navTitle">
-          <Link to="/">
+          <Link to="/about">
             <TranslatableText dictionary={navBarTitleText} />
           </Link>
         </div>
@@ -41,7 +40,7 @@ export function Header() {
       </div>
       <div className="content">
         <Route exact path="/">
-          <AboutPage />
+          <Redirect to="/about" />
         </Route>
         <Route exact path="/index">
           <StoryIndex />
