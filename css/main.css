@@ -529,9 +529,9 @@ ul {
 	font-size: 1.7em;
 }
 
-/*a:visited, a {
+a:visited, a {
 #	color: black;
-#}*/
+#}
 
 .content a:hover {
 	font-weight: 600;
@@ -770,6 +770,10 @@ p {
   font-style: italic;
   color: #777;
 }
+
+a:visited, a {
+#	color: white;
+#}
 
 .cta-button {
   display: inline-block;
