@@ -771,10 +771,6 @@ p {
   color: #777;
 }
 
-a:visited, a {
-	color: white;
-}
-
 .cta-button {
   display: inline-block;
   background-color: var(--accent-color);
