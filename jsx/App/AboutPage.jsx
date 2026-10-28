@@ -102,7 +102,7 @@ const aboutPageJSX = {
           </div>
       </section>
       <section className="omeka-section">
-        <h2>Find out More about the project on our Omeka page</h2>
+        <h2>Find out more about the project on our Omeka page</h2>
         <a href="https://digital.domains.uflib.ufl.edu/omeka/s/nehoralhistory/page/home" target="_blank" rel="noopener noreferrer" className="omeka-button">
           Visit Omeka
         </a>
