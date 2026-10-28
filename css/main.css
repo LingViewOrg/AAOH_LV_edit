@@ -530,8 +530,8 @@ ul {
 }
 
 a:visited, a {
-#	color: black;
-#}
+	color: black;
+}
 
 .content a:hover {
 	font-weight: 600;
@@ -772,8 +772,8 @@ p {
 }
 
 a:visited, a {
-#	color: white;
-#}
+	color: white;
+}
 
 .cta-button {
   display: inline-block;
