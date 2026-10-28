@@ -836,7 +836,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts827" TIME_VALUE="1930142"/>
         <TIME_SLOT TIME_SLOT_ID="ts828" TIME_VALUE="1931716"/>
     </TIME_ORDER>
-    <TIER LINGUISTIC_TYPE_REF="praat" TIER_ID="Diana Bell">
+    <TIER LINGUISTIC_TYPE_REF="praat" PARTICIPANT="Diana Bell" TIER_ID="Diana Bell">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
@@ -2680,7 +2680,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="praat" TIER_ID="Interviewer">
+    <TIER LINGUISTIC_TYPE_REF="praat" PARTICIPANT="Matthew White" TIER_ID="Interviewer">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a308"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
