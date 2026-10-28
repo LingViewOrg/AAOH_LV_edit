@@ -2680,7 +2680,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="praat" PARTICIPANT="Matthew White" TIER_ID="Interviewer">
+    <TIER LINGUISTIC_TYPE_REF="praat" PARTICIPANT="Matthew White" TIER_ID="Matthew White">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a308"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
