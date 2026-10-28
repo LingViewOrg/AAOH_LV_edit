@@ -529,9 +529,9 @@ ul {
 	font-size: 1.7em;
 }
 
-a:visited, a {
-	color: black;
-}
+/*a:visited, a {
+#	color: black;
+#}*/
 
 .content a:hover {
 	font-weight: 600;
