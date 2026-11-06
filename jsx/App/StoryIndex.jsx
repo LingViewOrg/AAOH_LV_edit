@@ -33,6 +33,7 @@ export class StoryIndex extends React.Component {
                         timed += '🎧 &nbsp;&nbsp;'
                     }
                     if (index[story]['media']['video'] != '') {
+                        timed += '🎥 &nbsp;&nbsp;'
                         const videoUrl = String(index[story]['media']['video']).trim();
                         if (videoUrl.indexOf('http') === 0) {
                             timed += `<a href="${videoUrl}" target="_blank" rel="noopener noreferrer">🎞</a> &nbsp;&nbsp;`;
