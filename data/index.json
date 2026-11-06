@@ -388,7 +388,8 @@
     "glosser": "",
     "speakers": [
       "Marna Weston",
-      "Cornelius Clayton"
+      "Cornelius Clayton",
+      "Features"
     ],
     "xml_file_name": "AAHP173BCorneliusClayton9-9-2011.eaf",
     "source_filetype": "ELAN",
@@ -413,6 +414,7 @@
         "tier": "Cornelius Clayton"
       },
       "S3": {
+        "name": "Features",
         "tier": "Features"
       }
     }
@@ -439,7 +441,8 @@
     "glosser": "",
     "speakers": [
       "Marna Weston",
-      "Cornelius Clayton"
+      "Cornelius Clayton",
+      "Features"
     ],
     "xml_file_name": "AAHP_173A_Cornelius_Clayton_Jr_5-12-2011.eaf",
     "source_filetype": "ELAN",
@@ -464,6 +467,7 @@
         "tier": "Cornelius Clayton"
       },
       "S3": {
+        "name": "Features",
         "tier": "Features"
       }
     }
@@ -490,7 +494,8 @@
     "glosser": "",
     "speakers": [
       "Ryan Morey",
-      "Nkwanda Jah"
+      "Nkwanda Jah",
+      "Features"
     ],
     "xml_file_name": "AAHP_176_Nkwanda_Jah_5-31-2011.eaf",
     "source_filetype": "ELAN",
@@ -515,6 +520,7 @@
         "tier": "Nkwanda Jah"
       },
       "S3": {
+        "name": "Features",
         "tier": "Features"
       }
     }
@@ -616,14 +622,14 @@
     }
   },
   "2dab40bd-edc9-472c-844c-89c863e2afcf": {
-    "timed": false,
+    "timed": true,
     "story ID": "2dab40bd-edc9-472c-844c-89c863e2afcf",
     "title": {
       "_default": "MFP 061 Yolanda Veal (9/24/2010)"
     },
     "media": {
       "audio": "",
-      "video": ""
+      "video": "https://www.youtube.com/watch?v=iJ40OCHnass"
     },
     "languages": [],
     "date_created": "",
@@ -647,9 +653,6 @@
       },
       "Yolanda Veal": {
         "subdivided": false
-      },
-      "Features": {
-        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -660,9 +663,6 @@
       "S2": {
         "name": "Yolanda Veal",
         "tier": "Yolanda Veal"
-      },
-      "S3": {
-        "tier": "Features"
       }
     }
   },
@@ -687,7 +687,8 @@
     "author": "",
     "glosser": "",
     "speakers": [
-      "Barbara Sharpe"
+      "Barbara Sharpe",
+      "Features"
     ],
     "xml_file_name": "AAHP_209_Barbara_Sharpe_11-8-2011.eaf",
     "source_filetype": "ELAN",
@@ -711,6 +712,7 @@
         "tier": "Barbara Sharpe"
       },
       "S3": {
+        "name": "Features",
         "tier": "Features"
       }
     }
@@ -788,7 +790,8 @@
     "glosser": "",
     "speakers": [
       "Brittany Hibbert",
-      "Breyanna Hooper"
+      "Breyanna Hooper",
+      "Features"
     ],
     "xml_file_name": "MFP_142_Breyanna_Hooper_9-21-2013.eaf",
     "source_filetype": "ELAN",
@@ -813,6 +816,7 @@
         "tier": "Breyanna Hooper"
       },
       "S3": {
+        "name": "Features",
         "tier": "Features"
       }
     }
@@ -839,7 +843,8 @@
     "glosser": "",
     "speakers": [
       "Kenna Drayton",
-      "Emily Williams"
+      "Emily Williams",
+      "Features"
     ],
     "xml_file_name": "AAHP 621 Emily Williams 9-21-2018.eaf",
     "source_filetype": "ELAN",
@@ -864,6 +869,7 @@
         "tier": "Emily Williams"
       },
       "S3": {
+        "name": "Features",
         "tier": "Features"
       }
     }
@@ -890,7 +896,9 @@
     "glosser": "",
     "speakers": [
       "Kendriana Drayton",
-      "John Bonaparte"
+      "John Bonaparte",
+      "Unknown",
+      "Features"
     ],
     "xml_file_name": "AAHP-620-John-Bonaparte-9-21-2018.eaf",
     "source_filetype": "ELAN",
@@ -899,6 +907,9 @@
         "subdivided": false
       },
       "John Bonaparte": {
+        "subdivided": false
+      },
+      "Unknown": {
         "subdivided": false
       },
       "Features": {
@@ -915,6 +926,11 @@
         "tier": "John Bonaparte"
       },
       "S3": {
+        "name": "Unknown",
+        "tier": "Unknown"
+      },
+      "S4": {
+        "name": "Features",
         "tier": "Features"
       }
     }
@@ -992,7 +1008,8 @@
     "glosser": "",
     "speakers": [
       "Jessica Lancia",
-      "Alethia Brown"
+      "Alethia Brown",
+      "Features"
     ],
     "xml_file_name": "AAHP_180_Alethia_Brown_8-10-2011.eaf",
     "source_filetype": "ELAN",
@@ -1017,6 +1034,7 @@
         "tier": "Alethia Brown"
       },
       "S3": {
+        "name": "Features",
         "tier": "Features"
       }
     }
