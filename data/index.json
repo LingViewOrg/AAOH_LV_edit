@@ -264,52 +264,6 @@
       }
     }
   },
-  "db8a7b6f-9e08-41ee-94ac-af4db4609ba3": {
-    "timed": true,
-    "story ID": "db8a7b6f-9e08-41ee-94ac-af4db4609ba3",
-    "title": {
-      "_default": "AAHP 073 Diana Bell (9/5/2009)"
-    },
-    "media": {
-      "audio": "",
-      "video": "https://www.youtube.com/watch?v=fK5S7dX0K-c"
-    },
-    "languages": [],
-    "date_created": "",
-    "date_uploaded": "2/20/2025",
-    "source": {
-      "_default": ""
-    },
-    "description": "",
-    "genre": "",
-    "author": "",
-    "glosser": "",
-    "speakers": [],
-    "xml_file_name": "AAHP 073 Diana Bell 9-5-2009.eaf",
-    "source_filetype": "ELAN",
-    "tier IDs": {
-      "B: ": {
-        "subdivided": false
-      },
-      "W: ": {
-        "subdivided": false
-      },
-      "Features": {
-        "subdivided": false
-      }
-    },
-    "speaker IDs": {
-      "S1": {
-        "tier": "B: "
-      },
-      "S2": {
-        "tier": "W: "
-      },
-      "S3": {
-        "tier": "Features"
-      }
-    }
-  },
   "c2077b58-db00-4545-aa81-3d9af38511d2": {
     "timed": true,
     "story ID": "c2077b58-db00-4545-aa81-3d9af38511d2",
@@ -936,8 +890,7 @@
     "glosser": "",
     "speakers": [
       "Kendriana Drayton",
-      "John Bonaparte",
-      "Unknown"
+      "John Bonaparte"
     ],
     "xml_file_name": "AAHP-620-John-Bonaparte-9-21-2018.eaf",
     "source_filetype": "ELAN",
@@ -946,9 +899,6 @@
         "subdivided": false
       },
       "John Bonaparte": {
-        "subdivided": false
-      },
-      "Unknown": {
         "subdivided": false
       },
       "Features": {
@@ -965,10 +915,6 @@
         "tier": "John Bonaparte"
       },
       "S3": {
-        "name": "Unknown",
-        "tier": "Unknown"
-      },
-      "S4": {
         "tier": "Features"
       }
     }
@@ -1213,6 +1159,57 @@
       "S2": {
         "name": "Sandra Gilyard",
         "tier": "Sandra Gilyard"
+      }
+    }
+  },
+  "ca8d329c-b803-44e0-bb4d-fb14ef208137": {
+    "timed": true,
+    "story ID": "ca8d329c-b803-44e0-bb4d-fb14ef208137",
+    "title": {
+      "_default": "AAHP 073 Diana Bell 9-5-2009"
+    },
+    "media": {
+      "audio": "",
+      "video": "https://www.youtube.com/watch?v=fK5S7dX0K-c"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "11/6/2026",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Diana Bell",
+      "Matthew White"
+    ],
+    "xml_file_name": "AAHP 073 Diana Bell 9-5-2009.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Diana Bell": {
+        "subdivided": false
+      },
+      "Interviewer": {
+        "subdivided": false
+      },
+      "Features": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "Diana Bell",
+        "tier": "Diana Bell"
+      },
+      "S2": {
+        "name": "Matthew White",
+        "tier": "Interviewer"
+      },
+      "S3": {
+        "tier": "Features"
       }
     }
   }
